@@ -1,0 +1,51 @@
+/* --------------------------------------------- UTILITIES ---------------------------------------------- */
+.bg-dark-brown{background-color:#2B2422}
+.bg-putty{background-color:#E8E3D7}
+.c-dark-brown{color:#2B2422}
+.c-gold{color:#D18419}
+.c-putty{color:#E8E3D7}
+.c-red{color:#E63728}
+.f-1_0625{font-size:1.0625rem}
+.hover-c-putty:hover{color:#E8E3D7}
+.h-_0625{height:.0625rem}
+.h-3{height:3rem}
+.mb-_375{margin-bottom:.375rem}
+.mt-3{margin-top:3rem}
+.w-1_5{width:1.5rem}
+@media screen and (min-width:23em) {
+    .f4\@23{font-size:1.25rem}
+}
+@media screen and (min-width:30em) {
+    .h3-ns{height:4rem}
+    .mt5-ns{margin-top:4rem}
+}
+@media screen and (min-width:50em) {
+    .center\@50{margin-left:auto;margin-right:auto}
+    .bn\@50{border:none}
+    .db\@50{display:block}
+    .dn\@50{display:none}
+    .f5\@50{font-size:1rem}
+    .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .fw5\@50{font-weight:500}
+    .h-auto\@50{height:auto}
+    .justify-between\@50{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mb0\@50{margin-bottom:0}
+    .ml4\@50{margin-left:2rem}
+    .mt0\@50{margin-top:0}
+    .pb0\@50{padding-bottom:0}
+    .pl5\@50{padding-left:4rem}
+    .pt-_125\@50{padding-top:.125rem}
+    .static\@50{position:static}
+    .tracked-narrow\@50{letter-spacing:.05em}
+    .ttu\@50{text-transform:uppercase}
+}
+@media screen and (min-width:60em) {
+    .center-l{margin-left:auto;margin-right:auto}
+    .f-1_0625-l{font-size:1.0625rem}
+    .fw6-l{font-weight:600}
+    .h-10_5-l{height:10.5rem}
+    .mw-73-l{max-width:73rem}
+    .pt-2_625-l{padding-top:2.625rem}
+    .pt4-l{padding-top:2rem}
+}
+/* ------------------------------------------- END UTILITIES -------------------------------------------- */

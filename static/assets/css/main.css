@@ -1,0 +1,105 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+
+/* ------------------------------------------------ NAV ------------------------------------------------- */
+.element-invisible {
+    position: absolute !important;
+    height: 1px; width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+@media screen and (max-width:50em) {
+    .js-nav {
+        -webkit-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        transform: translateX(100%);
+    }
+    .js-nav.is-hidden {
+        -webkit-transition: -webkit-transform 500ms;
+        transition: -webkit-transform 500ms;
+        transition: transform 500ms;
+        transition: transform 500ms, -webkit-transform 500ms;
+    }
+    .js-nav.is-visible {
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0);
+        -webkit-transition: -webkit-transform 500ms;
+        transition: -webkit-transform 500ms;
+        transition: transform 500ms;
+        transition: transform 500ms, -webkit-transform 500ms;
+    }
+}
+/* If small logo
+.css-nav-logo {
+    height:auto;
+    width:6rem;
+}
+.css-nav-logo > img {
+    height:auto;
+    width:6rem;
+}
+*/
+.css-nav-logo {
+    height:32px;
+    width:10rem;
+}
+.css-nav-logo > img {
+    height:32px;
+    width:10rem;
+}
+@media screen and (min-width:30em) {
+    .css-nav-logo{
+        height:auto;
+        width:12rem;
+    }
+    .css-nav-logo > img {
+        height:auto;
+        width:12rem;
+    }
+}
+@media screen and (min-width:50em) {
+    .css-current-page-link{color:#E8E3D7}
+    .css-current-page-link::after{
+        margin-top:1px;
+        background-color: #D18419;
+        content: "";
+        float: left;
+        height: .0625rem;
+        width: 99%;
+    }
+    .css-nav-logo{
+        height:auto;
+        width:16rem;
+    }
+    .css-nav-logo > img {
+        height:auto;
+        width:16rem;
+    }
+}
+@media screen and (min-width:60em) {
+    .css-current-page-link::after{
+        height: .125rem;
+    }
+    .css-nav-wrap {padding-top:2.5rem;}
+    .css-nav-logo{
+        height:auto;
+        width:364px;
+    }
+    .css-nav-logo > img {
+        height:auto;
+        width:364px;
+    }
+}
+/* ---------------------------------------------- END NAV ----------------------------------------------- */
