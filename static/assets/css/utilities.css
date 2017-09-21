@@ -23,6 +23,7 @@
     .center\@50{margin-left:auto;margin-right:auto}
     .bn\@50{border:none}
     .db\@50{display:block}
+    .dib\@50{display:inline-block;}
     .dn\@50{display:none}
     .f5\@50{font-size:1rem}
     .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
