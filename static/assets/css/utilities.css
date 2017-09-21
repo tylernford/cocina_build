@@ -28,7 +28,8 @@
     .f5\@50{font-size:1rem}
     .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
     .fw5\@50{font-weight:500}
-    .h-auto\@50{height:auto}
+    .h3\@50{height:4rem}
+    .items-center\@50{-webkit-box-align:center;-ms-flex-align:center;align-items:center}
     .justify-between\@50{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
     .mb0\@50{margin-bottom:0}
     .ml4\@50{margin-left:2rem}
