@@ -91,6 +91,7 @@ body {
 @media screen and (min-width:60em) {
     .css-current-page-link::after{
         height: .125rem;
+        margin-top:3px;
     }
     .css-nav-wrap {padding-top:2.5rem;}
     .css-nav-logo{
