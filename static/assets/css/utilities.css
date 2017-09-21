@@ -38,6 +38,7 @@
     .static\@50{position:static}
     .tracked-narrow\@50{letter-spacing:.05em}
     .ttu\@50{text-transform:uppercase}
+    .w-auto\@50{width:auto}
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}
