@@ -10,21 +10,21 @@
 .hover-c-putty:hover{color:#E8E3D7}
 .h-_0625{height:.0625rem}
 .h-3{height:3rem}
-.mb-_375{margin-bottom:.375rem}
+.mb-_3125{margin-bottom:.3125rem}
 .mt-3{margin-top:3rem}
-.w-1_5{width:1.5rem}
+.w-3_5{width:3.5rem}
 @media screen and (min-width:23em) {
     .f4\@23{font-size:1.25rem}
 }
 @media screen and (min-width:30em) {
     .h3-ns{height:4rem}
+    .mb-_375-ns{margin-bottom:.375rem}
     .mt5-ns{margin-top:4rem}
 }
 @media screen and (min-width:50em) {
     .center\@50{margin-left:auto;margin-right:auto}
     .bn\@50{border:none}
     .db\@50{display:block}
-    .dib\@50{display:inline-block;}
     .dn\@50{display:none}
     .f5\@50{font-size:1rem}
     .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
@@ -34,7 +34,6 @@
     .justify-between\@50{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
     .mb0\@50{margin-bottom:0}
     .ml4\@50{margin-left:2rem}
-    .ml-288{margin-left:288px}
     .mt0\@50{margin-top:0}
     .pb0\@50{padding-bottom:0}
     .pl5\@50{padding-left:4rem}
@@ -42,7 +41,6 @@
     .static\@50{position:static}
     .tracked-narrow\@50{letter-spacing:.05em}
     .ttu\@50{text-transform:uppercase}
-    .w-auto\@50{width:auto}
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}
@@ -51,8 +49,6 @@
     .h-10_5-l{height:10.5rem}
     .mw-73-l{max-width:73rem}
     .pt-1_25-l{padding-top:1.25rem}
-    .pt-2_125-l{padding-top:2.125rem}
     .pt-2_625-l{padding-top:2.625rem}
-    .pt4-l{padding-top:2rem}
 }
 /* ------------------------------------------- END UTILITIES -------------------------------------------- */
