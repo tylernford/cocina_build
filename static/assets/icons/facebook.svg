@@ -1,1 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#2b2422;}</style></defs><title>facebook</title><path class="cls-1" d="M8,0a8,8,0,1,0,8,8A8,8,0,0,0,8,0Zm4.58,11.86a.48.48,0,0,1-.48.48H9.72V8.91H10.8L11,7.76H9.72V6.82c-.06-.38.6-.78.6-.78h.55V4.86a10.36,10.36,0,0,0-1.07-.05A1.63,1.63,0,0,0,8,6.56V7.76H7.43V8.91H8v3.44H3.9a.48.48,0,0,1-.48-.48V4.24a.48.48,0,0,1,.48-.48H12.1a.48.48,0,0,1,.48.48Z" transform="translate(0 0)"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B2422;}
+</style>
+<title>facebook</title>
+<path class="st0" d="M8,0C3.6,0,0,3.6,0,8s3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M12.6,11.9c0,0.3-0.2,0.5-0.5,0.5H9.7V8.9h1.1L11,7.8
+	H9.7V6.8C9.7,6.4,10.3,6,10.3,6h0.6V4.9c-0.4,0-0.7-0.1-1.1-0.1C8.9,4.7,8.1,5.4,8,6.3c0,0.1,0,0.2,0,0.3v1.2H7.4v1.1H8v3.4H3.9
+	c-0.3,0-0.5-0.2-0.5-0.5V4.2c0-0.3,0.2-0.5,0.5-0.5l0,0h8.2c0.3,0,0.5,0.2,0.5,0.5V11.9z"/>
+</svg>

@@ -104,3 +104,7 @@ body {
     }
 }
 /* ---------------------------------------------- END NAV ----------------------------------------------- */
+.css-footer-logo{height:16px;width:4.95rem;}
+@media screen and (min-width:30em) {
+    .css-footer-logo{height:1.25rem;width:6.1875rem}
+}

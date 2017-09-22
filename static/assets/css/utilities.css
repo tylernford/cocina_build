@@ -7,11 +7,17 @@
 .c-putty{color:#E8E3D7}
 .c-red{color:#E63728}
 .f-1_0625{font-size:1.0625rem}
+.h-1_75{heght:1.75rem}
 .hover-c-putty:hover{color:#E8E3D7}
 .h-_0625{height:.0625rem}
 .h-3{height:3rem}
 .mb-_3125{margin-bottom:.3125rem}
+.mt-_75{margin-top:.75rem}
 .mt-3{margin-top:3rem}
+.pb-3{padding-bottom:3rem}
+.pt-2_5{padding-top:2.5rem}
+.tracked-narrow{letter-spacing:.05em}
+.w-1_75{width:1.75rem}
 .w-3_5{width:3.5rem}
 @media screen and (min-width:23em) {
     .f4\@23{font-size:1.25rem}
