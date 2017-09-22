@@ -51,28 +51,29 @@ body {
     width:6rem;
 }
 */
+364x30
 .css-nav-logo {
-    height:32px;
+    height:0.8241758242rem;
     width:10rem;
 }
 .css-nav-logo > img {
-    height:32px;
+    height:0.8241758242rem;
     width:10rem;
 }
 @media screen and (min-width:30em) {
     .css-nav-logo{
-        height:auto;
+        height:0.989010989rem;
         width:12rem;
     }
     .css-nav-logo > img {
-        height:auto;
+        height:0.989010989rem;
         width:12rem;
     }
 }
 @media screen and (min-width:50em) {
-    .css-current-page-link{color:#E8E3D7}
+    .css-current-page-link{color:#E8E3D7;margin-bottom:-.125rem}
     .css-current-page-link::after{
-        margin-top:1px;
+        margin-top:.125rem;
         background-color: #D18419;
         content: "";
         float: left;
@@ -80,26 +81,25 @@ body {
         width: 99%;
     }
     .css-nav-logo{
-        height:auto;
+        height:1.3186813187rem;
         width:16rem;
     }
     .css-nav-logo > img {
-        height:auto;
+        height:1.3186813187rem;
         width:16rem;
     }
 }
 @media screen and (min-width:60em) {
     .css-current-page-link::after{
         height: .125rem;
-        margin-top:3px;
+        margin-top:.1875rem;
     }
-    .css-nav-wrap {padding-top:2.5rem;}
     .css-nav-logo{
         height:auto;
         width:364px;
     }
     .css-nav-logo > img {
-        height:auto;
+        height:1.875rem;
         width:364px;
     }
 }
