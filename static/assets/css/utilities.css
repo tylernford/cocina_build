@@ -1,5 +1,6 @@
 /* --------------------------------------------- UTILITIES ---------------------------------------------- */
 .bg-dark-brown{background-color:#2B2422}
+.bg-gold{background-color:#D18419}
 .bg-putty{background-color:#E8E3D7}
 .bg-white-95{background-color:rgba(255,255,255,.95)}
 .c-dark-brown{color:#2B2422}
@@ -7,6 +8,7 @@
 .c-putty{color:#E8E3D7}
 .c-red{color:#E63728}
 .f-1_0625{font-size:1.0625rem}
+.f-1_125{font-size:1.125rem}
 .h-1_75{heght:1.75rem}
 .hover-c-putty:hover{color:#E8E3D7}
 .h-_0625{height:.0625rem}

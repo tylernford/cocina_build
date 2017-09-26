@@ -27,4 +27,13 @@
          url("../fonts/WorkSans-SemiBold.woff") format("woff");
 }
 .wrksns {font-family:"Work Sans", sans-serif}
+@font-face {
+    font-family: "JeanLuc";
+    font-weight:600;
+    src: url("../fonts/jeanlucweb-bold.woff") format("woff");
+}
+.jean-luc{font-family:"JeanLuc", sans-serif}
+/*
+The Jean-Luc typeface was designed and made by Atelier Carvalho Bernau on the occasion of the 80th birthday of Jean-Luc Godard. It is available free of charge from http://www.carvalho-bernau.com/jlg/
+Jean-Luc typeface Copyright (c) 2010 Atelier Carvalho Bernau*/
 /* --------------------------------------------- END FONTS ---------------------------------------------- */
