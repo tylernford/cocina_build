@@ -29,7 +29,9 @@
 }
 @media screen and (min-width:48em) {
     .flex\@48{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-row\@48{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}
     .h-auto\@48{height:auto}
+    .mb0\@48{margin-bottom:0}
     .mv0\@48{margin-bottom:0;margin-top:0}
     .mv3\@48{margin-bottom:1rem;margin-top:1rem}
     .pl0\@48{padding-left:0}
@@ -144,8 +146,8 @@
 
 
 
-        <div class="flex@48 mv3@48">
-            <div class="bg-red pr3 w-100   pr4-ns   w-50@48   w-55-l   pr-3@79 w-58@79" style="padding-top:3.5rem;padding-bottom:75px;">
+        <div class="flex flex-column-reverse   flex-row@48 mv3@48">
+            <div class="bg-red mb2 pr3 w-100   mb3-ns pr4-ns   mb0@48 w-50@48   w-55-l   pr-3@79 w-58@79" style="padding-top:3.5rem;padding-bottom:75px;">
                 <h2 class="dark-brown f4 fw6 lh-2 ml3 mv0 pr3 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pr4-ns pt0-ns   fr@79 ml5@79 mw-39@79">Private Dining</h2>
                 <div class="bg-dark-brown h-_125 mw-100 mb-1_1875 mt-_3125   mt-2_375@79" ></div>
                 <div class="lh-2 ml3 tracked-narrow   ml4-ns    nested-p    fr@79 ml5@79 mw-39@79">
