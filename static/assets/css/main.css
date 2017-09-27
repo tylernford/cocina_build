@@ -83,11 +83,13 @@ body {
     }
     .css-nav-logo{
         height:1.3186813187rem;
-        width:16rem;
+        width:186px;
+        max-width:186px
     }
     .css-nav-logo > img {
         height:1.3186813187rem;
-        width:16rem;
+        width:186px
+        max-width:186px
     }
 }
 @media screen and (min-width:60em) {
