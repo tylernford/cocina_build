@@ -81,6 +81,8 @@ body {
         height: .0625rem;
         width: 99%;
     }
+}
+@media screen and (min-width:50em) and (max-width:60em) {
     .css-nav-logo{
         height:1.3186813187rem;
         width:186px;
@@ -91,6 +93,7 @@ body {
         width:186px
         max-width:186px
     }
+    .js-nav {max-width:70%}
 }
 @media screen and (min-width:60em) {
     .css-current-page-link::after{
