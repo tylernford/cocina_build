@@ -9,11 +9,15 @@
 .c-red{color:#E63728}
 .f-1_0625{font-size:1.0625rem}
 .f-1_125{font-size:1.125rem}
+.h-_125{height:.125rem}
 .h-1_75{heght:1.75rem}
+.h-30{height:30rem}
 .hover-c-putty:hover{color:#E8E3D7}
 .h-_0625{height:.0625rem}
 .h-3{height:3rem}
+.lh-2{line-height:2rem}
 .mb-_3125{margin-bottom:.3125rem}
+.mb-1_1875{margin-bottom:1.1875rem}
 .mt-_75{margin-top:.75rem}
 .mt-3{margin-top:3rem}
 .pb-3{padding-bottom:3rem}
@@ -26,6 +30,7 @@
 }
 @media screen and (min-width:30em) {
     .h3-ns{height:4rem}
+    .h-37_5-ns{height:37.5rem}
     .mb-_375-ns{margin-bottom:.375rem}
     .mt5-ns{margin-top:4rem}
 }

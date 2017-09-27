@@ -51,7 +51,6 @@ body {
     width:6rem;
 }
 */
-364x30
 .css-nav-logo {
     height:0.8241758242rem;
     width:10rem;
@@ -60,6 +59,7 @@ body {
     height:0.8241758242rem;
     width:10rem;
 }
+.css-current-page-link{color:#2B2422}
 @media screen and (min-width:30em) {
     .css-nav-logo{
         height:0.989010989rem;

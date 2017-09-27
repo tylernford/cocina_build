@@ -1,0 +1,215 @@
+{{ define "main" }}
+<style>
+.mt-1_8125{margin-top:1.8125rem}
+.mb-_5625{margin-bottom:.5625rem}
+.mb-1_6875{margin-bottom:1.6875rem}
+.mw-64{max-width:64rem}
+.pb-3_1875{padding-bottom:3.1875rem}
+.w-48{width:48%}
+.css-portrait-grid-item{width:48%}
+/*
+.h-20{height:20rem}
+.lh-1_5{line-height:1.5rem}v
+.mb-1_4375{margin-bottom:1.4375rem}
+.mb-1_75{margin-bottom:1.75rem}
+.mt-_3125{margin-top:.3125rem}
+.mt-_125{margin-top:.124rem}
+.mt-_1875{margin-top:.1875rem}
+.mt-1_625{margin-top:1.625rem}
+.mw-66{max-width:66rem}
+.pb-2_5625{padding-bottom:2.5625rem}
+.pb-4_6875{padding-bottom:4.6875rem}
+.pt-_0625{padding-top:.0625rem}
+.pt-3_5{padding-top:3.5rem}
+*/
+@media screen and (min-width:30em) {
+    .mb-1_5-ns{margin-bottom:1.5rem}
+    .mb2-ns{margin-bottom:.5rem}
+    .mt-_3125-ns{margin-top:.3125rem}
+    .pb3-ns{padding-bottom:1rem}
+    .pb-3-ns{padding-bottom:48px}
+
+
+    .css-portrait-grid-item{width:31.746031746%}
+    /* --------- Add Phantom Grid Item ---------- */
+    .css-portrait-grid:after {
+        content: '';
+        display: block;
+        margin-left: 31.746031746%;
+    }
+    /*
+    .h-30-ns{height:30rem}
+    .mb-3_25-ns{margin-bottom:3.25rem}
+    .mt-_375-ns{margin-top:.375rem}
+    .pb-1_0625-ns{padding-bottom:1.0625rem}
+    */
+}
+@media screen and (min-width:42em) {
+    .f5\@42{font-size:1rem}
+    .flex\@42{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-column\@42{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}
+    .justify-between\@42{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .pb3\@42{padding-bottom:1rem}
+    .w-100\@42{width:100%}
+
+
+    .css-bosses-grid{max-width:49.090909091%}
+    .css-bosses-grid-item{width:48.148148148%}
+    .css-portrait-grid-item{width:23.6363636365%}
+}
+@media screen and (min-width:46em){
+    /*
+    .pr5\@46{padding-right:4rem}
+    */
+}
+@media screen and (min-width:48em) {
+    /*
+    .flex\@48{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-row\@48{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}
+    .h-auto\@48{height:auto}
+    .justify-between\@48{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mb0\@48{margin-bottom:0}
+    .mv0\@48{margin-bottom:0;margin-top:0}
+    .mv3\@48{margin-bottom:1rem;margin-top:1rem}
+    .pl4\@48{padding-left:2rem}
+    .pr0\@48{padding-right:0}
+    .pr3\@48{padding-right:1rem}
+    .pt0\@48{padding-top:0}
+    .pt-3_5\@48{padding-top:3.5rem}
+    .w-50\@48{width:50%}
+    .w-100\@48{width:100%}
+    */
+}
+@media screen and (min-width:50em) {
+        .flex-row-l{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}
+        .w-48\@50{width:48%}
+        .min-mafx-400{min-width:400px;max-width:400px;}
+}
+@media screen and (min-width:880px) {
+    .css-bosses-grid{max-width:39.0625%}
+    .css-bosses-grid-item{width:48%}
+    .css-portrait-grid-item{width:18.75%}
+}
+@media screen and (min-width:60em) {
+    .w-48-l{width:48%}
+    /*
+    .mw-31_5{width:31.5rem}
+    .pb-5-l{padding-bottom:5rem}
+    .w-13-l{width:13rem}
+    .w-45-l{width:45%}
+    .w-55-l{width:55%}
+    */
+}
+@media screen and (min-width:64em) {
+    .mr0\@64{margin-right:0}
+}
+@media screen and (min-width:1264px) {
+        /*
+        .fr\@79{float:right}
+        .mb-_4375\@79{margin-bottom:.4375rem}
+        .ml5\@79{margin-left:4rem}
+        .mr-6_5\@79{margin-right:6.5rem}
+        .mt-2_375\@79{margin-top:2.375rem}
+        .mw-25_5\@79{max-width:25.5rem}
+        .mw-30\@79{max-width:30rem}
+        .mw-39\@79{max-width:39rem}
+        .pl3\@79{padding-left:1rem}
+        .pr0\@79{padding-right:0}
+        .pr-3\@79{padding-right:3rem}
+        .w-39\@79{width:39.39393939%;}
+        .w-58\@79{width:58%}
+        .w-42\@79{width:42%}
+        .w-60\@79{width:60.60606061%}
+        */
+}
+.nested-p > p {margin-bottom:1.5rem;margin-top:0}
+</style>
+    <div class="h-30 mt-3   h-37_5-ns mt5-ns   mt0@50"
+    style="background:url(../assets/images/about/about_1.jpg) no-repeat center center;background-size:cover;height:480px">
+    </div>
+    <main class="ph3 ph4-ns">
+        <div class="bgf-near-white center mw-64">
+            <div class="pb-3_1875   pb-3-ns   flex@42 justify-between@42 pb3@42" style="padding-top:59px;">
+                <div class="lh-2 nested-p   mr4 mr5-l   mr0@64" style="max-width:504px;">
+                    <p>Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food here in Winter Park.</p>
+                    <p>Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant, elegant setting.</p>
+                </div>
+                <div class="flex justify-between mt-1_8125   mt-_3125-ns   min-max-400   css-bosses-grid">
+                    <div class="w-48   w-100@42   w-48@50   css-bosses-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold lh-solid mv0 tracked-narrow">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="w-48   w-100@42   w-48@50   css-bosses-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Heather<br> Cox</h4>
+                        <p class="c-gold lh-solid mv0 tracked-narrow">Private Dining &amp; Event Management</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-1_6875   mb-1_5-ns">
+                <h2 class="c-gold f4 lh-1_5 mb-_5625 mt0 tracked-narrow ttu wrksns   f3-ns mb2-ns">Winter Park Staff</h2>
+                <div class="bg-gold h-_125   mb3" style=""></div>
+                <div class="flex flex-wrap justify-between   css-portrait-grid">
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                </div>
+            </div>
+            <div style="margin-bottom:45px">
+                <h2 class="f4 lh-1_5 mb-_5625 mt0 tracked-narrow ttu wrksns   f3-ns mb2-ns">Daytona Beach Staff</h2>
+                <div class="bg-dark-brown h-_125   mb3" style=""></div>
+                <div class="flex flex-wrap justify-between   css-portrait-grid">
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                    <div class="mb3 css-portrait-grid-item">
+                        <img alt="" class="db mb-1_1875" src="../assets/images/about/portrait.png" />
+                        <h4 class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">Lambrine<br> Macejewski</h4>
+                        <p class="c-gold f6 lh-solid mv0 tracked-narrow   f5@42">Manager, Partner <br>&amp; Co-Founder</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+{{ end }}
