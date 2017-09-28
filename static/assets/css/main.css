@@ -92,7 +92,7 @@ body {
         width:186px
         max-width:186px
     }
-    .js-nav {max-width:70%}
+    .js-naav {max-width:70%}
 }
 @media screen and (min-width:60em) {
     .css-current-page-link::after{
