@@ -9,6 +9,7 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 .css-ie-flex-shrink { -ms-flex: 0 1 auto; }
+.nested-p > p {margin-bottom:1.5rem;margin-top:0}
 
 
 
@@ -20,38 +21,22 @@ body {
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
 }
-@media screen and (max-width:49em) {
-    .js-nav {
-        -webkit-transform: translateX(100%);
-        -ms-transform: translateX(100%);
-        transform: translateX(100%);
-    }
-    .js-nav.is-hidden {
-        -webkit-transition: -webkit-transform 500ms;
-        transition: -webkit-transform 500ms;
-        transition: transform 500ms;
-        transition: transform 500ms, -webkit-transform 500ms;
-    }
-    .js-nav.is-visible {
-        -webkit-transform: translateX(0);
-        -ms-transform: translateX(0);
-        transform: translateX(0);
-        -webkit-transition: -webkit-transform 500ms;
-        transition: -webkit-transform 500ms;
-        transition: transform 500ms;
-        transition: transform 500ms, -webkit-transform 500ms;
-    }
+
+.js-nav {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
 }
-/* If small logo
-.css-nav-logo {
-    height:auto;
-    width:6rem;
+.js-nav.is-visible {
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transition: -webkit-transform 500ms;
+    transition: -webkit-transform 500ms;
+    transition: transform 500ms;
+    transition: transform 500ms, -webkit-transform 500ms;
 }
-.css-nav-logo > img {
-    height:auto;
-    width:6rem;
-}
-*/
+
 .css-nav-logo {
     height:0.8241758242rem;
     width:10rem;
@@ -85,12 +70,12 @@ body {
 @media screen and (min-width:50em) and (max-width:60em) {
     .css-nav-logo{
         height:1.3186813187rem;
-        width:186px;
+        min-width:186px;
         max-width:186px
     }
     .css-nav-logo > img {
         height:1.3186813187rem;
-        width:186px
+        min-width:186px
         max-width:186px
     }
 }
