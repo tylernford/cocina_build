@@ -1,4 +1,5 @@
 /* --------------------------------------------- UTILITIES ---------------------------------------------- */
+.b--c-dark-brown{border-color:#2B2422}
 .bg-dark-brown{background-color:#2B2422}
 .bg-gold{background-color:#D18419}
 .bg-putty{background-color:#E8E3D7}
@@ -12,6 +13,7 @@
 .h-_125{height:.125rem}
 .h-1_75{heght:1.75rem}
 .h-30{height:30rem}
+.hover-bg-dark-brown:hover{background-color:#2B2422}
 .hover-c-dark-brown:hover{color:#2B2422}
 .hover-c-gold:hover{color:#D18419}
 .hover-c-red:hover{color:#E63728}

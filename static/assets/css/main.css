@@ -72,19 +72,6 @@ body {
     }
 }
 @media screen and (min-width:50em) {
-    /*.page-link:hover::after{
-        margin-top:.125rem;
-        background-color: #fff;
-        content: "";
-        float: left;
-        height: .125rem;
-        width: 99%;
-    }*/
-    .page-link:hover{
-        border: 2px solid;
-        padding:8px 16px;
-        margin-left:-16px
-    }
     .css-current-page-link{margin-bottom:-.125rem}
     .css-current-page-link::after{
         margin-top:.125rem;
