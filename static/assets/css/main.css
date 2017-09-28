@@ -8,6 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
+.css-ie-flex-shrink { -ms-flex: 0 1 auto; }
 
 
 
@@ -19,6 +20,7 @@ body {
     overflow: hidden;
     clip: rect(1px, 1px, 1px, 1px);
 }
+/*
 @media screen and (max-width:49em) {
     .js-nav {
         -webkit-transform: translateX(100%);
@@ -92,7 +94,6 @@ body {
         width:186px
         max-width:186px
     }
-    .js-naav {max-width:70%}
 }
 @media screen and (min-width:60em) {
     .css-current-page-link::after{
