@@ -9,7 +9,7 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 .css-ie-flex-shrink { -ms-flex: 0 1 auto; }
-.nested-p > p {margin-bottom:1.5rem;margin-top:0}
+.nested-p > p {margin-bottom:1.5rem;margin-top:0;letter-spacing:.04em}
 
 
 
