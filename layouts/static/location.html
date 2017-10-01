@@ -42,7 +42,7 @@
     .ml2\@40{margin-left:.5rem}
     .mr2\@40{margin-right:.5rem}
     .mt-_3125\@40{margin-top:.3125rem}
-    /*.pb-4_3125\@40{padding-bottom:4.3125rem}*/
+    .pb-4_3125\@40{padding-bottom:4.3125rem}
     .w-60\@40{width:60%}
 }
 @media screen and (min-width:48em) {
@@ -53,11 +53,13 @@
 }
 @media screen and (min-width:53em) {
     .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-start\@53{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
     .mb0\@53{margin-left:0}
     .mb-6\@53{margin-bottom:6rem}
     .ml0\@53{margin-left:0}
     .ml3\@53{margin-left:1rem}
     .mr0\@53{margin-right:0}
+    .pb-3\@53{padding-bottom:3rem}
     .w-auto\@53{width:auto}
 }
 @media screen and (min-width:57em) {
@@ -73,6 +75,23 @@
     .w-50\@57{width:50%}
     .w-100\@57{width:100%}
 }
+@media screen and (min-width:60em) {
+    .db-l{display:block}
+    .flex-l{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .mb-3_8125-l{margin-bottom:3.8125rem}
+    .mb-5-l{margin-bottom:5rem}
+    .ml2-l{margin-left:.5rem}
+    .mr0-l{margin-right:.5rem}
+    .mr2-l{margin-right:.5rem}
+    .mw-26-l{max-width:26rem}
+    .mw-31_5-l{max-width:31.5rem}
+    .w-50-l{width:50%}
+    .w-100-l{width:100%}
+}
+@media screen and (min-width:60em) {
+    .db-l{display:block}
+
+}
 @media screen and (min-width:79em) {
     .ml-5_5\@79{margin-left:5.5rem}
     /*.mw-39\@79{max-width:39rem}*/
@@ -82,23 +101,23 @@
     <div class="h-30 mt-3   h-37_5-ns mt5-ns   mt0@50"
     style="background:url(../assets/images/location/location_1.jpg) no-repeat center center;background-size:cover;">
     </div>
-    <main class="mv3-ns ph3-ns   mv-1_25@48      flex@57">
+    <main class="mv3-ns ph3-ns   mv-1_25@48      flex-l">
         <!-- Location two -->
-        <div class="flex-column   w-50@57 mr2@57   css-ie-flex-shrink">
+        <div class="flex-column   w-50-l mr2-l   css-ie-flex-shrink">
             <!-- Location two map -->
             <div class="bg-mid-gray" style="height:28.5rem"></div>
 
             <!-- Location Two Info -->
-            <div class="c-gold bg-dark-brown pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pr-3@79" >
+            <div class="bg-gold pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   pr-3@79">
                 <!-- Location Two Name -->
-                <h2 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   ml-5_5@79 blue">Daytona Beach, Florida</h2>
+                <h2 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   ml-5_5@79">Daytona Beach, Florida</h2>
                 <!-- End Location Two Name -->
 
-                <div class="bg-gold h-_125 mb-1_1875 mt-_3125   mt-_375-ns   mw-31_5@57"></div>
+                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125   mt-_375-ns   mw-31_5-l"></div>
 
-                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db@57 mw-26@57   ml-5_5@79"><!--max-width:416px-->
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   ml-5_5@79"><!--max-width:416px-->
                     <!-- Address & Hours -->
-                    <div class="w-60@40 mb-3_8125   mb0@40 mr2@40   mb-3_8125@57 mr0@57 w-100@57">
+                    <div class="w-60@40 mb-3_8125   mb0@40 mr2@40   mb-3_8125-l mr0-l w-100-l">
                         <p class="mb3 mt0">000 Smith Street<br>Daytona Beach Florida 000000</p>
                         <p class="mb0 mt0">Hours:</p>
                         <div class="flex justify-between   justify-start-ns">
@@ -117,17 +136,17 @@
                     <!-- End Address & Hours -->
 
                     <!-- Event Coordination -->
-                    <div class="flex@25 justify-between   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 ml0@53 mr0@53 w-auto@53">
+                    <div class="flex@25 justify-between   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 justify-start@53 ml0@53 mrf0@53 w-auto@53">
                         <!-- Coordinator Photo -->
                             <img class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53" alt="" src="../assets/images/location/portrait.png" />
                         <!-- End Coordinator Photo -->
 
                         <!-- Coordinator Info -->
                         <div class="w-48@25 ml3@25   w-auto-ns   ml0@40   ml3@53">
-                                <!--<h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3><!--mb-_875-ns-->
-                                <h4 class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5@57">Heather<br class="dn   db@57"> Cox</h4>
-                                <a class="c-gold db lh-solid link mb1 mt0 f6@25" href="tel:">000 . 000 . 0000</a>
-                                <a class="c-gold db lh-solid link mv0 f6@25" href="mailto:">lambrine@cocina214.com</a>
+                                <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3><!--mb-_875-ns-->
+                                <h4 class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">Heather<br class="dn   db-l"> Cox</h4>
+                                <a class="c-dark-brown db lh-solid link mb1 mt0 f6@25" href="tel:">000 . 000 . 0000</a>
+                                <a class="c-dark-brown db lh-solid link mv0 f6@25" href="mailto:">lambrine@cocina214.com</a>
                         </div>
                         <!-- End Coordinator Info -->
                     </div>
@@ -140,21 +159,21 @@
 
 
         <!-- Location two -->
-        <div class="flex-column   w-50@57 ml2@57   css-ie-flex-shrink">
+        <div class="flex-column   w-50-l ml2-l   css-ie-flex-shrink">
             <!-- Location two map -->
             <div class="bg-mid-gray" style="height:28.5rem"></div>
 
             <!-- Location Two Info -->
-            <div class="bg-gold pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pr-3@79" >
+            <div class="bg-gold pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   pr-3@79">
                 <!-- Location Two Name -->
                 <h2 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   ml-5_5@79">Daytona Beach, Florida</h2>
                 <!-- End Location Two Name -->
 
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125   mt-_375-ns   mw-31_5@57"></div>
+                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125   mt-_375-ns   mw-31_5-l"></div>
 
-                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db@57 mw-26@57   ml-5_5@79"><!--max-width:416px-->
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   ml-5_5@79"><!--max-width:416px-->
                     <!-- Address & Hours -->
-                    <div class="w-60@40 mb-3_8125   mb0@40 mr2@40   mb-3_8125@57 mr0@57 w-100@57">
+                    <div class="w-60@40 mb-3_8125   mb0@40 mr2@40   mb-3_8125-l mr0-l w-100-l">
                         <p class="mb3 mt0">000 Smith Street<br>Daytona Beach Florida 000000</p>
                         <p class="mb0 mt0">Hours:</p>
                         <div class="flex justify-between   justify-start-ns">
@@ -173,15 +192,15 @@
                     <!-- End Address & Hours -->
 
                     <!-- Event Coordination -->
-                    <div class="flex@25 justify-between   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 ml0@53 mr0@53 w-auto@53">
+                    <div class="flex@25 justify-between   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 justify-start@53 ml0@53 mrf0@53 w-auto@53">
                         <!-- Coordinator Photo -->
                             <img class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53" alt="" src="../assets/images/location/portrait.png" />
                         <!-- End Coordinator Photo -->
 
                         <!-- Coordinator Info -->
                         <div class="w-48@25 ml3@25   w-auto-ns   ml0@40   ml3@53">
-                                <!--<h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3><!--mb-_875-ns-->
-                                <h4 class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5@57">Heather<br class="dn   db@57"> Cox</h4>
+                                <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3><!--mb-_875-ns-->
+                                <h4 class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">Heather<br class="dn   db-l"> Cox</h4>
                                 <a class="c-dark-brown db lh-solid link mb1 mt0 f6@25" href="tel:">000 . 000 . 0000</a>
                                 <a class="c-dark-brown db lh-solid link mv0 f6@25" href="mailto:">lambrine@cocina214.com</a>
                         </div>
