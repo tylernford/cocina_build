@@ -13,6 +13,7 @@
 .f-1_125{font-size:1.125rem}
 .h-_125{height:.125rem}
 .h-1_75{heght:1.75rem}
+.h-20{height:20rem}
 .h-30{height:30rem}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
 .hover-c-dark-brown:hover{color:#2B2422}
@@ -37,6 +38,7 @@
 }
 @media screen and (min-width:30em) {
     .h3-ns{height:4rem}
+    .h-30-ns{height:30rem}
     .h-37_5-ns{height:37.5rem}
     .mb-_375-ns{margin-bottom:.375rem}
     .mt5-ns{margin-top:4rem}
