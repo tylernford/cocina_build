@@ -1,74 +1,125 @@
 {{ define "main" }}
 <style>
+.mb-_1875{margin-bottom:19px}
+.mb-_375{margin-bottom:.375rem}
 .mb-1_375{margin-bottom:1.375rem}
+.mb-1_5{margin-bottom:1.5rem}
 .mb-2_6875{margin-bottom:2.6875rem}
+.mb-3_8125{margin-bottom:3.8125rem}
+.mt-_125{margin-top:.125rem}
 .mt-_3125{margin-top:.3125rem}
-.mt-1_625{margin-top:1.625rem}
-.pb-1_625{padding-bottom:1.625rem}
-.pb-5_3125{padding-bottom:5.3125rem}
+.nt-_1875{margin-top:-.1875rem}
+.pb-4_3125{padding-bottom:4.3125rem}
+.pb-4_1875{padding-bottom:4.1875rem}
+.pb-3_8125{padding-bottom:3.8125rem}
 .pt-_0625{padding-top:.0625rem}
 .pt-3_5{padding-top:3.5rem}
+.w-12{width:12rem}
+@media screen and (min-width:23rem) {
+    .f5\@23{font-size:1rem}
+}
 @media screen and (min-width:25.875em) {
+    .f6\@25{font-size:.875rem}
     .flex\@25{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@25{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .lh-2_25\@25{line-height:2.25rem}
     .mb0\@25{margin-bottom:0}
+    .mb5\@25{margin-bottom:2rem}
+    .ml3\@25{margin-left:1rem}
     .ml4\@25{margin-left:1rem}
+    .pb-3\@25{padding-bottom:3rem}
     .self-end\@25{-ms-flex-item-align:end;align-self:flex-end}
     .w-12\@25{width:12rem}
+    .w-48\@25{width:48%}
 }
 @media screen and (min-width:30em) {
     .mt-_375-ns{margin-top:.375rem}
+    .mw-12-ns{max-width:12rem}
     .pt0-ns{padding-top:0}
+    .w-auto-ns{width:auto}
+    .w-12-ns{width:12rem}
+}
+@media screen and (min-width:40em) {
+    .db\@40{display:block}
+    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@40{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mb0\@40{margin-bottom:0}
+    .ml0\@40{margin-left:0}
+    .ml2\@40{margin-left:.5rem}
+    .mr2\@40{margin-right:.5rem}
+    .mt-_3125\@40{margin-top:.3125rem}
+    .pb-4_3125\@40{padding-bottom:4.3125rem}
+    .w-60\@40{width:60%}
+}
+@media screen and (min-width:48em) {
+    .flex\@48{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .mr-3\@48{margin-right:3rem}
+    .mv-1_25\@48{margin-bottom:1.25rem;margin-top:1.25rem}
 }
 @media screen and (min-width:53em) {
+    .dn\@53{display:none}
     .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-row\@53{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}
+    .flex-row-reverse\@53{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}
     .h-auto\@53{height:auto}
+    .justify-start\@53{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
     .mb0\@53{margin-bottom:0}
+    .mb-6\@53{margin-bottom:6rem}
+    .ml0\@53{margin-left:0}
+    .ml3\@53{margin-left:1rem}
+    .pb-3\@53{padding-bottom:3rem}
+    .w-auto\@53{width:auto}
     .w-50\@53{width:50%}
 }
+@media screen and (min-width:60em) {
+    .db-l{display:block}
+    .mb-3_8125-l{margin-bottom:3.8125rem}
+    .mb-5-l{margin-bottom:5rem}
+    .mr0-l{margin-right:.5rem}
+    .mw-26-l{max-width:26rem}
+    .mw-31_5-l{max-width:31.5rem}
+    .w-50-l{width:50%}
+    .w-100-l{width:100%}
+}
 @media screen and (min-width:79em) {
+    .ml-5_5\@79{margin-left:5.5rem}
+    .pr-3\@79{padding-right:3rem}
+
+
+    .db\@79{display:block}
     .fr\@79{float:right}
+    .ml0\@79{margin-left:0}
     .ml-6_5\@79{margin-left:6.5rem}
+    .mt-2_375\@79{margin-top:2.375rem}
     .mw-25\@79{max-width:25rem}
     .mw-31_5\@79{max-width:31.5rem}
     .pr-6_5\@79{padding-right:6.5rem}
+    .w-25\@79{width:25rem}
 }
 @media screen and (min-width:90em) {
+    .ml-5_5\@90{margin-left:5.5rem}
+    .pr-3\@90{padding-right:3rem}
+
+
+    .db\@90{display:block}
     .fr\@90{float:right}
+    .ml0\@90{margin-left:0}
     .ml-4_5\@90{margin-left:4.5rem}
+    .ml-6_5\@90{margin-left:6.5rem}
+    .mt-2_375\@90{margin-top:2.375rem}
+    .mw-25\@90{max-width:25rem}
+    .pr-6_5\@90{padding-right:6.5rem}
+    .w-25\@90{width:25rem}
     .mw-27\@90{max-width:27rem}
 }
 .css-download-link:hover::after{content:' »';}
-.nested-list > ul {margin-bottom:1.5rem;margin-left:-1.5rem;margin-top:-1.5rem}
-
-
-
-/* FOR THE LAST SECTION */
-.mb-_375{margin-bottom:.375rem}
-.mb-1_25{margin-bottom:1.25rem}
-.mb-1_5{margin-bottom:1.5rem}
-.mb-4_75{margin-bottom:4.75rem}
-.mb-_5625{margin-bottom:.5625rem}
-.mw-64{max-width:64rem}
-@media screen and (min-width:30em) {
-    .mb-_625-ns{margin-bottom:.625rem}
-}
-@media screen and (min-width:40em) {
-    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .ml2\@40{margin-left:.5rem}
-    .mr2\@40{margin-right:.5rem}
-    .w-50\@40{width:50%}
-
-}
-@media screen and (min-width:60em) {
-    .mw-18_5-l{max-width:18.5rem}
-}
 </style>
     <div class="h-30 mt-3   h-37_5-ns mt5-ns   mt0@50"
     style="background:url(../assets/images/dine/dine_1.jpg) no-repeat center center;background-size:cover;">
     </div>
     <main class="ph3-ns">
         <div class="mt2   mv3-ns   flex@53">
-            <div class="bg-gold mb2 pb-5_3125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79">
+            <div class="bg-gold bbg-black-40 mb2 pb-3_8125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79">
                 <div class="fr@90 mw-27@90">
                     <h2 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 mw-25@79">Dine with Us</h2>
 
@@ -84,9 +135,9 @@
                             <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-download-link" href="">Take&ndash;Out Menu</a>
                         </div>
 
-                        <div class="bg-dark-brown h-_125 mb-1_1875"></div>
+                        <div class="bg-dark-brown h-_125 mb-_1875"></div>
 
-                        <div class="mb-2_6875   flex@25">
+                        <div class="flex@25" style="margin-bottom:43px">
                             <div class="mb-1_375   mb0@25 w-12@25">
                                 <p class="mv0">Happy Hour</p>
                                 <p class="mv0">4:30 &ndash; 6:00</p>
@@ -95,7 +146,7 @@
                             <a class="bg-reed      dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25   css-download-link" href="">Happy Hour Menu</a>
                         </div>
 
-                        <div class="bg-dark-brown h-_125 mb-1_1875"></div>
+                        <div class="bg-dark-brown h-_125 mb-_1875"></div>
 
                         <div class="flex@25">
                             <p class="mb-1_375 mt0   mb0@25 w-12@25">Call to make a reservation today!</p>
@@ -112,8 +163,8 @@
 
 
 
-        <div class="mb-4_75 mt2   mt3-ns    flex@53">
-            <div class="bg-dark-brown bg-black-40 mb2 pb-1_625 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79   css-ie-flex-shrink">
+        <div class="mt2   mv3-ns   flex@53">
+            <div class="bg-dark-brown bbg-black-40 mb2 pb-3_8125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79   css-ie-flex-shrink">
                 <div class="fr@90 mw-27@90">
                     <h2 class="c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 mw-25@79">Catering</h2>
 
@@ -123,59 +174,25 @@
 
                     <div class="lh-2 mb-2_6875 measure-wide ml3 nested-p white   ml4-ns   fr@79 mw-25@79">
                         <p>Let us Cater Office Lunches  or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties and much more!</p>
-                        <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-download-link" href="">View Catering Menu</a>
+                        <p>For pricing and availability please email:(Allow up-to 48hrs for a response)<br>
+                        <a class="c-gold link" href="">catering@cocina214.com</a></p>
+                        <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-download-link" href="">View Catering Menu</a>
                     </div>
                 </div>
             </div>
 
-            <div class="bg-red bg-black-40 mb2 pb-1_625 pt-3_5 tracked-narrow   mb3-ns   mb0@53 w-50@53   css-ie-flex-shrink">
-                <h2 class="c-dark-brown f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu dw-100 wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-6_5@79 mw-25@79">Private Dining</h2>
+            <div class="bg-red bbg-black-40 mb2 pb-3_8125 pt-3_5 tracked-narrow   mb3-ns   mb0@53 w-50@53   css-ie-flex-shrink">
+                <h2 class="c-dark-brown f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu dw-100 wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-6_5@79 mw-25@79">Catering</h2>
 
                 <!--   Divider   -->
                 <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 mr3   mr4-ns mt-_375-ns   mr5-l   mw-31_5@79   ml-4_5@90 mw-27@90"></div>
                 <!-- End Divider -->
 
-                <div class="lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p white   mh4-ns   mr5-l   ml-6_5@79 mw-25@79">
-                    <p>Reserve our stunning private dining room for your private event needs, from personal to business.</p>
-                    <ul>
-                        <li>Menus are completely unique to host’s needs.</li>
-                        <li>Two HD TVs and sound system available for use.</li>
-                        <li>Linens included with reservation.</li>
-                    </ul>
-                    <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-download-link" href="">View Private Dining Menu</a>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="center mw-64 ph3">
-            <h3 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-_0625 tracked-narrow ttu wrksns   f3-ns mb-_625-ns pt0-ns">Book Your Private Party or Catering</h3>
-            <!--   Divider   -->
-            <div class="bg-dark-brown h-_125 mb-1_5"></div>
-            <!-- End Divider -->
-            <div class="flex@40" style="mmargin-top:-1px">
-                <div class="c-gold   w-50@40 mr2@40">
-                    <img class="db mb-1_25" src="../assets/images/dine/large_photo.jpg" />
-                    <div class="bbg-black-40   nested-p   mw-18_5-l" style="margin-bottom:50px">
-                        <h4 class="f4 fw6 lh-1_5 jean-luc mb-_375 mt0 pt-_0625 tracked-narrow ttu">Winter Park Events</h4>
-                        <p class="lh-2">Contact our Winter Park Private Dining &amp Event Manager, Heather. Please allow up to 48hrs for a response.</p>
-                        <p class="fw6 lh-solid mb0 mt0 tracked-narrow ttu wrksns" style="margin-bottom:7px">Heather Cox</p>
-                        <a class="c-gold hover-c-dark-brown link lh-solid mv0" href="">000 . 000 . 0000</a>
-                        <br>
-                        <a class="c-gold hover-c-dark-brown lh-solid link mv0" href="">heather@cocina214.com</a>
-                    </div>
-                </div>
-                <div class="w-50@40 ml2@40" style="mmargin-top:-1px">
-                    <img class="db mb-1_25" src="../assets/images/dine/large_photo.jpg" />
-                    <div class="bbg-black-40   nested-p   mw-18_5-l" style="margin-bottom:50px">
-                        <h4 class="f4 fw6 lh-1_5 jean-luc mb-_375 mt0 pt-_0625 tracked-narrow ttu">Winter Park Events</h4>
-                        <p class="lh-2">Contact our Winter Park Private Dining &amp Event Manager, Heather. Please allow up to 48hrs for a response.</p>
-                        <p class="fw6 lh-solid mb0 mt0 tracked-narrow ttu wrksns" style="margin-bottom:7px">Heather Cox</p>
-                        <a class="c-dark-brown hover-c-gold link lh-solid mv0" href="">000 . 000 . 0000</a>
-                        <br>
-                        <a class="c-dark-brown hover-c-gold lh-solid link mv0" href="">heather@cocina214.com</a>
-                    </div>
+                <div class="lh-2 mb-2_6875 measure-wide mh3 nested-p white   mh4-ns   mr5-l   ml-6_5@79 mw-25@79">
+                    <p>Let us Cater Office Lunches  or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties and much more!</p>
+                    <p>For pricing and availability please email:(Allow up-to 48hrs for a response)<br>
+                    <a class="c-dark-brown link" href="">catering@cocina214.com</a></p>
+                    <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-download-link" href="">View Catering Menu</a>
                 </div>
             </div>
         </div>
