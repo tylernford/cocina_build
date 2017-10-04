@@ -1,0 +1,182 @@
+{{ define "main" }}
+<style>
+.mb-_1875{margin-bottom:19px}
+.mb-_375{margin-bottom:.375rem}
+.mb-1_375{margin-bottom:1.375rem}
+.mb-1_5{margin-bottom:1.5rem}
+.mb-2_6875{margin-bottom:2.6875rem}
+.mb-3_8125{margin-bottom:3.8125rem}
+.mt-_125{margin-top:.125rem}
+.mt-1_625{margin-top:1.625rem}
+.mt-_3125{margin-top:.3125rem}
+.nt-_1875{margin-top:-.1875rem}
+.pb-4_3125{padding-bottom:4.3125rem}
+.pb-4_1875{padding-bottom:4.1875rem}
+.pb-3_8125{padding-bottom:3.8125rem}
+.pt-_0625{padding-top:.0625rem}
+.pt-3_5{padding-top:3.5rem}
+.w-12{width:12rem}
+@media screen and (min-width:23rem) {
+    .f5\@23{font-size:1rem}
+}
+@media screen and (min-width:25.875em) {
+    .f6\@25{font-size:.875rem}
+    .flex\@25{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@25{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .lh-2_25\@25{line-height:2.25rem}
+    .mb0\@25{margin-bottom:0}
+    .mb5\@25{margin-bottom:2rem}
+    .ml3\@25{margin-left:1rem}
+    .ml4\@25{margin-left:1rem}
+    .pb-3\@25{padding-bottom:3rem}
+    .self-end\@25{-ms-flex-item-align:end;align-self:flex-end}
+    .w-12\@25{width:12rem}
+    .w-48\@25{width:48%}
+}
+@media screen and (min-width:30em) {
+    .mt-_375-ns{margin-top:.375rem}
+    .mw-12-ns{max-width:12rem}
+    .pt0-ns{padding-top:0}
+    .w-auto-ns{width:auto}
+    .w-12-ns{width:12rem}
+}
+@media screen and (min-width:40em) {
+    .db\@40{display:block}
+    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@40{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mb0\@40{margin-bottom:0}
+    .ml0\@40{margin-left:0}
+    .ml2\@40{margin-left:.5rem}
+    .mr2\@40{margin-right:.5rem}
+    .mt-_3125\@40{margin-top:.3125rem}
+    .pb-4_3125\@40{padding-bottom:4.3125rem}
+    .w-60\@40{width:60%}
+}
+@media screen and (min-width:48em) {
+    .flex\@48{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .mr-3\@48{margin-right:3rem}
+    .mv-1_25\@48{margin-bottom:1.25rem;margin-top:1.25rem}
+}
+@media screen and (min-width:53em) {
+    .dn\@53{display:none}
+    .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-row\@53{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}
+    .flex-row-reverse\@53{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}
+    .h-auto\@53{height:auto}
+    .justify-start\@53{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
+    .mb0\@53{margin-bottom:0}
+    .mb-6\@53{margin-bottom:6rem}
+    .ml0\@53{margin-left:0}
+    .ml3\@53{margin-left:1rem}
+    .pb-3\@53{padding-bottom:3rem}
+    .w-auto\@53{width:auto}
+    .w-50\@53{width:50%}
+}
+@media screen and (min-width:60em) {
+    .db-l{display:block}
+    .mb-3_8125-l{margin-bottom:3.8125rem}
+    .mb-5-l{margin-bottom:5rem}
+    .mr0-l{margin-right:.5rem}
+    .mw-26-l{max-width:26rem}
+    .mw-31_5-l{max-width:31.5rem}
+    .w-50-l{width:50%}
+    .w-100-l{width:100%}
+}
+@media screen and (min-width:79em) {
+    .ml-5_5\@79{margin-left:5.5rem}
+    .pr-3\@79{padding-right:3rem}
+
+
+    .db\@79{display:block}
+    .fr\@79{float:right}
+    .ml0\@79{margin-left:0}
+    .ml-6_5\@79{margin-left:6.5rem}
+    .mt-2_375\@79{margin-top:2.375rem}
+    .mw-25\@79{max-width:25rem}
+    .mw-31_5\@79{max-width:31.5rem}
+    .pl-3_75\@79{padding-left:3.75rem}
+    .pr-3_75\@79{padding-right:3.75rem}
+    .pr-6_5\@79{padding-right:6.5rem}
+    .w-25\@79{width:25rem}
+}
+@media screen and (min-width:90em) {
+    .ml-5_5\@90{margin-left:5.5rem}
+    .pr-3\@90{padding-right:3rem}
+
+
+    .db\@90{display:block}
+    .fr\@90{float:right}
+    .ml0\@90{margin-left:0}
+    .ml-4_5\@90{margin-left:4.5rem}
+    .ml-6_5\@90{margin-left:6.5rem}
+    .mt-2_375\@90{margin-top:2.375rem}
+    .mw-25\@90{max-width:25rem}
+    .pr-6_5\@90{padding-right:6.5rem}
+    .w-25\@90{width:25rem}
+    .mw-27\@90{max-width:27rem}
+}
+.css-download-link:hover::after{content:' »';}
+</style>
+    <main class="mt-3   mt5-ns   mt0@50">
+        <h1 class="element-invisible">News</h1>
+        <div class="flex flex-column-reverse   flex-row@53">
+            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pl0-ns4-ns   pr-3_75@79">
+                <h2 class="f4 fw6 lh-1_5 mb1 pl3 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns   pl0-l   mw-25@79" style="margin-top:28px">Awesome Charity Event on August 30th</h2>
+
+
+                <!--   Divider   -->
+                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90" style="margin-bottom:10px"></div>
+                <!-- End Divider -->
+
+                <!--   Mobile Location/Date   -->
+                <div class="flex justify-between pl3 w-100   pl0-l mw-25@79" style="margin-bottom:15px">
+                    <p class="c-gold mv0">Daytona</p>
+                    <p class="mv0">04/09/2017</p>
+                </div>
+                <!-- End Mobile Location/Date -->
+
+                <div class="lh-2 pl3   pl0-l   mw-25@79">
+                    <div class="measure-wide nested-p">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-50@53">
+                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
+            </div>
+        </div>
+
+
+
+        <div class="flex flex-column-reverse   flex-row@53">
+            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pr4-ns   pr-3_75@79">
+                <div class="w-100   w-25@79">
+                    <p class="c-gold mb1 mt-1_625">Daytona</p>
+                    <div class="flex justify-between items-end">
+                        <h2 class="f4 fw6 lh-2 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns">Awesome Charity Event on August 30th</h2>
+                        <p class="f6 lh-title mb1 mt0 tracked-narrow   f5-ns">04/09/2017</p>
+                    </div>
+                </div>
+
+                <!--   Divider   -->
+                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90"></div>
+                <!-- End Divider -->
+
+                <div class="lh-2 mw-25@79">
+                    <div class="measure-wide nested-p">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="w-50@53">
+                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
+            </div>
+        </div>
+    </main>
+
+
+{{ end }}
