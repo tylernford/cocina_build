@@ -1,9 +1,11 @@
 /* --------------------------------------------- UTILITIES ---------------------------------------------- */
 .b--c-dark-brown{border-color:#2B2422}
-.bg-dark-brown{background-color:#2B2422}
-.bg-gold{background-color:#D18419}
+.b--c-gold{border-color:#D18419}
+.b--c-gold-hover:hover{border-color:#D18419}
+.bg-dark-brown{background-color:/*#2B2422*/rgba(43,36,34,.98)}
+.bg-gold{background-color:/*#D18419*/ rgba(209,132,25,.9)}
 .bg-putty{background-color:#E8E3D7}
-.bg-red{background-color:#E63728}
+.bg-red{background-color:/*#E63728*/rgba(238, 59, 59, .95)}
 .bg-white-95{background-color:rgba(255,255,255,.95)}
 .c-dark-brown{color:#2B2422}
 .c-gold{color:#D18419}
@@ -16,10 +18,12 @@
 .h-20{height:20rem}
 .h-30{height:30rem}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
+.hover-bg-gold:hover{background-color:#D18419}
 .hover-c-dark-brown:hover{color:#2B2422}
 .hover-c-gold:hover{color:#D18419}
 .hover-c-red:hover{color:#E63728}
 .h-_0625{height:.0625rem}
+.h-2_5{height:2.5rem}
 .h-3{height:3rem}
 .lh-1_5{line-height:1.5rem}
 .lh-2{line-height:2rem}
@@ -30,6 +34,7 @@
 .mt-3{margin-top:3rem}
 .pb-3{padding-bottom:3rem}
 .pt-2_5{padding-top:2.5rem}
+.pt-_375{padding-top:.375rem}
 .tracked-narrow{letter-spacing:.05em}
 .w-1_75{width:1.75rem}
 .w-3_5{width:3.5rem}
