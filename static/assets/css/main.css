@@ -11,6 +11,7 @@ body {
 .css-ie-flex-shrink {-ms-flex: 0 1 auto}
 .css-no-flex-shrink{-ms-flex: 1 0 auto;flex: 1 0 auto}
 .nested-p > p {margin-bottom:1.5rem;margin-top:0;letter-spacing:.04em}
+.css-arrow-link:hover::after{content:' »';}
 
 /* IE 10/11 Styles */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
