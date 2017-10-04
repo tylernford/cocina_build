@@ -1,9 +1,17 @@
 {{ define "main" }}
 <style>
+.mb-_375{margin-bottom:.375rem}
+.mb-_4375{margin-bottom:.4375rem}
+.mb-_5625{margin-bottom:.5625rem}
+.mb-1_25{margin-bottom:1.25rem}
 .mb-1_375{margin-bottom:1.375rem}
+.mb-1_5{margin-bottom:1.5rem}
 .mb-2_6875{margin-bottom:2.6875rem}
+.mb-3_125{margin-bottom:3.125rem}
+.mb-4_75{margin-bottom:4.75rem}
 .mt-_3125{margin-top:.3125rem}
 .mt-1_625{margin-top:1.625rem}
+.mw-64{max-width:64rem}
 .pb-1_625{padding-bottom:1.625rem}
 .pb-5_3125{padding-bottom:5.3125rem}
 .pt-_0625{padding-top:.0625rem}
@@ -16,14 +24,27 @@
     .w-12\@25{width:12rem}
 }
 @media screen and (min-width:30em) {
+    .mb-_625-ns{margin-bottom:.625rem}
     .mt-_375-ns{margin-top:.375rem}
     .pt0-ns{padding-top:0}
+}
+@media screen and (min-width:40em) {
+    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .ml2\@40{margin-left:.5rem}
+    .mr2\@40{margin-right:.5rem}
+    .w-50\@40{width:50%}
 }
 @media screen and (min-width:53em) {
     .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
     .h-auto\@53{height:auto}
     .mb0\@53{margin-bottom:0}
     .w-50\@53{width:50%}
+}
+@media screen and (min-width:60em) {
+    .mw-18_5-l{max-width:18.5rem}
+}
+@media screen and (min-width:70em) {
+    .ph0\@70{padding-left:0;padding-right:0}
 }
 @media screen and (min-width:79em) {
     .fr\@79{float:right}
@@ -37,34 +58,8 @@
     .ml-4_5\@90{margin-left:4.5rem}
     .mw-27\@90{max-width:27rem}
 }
-.css-download-link:hover::after{content:' »';}
+.css-external-link:hover::after{content:' »';}
 .nested-list > ul {margin-bottom:1.5rem;margin-left:-1.5rem;margin-top:-1.5rem}
-
-
-
-/* FOR THE LAST SECTION */
-.mb-_375{margin-bottom:.375rem}
-.mb-1_25{margin-bottom:1.25rem}
-.mb-1_5{margin-bottom:1.5rem}
-.mb-4_75{margin-bottom:4.75rem}
-.mb-_5625{margin-bottom:.5625rem}
-.mw-64{max-width:64rem}
-@media screen and (min-width:30em) {
-    .mb-_625-ns{margin-bottom:.625rem}
-}
-@media screen and (min-width:40em) {
-    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .ml2\@40{margin-left:.5rem}
-    .mr2\@40{margin-right:.5rem}
-    .w-50\@40{width:50%}
-
-}
-@media screen and (min-width:60em) {
-    .mw-18_5-l{max-width:18.5rem}
-}
-@media screen and (min-width:80em) {
-    .ph0-nl{padding-left:0;padding-right:0}
-}
 </style>
     <div class="h-30 mt-3   h-37_5-ns mt5-ns   mt0@50"
     style="background:url(../assets/images/dine/dine_1.jpg) no-repeat center center;background-size:cover;">
@@ -76,15 +71,15 @@
                     <h2 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 mw-25@79">Dine with Us</h2>
 
                     <!--   Divider   -->
-                    <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   fr@79 mt-f2_375@79"></div>
+                    <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   fr@79"></div>
                     <!-- End Divider -->
 
                     <div class="lh-2 ml3 white   ml4-ns   fr@79 mw-25@79">
                         <div class="mb-2_6875 measure-wide nested-p">
                             <p>Whether you’re looking to dine out in the charming Winter Park Historic District, or want an authentic Tex-Mex dinner to take home, COCINA 214 is perfect for every occasion. We have been voted best restaurant for families, best place to bring a client, best place for big groups, as well as best happy hour. So whatever the occasion you’re sure to enjoy.</p>
-                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-download-link" href="">Dine&ndash;In Menu</a>
+                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-external-link" href="">Dine&ndash;In Menu</a>
                             <br>
-                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-download-link" href="">Take&ndash;Out Menu</a>
+                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-external-link" href="">Take&ndash;Out Menu</a>
                         </div>
 
                         <div class="bg-dark-brown h-_125 mb-1_1875"></div>
@@ -95,14 +90,14 @@
                                 <p class="mv0">4:30 &ndash; 6:00</p>
                                 <p class="mv0">Monday &ndash; Thursday</p>
                             </div>
-                            <a class="bg-reed      dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25   css-download-link" href="">Happy Hour Menu</a>
+                            <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25   css-external-link" href="">Happy Hour Menu</a>
                         </div>
 
                         <div class="bg-dark-brown h-_125 mb-1_1875"></div>
 
                         <div class="flex@25">
                             <p class="mb-1_375 mt0   mb0@25 w-12@25">Call to make a reservation today!</p>
-                            <a class="bg-reed      dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25 css-download-link bgr-green"  href="">407.790.7997</a>
+                            <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25 self-end@25   css-external-link"  href="">407.790.7997</a>
                         </div>
                     </div>
                 </div>
@@ -115,27 +110,27 @@
 
 
 
-        <div class="mb-4_75 mt2   mt3-ns    flex@53">
-            <div class="bg-dark-brown bg-black-40 mb2 pb-1_625 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79   css-ie-flex-shrink">
+        <div class="mb-4_75 mt2   mt3-ns   flex@53">
+            <div class="bg-dark-brown mb2 pb-1_625 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-6_5@79   css-ie-flex-shrink">
                 <div class="fr@90 mw-27@90">
                     <h2 class="c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 mw-25@79">Catering</h2>
 
                     <!--   Divider   -->
-                    <div class="bg-gold h-_125 mb-1_1875 mt-_3125   mt-_375-ns   fr@79 w-100 mft-2_375@79" stysle="max-width:432px"></div>
+                    <div class="bg-gold h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   fr@79"></div>
                     <!-- End Divider -->
 
                     <div class="lh-2 mb-2_6875 measure-wide ml3 nested-p white   ml4-ns   fr@79 mw-25@79">
                         <p>Let us Cater Office Lunches  or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties and much more!</p>
-                        <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-download-link" href="">View Catering Menu</a>
+                        <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-external-link" href="">View Catering Menu</a>
                     </div>
                 </div>
             </div>
 
-            <div class="bg-red bg-black-40 mb2 pb-1_625 pt-3_5 tracked-narrow   mb3-ns   mb0@53 w-50@53   css-ie-flex-shrink">
-                <h2 class="c-dark-brown f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu dw-100 wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-6_5@79 mw-25@79">Private Dining</h2>
+            <div class="bg-red mb2 pb-1_625 pt-3_5 tracked-narrow   mb3-ns   mb0@53 w-50@53   css-ie-flex-shrink">
+                <h2 class="c-dark-brown f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-6_5@79 mw-25@79">Private Dining</h2>
 
                 <!--   Divider   -->
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 mr3   mr4-ns mt-_375-ns   mr5-l   mw-31_5@79   ml-4_5@90 mw-27@90"></div>
+                <div class="bg-dark-brown h-_125 mb-1_1875 mr3 mt-_3125   mr4-ns mt-_375-ns   mr5-l   mw-31_5@79   ml-4_5@90   mw-27@90"></div>
                 <!-- End Divider -->
 
                 <div class="lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p white   mh4-ns   mr5-l   ml-6_5@79 mw-25@79">
@@ -145,39 +140,39 @@
                         <li>Two HD TVs and sound system available for use.</li>
                         <li>Linens included with reservation.</li>
                     </ul>
-                    <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-download-link" href="">View Private Dining Menu</a>
+                    <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-external-link" href="">View Private Dining Menu</a>
                 </div>
             </div>
         </div>
 
 
 
-        <div class="center mw-64 ph3   ph4-ns   ph0-nl">
+        <div class="center mw-64 ph3   ph4-ns   ph0@70">
             <h3 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-_0625 tracked-narrow ttu wrksns   f3-ns mb-_625-ns pt0-ns">Book Your Private Party or Catering</h3>
             <!--   Divider   -->
             <div class="bg-dark-brown h-_125 mb-1_5"></div>
             <!-- End Divider -->
-            <div class="flex@40" style="mmargin-top:-1px">
+            <div class="flex@40">
                 <div class="c-gold   w-50@40 mr2@40">
                     <img class="db mb-1_25" src="../assets/images/dine/large_photo.jpg" />
-                    <div class="bbg-black-40   nested-p   mw-18_5-l" style="margin-bottom:50px">
+                    <div class="mb-3_125   mw-18_5-l">
                         <h4 class="f4 fw6 lh-1_5 jean-luc mb-_375 mt0 pt-_0625 tracked-narrow ttu">Winter Park Events</h4>
-                        <p class="lh-2">Contact our Winter Park Private Dining &amp Event Manager, Heather. Please allow up to 48hrs for a response.</p>
-                        <p class="fw6 lh-solid mb0 mt0 tracked-narrow ttu wrksns" style="margin-bottom:7px">Heather Cox</p>
-                        <a class="c-gold hover-c-dark-brown link lh-solid mv0" href="">000 . 000 . 0000</a>
+                        <p class="lh-2 mb-1_5 mt0">Contact our Winter Park Private Dining &amp Event Manager, Heather. Please allow up to 48hrs for a response.</p>
+                        <p class="fw6 lh-solid mb-_4375 mt0 tracked-narrow ttu wrksns">Heather Cox</p>
+                        <a class="c-gold hover-c-dark-brown lh-solid link mv0" href="">000 . 000 . 0000</a>
                         <br>
                         <a class="c-gold hover-c-dark-brown lh-solid link mv0" href="">heather@cocina214.com</a>
                     </div>
                 </div>
-                <div class="w-50@40 ml2@40" style="mmargin-top:-1px">
+                <div class="w-50@40 ml2@40">
                     <img class="db mb-1_25" src="../assets/images/dine/large_photo.jpg" />
-                    <div class="bbg-black-40   nested-p   mw-18_5-l" style="margin-bottom:50px">
-                        <h4 class="f4 fw6 lh-1_5 jean-luc mb-_375 mt0 pt-_0625 tracked-narrow ttu">Winter Park Events</h4>
-                        <p class="lh-2">Contact our Winter Park Private Dining &amp Event Manager, Heather. Please allow up to 48hrs for a response.</p>
-                        <p class="fw6 lh-solid mb0 mt0 tracked-narrow ttu wrksns" style="margin-bottom:7px">Heather Cox</p>
-                        <a class="c-dark-brown hover-c-gold link lh-solid mv0" href="">000 . 000 . 0000</a>
+                    <div class="mb-3_125 mw-18_5-l">
+                        <h4 class="f4 fw6 lh-1_5 jean-luc mb-_375 mt0 pt-_0625 tracked-narrow ttu">Daytona Beach Events</h4>
+                        <p class="lh-2 mb-1_5 mt0">Contact our Daytona Beach Private Dining &amp Event Manager, Name. Please allow up to 48hrs for a response.</p>
+                        <p class="fw6 lh-solid mb-_4375 mt0 tracked-narrow ttu wrksns">First Last</p>
+                        <a class="c-dark-brown hover-c-gold lh-solid link mv0" href="">000 . 000 . 0000</a>
                         <br>
-                        <a class="c-dark-brown hover-c-gold lh-solid link mv0" href="">heather@cocina214.com</a>
+                        <a class="c-dark-brown hover-c-gold lh-solid link mv0" href="">first@cocina214.com</a>
                     </div>
                 </div>
             </div>

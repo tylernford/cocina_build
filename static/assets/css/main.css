@@ -9,8 +9,14 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 .css-ie-flex-shrink {-ms-flex: 0 1 auto}
-.css-ie-no-flex-shrink{-ms-flex: 1 0 auto}
+.css-no-flex-shrink{-ms-flex: 1 0 auto;flex: 1 0 auto}
 .nested-p > p {margin-bottom:1.5rem;margin-top:0;letter-spacing:.04em}
+
+/* IE 10/11 Styles */
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    .css-ie-nt-3_9375{margin-top:-3.9375rem}
+}
+/* IE 10/11 Styles */
 
 
 
