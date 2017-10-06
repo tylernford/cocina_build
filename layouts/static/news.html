@@ -1,18 +1,26 @@
 {{ define "main" }}
 <style>
+.h-15{height:15rem}
+.lh-1_75{line-height:1.75rem}
 .mb-_1875{margin-bottom:19px}
 .mb-_375{margin-bottom:.375rem}
+.mb-_4375{margin-bottom:.4375rem}
+.mb-_625{margin-bottom:.625rem}
 .mb-1_375{margin-bottom:1.375rem}
 .mb-1_5{margin-bottom:1.5rem}
+.mb-1_9375{margin-bottom:1.9375rem}
 .mb-2_6875{margin-bottom:2.6875rem}
 .mb-3_8125{margin-bottom:3.8125rem}
+.mt-0625{margin-top:.0625rem}
 .mt-_125{margin-top:.125rem}
 .mt-1_625{margin-top:1.625rem}
+.mt-2_1875{margin-top:2.1875rem}
 .mt-_3125{margin-top:.3125rem}
 .nt-_1875{margin-top:-.1875rem}
 .pb-4_3125{padding-bottom:4.3125rem}
 .pb-4_1875{padding-bottom:4.1875rem}
 .pb-3_8125{padding-bottom:3.8125rem}
+.pb-6_5{padding-bottom:6.5rem}
 .pt-_0625{padding-top:.0625rem}
 .pt-3_5{padding-top:3.5rem}
 .w-12{width:12rem}
@@ -34,7 +42,10 @@
     .w-48\@25{width:48%}
 }
 @media screen and (min-width:30em) {
+    .h-25-ns{height:25rem}
+    .mb2-ns{margin-bottom:.5rem}
     .mt-_375-ns{margin-top:.375rem}
+    .mt-2_125-ns{margin-top:2.125rem}
     .mw-12-ns{max-width:12rem}
     .pt0-ns{padding-top:0}
     .w-auto-ns{width:auto}
@@ -58,8 +69,10 @@
     .mv-1_25\@48{margin-bottom:1.25rem;margin-top:1.25rem}
 }
 @media screen and (min-width:53em) {
+    .db\@53{display:block}
     .dn\@53{display:none}
     .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-column\@53{-webkit-box-orient:vertical;-ms-flex-direction:column;flex-direction:column;-webkit-box-direction:normal}
     .flex-row\@53{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}
     .flex-row-reverse\@53{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}
     .h-auto\@53{height:auto}
@@ -68,9 +81,15 @@
     .mb-6\@53{margin-bottom:6rem}
     .ml0\@53{margin-left:0}
     .ml3\@53{margin-left:1rem}
+    .mt-3_625\@53{margin-top:3.625rem}
+    .pr4\@53{padding-right:2rem}
     .pb-3\@53{padding-bottom:3rem}
+    .pr0\@53{padding-right:0}
+    .pl3\@53{padding-left:1rem}
+    .pr3\@53{padding-right:1rem}
     .w-auto\@53{width:auto}
     .w-50\@53{width:50%}
+    .w-100\@53{width:100%}
 }
 @media screen and (min-width:60em) {
     .db-l{display:block}
@@ -79,6 +98,7 @@
     .mr0-l{margin-right:.5rem}
     .mw-26-l{max-width:26rem}
     .mw-31_5-l{max-width:31.5rem}
+    .pr5-l{padding-right:4rem}
     .w-50-l{width:50%}
     .w-100-l{width:100%}
 }
@@ -90,14 +110,18 @@
     .db\@79{display:block}
     .fr\@79{float:right}
     .ml0\@79{margin-left:0}
+    .ml-3_75\@79{margin-left:3.75rem}
     .ml-6_5\@79{margin-left:6.5rem}
     .mt-2_375\@79{margin-top:2.375rem}
     .mw-25\@79{max-width:25rem}
     .mw-31_5\@79{max-width:31.5rem}
+    .pl0\@79{padding-left:0}
     .pl-3_75\@79{padding-left:3.75rem}
     .pr-3_75\@79{padding-right:3.75rem}
     .pr-6_5\@79{padding-right:6.5rem}
+    .pr-7_5\@79{padding-right:7.5rem}
     .w-25\@79{width:25rem}
+    .w-31_5\@79{width:31.5rem}
 }
 @media screen and (min-width:90em) {
     .ml-5_5\@90{margin-left:5.5rem}
@@ -117,63 +141,87 @@
 }
 .css-download-link:hover::after{content:' »';}
 </style>
-    <main class="mt-3   mt5-ns   mt0@50">
+    <main class="mt-3 pb-6_5   mt5-ns   mt0@50">
         <h1 class="element-invisible">News</h1>
-        <div class="flex flex-column-reverse   flex-row@53">
-            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pl0-ns4-ns   pr-3_75@79">
-                <h2 class="f4 fw6 lh-1_5 mb1 pl3 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns   pl0-l   mw-25@79" style="margin-top:28px">Awesome Charity Event on August 30th</h2>
+        <div class="">
+            <!--
+            <picture>
+                <source media="(min-width: 53rem)" srcset="../assets/images/placeholder.gif" />
+                <img alt="" class="db   dn@53" src="../assets/images/news/featured_image.jpg" />
+            </picture>
+            -->
+            <div class="h-15 h-25-ns   dn@53"
+            style="background:url(../assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;">
+            </div>
+            <div class="ph3 ph4-ns flex@53 justify-end pr3@53 w-50@53   pl5-l   pr-7_5@79   bg-greeen">
+                <h2 class="f4 fw6 lh-1_75 mb-_4375 mt-2_1875 tracked-narrow ttu w-100 wrksns   f3-ns mb2-ns mt-2_125-ns   mt-3_625@53   mw-25@79">Awesome Charity Event <!--on August 30th--></h2>
+            </div>
+            <div class="flex@53">
+                <div class="w-50@53 flex@53 flex-column@53 items-end pr3   pr4-ns   pr3@53   pr-7_5@79">
+                    <!--   Divider   -->
+                    <div class="bg-dark-brown h-_125 mb-_625 mt0 w-100   mw-27@90"></div>
+                    <!-- End Divider -->
 
+                    <!--   Mobile Location/Date   -->
+                    <div class="flex justify-between mb-1_9375 pl3 w-100 bg-redd   pl4-ns   pl5-l  mw-25@79 pl0@79">
+                        <p class="c-gold mv0">Daytona</p>
+                        <p class="mb0 mv0">04/09/2017</p>
+                    </div>
+                    <!-- End Mobile Location/Date -->
 
-                <!--   Divider   -->
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90" style="margin-bottom:10px"></div>
-                <!-- End Divider -->
-
-                <!--   Mobile Location/Date   -->
-                <div class="flex justify-between pl3 w-100   pl0-l mw-25@79" style="margin-bottom:15px">
-                    <p class="c-gold mv0">Daytona</p>
-                    <p class="mv0">04/09/2017</p>
-                </div>
-                <!-- End Mobile Location/Date -->
-
-                <div class="lh-2 pl3   pl0-l   mw-25@79">
-                    <div class="measure-wide nested-p">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                    <div class="lh-2 pl3   pl4-ns   pl5-l   mw-25@79 pl0@79">
+                        <div class="measure-wide nested-p   w-100@53">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="w-50@53">
-                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
+                <div class="dn   db@53 w-50@53   pr4@53 pl3@53   pr5-l">
+                    <img class="db mt-0625 w-31_5@79" src="../assets/images/news/featured_image.jpg" />
+                </div>
             </div>
         </div>
 
 
-
-        <div class="flex flex-column-reverse   flex-row@53">
-            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pr4-ns   pr-3_75@79">
-                <div class="w-100   w-25@79">
-                    <p class="c-gold mb1 mt-1_625">Daytona</p>
-                    <div class="flex justify-between items-end">
-                        <h2 class="f4 fw6 lh-2 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns">Awesome Charity Event on August 30th</h2>
-                        <p class="f6 lh-title mb1 mt0 tracked-narrow   f5-ns">04/09/2017</p>
-                    </div>
-                </div>
-
-                <!--   Divider   -->
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90"></div>
-                <!-- End Divider -->
-
-                <div class="lh-2 mw-25@79">
-                    <div class="measure-wide nested-p">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
-                    </div>
-                </div>
+        
+        <div class="">
+            <!--
+            <picture>
+                <source media="(min-width: 53rem)" srcset="../assets/images/placeholder.gif" />
+                <img alt="" class="db   dn@53" src="../assets/images/news/featured_image.jpg" />
+            </picture>
+            -->
+            <div class="h-15 h-25-ns   dn@53"
+            style="background:url(../assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;">
             </div>
+            <div class="ph3 ph4-ns flex@53 justify-end pr3@53 w-50@53   pl5-l   pr-7_5@79   bg-greeen">
+                <h2 class="f4 fw6 lh-1_75 mb-_4375 mt-2_1875 tracked-narrow ttu w-100 wrksns   f3-ns mb2-ns mt-2_125-ns   mt-3_625@53   mw-25@79">Awesome Charity Event <!--on August 30th--></h2>
+            </div>
+            <div class="flex@53">
+                <div class="w-50@53 flex@53 flex-column@53 items-end pr3   pr4-ns   pr3@53   pr-7_5@79">
+                    <!--   Divider   -->
+                    <div class="bg-dark-brown h-_125 mb-_625 mt0 w-100   mw-27@90"></div>
+                    <!-- End Divider -->
 
-            <div class="w-50@53">
-                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
+                    <!--   Mobile Location/Date   -->
+                    <div class="flex justify-between mb-1_9375 pl3 w-100 bg-redd   pl4-ns   pl5-l  mw-25@79 pl0@79">
+                        <p class="c-gold mv0">Daytona</p>
+                        <p class="mb0 mv0">04/09/2017</p>
+                    </div>
+                    <!-- End Mobile Location/Date -->
+
+                    <div class="lh-2 pl3   pl4-ns   pl5-l   mw-25@79 pl0@79">
+                        <div class="measure-wide nested-p   w-100@53">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dn   db@53 w-50@53   pr4@53 pl3@53   pr5-l">
+                    <img class="db mt-0625 w-31_5@79" src="../assets/images/news/featured_image.jpg" />
+                </div>
             </div>
         </div>
     </main>

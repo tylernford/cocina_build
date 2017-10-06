@@ -8,7 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
-.css-ie-flex-shrink {-ms-flex: 0 1 auto}
+.css-ie-flex-shrink {-ms-flex: 0 1 auto;}
 .css-no-flex-shrink{-ms-flex: 1 0 auto;flex: 1 0 auto}
 .nested-p > p {margin-bottom:1.5rem;margin-top:0;letter-spacing:.04em}
 .css-arrow-link:hover::after{content:' »';}
@@ -88,6 +88,7 @@ body {
     }
 }
 @media screen and (min-width:60em) {
+    .css-current-page-link{margin-bottom:-.375rem}
     .css-current-page-link::after{
         height: .125rem;
         margin-top:.1875rem;
