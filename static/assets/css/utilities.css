@@ -49,31 +49,20 @@
     .mt5-ns{margin-top:4rem}
 }
 @media screen and (min-width:50em) {
-    /*.center\@50{margin-left:auto;margin-right:auto}*/
     .bn\@50{border:none}
     .db\@50{display:block}
     .dn\@50{display:none}
-    /*.f5\@50{font-size:1rem}*/
     .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
-    /*.fw5\@50{font-weight:500}*/
-    /*.h3\@50{height:4rem}*/
-    /*.items-center\@50{-webkit-box-align:center;-ms-flex-align:center;align-items:center}*/
-    /*.justify-between\@50{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}*/
-    /*.mb0\@50{margin-bottom:0}*/
     .ml4\@50{margin-left:2rem}
     .mt0\@50{margin-top:0}/*KEEP*/
-    /*.pb0\@50{padding-bottom:0}*/
-    /*.pl5\@50{padding-left:4rem}*/
     .pt-_125\@50{padding-top:.125rem}
     .static\@50{position:static}
-    /*.tracked-narrow\@50{letter-spacing:.05em}*/
-    /*.ttu\@50{text-transform:uppercase}*/
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}
     .f-1_0625-l{font-size:1.0625rem}
     .h-10_5-l{height:10.5rem}
-    .mw-73-l{max-width:73rem}
+    .mw-72-l{max-width:72rem}
     .pt-1_25-l{padding-top:1.25rem}
     .pt-2_625-l{padding-top:2.625rem}
 }
