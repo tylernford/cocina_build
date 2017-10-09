@@ -136,6 +136,7 @@
     .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
     .justify-between\@40{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
     .mb0\@40{margin-bottom:0}
+    .mb-1_5\@40{margin-bottom:1.5rem}
     .ml0\@40{margin-left:0}
     .ml2\@40{margin-left:.5rem}
     .mr2\@40{margin-right:.5rem}
