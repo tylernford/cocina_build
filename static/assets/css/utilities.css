@@ -28,16 +28,24 @@
 .lh-1_5{line-height:1.5rem}
 .lh-2{line-height:2rem}
 .mb-_3125{margin-bottom:.3125rem}
+.mb-_5625{margin-bottom:.5625rem}
 .mb-1_1875{margin-bottom:1.1875rem}
+.mb-1_6875{margin-bottom:1.6875rem}
 .mb-1_75{margin-bottom:1.75rem}
+.mb-2_8125{margin-bottom:2.8125rem}
 .mt-_75{margin-top:.75rem}
+.mt-1_8125{margin-top:1.8125rem}
 .mt-3{margin-top:3rem}
+.mw-64{max-width:64rem}
 .pb-3{padding-bottom:3rem}
+.pb-3_1875{padding-bottom:3.1875rem}
 .pt-2_5{padding-top:2.5rem}
 .pt-_375{padding-top:.375rem}
+.pt-3_6875{padding-top:3.6875rem}
 .tracked-narrow{letter-spacing:.05em}
 .w-1_75{width:1.75rem}
 .w-3_5{width:3.5rem}
+.w-48{width:48%}
 @media screen and (min-width:23em) {
     .f4\@23{font-size:1.25rem}
 }
@@ -46,7 +54,19 @@
     .h-30-ns{height:30rem}
     .h-37_5-ns{height:37.5rem}
     .mb-_375-ns{margin-bottom:.375rem}
+    .mb2-ns{margin-bottom:.5rem}
+    .mb-1_5-ns{margin-bottom:1.5rem}
+    .mt-_3125-ns{margin-top:.3125rem}
     .mt5-ns{margin-top:4rem}
+    .pb-3-ns{padding-bottom:3rem}
+}
+@media screen and (min-width:42em) {
+    .f5\@42{font-size:1rem}
+    .flex\@42{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@42{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mr4\@42{margin-right:2rem}
+    .pb3\@42{padding-bottom:1rem}
+    .w-100\@42{width:100%}
 }
 @media screen and (min-width:50em) {
     .bn\@50{border:none}
@@ -54,9 +74,10 @@
     .dn\@50{display:none}
     .flex\@50{display:-webkit-box;display:-ms-flexbox;display:flex}
     .ml4\@50{margin-left:2rem}
-    .mt0\@50{margin-top:0}/*KEEP*/
+    .mt0\@50{margin-top:0}
     .pt-_125\@50{padding-top:.125rem}
     .static\@50{position:static}
+    .w-48\@50{width:48%}
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}
@@ -66,8 +87,11 @@
     .pt-1_25-l{padding-top:1.25rem}
     .pt-2_625-l{padding-top:2.625rem}
 }
+@media screen and (min-width:64em) {
+    .mr0\@64{margin-right:0}
+}
 @media screen and (min-width:72em) {
-.mw-64\@72{max-width:64rem}
-.ph0\@72{padding-left:0;padding-right:0}
+    .mw-64\@72{max-width:64rem}
+    .ph0\@72{padding-left:0;padding-right:0}
 }
 /* ------------------------------------------- END UTILITIES -------------------------------------------- */
