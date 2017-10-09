@@ -1,182 +1,119 @@
 {{ define "main" }}
+
 <style>
-.mb-_1875{margin-bottom:19px}
-.mb-_375{margin-bottom:.375rem}
-.mb-1_375{margin-bottom:1.375rem}
-.mb-1_5{margin-bottom:1.5rem}
-.mb-2_6875{margin-bottom:2.6875rem}
-.mb-3_8125{margin-bottom:3.8125rem}
-.mt-_125{margin-top:.125rem}
-.mt-1_625{margin-top:1.625rem}
-.mt-_3125{margin-top:.3125rem}
-.nt-_1875{margin-top:-.1875rem}
-.pb-4_3125{padding-bottom:4.3125rem}
-.pb-4_1875{padding-bottom:4.1875rem}
-.pb-3_8125{padding-bottom:3.8125rem}
-.pt-_0625{padding-top:.0625rem}
-.pt-3_5{padding-top:3.5rem}
-.w-12{width:12rem}
-@media screen and (min-width:23rem) {
-    .f5\@23{font-size:1rem}
-}
-@media screen and (min-width:25.875em) {
-    .f6\@25{font-size:.875rem}
-    .flex\@25{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .justify-between\@25{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
-    .lh-2_25\@25{line-height:2.25rem}
-    .mb0\@25{margin-bottom:0}
-    .mb5\@25{margin-bottom:2rem}
-    .ml3\@25{margin-left:1rem}
-    .ml4\@25{margin-left:1rem}
-    .pb-3\@25{padding-bottom:3rem}
-    .self-end\@25{-ms-flex-item-align:end;align-self:flex-end}
-    .w-12\@25{width:12rem}
-    .w-48\@25{width:48%}
-}
-@media screen and (min-width:30em) {
-    .mt-_375-ns{margin-top:.375rem}
-    .mw-12-ns{max-width:12rem}
-    .pt0-ns{padding-top:0}
-    .w-auto-ns{width:auto}
-    .w-12-ns{width:12rem}
-}
-@media screen and (min-width:40em) {
-    .db\@40{display:block}
-    .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .justify-between\@40{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
-    .mb0\@40{margin-bottom:0}
-    .ml0\@40{margin-left:0}
-    .ml2\@40{margin-left:.5rem}
-    .mr2\@40{margin-right:.5rem}
-    .mt-_3125\@40{margin-top:.3125rem}
-    .pb-4_3125\@40{padding-bottom:4.3125rem}
-    .w-60\@40{width:60%}
-}
-@media screen and (min-width:48em) {
-    .flex\@48{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .mr-3\@48{margin-right:3rem}
-    .mv-1_25\@48{margin-bottom:1.25rem;margin-top:1.25rem}
-}
-@media screen and (min-width:53em) {
-    .dn\@53{display:none}
-    .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
-    .flex-row\@53{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}
-    .flex-row-reverse\@53{-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}
-    .h-auto\@53{height:auto}
-    .justify-start\@53{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
-    .mb0\@53{margin-bottom:0}
-    .mb-6\@53{margin-bottom:6rem}
-    .ml0\@53{margin-left:0}
-    .ml3\@53{margin-left:1rem}
-    .pb-3\@53{padding-bottom:3rem}
-    .w-auto\@53{width:auto}
-    .w-50\@53{width:50%}
+@media screen and (min-width:53em){
+    .justify-between\@53{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
 }
 @media screen and (min-width:60em) {
-    .db-l{display:block}
-    .mb-3_8125-l{margin-bottom:3.8125rem}
-    .mb-5-l{margin-bottom:5rem}
-    .mr0-l{margin-right:.5rem}
-    .mw-26-l{max-width:26rem}
-    .mw-31_5-l{max-width:31.5rem}
-    .w-50-l{width:50%}
-    .w-100-l{width:100%}
+    .mb-_375-l{margin-bottom:.375rem}
+    .mb-_625-l{margin-bottom:.625rem}
+    .mb-2_1875-l{margin-bottom:2.1875rem}
+
+    .mt0-l{margin-top:0}
+    .mt-_3125-l{margin-top:.3125rem}
+    .mt-2_125-l{margin-top:2.125rem}
+
+    .pl0-l{padding-left:0}
+    .pl4-l{padding-left:2rem}
+
+    .pr0-l{padding-right:0}
+
+    .w-18_5-l{width:18.5rem}
+    .w-30-l{width:30%}
+    .w-64-l{width:64%}
 }
-@media screen and (min-width:79em) {
-    .ml-5_5\@79{margin-left:5.5rem}
-    .pr-3\@79{padding-right:3rem}
-
-
-    .db\@79{display:block}
-    .fr\@79{float:right}
-    .ml0\@79{margin-left:0}
-    .ml-6_5\@79{margin-left:6.5rem}
-    .mt-2_375\@79{margin-top:2.375rem}
-    .mw-25\@79{max-width:25rem}
-    .mw-31_5\@79{max-width:31.5rem}
-    .pl-3_75\@79{padding-left:3.75rem}
-    .pr-3_75\@79{padding-right:3.75rem}
-    .pr-6_5\@79{padding-right:6.5rem}
-    .w-25\@79{width:25rem}
+@media screen and (min-width:66.5em){
+    .pl0\@66{padding-left:0}
+    .w-38\@66{width:38rem}
 }
-@media screen and (min-width:90em) {
-    .ml-5_5\@90{margin-left:5.5rem}
-    .pr-3\@90{padding-right:3rem}
-
-
-    .db\@90{display:block}
-    .fr\@90{float:right}
-    .ml0\@90{margin-left:0}
-    .ml-4_5\@90{margin-left:4.5rem}
-    .ml-6_5\@90{margin-left:6.5rem}
-    .mt-2_375\@90{margin-top:2.375rem}
-    .mw-25\@90{max-width:25rem}
-    .pr-6_5\@90{padding-right:6.5rem}
-    .w-25\@90{width:25rem}
-    .mw-27\@90{max-width:27rem}
-}
-.css-download-link:hover::after{content:' »';}
 </style>
-    <main class="mt-3   mt5-ns   mt0@50">
-        <h1 class="element-invisible">News</h1>
-        <div class="flex flex-column-reverse   flex-row@53">
-            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pl0-ns4-ns   pr-3_75@79">
-                <h2 class="f4 fw6 lh-1_5 mb1 pl3 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns   pl0-l   mw-25@79" style="margin-top:28px">Awesome Charity Event on August 30th</h2>
+<main class="mt-3 ph3   mt5-ns ph4-ns   mt0@50   pb-6_5@53   ph5-l">
 
+    <div class="center mw-64">
+        <!--   Post Title   -->
+        <p class="dn c-gold   db-l mb-_375-l mt-2_125-l">Daytona</p>
+        <div class="flex-l justify-between-l">
+            <h2 class="f4 fw6 lh-1_75 mb-_4375 mt-2_1875 tracked-narrow ttu w-100 wrksns   f3-ns mb2-ns mft-2_125-ns   mt-3_625@53   mt0-l w-80-l">Awesome Charity Event</h2>
+            <p class="dn mb0 mv0    db-l mb-_625-l self-end-l">04/09/2017</p>
+        </div>
+        <!-- End Post Title -->
 
-                <!--   Divider   -->
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90" style="margin-bottom:10px"></div>
-                <!-- End Divider -->
+        <!--   Divider   -->
+        <div class="bg-dark-brown h-_125 mb-_625 mt0   mb0@53   mb-2_1875-l"></div>
+        <!-- End Divider -->
 
-                <!--   Mobile Location/Date   -->
-                <div class="flex justify-between pl3 w-100   pl0-l mw-25@79" style="margin-bottom:15px">
-                    <p class="c-gold mv0">Daytona</p>
-                    <p class="mv0">04/09/2017</p>
-                </div>
-                <!-- End Mobile Location/Date -->
+        <!--   Mobile Location/Date   -->
+        <div class="flex justify-between mb-1_9375   dn-l">
+            <p class="c-gold mv0 ">Daytona</p>
+            <p class="mb0 mv0">04/09/2017</p>
+        </div>
+        <!-- End Mobile Location/Date -->
 
-                <div class="lh-2 pl3   pl0-l   mw-25@79">
-                    <div class="measure-wide nested-p">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
-                    </div>
+        <div class="flex@53 justify-between@53">
+            <div class="pr3@53 w-50@53   pr0-l w-18_5-l">
+                <div class="lh-2 measure-wide nested-p">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
                 </div>
             </div>
-
-            <div class="w-50@53">
-                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
+            <div class="flex@40 justify-between@40   db@53 pl3@53 w-50@53   mt-_3125-l pl4-l w-64-l   pl0@66 w-38@66">
+                <img alt="" class="db self-start w-48   w-100@53"src="../assets/images/news/featured_image.jpg" />
+                <img alt="" class="db self-start w-48   w-100@53"src="../assets/images/news/featured_image.jpg" />
             </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!--   Featured Image on Small Displays   -->
+    <div class="h-15 h-25-ns   dn@53 mt6" style="background:url(../assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;"></div>
+    <!-- End Featured Image on Small Displays -->
+
+    <!--   Post Title   -->
+    <div class="ph3 ph4-ns flex@53 justify-end pr3@53 w-50@53   pl5-l   pr-7@79   bg-greeen">
+        <h2 class="f4 fw6 lh-1_75 mb-_4375 mt-2_1875 tracked-narrow ttu w-100 wrksns   f3-ns mb2-ns mt-2_125-ns   mt-3_625@53   w-25@79">Awesome Charity Event <!--on August 30th--></h2>
+    </div>
+    <!-- End Post Title -->
+
+    <!--   Post Summary   -->
+    <div class="mb5   flex@53 mb0@53">
+        <div class="w-50@53 flex@53 flex-column@53 items-end pr3   pr4-ns   pr3@53   pr-7@79">
+            <!--   Divider   -->
+            <div class="bg-dark-brown h-_125 mb-_625 mt0 w-100   w-27@90"></div>
+            <!-- End Divider -->
+
+            <!--   Mobile Location/Date   -->
+            <div class="flex justify-between mb-1_9375 pl3 w-100 bg-redd   pl4-ns   pl5-l  w-25@79 pl0@79">
+                <p class="c-gold mv0">Daytona</p>
+                <p class="mb0 mv0">04/09/2017</p>
+            </div>
+            <!-- End Mobile Location/Date -->
+
+            <!--   Summary Text   -->
+            <div class="lh-2 pl3   pl4-ns   pl5-l   w-25@79 pl0@79">
+                <div class="measure-wide nested-p   w-100@53">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
+                </div>
+            </div>
+            <!-- End Summary Text -->
         </div>
 
-
-
-        <div class="flex flex-column-reverse   flex-row@53">
-            <div class="w-50@53 flex flex-column items-end mb-2_6875 pr3   pr4-ns   pr-3_75@79">
-                <div class="w-100   w-25@79">
-                    <p class="c-gold mb1 mt-1_625">Daytona</p>
-                    <div class="flex justify-between items-end">
-                        <h2 class="f4 fw6 lh-2 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns pt0-ns">Awesome Charity Event on August 30th</h2>
-                        <p class="f6 lh-title mb1 mt0 tracked-narrow   f5-ns">04/09/2017</p>
-                    </div>
-                </div>
-
-                <!--   Divider   -->
-                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   mw-27@90"></div>
-                <!-- End Divider -->
-
-                <div class="lh-2 mw-25@79">
-                    <div class="measure-wide nested-p">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <a class="c-dark-brown dib f4 jean-luc lh-1_5 link tracked-narrow ttu   css-arrow-link" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="w-50@53">
-                <img class="db pl-3_75@79" src="../assets/images/news/featured_image.jpg" style="margin-top:1px;width:100%;max-width:504px" />
-            </div>
+        <!--   Featured Image on Large Displays   -->
+        <div class="dn   db@53 w-50@53   pr4@53 pl3@53   pr5-l">
+            <picture>
+                <source media="(min-width: 53rem)" srcset="../assets/images/news/featured_image.jpg" />
+                <img alt="" class="db mt-_0625   w-31@79" src="../assets/images/placeholder.gif" />
+            </picture>
         </div>
-    </main>
+        <!-- End Featured Image on Large Displays -->
+    </div>
+    <!-- End Post Summary -->
 
-
+</main>
 {{ end }}
