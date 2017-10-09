@@ -66,4 +66,8 @@
     .pt-1_25-l{padding-top:1.25rem}
     .pt-2_625-l{padding-top:2.625rem}
 }
+@media screen and (min-width:72em) {
+.mw-64\@72{max-width:64rem}
+.ph0\@72{padding-left:0;padding-right:0}
+}
 /* ------------------------------------------- END UTILITIES -------------------------------------------- */
