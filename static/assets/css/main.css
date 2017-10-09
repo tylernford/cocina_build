@@ -10,6 +10,7 @@ body {
 }
 .css-ie-flex-shrink {-ms-flex: 0 1 auto;}
 .css-no-flex-shrink{-ms-flex: 1 0 auto;flex: 1 0 auto}
+.nested-list > ul {margin-bottom:1.5rem;margin-left:-1.5rem;margin-top:-1.5rem}
 .nested-p > p {margin-bottom:1.5rem;margin-top:0;letter-spacing:.04em}
 .css-arrow-link:hover::after{content:' »';}
 
