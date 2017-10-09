@@ -21,6 +21,23 @@ body {
 /* IE 10/11 Styles */
 
 
+/*   About Portrait Grid Styles   */
+.css-portrait-grid-item{width:48%}
+@media screen and (min-width:30em) {
+    .css-portrait-grid-item{width:31.746031746%}
+}
+@media screen and (min-width:42em) {
+    .css-featured-grid{max-width:49.090909091%}
+    .css-featured-grid-item{width:48.148148148%}
+    .css-portrait-grid-item{width:23.6363636365%}
+}
+@media screen and (min-width:880px) {
+    .css-featured-grid{max-width:39.0625%}
+    .css-featured-grid-item{width:48%}
+    .css-portrait-grid-item{width:18.75%}
+}
+/* End About Portrait Grid Styles */
+
 
 
 /* ------------------------------------------------ NAV ------------------------------------------------- */
