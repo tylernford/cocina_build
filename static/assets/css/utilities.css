@@ -22,6 +22,7 @@
 .h-1_75{heght:1.75rem}
 .h-2_5{height:2.5rem}
 .h-3{height:3rem}
+.h-15{height:15rem}
 .h-20{height:20rem}
 .h-30{height:30rem}
 
@@ -32,12 +33,14 @@
 .hover-c-red:hover{color:#E63728}
 
 .lh-1_5{line-height:1.5rem}
+.lh-1_75{line-height:1.75rem}
 .lh-2{line-height:2rem}
 
 .mb-_3125{margin-bottom:.3125rem}
 .mb-_375{margin-bottom:.375rem}
 .mb-_4375{margin-bottom:.4375rem}
 .mb-_5625{margin-bottom:.5625rem}
+.mb-_625{margin-bottom:.625rem}
 .mb-_8125{margin-bottom:.8125rem}
 .mb-1_1875{margin-bottom:1.1875rem}
 .mb-1_25{margin-bottom:1.25rem}
@@ -45,6 +48,7 @@
 .mb-1_5{margin-bottom:1.5rem}
 .mb-1_6875{margin-bottom:1.6875rem}
 .mb-1_75{margin-bottom:1.75rem}
+.mb-1_9375{margin-bottom:1.9375rem}
 .mb-2_1875{margin-bottom:2.1875rem}
 .mb-2_6875{margin-bottom:2.6875rem}
 .mb-2_8125{margin-bottom:2.8125rem}
@@ -52,19 +56,21 @@
 .mb-3_8125{margin-bottom:3.8125rem}
 .mb-4_75{margin-bottom:4.75rem}
 
+.mt-_0625{margin-top:.0625rem}
 .mt-_3125{margin-top:.3125rem}
 .mt-_75{margin-top:.75rem}
 .mt-1_625{margin-top:1.625rem}
 .mt-1_8125{margin-top:1.8125rem}
+.mt-2_1875{margin-top:2.1875rem}
 .mt-3{margin-top:3rem}
-
-.mw-64{max-width:64rem}
 
 .nt-_1875{margin-top:-.1875rem}
 
+.pb-1_625{padding-bottom:1.625rem}
 .pb-3{padding-bottom:3rem}
 .pb-3_1875{padding-bottom:3.1875rem}
 .pb-4_3125{padding-bottom:4.3125rem}
+.pb-5_3125{padding-bottom:5.3125rem}
 
 .pt-_0625{padding-top:.0625rem}
 .pt-_375{padding-top:.375rem}
@@ -80,12 +86,6 @@
 .w-48{width:48%}
 
 .mw-64{max-width:64rem}
-
-.pb-1_625{padding-bottom:1.625rem}
-.pb-5_3125{padding-bottom:5.3125rem}
-
-.pt-_0625{padding-top:.0625rem}
-.pt-3_5{padding-top:3.5rem}
 @media screen and (min-width:23em) {
     .f5\@23{font-size:1rem}
     .f4\@23{font-size:1.25rem}
@@ -110,6 +110,7 @@
 }
 @media screen and (min-width:30em) {
     .h3-ns{height:4rem}
+    .h-25-ns{height:25rem}
     .h-28_5-ns{height:28.5rem}
     .h-30-ns{height:30rem}
     .h-37_5-ns{height:37.5rem}
@@ -121,6 +122,7 @@
 
     .mt-_3125-ns{margin-top:.3125rem}
     .mt-_375-ns{margin-top:.375rem}
+    .mt-2_125-ns{margin-top:2.125rem}
     .mt5-ns{margin-top:4rem}
 
     .mw-12-ns{max-width:12rem}
@@ -165,7 +167,11 @@
     .w-48\@50{width:48%}
 }
 @media screen and (min-width:53em) {
+    .db\@53{display:block}
+    .dn\@53{display:none}
+
     .flex\@53{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-column\@53{-webkit-box-orient:vertical;-ms-flex-direction:column;flex-direction:column;-webkit-box-direction:normal}
     .justify-start\@53{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}
 
     .h-auto\@53{height:auto}
@@ -177,27 +183,46 @@
     .ml0\@53{margin-left:0}
     .ml3\@53{margin-left:1rem}
 
+    .mt-3_625\@53{margin-top:3.625rem}
+
     .pb-3\@53{padding-bottom:3rem}
+    .pb-6_5\@53{padding-bottom:6.5rem}
+
+    .pl3\@53{padding-left:1rem}
+
+    .pr3\@53{padding-right:1rem}
+    .pr4\@53{padding-right:2rem}
 
     .w-auto\@53{width:auto}
     .w-50\@53{width:50%}
+    .w-100\@53{width:100%}
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}
+
     .db-l{display:block}
+
     .f-1_0625-l{font-size:1.0625rem}
+
     .h-auto-l{height:auto}
     .h-10_5-l{height:10.5rem}
+
     .mb-3_8125-l{margin-bottom:3.8125rem}
     .mb-5-l{margin-bottom:5rem}
+
     .mr0-l{margin-right:0}
+
+    .pr5-l{padding-right:4rem}
+
+    .pt-1_25-l{padding-top:1.25rem}
+    .pt-2_625-l{padding-top:2.625rem}
+
+    .w-50-l{width:50%}
+    .w-100-l{width:100%}
+
     .mw-18_5-l{max-width:18.5rem}
     .mw-26-l{max-width:26rem}
     .mw-72-l{max-width:72rem}
-    .pt-1_25-l{padding-top:1.25rem}
-    .pt-2_625-l{padding-top:2.625rem}
-    .w-50-l{width:50%}
-    .w-100-l{width:100%}
 }
 @media screen and (min-width:64em) {
     .mr0\@64{margin-right:0}
@@ -210,6 +235,8 @@
     .ph0\@72{padding-left:0;padding-right:0}
 }
 @media screen and (min-width:79em) {
+    .db\@79{display:block}
+
     .flex\@79{display:-webkit-box;display:-ms-flexbox;display:flex}
     .justify-end\@79{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}
 
@@ -217,10 +244,12 @@
 
     .ml-7\@79{margin-left:7rem}
 
+    .pl0\@79{padding-left:0}
+
     .pr-7\@79{padding-right:7rem}
 
-
     .w-25\@79{width:25rem}
+    .w-31\@79{width:31rem}
     .w-32\@79{width:32rem}
 }
 @media screen and (min-width:90em) {
