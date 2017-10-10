@@ -41,6 +41,7 @@
   <url>
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
