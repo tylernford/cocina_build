@@ -1,5 +1,5 @@
 ---
-title: Test
+title: This is a Blog Post
 location: Daytona
 date: 2017-10-03
 ---

@@ -1,5 +1,5 @@
 ---
-title: Test2
+title: This is Another Blog Post
 location: Winter Park
 date: 2017-10-06
 ---
