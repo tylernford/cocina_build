@@ -1,3 +1,6 @@
 ---
-title: News
+title: Articles
+aliases: /articles
 ---
+
+Help
