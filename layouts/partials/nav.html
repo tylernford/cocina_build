@@ -2,7 +2,7 @@
 <div class="dn h3 w-100   db@50   css-ie-flex-shrink">
     <div class="f5 flex fw5 h3 items-center justify-between mw-64 pl5 pr4 wrksns   pt-_125@50   center-l f-1_0625-l fw6-l pr5-l pt-1_25-l   mw-64@72 ph0@72">
         <a class="c-gold dn fw6 hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu   db-l
-        {{ if eq .Url "http://cocina-build.netlify.com" }}css-current-page-link{{ end }}" href="/">Home</a>
+        css-current-page-link{{ if ne .Title "Home" }}k{{ end }}" href="/">Home</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
         {{ if eq .Title "About" }}css-current-page-link{{ end }}" href="/about">About</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
@@ -22,7 +22,7 @@
     <div class="fixed top-0 h-3 bb b--light-gray w-100   h3-ns" style="margin-top:1px;"></div>
     <div class="dtc f-1_0625 fw4 ph3 pt4 tc v-mid wrksns   f4@23   ph4-ns">
         <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked
-        {{ if eq .Title "Home" }}css-current-page-link{{ end }}" href="/">Home</a>
+        css-current-page-link{{ if ne .Title "Home" }}k{{ end }}" href="/">Home</a>
         <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked
         {{ if eq .Title "About" }}css-current-page-link{{ end }}" href="/about">About</a>
         <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked
