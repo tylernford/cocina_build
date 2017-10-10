@@ -1,3 +1,3 @@
 ---
-title: hi
+title: News
 ---
