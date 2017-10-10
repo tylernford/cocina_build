@@ -27,7 +27,7 @@
         <nav class="bb b--light-gray bg-white fixed top-0 flex h-3 items-center justify-between w-100   h3-ns   bn@50 static@50   db-l h-10_5-l    z-1">
 
             <a class="db ml3 z-1   ml4@50   center-l mb2-l pt-2_625-l   css-nav-logo" href="/">
-                <img alt="Cocina 214" class="db   nl1-ns   ml0-l" src="../assets/logos/nav_logo_full.svg" />
+                <img alt="Cocina 214" class="db   nl1-ns   ml0-l" src="{{ .Site.BaseURL }}/assets/logos/nav_logo_full.svg" />
             </a>
 
 			<button aria-expanded="false" class="bg-transparent bn button-reset ma0 pa3 pointer w-3_5 z-1   dn@50   hamburger hamburger--squeeze" id="js-menu" type="button">
@@ -57,9 +57,9 @@
   		});
 		</script>
 		<!-- Nav transition -->
-        <script src="../assets/js/new-nav.js" async=""></script>
+        <script src="{{ .Site.BaseURL }}/assets/js/new-nav.js" async=""></script>
 		<!-- Responsive Images -->
-        <script src="../assets/js/respimage.js" async=""></script>
+        <script src="{{ .Site.BaseURL }}/assets/js/respimage.js" async=""></script>
 		<!-- Toggle "aria-expanded" on menu button -->
         <script>
             var navButton = document.querySelector('#js-menu');
