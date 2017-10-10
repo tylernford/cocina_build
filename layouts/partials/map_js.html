@@ -168,7 +168,7 @@ function initMap (){
             ]
     });
 
-    var image = '../assets/icons/location_one_marker.svg';
+    var image = '{{ .Site.BaseURL }}/assets/icons/location_one_marker.svg';
     var marker = new google.maps.Marker({
         position: fossil_creek,
         map: map,
@@ -369,7 +369,7 @@ function initMap (){
             ]
     });
 
-    var image = '../assets/icons/location_two_marker.svg';
+    var image = '{{ .Site.BaseURL }}/assets/icons/location_two_marker.svg';
     var marker = new google.maps.Marker({
         position: woop,
         map: map,

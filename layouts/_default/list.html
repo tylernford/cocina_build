@@ -5,7 +5,7 @@
 
     {{ range .Data.Pages }}
     <!--   Featured Image on Small Displays   -->
-    <div class="h-15 h-25-ns   dn@53" style="background:url(../assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;"></div>
+    <div class="h-15 h-25-ns   dn@53" style="background:url({{ .Site.BaseURL }}/assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;"></div>
     <!-- End Featured Image on Small Displays -->
 
     <!--   Post Title   -->
@@ -41,8 +41,8 @@
         <!--   Featured Image on Large Displays   -->
         <div class="dn   db@53 w-50@53   pr4@53 pl3@53   pr5-l">
             <picture>
-                <source media="(min-width: 53rem)" srcset="../assets/images/news/featured_image.jpg" />
-                <img alt="" class="db mt-_0625   w-31@79" src="../assets/images/placeholder.gif" />
+                <source media="(min-width: 53rem)" srcset="{{ .Site.BaseURL }}/assets/images/news/featured_image.jpg" />
+                <img alt="" class="db mt-_0625   w-31@79" src="{{ .Site.BaseURL }}/assets/images/placeholder.gif" />
             </picture>
         </div>
         <!-- End Featured Image on Large Displays -->
