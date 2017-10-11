@@ -3,53 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cocina-build.netlify.com/news/test2/</loc>
+    <loc>https://cocina-build.netlify.com/blog/test2/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cocina-build.netlify.com/news/test/</loc>
+    <loc>https://cocina-build.netlify.com/blog/test/</loc>
     <lastmod>2017-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cocina-build.netlify.com/about/</loc>
+    <loc>https://cocina-build.netlify.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://cocina-build.netlify.com/article/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cocina-build.netlify.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cocina-build.netlify.com/dine/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cocina-build.netlify.com/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cocina-build.netlify.com/location/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cocina-build.netlify.com/news/</loc>
+    <loc>https://cocina-build.netlify.com/blog/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cocina-build.netlify.com/news_old/</loc>
+    <loc>https://cocina-build.netlify.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cocina-build.netlify.com/tags/</loc>
+    <loc>https://cocina-build.netlify.com/dine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/</loc>
+    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/shop/product-one/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/shop/product-three/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/shop/product-two/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/shop/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cocina-build.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

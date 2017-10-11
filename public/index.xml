@@ -2,78 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Cocina 214</title>
-    <link>http://cocina-build.netlify.com/</link>
+    <link>https://cocina-build.netlify.com/</link>
     <description>Recent content in Home on Cocina 214</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cocina-build.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cocina-build.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test2</title>
-      <link>http://cocina-build.netlify.com/news/test2/</link>
+      <title>This is Another Blog Post</title>
+      <link>https://cocina-build.netlify.com/blog/test2/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/news/test2/</guid>
+      <guid>https://cocina-build.netlify.com/blog/test2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://cocina-build.netlify.com/news/test/</link>
+      <title>This is a Blog Post</title>
+      <link>https://cocina-build.netlify.com/blog/test/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/news/test/</guid>
+      <guid>https://cocina-build.netlify.com/blog/test/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://cocina-build.netlify.com/about/</link>
+      <link>https://cocina-build.netlify.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Article</title>
-      <link>http://cocina-build.netlify.com/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cocina-build.netlify.com/article/</guid>
+      <guid>https://cocina-build.netlify.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dine</title>
-      <link>http://cocina-build.netlify.com/dine/</link>
+      <link>https://cocina-build.netlify.com/dine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/dine/</guid>
+      <guid>https://cocina-build.netlify.com/dine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Location</title>
-      <link>http://cocina-build.netlify.com/location/</link>
+      <link>https://cocina-build.netlify.com/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/location/</guid>
+      <guid>https://cocina-build.netlify.com/location/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>News-Old</title>
-      <link>http://cocina-build.netlify.com/news_old/</link>
+      <title>Product One</title>
+      <link>https://cocina-build.netlify.com/shop/product-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://cocina-build.netlify.com/news_old/</guid>
-      <description></description>
+      <guid>https://cocina-build.netlify.com/shop/product-one/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>Product Three</title>
+      <link>https://cocina-build.netlify.com/shop/product-three/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-build.netlify.com/shop/product-three/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>Product Two</title>
+      <link>https://cocina-build.netlify.com/shop/product-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-build.netlify.com/shop/product-two/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
   </channel>
