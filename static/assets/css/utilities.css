@@ -2,6 +2,7 @@
 .b--c-dark-brown{border-color:#2B2422}
 .b--c-gold{border-color:#D18419}
 .b--c-gold-hover:hover{border-color:#D18419}
+.b--c-red{border-color:#E63728}
 
 .bg-dark-brown{background-color:rgba(43,36,34,.98)}
 .bg-gold{background-color:rgba(209,132,25,.9)}
@@ -26,6 +27,7 @@
 .h-20{height:20rem}
 .h-30{height:30rem}
 
+.hover-b--c-red:hover{color:#E63728}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
 .hover-bg-gold:hover{background-color:#D18419}
 .hover-c-dark-brown:hover{color:#2B2422}

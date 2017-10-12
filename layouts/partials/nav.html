@@ -11,8 +11,8 @@
         {{ if eq .Title "Dine" }}css-current-page-link{{ end }}" href="/dine">Dine</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
         {{ if eq .Title "News" }}css-current-page-link{{ end }}
-        {{ if eq .Title "Article" }}css-current-page-link{{ end }}" href="/news">News</a>
-        <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu" href="">Shop</a>
+        {{ if eq .Type "news" }}css-current-page-link{{ end }}" href="/news">News</a>
+        <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu" href="/shop_detail">Shop</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu" href="">Contact</a>
     </div>
 </div>
@@ -31,8 +31,8 @@
         {{ if eq .Title "Dine" }}css-current-page-link{{ end }}" href="/dine">Dine</a>
         <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked
         {{ if eq .Title "News" }}css-current-page-link{{ end }}
-        {{ if eq .Title "Article" }}css-current-page-link{{ end }}" href="/news">News</a>
-        <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked" href="">Shop</a>
+        {{ if eq .Type "news" }}css-current-page-link{{ end }}" href="/news">News</a>
+        <a class="b--light-gray bb c-gold db hover-c-dark-brown lh-solid link mb3 pb3 tracked" href="/shop_detail">Shop</a>
         <a class="                 c-gold db hover-c-dark-brown lh-solid link         tracked" href="">Contact</a>
     </div>
 </div>
