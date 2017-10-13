@@ -27,9 +27,11 @@
 .h-20{height:20rem}
 .h-30{height:30rem}
 
-.hover-b--c-red:hover{color:#E63728}
+.hover-b--c-red:hover{border-color:#E63728}
+.hover-ba:hover{border-style:solid;border-width:1px}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
 .hover-bg-gold:hover{background-color:#D18419}
+.hover-bw1:hover{border-width:.125rem}
 .hover-c-dark-brown:hover{color:#2B2422}
 .hover-c-gold:hover{color:#D18419}
 .hover-c-red:hover{color:#E63728}

@@ -8,6 +8,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
+.push-footer {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+}
 .css-ie-flex-shrink {-ms-flex: 0 1 auto;}
 .css-no-flex-shrink{-ms-flex: 1 0 auto;flex: 1 0 auto}
 .nested-list > ul {margin-bottom:1.5rem;margin-left:-1.5rem;margin-top:-1.5rem}
