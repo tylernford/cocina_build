@@ -72,5 +72,31 @@
                 menu.hidden = !menu.hidden;
             });
         </script>
+
+		<!-- Code for Swapping Product Images -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script>
+		$(document).ready(function() {
+			var previewImg = $("img#main");
+			$(".product-photo-grid a img").click(function(){
+				var link = $(this).parent();
+				var linkHref = link.attr("href");
+				var linkAlt = link.attr("alt");
+				{
+					$(previewImg).animate({
+						opacity: 0.8,
+					}, 300, function() {
+						previewImg.attr("src", linkHref);
+						previewImg.attr("alt", linkAlt);
+						$(this).animate({
+							opacity: 1,
+							}, 300
+						);
+					});
+				}
+				return false;
+			});
+		});
+		</script>
 	</body>
 </html>
