@@ -9,11 +9,16 @@
     background-size: 8.25rem 2.25rem
 }
 
+
 .css-product-photo-grid-item-outer{
     width:22.9910714283%;
 }
 .css-product-photo-grid-item-inner{
     margin-top:11.65048544%;
+}
+.css-product-photo-grid-item-inner:hover{
+    -webkit-transition:opacity .15s ease-in;transition:opacity .15s ease-in;
+    opacity:.5
 }
 @media screen and (min-width:30em) {
     .css-product-photo-grid{margin-left:12px}
@@ -175,29 +180,29 @@
         <div class="flex-ns   db@53 mt5@53 mw-27@53   mr5-l   ml-5@72" style="margin-top:56px">
             <!--   Featured Product Photo   -->
             <div class="b--black-10 ba self-start   mw-27-ns">
-                <img class="db w-100" src="/shop_detail_featured.jpg" />
+                <img class="db w-100   js-product-photo-featured" src="/shop_detail_featured.jpg" />
             </div>
             <!-- End Featured Product Photo -->
-            <div class="flex flex-wrap justify-between   flex-column-ns justify-start-ns mw-5-ns   flex-row@53 justify-start@53 mw-100@53   css-product-photo-grid css-no-flex-shrink">
+            <div class="flex flex-wrap justify-between   flex-column-ns justify-start-ns mw-5-ns   flex-row@53 justify-start@53 mw-100@53   css-product-photo-grid css-no-flex-shrink   js-product-photo-grid">
                 <div class="css-product-photo-grid-item-outer">
-                    <div class="b--black-10 ba dim   css-product-photo-grid-item-inner">
-                        <img class="db mb0 w-100" src="/shirt_small.png" />
-                    </div>
+                    <a class="b--black-10 ba db   css-product-photo-grid-item-inner" href="/shop_detail_featured.jpg">
+                        <img class="db mb0 w-100" src="/shop_detail_featured.jpg" />
+                    </a>
                 </div>
                 <div class="css-product-photo-grid-item-outer">
-                    <div class="b--black-10 ba dim   css-product-photo-grid-item-inner">
+                    <a class="b--black-10 ba db   css-product-photo-grid-item-inner" href="/shirt_small.png">
                         <img class="db mb0 w-100" src="/shirt_small.png" />
-                    </div>
+                    </a>
                 </div>
                 <div class="css-product-photo-grid-item-outer">
-                    <div class="b--black-10 ba dim   css-product-photo-grid-item-inner">
-                        <img class="db mb0 w-100" src="/shirt_small.png" />
-                    </div>
+                    <a class="b--black-10 ba db   css-product-photo-grid-item-inner" href="/shop_detail_featured.jpg">
+                        <img class="db mb0 w-100" src="/shop_detail_featured.jpg" />
+                    </a>
                 </div>
                 <div class="css-product-photo-grid-item-outer">
-                    <div class="b--black-10 ba dim   css-product-photo-grid-item-inner">
+                    <a class="b--black-10 ba db   css-product-photo-grid-item-inner" href="/shirt_small.png">
                         <img class="db mb0 w-100" src="/shirt_small.png" />
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>
