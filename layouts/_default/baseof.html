@@ -84,13 +84,13 @@
 				var linkAlt = link.attr("alt");
 				{
 					$(previewImg).animate({
-						opacity: 0.8,
+						opacity: 0,
 					}, 300, function() {
 						previewImg.attr("src", linkHref);
 						previewImg.attr("alt", linkAlt);
 						$(this).animate({
 							opacity: 1,
-							}, 300
+						}, 750
 						);
 					});
 				}
