@@ -78,11 +78,15 @@
 		<script>
 		$(document).ready(function() {
 			var previewImg = $("img.js-product-photo-featured");
+			$(".js-product-photo-grid a:first").addClass("active");
 			$(".js-product-photo-grid a img").click(function(){
 				var link = $(this).parent();
 				var linkHref = link.attr("href");
 				var linkAlt = link.attr("alt");
+				if( $(link).hasClass("active") == false)
 				{
+					$("a").removeClass("active");
+					link.addClass("active");
 					$(previewImg).animate({
 						opacity: 0,
 					}, 300, function() {
@@ -98,5 +102,6 @@
 			});
 		});
 		</script>
+
 	</body>
 </html>
