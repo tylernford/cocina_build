@@ -1,5 +1,6 @@
 ---
 title: Product Five
+product_category: t-shirt
 name: t-shirt
 ---
 
