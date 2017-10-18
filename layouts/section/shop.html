@@ -25,7 +25,7 @@
 </style>
 <main class="mt-3 ph3   mt5-ns ph4-ns   mt0@50   pb-6_5@53   ph5-l" style="padding-bottom:88px">
     <h1 class="element-invisible">Shop</h1>
-
+        <!--
         {{ range .Data.Pages.GroupByParam "product_category" }}
         <h3>{{ .Key }}</h3>
         <ul>
@@ -36,8 +36,7 @@
             {{ end }}
         </ul>
         {{ end }}
-
-
+    -->
 
     <div class="center mw-64">
         {{ range .Data.Pages.GroupByParam "product_category" }}
@@ -52,12 +51,12 @@
             <div class="flex flex-wrap justify-between ">
                 {{ range .Pages }}
                 <div class="mt-2_3125   css-product-grid">
-                    <a class="db mb-_6875   mb-_9375-ns" href="">
+                    <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
                         <img class="db w-100" src="/shop_detail.png" />
                     </a>
-                    <a class="c-dark-brown db dim link" href="">
+                    <a class="c-dark-brown db dim link" href="{{ .URL }}">
                         <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</p>
-                        <p class="f5 fw6 jean-luc mv0   f-1_125-ns">$24</p>
+                        <p class="f5 fw6 jean-luc mv0   f-1_125-ns">${{ .Params.price }}</p>
                     </a>
                 </div>
                 {{ end }}
@@ -66,57 +65,6 @@
             </div>
         </div>
         {{ end }}
-
-
-        <div class="mb-_8125">
-            <h2 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">T-Shirts</h2>
-
-            <!--   Divider   -->
-            <div class="bg-gold h-_125 nb-_3125 mt0"></div>
-            <!-- End Divider -->
-
-            <!-- ADD PHANTOM DIVS LIKE ON THE ABOUT PAGE -->
-            <div class="flex flex-wrap justify-between ">
-                {{ range .Data.Pages }}
-                <div class="mt-2_3125   css-product-grid">
-                    <a class="db mb-_6875   mb-_9375-ns" href="">
-                        <img class="db w-100" src="/shop_detail.png" />
-                    </a>
-                    <a class="c-dark-brown db dim link" href="">
-                        <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">Ground Break Daytona Beach T-Shirt (Gold)</p>
-                        <p class="f5 fw6 jean-luc mv0   f-1_125-ns">$24</p>
-                    </a>
-                </div>
-                {{ end }}
-                <div class="css-product-grid" >
-                </div>
-            </div>
-        </div>
-
-        <div class="mb-_8125">
-            <h2 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">T-Shirts</h2>
-
-            <!--   Divider   -->
-            <div class="bg-gold h-_125 nb-_3125 mt0"></div>
-            <!-- End Divider -->
-
-            <!-- ADD PHANTOM DIVS LIKE ON THE ABOUT PAGE -->
-            <div class="flex flex-wrap justify-between ">
-                {{ range .Data.Pages }}
-                <div class="mt-2_3125   css-product-grid">
-                    <a class="db mb-_6875   mb-_9375-ns" href="">
-                        <img class="db w-100" src="/shop_detail.png" />
-                    </a>
-                    <a class="c-dark-brown db dim link" href="">
-                        <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">Ground Break Daytona Beach T-Shirt (Gold)</p>
-                        <p class="f5 fw6 jean-luc mv0   f-1_125-ns">$24</p>
-                    </a>
-                </div>
-                {{ end }}
-                <div class="css-product-grid" >
-                </div>
-            </div>
-        </div>
     </div>
 </main>
 {{ end }}
