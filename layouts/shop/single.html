@@ -124,7 +124,7 @@ border-color:rgba(209,132,25,.7)}
 </style>
 <main class="bg-white mt-3 pb5   mt5-ns   mt0@50">
     <h1 class="element-invisible">Our Locations</h1>
-    <h1>hey / {{ .Page.Type }}</h1>
+    <h1>{{ range .Site.Sections }}{{.}}{{end}}</h1>
 
     <div class="flex@53">
 
