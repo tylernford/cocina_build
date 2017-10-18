@@ -39,6 +39,7 @@
     -->
 
     <div class="center mw-64">
+        {{ .Section }}
         {{ range .Data.Pages.GroupByParam "product_category" }}
         <div class="mb-_8125">
             <h2 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{ .Key }}</h2>
