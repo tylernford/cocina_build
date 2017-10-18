@@ -39,7 +39,7 @@
     -->
 
     <div class="center mw-64">
-        {{ with .Site.GetPage "section" "shop" }}{{ .Title }}{{ end }}
+        {{ .Title }}
 
         {{ range .Data.Pages.GroupByParam "product_category" }}
         <div class="mb-_8125">
