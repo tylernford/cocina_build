@@ -1,15 +1,5 @@
 {{ define "main" }}
 <style>
-.mb-375{margin-bottom:.375rem}
-.mb-_6875{margin-bottom:.6875rem}
-.mb-_8125{margin-bottom:.8125rem}
-
-.mt-2_3125{margin-top:2.3125rem}
-
-.nb-_3125{margin-bottom:-.3125rem}
-
-.pb-5_5{padding-bottom:5.5rem}
-
 /* --------- Add Phantom Grid Item ---------- */
 .css-product-grid:after {
     content: '';
@@ -18,21 +8,12 @@
 }
 .css-product-grid-item{width:48.2142857145%}
 @media screen and (min-width:30em) {
-    .f-1_125-ns{font-size:1.125rem}
-
-    .lh-1_5-ns{line-height:1.5rem}
-
-    .mb-_0625-ns{margin-bottom:.0625rem}
-    .mb-_9375-ns{margin-bottom:.9375rem}
-
-    /* --------- Phantom Grid Item ---------- */
     .css-product-grid:after {
         margin-left: 47.61904762%;
     }
     .css-product-grid-item {width:47.61904762%}
 }
 @media screen and (min-width:46em) {
-    /* --------- Phantom Grid Item ---------- */
     .css-product-grid:after {
         margin-left: 31.25%;
     }
@@ -60,14 +41,16 @@
                 <div class="mt-2_3125   css-product-grid-item">
                     <!--   Product Photo   -->
                     <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
-                        <img class="db w-100" src="{{ .Params.product_featured_image }}" />
+                        <img alt="" class="db w-100" src="{{ .Params.product_featured_image }}" />
                     </a>
                     <!-- End Product Photo -->
+
                     <!--   Product Info   -->
                     <a class="c-dark-brown db dim link" href="{{ .URL }}">
                         <!--   Product Name   -->
-                        <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</p>
+                        <h3 class="f6 fw6 mb-_375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</h3>
                         <!-- End Product Name -->
+
                         <!--   Product Price   -->
                         <p class="f5 fw6 jean-luc mv0   f-1_125-ns">${{ .Params.product_price }}</p>
                         <!-- End Product Price -->
