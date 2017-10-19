@@ -126,114 +126,106 @@ border-color:rgba(209,132,25,.7)}
     <h1 class="element-invisible">Our Locations</h1>
 
     <div class="flex@53">
-    <!--   Product Info / Add-to-Cart   -->
-    <div class="mb-2_8125 pr3 pt4   pr4-ns   mb0@53 pt-3_5@53 w-60@53   pr5@72 w-50@72">
-        <!--   Product Title   -->
-        <div class="flex@72 justify-end@72">
-            <h1 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns w-100   f3-ns ml4-ns pt0-ns   ml5-l   mw-28@72">{{ .Title }}</h1>
-        </div>
-        <!-- End Product Title -->
-
-        <!--   Divider   -->
-        <div class="flex@72 justify-end@72">
-            <div class="bg-gold h-_125 mb-1_375 mt-_3125 w-100   mt-_375-ns   w-30@90"></div>
-        </div>
-        <!-- End Divider -->
-
         <!--   Product Info / Add-to-Cart   -->
-        <div class="flex@72 justify-end@72">
-            <div class="lh-2 ml3 tracked-narrow   ml4-ns   ml5-l   mw-28@72">
-                <!--   Product Description   -->
-                <div class="measure-wide">
-                    <p class="f-1_75 fw6 jean-luc mb-1_3125 mt0">${{ .Params.Price }}</p>
-                    <div class="nested-p mb-2_8125">
-                        {{ .Content }}
-                    </div>
-                </div>
-                <!-- End Product Description -->
+        <div class="mb-2_8125 pr3 pt4   pr4-ns   mb0@53 pt-3_5@53 w-60@53   pr5@72 w-50@72">
+            <!--   Product Title   -->
+            <div class="flex@72 justify-end@72">
+                <h1 class="f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns w-100   f3-ns ml4-ns pt0-ns   ml5-l   mw-28@72">{{ .Title }}</h1>
+            </div>
+            <!-- End Product Title -->
 
-                <!--   Product Details/Add-to-Cart   -->
-                <div class="flex flex-column-reverse   flex-row@40 justify-between@40   justify-start@49   flex-column-reverse@53">
-                    {{if .Params.details }}
-                        <!--   Product Details   -->
-                        <div class="nested-list lh-2   pr4@49 w-27@49   pr0@53 w-auto@53">
-                            <h2 class="f-1_125 fw6 mb-2_0625 mt0 tracked-narrow ttu wrksns   nt-_375@40   mt0@53">Details</h2>
-                            <ul>
-                                {{ range .Params.details }}
-                                    <li>{{ . }}</li>
-                                {{ end }}
-                            </ul>
+            <!--   Divider   -->
+            <div class="flex@72 justify-end@72">
+                <div class="bg-gold h-_125 mb-1_375 mt-_3125 w-100   mt-_375-ns   w-30@90"></div>
+            </div>
+            <!-- End Divider -->
+
+            <!--   Product Info / Add-to-Cart   -->
+            <div class="flex@72 justify-end@72">
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   ml5-l   mw-28@72">
+                    <!--   Product Description   -->
+                    <div class="measure-wide">
+                        <p class="f-1_75 fw6 jean-luc mb-1_3125 mt0">${{ .Params.Price }}</p>
+                        <div class="nested-p mb-2_8125">
+                            {{ .Content }}
                         </div>
-                        <!-- End Product Details -->
-                    {{ end }}
+                    </div>
+                    <!-- End Product Description -->
 
-                    <!--   Add-to-Cart   -->
-                    <div class="mb-2_875   mb0@40    {{if .Params.details }}ml4@40   ml-_75@49 {{end}}  mb-2_875@53 ml0@53">
-                        <div class="flex justify-between mb-_1875 w-18">
-                            {{if .Params.options }}
-                                <select class="b--c-dark-brown ba bg-transparent br0 bw1 custom-dim fw6 h-2_5 input-reset jean-luc pl3 pointer tracked-narrow w-8_5   css-select">
-                                    {{ range .Params.options }}
-                                    <option value="{{ . }}">{{ . }}</option>
+                    <!--   Product Details/Add-to-Cart   -->
+                    <div class="flex flex-column-reverse   flex-row@40 justify-between@40   justify-start@49   flex-column-reverse@53">
+                        {{if .Params.details }}
+                            <!--   Product Details   -->
+                            <div class="nested-list lh-2   pr4@49 w-27@49   pr0@53 w-auto@53">
+                                <h2 class="f-1_125 fw6 mb-2_0625 mt0 tracked-narrow ttu wrksns   nt-_375@40   mt0@53">Details</h2>
+                                <ul>
+                                    {{ range .Params.details }}
+                                        <li>{{ . }}</li>
+                                    {{ end }}
+                                </ul>
+                            </div>
+                            <!-- End Product Details -->
+                        {{ end }}
+
+                        <!--   Add-to-Cart   -->
+                        <div class="mb-2_875   mb0@40    {{if .Params.details }}ml4@40   ml-_75@49 {{end}}  mb-2_875@53 ml0@53">
+                            <div class="flex justify-between mb-_1875 w-18">
+                                {{if .Params.options }}
+                                    <select class="b--c-dark-brown ba bg-transparent br0 bw1 custom-dim fw6 h-2_5 input-reset jean-luc pl3 pointer tracked-narrow w-8_5   css-select">
+                                        {{ range .Params.options }}
+                                            <option value="{{ . }}">{{ . }}</option>
                                     <!--
                                     <option class="dn" value="" disabled selected>Choose Size</option>
                                     <option value="value2">Value 1</option>
                                     <option value="value3">Value 2</option>
                                     -->
-                                    {{ end }}
-                                </select>
+                                        {{ end }}
+                                    </select>
+                                {{ end }}
+                                <button class=" bn bg-red fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-c-red hover-bw1 jean-luc pointer tracked-narrow w-8_5 white">Add to Cart</button>
+                            </div>
+                            {{if .Params.chart }}
+                                <a class="c-dark-brown custom-dim f7 hover-no-underline link mv0 underline wrksns" href="{{ .Params.chart }}">Size Guide</a>
                             {{ end }}
-                            <button class=" bn bg-red fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-c-red hover-bw1 jean-luc pointer tracked-narrow w-8_5 white">Add to Cart</button>
                         </div>
-                        {{if .Params.chart }}
-                            <a class="c-dark-brown custom-dim f7 hover-no-underline link mv0 underline wrksns" href="{{ .Params.chart }}">Size Guide</a>
-                        {{ end }}
+                        <!-- End Add-to-Cart -->
                     </div>
-                    <!-- End Add-to-Cart -->
+                    <!-- End Product Details/Add-to-Cart -->
                 </div>
-                <!-- End Product Details/Add-to-Cart -->
             </div>
+            <!-- End Product Info / Add-to-Cart -->
         </div>
         <!-- End Product Info / Add-to-Cart -->
-    </div>
-    <!-- End Product Info / Add-to-Cart -->
 
-    <!--   Product Photos   -->
-    <div class="ph3 self-start   ph4-ns   pl0@53 w-40@53   pr0-l   w-50@72">
-        <div class="flex-ns   db@53 mt-3_5@53 mw-27@53   mr5-l   ml-5@72">
-            <!--   Featured Product Photo   -->
-            <div class="self-start   mw-27-ns">
-                <img class="db w-100   js-product-photo-featured" src="/shop_detail.png" />
-            </div>
-            <!-- End Featured Product Photo -->
+        <!--   Product Photos   -->
+        <div class="ph3 self-start   ph4-ns   pl0@53 w-40@53   pr0-l   w-50@72">
+            <div class="flex-ns   db@53 mt-3_5@53 mw-27@53   mr5-l   ml-5@72">
+                <!--   Featured Product Photo   -->
+                <div class="self-start   mw-27-ns">
+                    <img class="db w-100   js-product-photo-featured" src="{{ .Params.product_featured_image }}" />
+                </div>
+                <!-- End Featured Product Photo -->
 
-            <!---   Product Photo Grid   -->
-            <div class="flex flex-wrap justify-between   flex-column-ns justify-start-ns mw-5-ns   flex-row@53 justify-start@53 mw-100@53   css-product-photo-grid   js-product-photo-grid">
-                <div class="css-product-photo-grid-item-outer">
-                    <a class="db custom-dim   css-product-photo-grid-item-inner" href="/shop_detail.png">
-                        <img class="db mb0 w-100" src="/shop_detail.png" />
-                    </a>
+                <!---   Product Photo Grid   -->
+                <div class="flex flex-wrap justify-between   flex-column-ns justify-start-ns mw-5-ns   flex-row@53  justify-start@53 mw-100@53   css-product-photo-grid   js-product-photo-grid css-no-flex-shrink">
+                    <div class="css-product-photo-grid-item-outer">
+                        <a class="db custom-dim   css-product-photo-grid-item-inner" href="{{ .Params.product_featured_image }}">
+                            <img class="db mb0 w-100" src="{{ .Params.product_featured_image }}" />
+                        </a>
+                    </div>
+                    {{ range .Params.product_images }}
+                    <div class="css-product-photo-grid-item-outer">
+                        <a class="db custom-dim   css-product-photo-grid-item-inner" href="{{ . }}">
+                            <img class="db mb0 w-100" src="{{ . }}" />
+                        </a>
+                    </div>
+                    {{ end }}
                 </div>
-                <div class="css-product-photo-grid-item-outer">
-                    <a class="db custom-dim   css-product-photo-grid-item-inner" href="/shop_detail.png">
-                        <img class="db mb0 w-100" src="/shop_detail.png" />
-                    </a>
-                </div>
-                <div class="css-product-photo-grid-item-outer">
-                    <a class="db custom-dim   css-product-photo-grid-item-inner" href="/shop_detail.png">
-                        <img class="db mb0 w-100" src="/shop_detail.png" />
-                    </a>
-                </div>
-                <div class="css-product-photo-grid-item-outer">
-                    <a class="db custom-dim   css-product-photo-grid-item-inner" href="/shop_detail.png">
-                        <img class="db mb0 w-100" src="/shop_detail.png" />
-                    </a>
-                </div>
+                <!-- End Product Photo Grid -->
             </div>
-            <!-- End Product Photo Grid -->
         </div>
+        <!-- End Product Photos -->
     </div>
-    <!-- End Product Photos -->
-</div>
 
 
     <div class="ph3   ph4-ns   ph5-l">
