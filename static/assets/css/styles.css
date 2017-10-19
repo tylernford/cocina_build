@@ -81,6 +81,57 @@ body {
 
 
 
+/* ---------------------------------------   Product Page Styles   -------------------------------------- */
+/* ----------------   Select Styles   ---------------- */
+/* Select Styles
+/* Hide dropdown select arrow in IE10/11 */
+select::-ms-expand {display: none}
+/* Custom select styling */
+.css-select{
+    background-image:url(/assets/icons/select-background.svg);
+    background-repeat:no-repeat;
+    background-size: 8.25rem 2.25rem
+}
+/* ---------------- End Select Styles ---------------- */
+.custom-dim:hover{
+    -webkit-transition:opacity .15s ease-in;transition:opacity .15s ease-in;
+    opacity:.5
+}
+
+/* ----------   Product Photo Grid Styles   ---------- */
+/* Add border to selected photo */
+.css-product-photo-grid-item-inner.active{
+    border:2px solid;
+    border-color:rgba(209,132,25,.7)
+}
+
+.css-product-photo-grid-item-outer{width:22.9910714283%}
+.css-product-photo-grid-item-inner{margin-top:11.65048544%}
+@media screen and (min-width:30em) {
+    .css-product-photo-grid{margin-left:.75rem}
+    .css-product-photo-grid-item-outer{width:100%}
+    .css-product-photo-grid-item-inner{
+        margin-bottom:15%;
+        margin-top:0
+    }
+}
+@media screen and (min-width:53em) {
+    .css-product-photo-grid{margin-left:0}
+    .css-product-photo-grid-item-outer{
+        margin-right:2.777777778%;
+        width:18.51851852%
+    }
+    .css-product-photo-grid-item-inner{
+        margin-bottom:0;
+        margin-top:15%
+    }
+}
+/* ---------- End Product Photo Grid Styles ---------- */
+/* --------------------------------------- End Product Page Styles -------------------------------------- */
+
+
+
+
 /* ------------------------------------------------ NAV ------------------------------------------------- */
 .element-invisible {
     position: absolute !important;
