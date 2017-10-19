@@ -2,6 +2,7 @@
 .b--c-dark-brown{border-color:#2B2422}
 .b--c-gold{border-color:#D18419}
 .b--c-gold-hover:hover{border-color:#D18419}
+.b--c-red{border-color:#E63728}
 
 .bg-dark-brown{background-color:rgba(43,36,34,.98)}
 .bg-gold{background-color:rgba(209,132,25,.9)}
@@ -26,8 +27,11 @@
 .h-20{height:20rem}
 .h-30{height:30rem}
 
+.hover-b--c-red:hover{border-color:#E63728}
+.hover-ba:hover{border-style:solid;border-width:1px}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
 .hover-bg-gold:hover{background-color:#D18419}
+.hover-bw1:hover{border-width:.125rem}
 .hover-c-dark-brown:hover{color:#2B2422}
 .hover-c-gold:hover{color:#D18419}
 .hover-c-red:hover{color:#E63728}
@@ -41,6 +45,7 @@
 .mb-_4375{margin-bottom:.4375rem}
 .mb-_5625{margin-bottom:.5625rem}
 .mb-_625{margin-bottom:.625rem}
+.mb-_6875{margin-bottom:.6875rem}
 .mb-_8125{margin-bottom:.8125rem}
 .mb-1_1875{margin-bottom:1.1875rem}
 .mb-1_25{margin-bottom:1.25rem}
@@ -63,9 +68,12 @@
 .mt-1_8125{margin-top:1.8125rem}
 .mt-1_9375{margin-top:1.9375rem}
 .mt-2_1875{margin-top:2.1875rem}
+.mt-2_3125{margin-top:2.3125rem}
 .mt-2_4375{margin-top:2.4375rem}
 .mt-2_8125{margin-top:2.8125rem}
 .mt-3{margin-top:3rem}
+
+.nb-_3125{margin-bottom:-.3125rem}
 
 .nt-_1875{margin-top:-.1875rem}
 
@@ -75,6 +83,7 @@
 .pb-4_25{padding-bottom:4.25rem}
 .pb-4_3125{padding-bottom:4.3125rem}
 .pb-5_3125{padding-bottom:5.3125rem}
+.pb-5_5{padding-bottom:5.5rem}
 
 .pt-_0625{padding-top:.0625rem}
 .pt-_375{padding-top:.375rem}
@@ -114,18 +123,24 @@
     .w-48\@25{width:48%}
 }
 @media screen and (min-width:30em) {
+    .f-1_125-ns{font-size:1.125rem}
+
     .h3-ns{height:4rem}
     .h-25-ns{height:25rem}
     .h-28_5-ns{height:28.5rem}
     .h-30-ns{height:30rem}
     .h-37_5-ns{height:37.5rem}
 
+    .lh-1_5-ns{line-height:1.5rem}
     .lh-1_75-ns{line-height:1.75rem}
 
+
+    .mb-_0625-ns{margin-bottom:.0625rem}
     .mb-_375-ns{margin-bottom:.375rem}
     .mb2-ns{margin-bottom:.5rem}
-    .mb-1_5-ns{margin-bottom:1.5rem}
     .mb-_625-ns{margin-bottom:.625rem}
+    .mb-_9375-ns{margin-bottom:.9375rem}
+    .mb-1_5-ns{margin-bottom:1.5rem}
 
     .mt-_3125-ns{margin-top:.3125rem}
     .mt-_375-ns{margin-top:.375rem}

@@ -3,45 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cocina-build.netlify.com/about/</loc>
+    <loc>https://usher-heel-74031.netlify.com/news/great-things-coming/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/categories/</loc>
+    <loc>https://usher-heel-74031.netlify.com/news/this-is-a-post/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/news/we-have-news/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/dine/</loc>
+    <loc>https://usher-heel-74031.netlify.com/dine/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/</loc>
+    <loc>https://usher-heel-74031.netlify.com/shop/gift-card-10/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/location/</loc>
+    <loc>https://usher-heel-74031.netlify.com/shop/gift-card-25/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/shop/product-one/</loc>
+    <loc>https://usher-heel-74031.netlify.com/shop/shirt-black/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/shop/product-three/</loc>
+    <loc>https://usher-heel-74031.netlify.com/shop/shirt-gold/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/shop/product-two/</loc>
+    <loc>https://usher-heel-74031.netlify.com/shop/shirt-red/</loc>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/shop/</loc>
+    <loc>https://usher-heel-74031.netlify.com/categories/hello/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cocina-build.netlify.com/tags/</loc>
+    <loc>https://usher-heel-74031.netlify.com/categories/hi/</loc>
+    <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/location/</loc>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/news/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/shop/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/categories/web/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://usher-heel-74031.netlify.com/categories/wow/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

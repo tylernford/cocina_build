@@ -2,69 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Cocina 214</title>
-    <link>https://cocina-build.netlify.com/</link>
+    <link>https://usher-heel-74031.netlify.com/</link>
     <description>Recent content in Home on Cocina 214</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cocina-build.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usher-heel-74031.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Great Things Coming</title>
+      <link>https://usher-heel-74031.netlify.com/news/great-things-coming/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/news/great-things-coming/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>This is a Post</title>
+      <link>https://usher-heel-74031.netlify.com/news/this-is-a-post/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/news/this-is-a-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>We Have News</title>
+      <link>https://usher-heel-74031.netlify.com/news/we-have-news/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/news/we-have-news/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://cocina-build.netlify.com/about/</link>
+      <link>https://usher-heel-74031.netlify.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-build.netlify.com/about/</guid>
+      <guid>https://usher-heel-74031.netlify.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dine</title>
-      <link>https://cocina-build.netlify.com/dine/</link>
+      <link>https://usher-heel-74031.netlify.com/dine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-build.netlify.com/dine/</guid>
+      <guid>https://usher-heel-74031.netlify.com/dine/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Gift Card ($10)</title>
+      <link>https://usher-heel-74031.netlify.com/shop/gift-card-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/shop/gift-card-10/</guid>
+      <description>Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts.r Gift cards can be redeemed at our Winter Park or Daytona Beach locations.</description>
+    </item>
+    
+    <item>
+      <title>Gift Card ($25)</title>
+      <link>https://usher-heel-74031.netlify.com/shop/gift-card-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/shop/gift-card-25/</guid>
+      <description>Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts.r Gift cards can be redeemed at our Winter Park or Daytona Beach locations.</description>
+    </item>
+    
+    <item>
+      <title>Ground Break Daytona Beach T-Shirt (Black)</title>
+      <link>https://usher-heel-74031.netlify.com/shop/shirt-black/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/shop/shirt-black/</guid>
+      <description>The back of this Limited Edition Black Cocina shirt features a 9.5&amp;rdquo; silk screened reproduction of the label&amp;rsquo;s character dial. The front is a centered chest print featuring the brand name.</description>
+    </item>
+    
+    <item>
+      <title>Ground Break Daytona Beach T-Shirt (Gold)</title>
+      <link>https://usher-heel-74031.netlify.com/shop/shirt-gold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/shop/shirt-gold/</guid>
+      <description>The back of this Limited Edition Gold Cocina shirt features a 9.5&amp;rdquo; silk screened reproduction of the label&amp;rsquo;s character dial. The front is a centered chest print featuring the brand name.</description>
+    </item>
+    
+    <item>
+      <title>Ground Break Daytona Beach T-Shirt (Red)</title>
+      <link>https://usher-heel-74031.netlify.com/shop/shirt-red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/shop/shirt-red/</guid>
+      <description>The back of this Limited Edition Red Cocina shirt features a 9.5&amp;rdquo; silk screened reproduction of the label&amp;rsquo;s character dial. The front is a centered chest print featuring the brand name.</description>
     </item>
     
     <item>
       <title>Location</title>
-      <link>https://cocina-build.netlify.com/location/</link>
+      <link>https://usher-heel-74031.netlify.com/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-build.netlify.com/location/</guid>
+      <guid>https://usher-heel-74031.netlify.com/location/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Product One</title>
-      <link>https://cocina-build.netlify.com/shop/product-one/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cocina-build.netlify.com/shop/product-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
-    </item>
-    
-    <item>
-      <title>Product Three</title>
-      <link>https://cocina-build.netlify.com/shop/product-three/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cocina-build.netlify.com/shop/product-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
-    </item>
-    
-    <item>
-      <title>Product Two</title>
-      <link>https://cocina-build.netlify.com/shop/product-two/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cocina-build.netlify.com/shop/product-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
   </channel>
