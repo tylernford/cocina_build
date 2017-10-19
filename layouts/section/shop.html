@@ -1,70 +1,84 @@
 {{ define "main" }}
 <style>
-.h-11{height:11rem}
 .mb-375{margin-bottom:.375rem}
 .mb-_6875{margin-bottom:.6875rem}
 .mb-_8125{margin-bottom:.8125rem}
 
 .mt-2_3125{margin-top:2.3125rem}
-.nb-_1875{margin-bottom:-.1875rem}
+
 .nb-_3125{margin-bottom:-.3125rem}
-.css-product-grid{width:48.2142857145%}
+
+.pb-5_5{padding-bottom:5.5rem}
+
+/* --------- Add Phantom Grid Item ---------- */
+.css-product-grid:after {
+    content: '';
+    display: block;
+    margin-left: 48.2142857145%;
+}
+.css-product-grid-item{width:48.2142857145%}
 @media screen and (min-width:30em) {
     .f-1_125-ns{font-size:1.125rem}
-    .lh-1_5-ns{line-height:1.5rem}
-    .mb-_0625-ns{margin-bottom:.0625rem}
-    .mb-_125-ns{margin-bottom:.125rem}
 
+    .lh-1_5-ns{line-height:1.5rem}
+
+    .mb-_0625-ns{margin-bottom:.0625rem}
     .mb-_9375-ns{margin-bottom:.9375rem}
 
-    .css-product-grid {width:47.61904762%}
+    /* --------- Phantom Grid Item ---------- */
+    .css-product-grid:after {
+        margin-left: 47.61904762%;
+    }
+    .css-product-grid-item {width:47.61904762%}
 }
 @media screen and (min-width:46em) {
-    .css-product-grid {width:31.25%}
+    /* --------- Phantom Grid Item ---------- */
+    .css-product-grid:after {
+        margin-left: 31.25%;
+    }
+    .css-product-grid-item {width:31.25%}
 }
 </style>
-<main class="mt-3 ph3   mt5-ns ph4-ns   mt0@50   pb-6_5@53   ph5-l" style="padding-bottom:88px">
+<main class="mt-3 pb-5_5 ph3   mt5-ns ph4-ns   mt0@50   ph5-l">
     <h1 class="element-invisible">Shop</h1>
-        <!--
-        {{ range .Data.Pages.GroupByParam "product_category" }}
-        <h3>{{ .Key }}</h3>
-        <ul>
-            {{ range .Pages }}
-            <li>
-                <a href="">{{ .Title }}</a>
-            </li>
-            {{ end }}
-        </ul>
-        {{ end }}
-    -->
 
     <div class="center mw-64">
         {{ range .Data.Pages.GroupByParam "product_category" }}
-            <div class="mb-_8125">
-                <h2 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{ .Key }}</h2>
+        <div class="mb-_8125">
+            <!--   Product Category   -->
+            <h2 class="f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{ .Key }}</h2>
+            <!-- End Product Category -->
 
-                <!--   Divider   -->
-                <div class="bg-gold h-_125 nb-_3125 mt0"></div>
-                <!-- End Divider -->
+            <!--   Divider   -->
+            <div class="bg-gold h-_125 mt0 nb-_3125"></div>
+            <!-- End Divider -->
 
-                <div class="flex flex-wrap justify-between ">
-                    {{ range .Pages }}
-                        <div class="mt-2_3125   css-product-grid">
-                            <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
-                                <img class="db w-100" src="{{ .Params.product_featured_image }}" />
-                            </a>
-                            <a class="c-dark-brown db dim link" href="{{ .URL }}">
-                                <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</p>
-                                <p class="f5 fw6 jean-luc mv0   f-1_125-ns">${{ .Params.price }}</p>
-                            </a>
-                        </div>
-                    {{ end }}
-
-                    <!-- Phantom grid item -->
-                    <div class="css-product-grid" >
-                    </div>
+            <!--   Product Grid   -->
+            <div class="flex flex-wrap justify-between   css-product-grid">
+                {{ range .Pages }}
+                <!--   Product   -->
+                <div class="mt-2_3125   css-product-grid-item">
+                    <!--   Product Photo   -->
+                    <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
+                        <img class="db w-100" src="{{ .Params.product_featured_image }}" />
+                    </a>
+                    <!-- End Product Photo -->
+                    <!--   Product Info   -->
+                    <a class="c-dark-brown db dim link" href="{{ .URL }}">
+                        <!--   Product Name   -->
+                        <p class="f6 fw6 mb-375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</p>
+                        <!-- End Product Name -->
+                        <!--   Product Price   -->
+                        <p class="f5 fw6 jean-luc mv0   f-1_125-ns">${{ .Params.product_price }}</p>
+                        <!-- End Product Price -->
+                    </a>
+                    <!-- End Product Info -->
                 </div>
+                <!-- End Product -->
+                {{ end }}
             </div>
+            <!-- End Product Grid -->
+        </div>
         {{ end }}
     </div>
 </main>

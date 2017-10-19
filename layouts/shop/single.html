@@ -126,7 +126,6 @@ border-color:rgba(209,132,25,.7)}
 }
 </style>
 <main class="bg-white mt-3 pb5   mt5-ns   mt0@50">
-    <h1 class="element-invisible">Our Locations</h1>
 
     <div class="flex@53">
         <!--   Product Info / Add-to-Cart   -->
@@ -148,7 +147,7 @@ border-color:rgba(209,132,25,.7)}
                 <div class="lh-2 ml3 tracked-narrow   ml4-ns   ml5-l   mw-28@72">
                     <!--   Product Description   -->
                     <div class="measure-wide">
-                        <p class="f-1_75 fw6 jean-luc mb-1_3125 mt0">${{ .Params.price }}</p>
+                        <p class="f-1_75 fw6 jean-luc mb-1_3125 mt0">${{ .Params.product_price }}</p>
                         <div class="nested-p mb-2_8125">
                             {{ .Content }}
                         </div>
@@ -157,12 +156,12 @@ border-color:rgba(209,132,25,.7)}
 
                     <!--   Product Details/Add-to-Cart   -->
                     <div class="flex flex-column-reverse   flex-row@40 justify-between@40   justify-start@49   flex-column-reverse@53">
-                        {{if .Params.details }}
+                        {{if .Params.product_details }}
                             <!--   Product Details   -->
                             <div class="nested-list lh-2   pr4@49 w-27@49   pr0@53 w-auto@53">
                                 <h2 class="f-1_125 fw6 mb-2_0625 mt0 tracked-narrow ttu wrksns   nt-_375@40   mt0@53">Details</h2>
                                 <ul>
-                                    {{ range .Params.details }}
+                                    {{ range .Params.product_details }}
                                         <li>{{ . }}</li>
                                     {{ end }}
                                 </ul>
@@ -173,9 +172,9 @@ border-color:rgba(209,132,25,.7)}
                         <!--   Add-to-Cart   -->
                         <div class="mb-2_875   mb0@40    {{if .Params.details }}ml4@40   ml-_75@49 {{end}}  mb-2_875@53 ml0@53">
                             <div class="flex justify-between mb-_1875 w-18">
-                                {{if .Params.options }}
+                                {{if .Params.product_options }}
                                     <select class="b--c-dark-brown ba bg-transparent br0 bw1 custom-dim fw6 h-2_5 input-reset jean-luc pl3 pointer tracked-narrow w-8_5   css-select">
-                                        {{ range .Params.options }}
+                                        {{ range .Params.product_options }}
                                             <option value="{{ . }}">{{ . }}</option>
                                     <!--
                                     <option class="dn" value="" disabled selected>Choose Size</option>
@@ -187,8 +186,8 @@ border-color:rgba(209,132,25,.7)}
                                 {{ end }}
                                 <button class=" bn bg-red fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-c-red hover-bw1 jean-luc pointer tracked-narrow w-8_5 white">Add to Cart</button>
                             </div>
-                            {{if .Params.chart }}
-                                <a class="c-dark-brown custom-dim f7 hover-no-underline link mv0 underline wrksns" href="{{ .Params.chart }}">Size Guide</a>
+                            {{if .Params.product_size_guide }}
+                                <a class="c-dark-brown custom-dim f7 hover-no-underline link mv0 underline wrksns" href="{{ .Params.product_size_guide }}">Size Guide</a>
                             {{ end }}
                         </div>
                         <!-- End Add-to-Cart -->
