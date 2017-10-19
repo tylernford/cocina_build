@@ -46,6 +46,31 @@ body {
 
 
 
+/* ------------------------------------   Shop Product Grid Styles   ------------------------------------ */
+/* --------- Add Phantom Grid Item ---------- */
+.css-product-grid:after {
+    content: '';
+    display: block;
+    margin-left: 48.2142857145%;
+}
+.css-product-grid-item{width:48.2142857145%}
+@media screen and (min-width:30em) {
+    .css-product-grid:after {
+        margin-left: 47.61904762%;
+    }
+    .css-product-grid-item {width:47.61904762%}
+}
+@media screen and (min-width:46em) {
+    .css-product-grid:after {
+        margin-left: 31.25%;
+    }
+    .css-product-grid-item {width:31.25%}
+}
+/* ------------------------------------ End Shop Product Grid Styles ------------------------------------ */
+
+
+
+
 /* ------------------------------------------------ NAV ------------------------------------------------- */
 .element-invisible {
     position: absolute !important;
