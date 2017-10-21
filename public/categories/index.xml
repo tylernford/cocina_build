@@ -2,13 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Cocina 214</title>
-    <link>https://cocina-build.netlify.com/categories/</link>
+    <link>https://usher-heel-74031.netlify.com/categories/</link>
     <description>Recent content in Categories on Cocina 214</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cocina-build.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://usher-heel-74031.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://usher-heel-74031.netlify.com/categories/hello/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/categories/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi</title>
+      <link>https://usher-heel-74031.netlify.com/categories/hi/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/categories/hi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://usher-heel-74031.netlify.com/categories/web/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wow</title>
+      <link>https://usher-heel-74031.netlify.com/categories/wow/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://usher-heel-74031.netlify.com/categories/wow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

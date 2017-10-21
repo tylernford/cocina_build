@@ -103,5 +103,22 @@
 		});
 		</script>
 
+		<!-- Code for Filtering Blog Posts -->
+		<script>
+		var $boxes = $("#parent > .box");
+		var $btns = $(".btn").on("click", function() {
+
+  			var active =
+    			$btns.removeClass("active")
+      				.filter(this)
+      				.addClass("active")
+      				.data("filter");
+
+  			$boxes
+    			.hide()
+    			.filter( "." + active )
+    			.fadeIn(1250);
+		});
+		</script>
 	</body>
 </html>
