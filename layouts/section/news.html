@@ -64,7 +64,7 @@
 <!-- End Post Categories -->
 
     <div id="parent">
-        {{ range .Pages }}
+        {{ range .Data.Pages }}
         <div class="box {{ range .Params.categories }}{{ lower (.) }} {{ end }}">
             <!--   Featured Image on Small Displays   -->
             <div class="h-15 h-25-ns   dn@53" style="background:url({{ .Site.BaseURL }}/assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;"></div>
