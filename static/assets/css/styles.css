@@ -88,7 +88,7 @@ body {
 select::-ms-expand {display: none}
 /* Custom select styling */
 .css-select{
-    background-image:url(/assets/icons/select-background.svg);
+    background-image:url('../icons/select-background.svg');
     background-repeat:no-repeat;
     background-size: 8.25rem 2.25rem
 }
