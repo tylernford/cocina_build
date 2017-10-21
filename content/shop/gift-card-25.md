@@ -1,6 +1,7 @@
 ---
 title: Gift Card ($25)
 product_category: Gift Cards
+product_id: gift-card-25
 product_price: 25
 product_details:
 product_options:
@@ -9,4 +10,4 @@ product_featured_image: /assets/images/shop/gift_card.png
 product_images:
 ---
 
-Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts.r Gift cards can be redeemed at our Winter Park or Daytona Beach locations.
+Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts. Gift cards can be redeemed at our Winter Park or Daytona Beach locations.

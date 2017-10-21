@@ -1,11 +1,12 @@
 ---
 title: Ground Break Daytona Beach T-Shirt (Red)
+product_id: ground-break-t-shirt-red
 product_category: t-shirt
 product_price: 24
 product_details:
 - 100% Cotton
 - Tri-Blend American Apparel
-product_options:
+product_sizes:
 - Small
 - Medium
 - Large

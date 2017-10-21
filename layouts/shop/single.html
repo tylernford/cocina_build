@@ -45,14 +45,26 @@
                         <!--   Add-to-Cart   -->
                         <div class="mb-2_875   mb0@40   {{if .Params.details }}ml4@40   ml-_75@49{{end}}   mb-2_875@53 ml0@53">
                             <div class="flex justify-between mb-_1875 w-18">
-                                {{if .Params.product_options }}
-                                    <select class="b--c-dark-brown ba bg-transparent br0 bw1 custom-dim fw6 h-2_5 input-reset jean-luc pl3 pointer tracked-narrow w-8_5   css-select">
-                                        {{ range .Params.product_options }}
+                                {{if .Params.product_sizes }}
+                                    <select class="b--c-dark-brown ba bg-transparent br0 bw1 custom-dim fw6 h-2_5 input-reset jean-luc pl3 pointer tracked-narrow w-8_5   css-select" id="js-snipcart-select">
+                                        {{ range .Params.product_sizes }}
                                             <option value="{{ . }}">{{ . }}</option>
                                         {{ end }}
                                     </select>
                                 {{ end }}
-                                <button class="bg-red bn fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-bw1 hover-c-red jean-luc pointer tracked-narrow w-8_5 white">Add to Cart</button>
+                                <button class="bg-red bn fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-bw1 hover-c-red jean-luc pointer tracked-narrow w-8_5 white   snipcart-add-item"
+                                    data-item-name="{{ .Title }}"
+                                    data-item-id="{{ .Params.product_id }}"
+                                    data-item-image="{{ .Params.product_featured_image }}"
+                                    data-item-url="{{ .URL }}"
+                                    data-item-price="{{ .Params.product_price }}"
+                                    {{if .Params.product_sizes }}
+                                    data-item-custom1-name="Size"
+                                    data-item-custom1-options="{{ range first 1 .Params.product_sizes }}{{ . }}{{ end }}{{ range after 1 .Params.product_sizes }}|{{ . }}{{ end }}"
+                                    {{ end }}
+                                    id="js-snipcart-add-to-cart-button">
+                                    Add to Cart
+                                </button>
                             </div>
                             {{if .Params.product_size_guide }}
                                 <a class="c-dark-brown custom-dim f7 hover-no-underline link mv0 underline wrksns" href="{{ .Params.product_size_guide }}">Size Guide</a>

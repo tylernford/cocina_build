@@ -1,11 +1,12 @@
 ---
 title: Ground Break Daytona Beach T-Shirt (Black)
 product_category: t-shirt
+product_id: ground-break-t-shirt-black
 product_price: 24
 product_details:
 - 100% Cotton
 - Tri-Blend American Apparel
-product_options:
+product_sizes:
 - Small
 - Medium
 - Large

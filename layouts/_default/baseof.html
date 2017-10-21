@@ -20,10 +20,8 @@
         <link href="{{ .Site.BaseURL }}/assets/css/fonts.css" rel="stylesheet">
 		<link href="{{ .Site.BaseURL }}/assets/css/hamburger.css" rel="stylesheet">
 
-		<!-- Snipcart Dependencies -->
-		<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YmZkMmRkYzAtM2I0ZS00MDk4LTk3YWQtOTBlODhhYmViNGI1NjM2NDIyOTkzMzEwMDQyNzA4"></script>
-		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
-		
+
+
 		<!--[if IE]>
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
@@ -78,8 +76,23 @@
             });
         </script>
 
-		<!-- Code for Swapping Product Images -->
+
+		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+		<!-- Snipcart Dependencies -->
+		<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
+				id="snipcart" data-api-key="YmZkMmRkYzAtM2I0ZS00MDk4LTk3YWQtOTBlODhhYmViNGI1NjM2NDIyOTkzMzEwMDQyNzA4"></script>
+		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
+
+		<!-- Snipcart Select -->
+		<script>
+		$('#js-snipcart-select').change(function() {
+			$('#js-snipcart-add-to-cart-button').data('item-custom1-value', $(this).val());
+		});
+		</script>
+
+		<!-- Code for Swapping Product Images -->
 		<script>
 		$(document).ready(function() {
 			var previewImg = $("img.js-product-photo-featured");
