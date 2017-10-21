@@ -11,26 +11,26 @@
 @font-face {
     font-family: "Work Sans";
     font-weight:400;
-    src: url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-Regular.woff2") format("woff2"),
-         url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-Regular.woff") format("woff");
+    src: url("../assets/fonts/WorkSans-Regular.woff2") format("woff2"),
+         url("../assets/fonts/WorkSans-Regular.woff") format("woff");
 }
 @font-face {
     font-family: "Work Sans";
     font-weight:500;
-    src: url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-Medium.woff2") format("woff2"),
-         url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-Medium.woff") format("woff");
+    src: url("../fonts/WorkSans-Medium.woff2") format("woff2"),
+         url("../fonts/WorkSans-Medium.woff") format("woff");
 }
 @font-face {
     font-family: "Work Sans";
     font-weight:600;
-    src: url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-SemiBold.woff2") format("woff2"),
-         url("{{ .Site.BaseURL }}/assets/fonts/WorkSans-SemiBold.woff") format("woff");
+    src: url("../fonts/WorkSans-SemiBold.woff2") format("woff2"),
+         url("../fonts/WorkSans-SemiBold.woff") format("woff");
 }
 .wrksns {font-family:"Work Sans", sans-serif}
 @font-face {
     font-family: "JeanLuc";
     font-weight:600;
-    src: url("{{ .Site.BaseURL }}/assets/fonts/jeanlucweb-bold.woff") format("woff");
+    src: url("../fonts/jeanlucweb-bold.woff") format("woff");
 }
 .jean-luc{font-family:"JeanLuc", sans-serif}
 /*
