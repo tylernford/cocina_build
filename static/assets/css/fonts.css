@@ -2,7 +2,7 @@
 @font-face {
     font-family: "Stag Book";
     font-weight:400;
-    src: url("/assets/fonts/Stag-Book.otf") format("opentype");
+    src: url("https://cocina-build.netlify.com/assets/fonts/Stag-Book.otf") format("opentype");
 }
 .stag{
     font-family:"Stag Book", sans-serif;
