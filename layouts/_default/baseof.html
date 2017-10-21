@@ -23,7 +23,7 @@
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 	</head>
-	<body class="bg-white c-dark-brown center flex flex-column min-h-100 stag" style="background-image:url(/grid-8.svg);background-size:8px 8px;max-width:2000px">
+	<body class="bg-white c-dark-brown center flex flex-column min-h-100 stag" style="baackground-image:url(/grid-8.svg);background-size:8px 8px;max-width:2000px">
 		<div class="push-footer">
         	<nav class="bb b--light-gray bg-white fixed top-0 flex h-3 items-center justify-between w-100   h3-ns   bn@50 static@50   db-l h-10_5-l    z-1">
 
@@ -101,6 +101,26 @@
 				return false;
 			});
 		});
+		</script>
+
+		<!-- Code for Filtering Blog Posts -->
+		<script>
+		var $boxes = $("#parent > .box");
+		var $btns = $(".btn").on("click", function() {
+
+  			var active =
+    			$btns.removeClass("active")
+      				.filter(this)
+      				.addClass("active")
+      				.data("filter");
+
+  			$boxes
+    			.hide()
+    			.filter( "." + active )
+    			.fadeIn(1250);
+		});
+
+
 		</script>
 
 	</body>

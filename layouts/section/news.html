@@ -1,23 +1,71 @@
 {{ define "main" }}
-<main class="mt-3   mt5-ns   mt0@50   pb-6_5@53">
+<style>
+.css-category{color:#2B2422}
+.css-category:focus{outline:none}
+.css-category,.css-category:focus,.css-category:hover{-webkit-transition:color .15s ease-in;transition:color .15s ease-in}
+.css-category:focus,.css-category:hover{color:#D18419}
+
+
+
+
+.lh-1{line-height:1rem}
+
+.mb-2_375{margin-bottom:2.375rem}
+.mb-_6875{margin-bottom:.6875rem}
+
+.mt-5_5{margin-top:5.5rem}
+@media screen and (min-width:30em) {
+    .mb-_9375-ns{margin-bottom:.9375rem}
+    .mt-6_5-ns{margin-top:6.5rem}
+}
+@media screen and (min-width:31em) {
+    .justify-between\@31{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+
+    .mb0\@31{margin-bottom:0}
+    .mb-3_125\@31{margin-bottom:3.125rem}
+
+    .w-auto\@31{width:auto}
+}
+@media screen and (min-width:50em) {
+    .mt-2_5\@50{margin-top:2.5rem}
+}
+@media screen and (min-width:53em) {
+    .mb0\@53{margin-bottom:0}
+    .mb-2_625\@53{margin-bottom:2.625rem}
+}
+@media screen and (min-width:60em) {
+    .mb-1_9375-l{margin-bottom:1.9375rem}
+}
+@media screen and (min-width:79em) {
+    .mw-64\@79{max-width:64rem}
+    .ph0\@79{padding-left:0;padding-right:0}
+}
+</style>
+<main class="bg-white mt-5_5   mt-6_5-ns   mt-2_5@50   mt-3_5@53 pb-6_5@53">
     <h1 class="element-invisible">News</h1>
-<!--
-    <div>
-        {{ range $key, $value := .Site.Taxonomies.categories }}
-            js-{{ lower ($key | title) }}
-        {{ end }}
+
+<!--   Post Categories   -->
+<div class="center ph3   ph4-ns   ph5-l   mw-64@79 ph0@79">
+    <!--   Divider   -->
+    <div class="bg-dark-brown h-_125 mb3 mt0   mb-_9375-ns   mb-1_9375-l"></div>
+    <!-- End Divider -->
+
+    <!--   Category List   -->
+    <div class="flex flex-wrap mb-2_375   justify-between@31 mb-3_125@31   mb-2_625@53   ph5-l">
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="box">All</button>
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="upcoming">Upcoming</button>
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="current">Current</button>
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="past-events">Past Events</button>
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="awards">Awards</button>
+        <button class="f6 bg-transparent bn c-dark-brown db mb-_6875 mt0 ph0 pointer stag tracked-narrow   css-category lh-1 w-third   f5-ns   mb0@31 w-auto@31        btn" data-filter="press">Press</button>
     </div>
---
-
-<button class="active btn" data-filter="box">Show All</button>
-{{ range $key, $value := .Site.Taxonomies.categories }}
-    <button class="btn" data-filter="{{ lower ($key | title) }}">{{ lower ($key | title) }}</button>
-{{ end }}-->
-
+    <!-- End Category List -->
+</div>
+<!-- End Post Categories -->
 
     <div id="parent">
-        {{ range .Data.Pages }}
-        <div class="box {{ range .Params.categories }}{{ . }} {{ end }}">
+        {{ range .Pages }}
+        <div class="box {{ range .Params.categories }}{{ lower (.) }} {{ end }}">
             <!--   Featured Image on Small Displays   -->
             <div class="h-15 h-25-ns   dn@53" style="background:url({{ .Site.BaseURL }}/assets/images/news/featured_image.jpg) no-repeat center center;background-size:cover;"></div>
             <!-- End Featured Image on Small Displays -->
