@@ -5,7 +5,7 @@
     src: url("https://cocina-build.netlify.com/assets/fonts/Stag-Book.otf") format("opentype");
 }
 .stag{
-    font-family:"Stag Book", sans-serif;
+    font-family:'Stag Book', sans-serif;
     font-weight:400
 }
 @font-face {
