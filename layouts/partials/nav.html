@@ -1,6 +1,6 @@
 <!--Nav for Displays 50em and Wider -->
 <div class="dn h3 w-100   db@50   css-ie-flex-shrink">
-    <div class="f5 flex fw5 h3 items-center justify-between pl5 pr4 wrksns   pt-_125@50   center-l f-1_0625-l fw6-l pr5-l pt-1_25-l   mw-64@72 ph0@72">
+    <div class="f5 flex fw5 h3 items-center justify-between pl4 pr4 wrksns   pt-_125@50   center-l f-1_0625-l fw6-l pr5-l pt-1_25-l   mw-64@72 ph0@72">
         <a class="c-gold dn fw6 hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu   db-l
         {{ if eq .Title "Cocina 214" }}css-current-page-link{{ end }}" href="/">Home</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
@@ -12,8 +12,94 @@
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
         {{ if eq .Title "News" }}css-current-page-link{{ else if eq .Section "news" }}css-current-page-link{{ end }}" href="/news">News</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu
-        {{ if eq .Title "Shops" }}css-current-page-link{{ else if eq .Section "shop" }}css-current-page-link{{ end }}" href="/shop">Shop</a>
+        {{if or (eq .Title "Shops") (eq .Section "shop")}}css-current-page-link{{ end }}" href="/shop">Shop</a>
         <a class="c-gold db hover-c-dark-brown lh-solid link mb0 pb0 tracked-narrow ttu" href="">Contact</a>
+
+        <style>
+        .f-_5{font-size:.5rem}
+        .h-_8125{height:.8125rem}
+        .h-1_375{height:1.375rem}
+        .h-1_8125{height:1.8125rem}
+
+        .ml-_8125{margin-left:.8125rem}
+
+        .mr-3_5{margin-right:3.5rem}
+
+        .nt-_1875{margin-top:-.1875rem}
+
+        .pt-_125{padding-top:.125rem}
+
+        .w-_8125{width:.8125rem}
+        .w-1_625{width:1.625rem}
+        .w-1_8125{width:1.8125rem}
+        @media screen and (min-width:30em) {
+            .mr-4_5-ns{margin-right:4.5rem}
+        }
+        @media screen and (min-width:60em) {
+            .f-_5625-l{font-size:.5625rem}
+
+            .h1-l{height:1rem}
+            .h-1_8125-l{height:1.8125rem}
+
+            .mb0-l{margin-bottom:0}
+            .mt-2_6875-l{margin-top:2.6875rem}
+
+            .pt-_1875-l{padding-top:.1875rem}
+
+            .w1-l{width:1rem}
+            .w-1_8125-l{width:1.8125rem}
+            .w-100-l{width:100%}
+        }
+        @media screen and (min-width:70em) {
+            .mr0\@70{margin-right:0}
+        }
+
+
+
+
+        .css-snipcart-checkout-large {
+            background-image:url(/assets/icons/cart_small.svg);
+            background-size:1.625rem 1.375rem;
+            background-repeat:no-repeat;
+        }
+        @media screen and (min-width:60em) {
+            .css-snipcart-checkout-large {
+                background-image:url(/assets/icons/cart.svg);
+                background-size:1.8125rem 1.8125rem
+            }
+        }
+
+        .snipcart-summary.snipcart-cart-small{display:none}
+        /*jquery checks for class snipcart-summary-empty. if snipcart-summary-empty doesn't exist we'll add class
+        has-items*/
+        .snipcart-summary.snipcart-cart-small.woop{display:block}
+        .snipcart-summary.snipcart-cart-small.snipcart-summary-empty.woop{display:none}
+
+
+
+        /*jquery checks for class snipcart-summary-empty. if snipcart-summary-empty doesn't exist we'll add class
+        has-items*/
+        @media screen and (min-width:50em) {
+            .snipcart-summary.snipcart-cart-small.woop{display:none}
+
+            .snipcart-summary.snipcart-summary-large.snipcart-summary-empty.woop{display:none}
+            .snipcart-summary.snipcart-summary-large.woop{display:-webkit-box;display:-ms-flexbox;display:flex}
+        }
+
+        </style>
+
+
+        <!--   Cart Icon   -->
+        <div class="h-1_375 mb1 w-1_625   absolute-l center-l h-1_8125-l justify-end-l left-0-l mb0-l mt-2_6875-l ph5-l right-0-l top-0-l w-100-l   mw-64@72 ph0@72   snipcart-summary snipcart-summary-large">
+            <a href="#" class="db dim h-1_375 link w-1_625   h-1_8125-l w-1_8125-l   snipcart-checkout css-snipcart-checkout-large">
+                <span class="bg-solid-red br-100 db h-_8125 ml-_8125 w-_8125 tc   h1-l w1-l">
+                    <span class="code db f-_5 fw5 pt-_125 white   f-_5625-l fw6-l pt-_1875-l   snipcart-total-items">
+                    </span>
+                </span>
+            </a>
+        </div>
+        <!-- End Cart Icon -->
+
     </div>
 </div>
 

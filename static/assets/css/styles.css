@@ -175,7 +175,7 @@ select::-ms-expand {display: none}
     }
 }
 @media screen and (min-width:50em) {
-    .css-current-page-link{margin-bottom:-.125rem}
+    .css-current-page-link{margin-bottom:-.25rem}
     .css-current-page-link::after{
         margin-top:.125rem;
         background-color: #D18419;
