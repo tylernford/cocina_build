@@ -43,8 +43,7 @@
 
 				{{ partial "nav" . }}
 
-
-				<!--   Cart Icon   -->
+				<!--   Cart Icon on Small Displays   -->
 		        <div class="absolute h-1_375 mr-3_5 nt-_1875 right-0 w-1_625   mr-4_5-ns   snipcart-summary snipcart-cart-small">
 		            <a href="#" class="db dim h-1_375 link w-1_625   snipcart-checkout"
 					style="background-image:url(/assets/icons/cart_small.svg);background-repeat:no-repeat;
@@ -55,22 +54,7 @@
 		                </span>
 		            </a>
 		        </div>
-		        <!-- End Cart Icon -->
-		        <!--   Cart Icon   --
-		        <div class="absolute nt1 right-0   snipcart-summary     snipcart-cart-small"
-				style="height:22px;width:26px;margin-right:3.5rem;">
-		            <a href="#" class="bba db dim link snipcart-checkout" style="background-image:url(/assets/icons/cart_small.svg);background-repeat:no-repeat;background-size:26px 22px;height:22px;width:26px">
-						<span class="bg-solid-red db br-100 db tc"
-							style="height:13px;width:13px;margin-left:13px">
-		                	<span class="db fbg-black-40 fw5 white code      snipcart-total-items"
-							style="fmargin-left:14px;pfadding-top:1.5px;pfadding-left:3.5px;
-							font-size:8px;
-							padding-top:2px
-		                	"></span>
-						</span>
-		            </a>
-		        </div>
-		        <!-- End Cart Icon -->
+				<!-- End Cart Icon on Small Displays -->
         	</nav>
 		</div>
 
@@ -123,7 +107,7 @@
 		</script>
 		<script>
 		$(document).ready(function(){
-        	$(".snipcart-summary").addClass("woop");
+        	$(".snipcart-summary").addClass("css-snipcart-show-hide");
 		});
 		</script>
 
@@ -156,7 +140,7 @@
 		});
 		</script>
 
-		<!-- Code for Filtering Blog Posts -->
+		<!-- Code for Filtering Blog Posts --
 		<script>
 		var $boxes = $("#parent > .box");
 		var $btns = $(".btn").on("click", function() {
@@ -173,5 +157,6 @@
     			.fadeIn(1250);
 		});
 		</script>
+		-->
 	</body>
 </html>
