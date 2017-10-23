@@ -89,7 +89,23 @@
   </url>
   
   <url>
+    <loc>https://cocina-testing.netlify.com/news/awards/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-testing.netlify.com/news/current/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-testing.netlify.com/news/past-events/</loc>
+  </url>
+  
+  <url>
     <loc>https://cocina-testing.netlify.com/news/press/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cocina-testing.netlify.com/news/upcoming/</loc>
   </url>
   
   <url>

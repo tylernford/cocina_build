@@ -114,8 +114,10 @@
 
          
         @media screen and (min-width:50em) {
+
             .snipcart-summary.snipcart-cart-small.css-snipcart-show-hide{display:none}
 
+            .snipcart-summary.snipcart-summary-large{display:none}
             .snipcart-summary.snipcart-summary-large.snipcart-summary-empty.css-snipcart-show-hide{display:none}
             .snipcart-summary.snipcart-summary-large.css-snipcart-show-hide{display:-webkit-box;display:-ms-flexbox;display:flex}
         }
@@ -293,9 +295,13 @@
 		});
 		</script>
 		<script>
-		$(document).ready(function(){
-        	$(".snipcart-summary").addClass("css-snipcart-show-hide");
+		$(document).ready(function($) {
+    		setTimeout(function() {
+     			$(".snipcart-summary").addClass("css-snipcart-show-hide");
+    		}, 1);
 		});
+		
+
 		</script>
 
 		

@@ -135,11 +135,47 @@ Cocina 214’s menu combines bold flavors with the freshest local ingredients to
     </item>
     
     <item>
+      <title>News: Awards</title>
+      <link>https://cocina-testing.netlify.com/news/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-testing.netlify.com/news/awards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News: Current</title>
+      <link>https://cocina-testing.netlify.com/news/current/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-testing.netlify.com/news/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News: Past Events</title>
+      <link>https://cocina-testing.netlify.com/news/past-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-testing.netlify.com/news/past-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News: Press</title>
       <link>https://cocina-testing.netlify.com/news/press/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cocina-testing.netlify.com/news/press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News: Upcoming</title>
+      <link>https://cocina-testing.netlify.com/news/upcoming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cocina-testing.netlify.com/news/upcoming/</guid>
       <description></description>
     </item>
     
