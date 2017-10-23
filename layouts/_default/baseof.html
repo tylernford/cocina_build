@@ -106,9 +106,15 @@
 		});
 		</script>
 		<script>
-		$(document).ready(function(){
-        	$(".snipcart-summary").addClass("css-snipcart-show-hide");
+		$(document).ready(function($) {
+    		setTimeout(function() {
+     			$(".snipcart-summary").addClass("css-snipcart-show-hide");
+    		}, 1);
 		});
+		/*
+		$(document).ready(function(){
+			$(".snipcart-summary").addClass("css-snipcart-show-hid");
+		});*/
 		</script>
 
 		<!-- Code for Swapping Product Images -->
