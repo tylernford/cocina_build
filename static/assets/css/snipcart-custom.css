@@ -1,0 +1,81 @@
+.snip-layout {font-family:"Work Sans", sans-serif;font-weight:500}
+
+#snipcart-footer {
+    display: none
+}
+
+.snip-layout .snip-header {background:#fff}
+#snipcart-title.snip-header__title{display:none}
+#snipcart-header-total{background-color:#fff}
+.snip-header__total-label{color:#2B2422!important;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
+#snipcart-amount{color:#D18419;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
+
+/* Cart Close Button Color */
+#snipcart-close {color:#2B2422}
+
+.snip-layout .snip-ico--close {
+    /*
+    background-color:green;
+    height:16px!important;
+    width:16px!important;*/
+}
+.snip-layout .snip-ico--close:before {
+    /*
+    content: url("../icons/xxx.svg")!important;
+    margin:0!important;
+    padding:0!important;
+    background-color:red;
+    height:16px!important;
+    width:16px!important;
+    max-height:16px!important;
+    max-width:16px!important;
+    */
+}
+.snip-product__remove.snip-ico.snip-ico--close{overflow:hidden;baackground-color:blue;color:red}
+.snip-product__remove.snip-ico.snip-ico--close:before {display:none}
+.snip-product__remove.snip-ico.snip-ico--close:after {
+    color:red;
+    content:url("../icons/x.svg")!important;
+    line-height:0px!important;
+    font-size:0!important;
+    margin-top:-100px!important;
+    padding-bottom:100!important;
+    background-color:red;
+    height:16px!important;
+    width:16px!important;
+    max-height:16px!important;
+    max-width:16px!important;
+    /*url("../icons/xxx.svg")!important*/
+}
+
+.snip-actions > .snip-btn {
+    font-family:"JeanLuc";
+    height: 28px;
+    padding-top:2px;
+    line-height:24px;
+    color: #fff;
+    font-size: 12px;
+}
+.snip-actions > .snip-btn--highlight {
+    background-color:rgba(209,132,25,.9)
+}
+.snip-actions > .snip-btn--highlight:hover {
+    background-color:rgba(209,132,25,.7)
+}
+@media only screen and (min-width:48em) {
+    .snip-header__total-label, #snipcart-amount{font-size:18px!important}
+    .snip-actions > .snip-btn {
+        font-size: 16px;
+        height: 36px;
+        padding-top:6px;
+    }
+}
+/*
+.snip-layout .snip-btn--highlight {
+    background: rgba(209,132,25,.9);
+    color: #fff
+}
+
+.snip-layout .snip-btn--highlight:hover {
+    background-color: #eadf4a
+}*/
