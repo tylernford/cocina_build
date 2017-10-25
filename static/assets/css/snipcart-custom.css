@@ -1,4 +1,7 @@
-.snip-layout {font-family:"Work Sans", sans-serif;font-weight:500}
+
+ input {font-family:"Work Sans", sans-serif;}
+
+.snip-layout {font-family:"Work Sans", sans-serif;font-weight:600}
 
 /* Hide 'Powered by Snipcart' */
 #snipcart-footer {display: none}
@@ -14,9 +17,9 @@
 /* End Header */
 
 /* Close Cart Icons */
+.snip-layout .snip-layout__close{top:16px}
 .snip-layout .snip-ico--close:before {content: url("../icons/close_gray.svg")!important;}
 .snip-layout .snip-ico--close:hover:before {content: url("../icons/close_black.svg")!important;}
-.snip-layout .snip-layout__close{top:16px}
 /* Remove item icons */
 .snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
 .snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/close_gray.svg")!important;}
@@ -36,8 +39,11 @@
     font-size: 12px;
 }
 .snip-actions > .snip-btn--highlight {background-color:hsl(35, 79%, 46%)}
-.snip-actions > .snip-btn--highlight:hover {background-color:hsl(35, 89%, 46%);}
+.snip-actions > .snip-btn--highlight:hover {background-color:hsl(35, 75%, 49%)}
 /* End Next/Prev Action Buttons */
+#snipcart-previous{background-color:#544643}
+
+.snip-step__item.js-active > .snip-step__nb.snip-ico {color:#2b2422}
 
 
 /* Loading bar */
@@ -48,7 +54,7 @@
     left: -200px;
     width: 30%;
     height: .3em;
-    background-color: green;
+    background-color:hsl(35, 79%, 46%);
     -webkit-animation: snip-loading 2s ease-in-out infinite;
     animation: snip-loading 2s ease-in-out infinite
 }
@@ -61,6 +67,7 @@
         height: 36px;
         padding-top:6px;
     }
+    .snip-layout .snip-layout__close{top:12px;right:16px}
     /* Align remove item icon with item title */
     .snip-product__remove.snip-ico.snip-ico--close{margin-top:-2px}
 }
