@@ -31,27 +31,17 @@
     max-width:16px!important;
     */
 }
-.snip-product__remove.snip-ico.snip-ico--close{overflow:hidden;baackground-color:blue;color:red}
-.snip-product__remove.snip-ico.snip-ico--close:before {display:none}
-.snip-product__remove.snip-ico.snip-ico--close:after {
-    color:red;
-    content:url("../icons/x.svg")!important;
-    line-height:0px!important;
-    font-size:0!important;
-    margin-top:-100px!important;
-    padding-bottom:100!important;
-    background-color:red;
-    height:16px!important;
-    width:16px!important;
-    max-height:16px!important;
-    max-width:16px!important;
-    /*url("../icons/xxx.svg")!important*/
-}
+/* Align remove item icon with item title */
+.snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
+.snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/snipcart_remove_item.svg")!important;}
+
 
 .snip-actions > .snip-btn {
+    border-radius:0;
     font-family:"JeanLuc";
     height: 28px;
     padding-top:2px;
+    letter-spacing:.1em;
     line-height:24px;
     color: #fff;
     font-size: 12px;
@@ -69,6 +59,8 @@
         height: 36px;
         padding-top:6px;
     }
+    /* Align remove item icon with item title */
+    .snip-product__remove.snip-ico.snip-ico--close{margin-top:-2px}
 }
 /*
 .snip-layout .snip-btn--highlight {
