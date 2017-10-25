@@ -8,15 +8,16 @@
 
 /* Hide 'My Cart' in header */
 #snipcart-title.snip-header__title{display:none}
-#snipcart-header-total{background-color:#fff}
+#snipcart-header-total{background-color:white;padding-top:6px;}
 .snip-header__total-label{color:#2B2422!important;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
 #snipcart-amount{color:#D18419;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
 /* End Header */
 
-/* Cart Close Buttons */
+/* Close Cart Icons */
 .snip-layout .snip-ico--close:before {content: url("../icons/close_gray.svg")!important;}
 .snip-layout .snip-ico--close:hover:before {content: url("../icons/close_black.svg")!important;}
-/* Align remove item icon with item title */
+.snip-layout .snip-layout__close{top:16px}
+/* Remove item icons */
 .snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
 .snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/close_gray.svg")!important;}
 .snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/close_black.svg")!important;}
@@ -52,6 +53,8 @@
     animation: snip-loading 2s ease-in-out infinite
 }
 @media only screen and (min-width:48em) {
+    /* Adjust spacing of subtotal */
+    #snipcart-header-total{padding-top:0;margin-top:33px;}
     .snip-header__total-label, #snipcart-amount{font-size:18px!important}
     .snip-actions > .snip-btn {
         font-size: 16px;
