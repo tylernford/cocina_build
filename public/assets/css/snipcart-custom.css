@@ -1,29 +1,43 @@
 .snip-layout {font-family:"Work Sans", sans-serif;font-weight:500}
 
-/* Hide 'Powered by Snipcart' */
-#snipcart-footer {display: none}
+#snipcart-footer {
+    display: none
+}
 
-/* Header */
-.snip-layout .snip-header {background:#fff;border-bottom:1px solid rgb(238,238,238)}
-
-/* Hide 'My Cart' in header */
+.snip-layout .snip-header {background:#fff}
 #snipcart-title.snip-header__title{display:none}
 #snipcart-header-total{background-color:#fff}
 .snip-header__total-label{color:#2B2422!important;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
 #snipcart-amount{color:#D18419;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
-/* End Header */
 
-/* Cart Close Buttons */
-.snip-layout .snip-ico--close:before {content: url("../icons/close_gray.svg")!important;}
-.snip-layout .snip-ico--close:hover:before {content: url("../icons/close_black.svg")!important;}
+/* Cart Close Button Color */
+#snipcart-close {color:#2B2422}
+
+.snip-layout .snip-ico--close {
+    /*
+    background-color:green;
+    height:16px!important;
+    width:16px!important;*/
+}
+.snip-layout .snip-ico--close:before {
+    /*
+    content: url("../icons/xxx.svg")!important;
+    margin:0!important;
+    padding:0!important;
+    background-color:red;
+    height:16px!important;
+    width:16px!important;
+    max-height:16px!important;
+    max-width:16px!important;
+    */
+}
 /* Align remove item icon with item title */
 .snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
-.snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/close_gray.svg")!important;}
-.snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/close_black.svg")!important;}
+.snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/snipcart_remove_item.svg")!important;}
+.snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/snipcart_remove_item_hover.svg")!important;}
 
 
 
-/* - Next/Prev Action Buttons - */
 .snip-actions > .snip-btn {
     border-radius:0;
     font-family:"JeanLuc";
@@ -34,22 +48,11 @@
     color: #fff;
     font-size: 12px;
 }
-.snip-actions > .snip-btn--highlight {background-color:hsl(35, 79%, 46%)}
-.snip-actions > .snip-btn--highlight:hover {background-color:hsl(35, 89%, 46%);}
-/* End Next/Prev Action Buttons */
-
-
-/* Loading bar */
-.snip-layout .snip-loader--bar:before {
-    display: block;
-    position: absolute;
-    content: "";
-    left: -200px;
-    width: 30%;
-    height: .3em;
-    background-color: green;
-    -webkit-animation: snip-loading 2s ease-in-out infinite;
-    animation: snip-loading 2s ease-in-out infinite
+.snip-actions > .snip-btn--highlight {
+    background-color:rgba(209,132,25,.9)
+}
+.snip-actions > .snip-btn--highlight:hover {
+    background-color:rgba(209,132,25,.7)
 }
 @media only screen and (min-width:48em) {
     .snip-header__total-label, #snipcart-amount{font-size:18px!important}

@@ -75,7 +75,7 @@ body.snip-open {
 }
 
 .snip-layout .snip-ico--close:before {
-    content: "!"
+    content: ""
 }
 
 .snip-layout a,
@@ -698,7 +698,7 @@ body.snip-open {
     left: -200px;
     width: 30%;
     height: .3em;
-    background-color: red;
+    background-color: #efe778;
     -webkit-animation: snip-loading 2s ease-in-out infinite;
     animation: snip-loading 2s ease-in-out infinite
 }
