@@ -101,6 +101,8 @@
 		<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
 		<link href="{{ .Site.BaseURL }}/assets/css/snipcart-custom.css" rel="stylesheet">
 
+		<!-- Nav transition -->
+        <script src="{{ .Site.BaseURL }}/assets/js/snipcart.js" async=""></script>
 		<!-- Snipcart Select -->
 		<script>
 		$('#js-snipcart-select').change(function() {
@@ -114,6 +116,7 @@
     		}, 1);
 		});
 		</script>
+
 
 		<!-- Code for Swapping Product Images -->
 		<script>
@@ -142,20 +145,6 @@
 				return false;
 			});
 		});
-		</script>
-		<script>
-		(function() {
-		    function transformStart() {
-		        document.querySelector("body").classList.toggle("overflow-hidden");
-		    }
-		    document.querySelector("#sniptrig").addEventListener("click", transformStart);
-		})();
-		(function() {
-		    function transformStart() {
-		        document.querySelector("body").classList.toggle("overflow-hidden");
-		    }
-			document.querySelector("#snipcart-close").addEventListener("click", transformStart);
-		})();
 		</script>
 		<!-- Code for Filtering Blog Posts --
 		<script>

@@ -1,14 +1,14 @@
-
- input {font-family:"Work Sans", sans-serif;font-weight:400;}
-
+/* --   Global Fonts   -- */
+ input {font-family:"Work Sans", sans-serif;font-weight:500}
 .snip-layout {font-family:"Work Sans", sans-serif;font-weight:400;color:#999696}
 .snip-layout .snip-form__label, .snip-layout .snip-static__link, .snip-layout .snip-actions__link {color: #999696}
+/* -- End Global Fonts -- */
 
 /* Hide 'Powered by Snipcart' */
 #snipcart-footer {display: none}
 
 /* Header */
-.snip-layout .snip-header {background:#fff;border-bottom:1px solid rgb(238,238,238)}
+.snip-layout .snip-header {background:#fff;boorder-bottom:1px solid rgb(238,238,238)}
 
 /* Hide 'My Cart' in header */
 #snipcart-title.snip-header__title{display:none}
@@ -61,10 +61,9 @@
 /* End Next/Prev Action Buttons */
 #snipcart-previous{background-color:#3f3532}
 
-.snip-layout .snip-step__item{background-color:#e0dede;color:#999696;border:none;}
+.snip-layout .snip-step__item{background-color:/*e0dede*/#fff;color:#999696;border-color:rgb(238,238,238)!important;margin-left:auto!important;margin-right:auto!important}
 .snip-step__item.js-active > .snip-step__nb.snip-ico {color:#2b2422}
-.snip-step__item.js-active{background-color:#e0dede!important}
-
+.snip-step__item.js-active{background-color:/*#e0dede*/#fff!important;}
 
 /* Loading bar */
 .snip-layout .snip-loader--bar:before {
@@ -92,6 +91,13 @@
     .snip-layout .snip-layout__close{top:12px;right:16px}
     /* Align remove item icon with item title */
     .snip-product__remove.snip-ico.snip-ico--close{margin-top:-2px}
+
+    .snip-step__item{paddding-left:0!important;}
+    .snip-step__item i{display:none!important}
+    .snip-step__item p {font-size:.75rem!important;width:auto!important;margin-left:auto!important;margin-right:auto!important;letter-spacing:.025em}
+    #snipcart-checkout-step{padding-left:0!important;}
+    #snipcart-checkout-step i:before{content:" "}
+    #snipcart-checkout-step p{margin-left:auto;margin-right:auto}
 }
 /*
 .snip-layout .snip-btn--highlight {
