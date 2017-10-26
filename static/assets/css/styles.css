@@ -8,7 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
-html,body{overflow:hidden!important;}
+html,body{overflow-y:hidden!important;}
 .push-footer {
     -webkit-box-flex: 1;
     -ms-flex: 1 0 auto;
