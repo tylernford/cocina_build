@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  overflow: hidden
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -9,6 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
+body.overflow-hidden{position:fixed;width:100%;right:0;left:0}
 .push-footer {
     -webkit-box-flex: 1;
     -ms-flex: 1 0 auto;

@@ -11,7 +11,7 @@
 		<meta name="geo.placename" content="" />
 		<meta name="robots" content="all" />
 
-		<meta name="viewport" content="width=device-width, initial-scale=1,height=device-height">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
         
 		<link href="https://cocina-testing.netlify.com/assets/css/tachyons.css" rel="stylesheet">
@@ -113,7 +113,7 @@
 
 				
 		        <div class="absolute h-1_375 mr-3_5 nt-_1875 right-0 w-1_625   mr-4_5-ns   snipcart-summary snipcart-cart-small">
-		            <a href="#" class="db dim h-1_375 link w-1_625   snipcart-checkout"
+		            <a href="#" class="db dim h-1_375 link w-1_625   snipcart-checkout" id="sniptrig"
 					style="background-image:url(/assets/icons/cart_small.svg);background-repeat:no-repeat;
 					background-size:26px 22px;">
 		                <span class="bg-solid-red br-100 db h-_8125 ml-_8125 w-_8125 tc">
@@ -124,7 +124,7 @@
 		        </div>
 				
         	</nav>
-		</div>
+
 
 			
 
@@ -659,6 +659,7 @@ function initMap (){
 
 		</div>
 
+
 		<footer class="bg-putty f7 fw6 pb-3 ph3 pt-2_5 tc tracked-narrow ttu wrksns   f6-ns ph4-ns">
     <img alt="" class="link mb4 mt-_75   css-footer-logo" src="https://cocina-testing.netlify.com/assets/logos/logo_small.svg" />
     <div class="center flex h-1_75 justify-between mb4 w4" style="max-height:1.75rem">
@@ -767,7 +768,14 @@ function initMap (){
 			});
 		});
 		</script>
-
+		<script>
+		(function() {
+		    function transformStart() {
+		        document.querySelector("html").classList.toggle("overflow-hidden");
+		    }
+		    document.querySelector("#sniptrig").addEventListener("click", transformStart);
+		})();
+		</script>
 		
 	</body>
 </html>

@@ -26,8 +26,8 @@
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 	</head>
-	<body class="bg-white c-dark-brown center fldex fldex-column min-h-100 stag" style="baackground-image:url(/grid-8.svg);background-size:8px 8px;max-width:2000px">
-
+	<body class="bg-white c-dark-brown center flex flex-column min-h-100 stag" style="baackground-image:url(/grid-8.svg);background-size:8px 8px;max-width:2000px">
+		<div class="push-footer">
         	<nav class="bb b--light-gray bg-white fixed top-0 flex h-3 items-center justify-between w-100   h3-ns   static@50   bn-l db-l h-10_5-l    z-1">
 
             	<a class="db ml3 z-1   ml4-ns   center-l mb2-l pt-2_625-l   css-nav-logo" href="/">
@@ -57,7 +57,9 @@
 				<!-- End Cart Icon on Small Displays -->
         	</nav>
 
+
 			{{ block "main" . }}{{ end }}
+		</div>
 
 
 		{{ partial "footer" . }}
@@ -144,7 +146,7 @@
 		<script>
 		(function() {
 		    function transformStart() {
-		        document.querySelector("html").classList.toggle("overflow-hidden");
+		        document.querySelector("body").classList.toggle("overflow-hidden");
 		    }
 		    document.querySelector("#sniptrig").addEventListener("click", transformStart);
 		})();
