@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Press on Cocina 214</title>
-    <link>https://cocina-testing.netlify.com/categories/press/</link>
+    <link>https://cocina-build.netlify.com/categories/press/</link>
     <description>Recent content in Press on Cocina 214</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cocina-testing.netlify.com/categories/press/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cocina-build.netlify.com/categories/press/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Additional Post</title>
-      <link>https://cocina-testing.netlify.com/news/an-additional-post/</link>
+      <link>https://cocina-build.netlify.com/news/an-additional-post/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/an-additional-post/</guid>
+      <guid>https://cocina-build.netlify.com/news/an-additional-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>

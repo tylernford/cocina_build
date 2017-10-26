@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Cocina 214</title>
-    <link>https://cocina-testing.netlify.com/news/</link>
+    <link>https://cocina-build.netlify.com/news/</link>
     <description>Recent content in News on Cocina 214</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cocina-testing.netlify.com/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cocina-build.netlify.com/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An Additional Post</title>
-      <link>https://cocina-testing.netlify.com/news/an-additional-post/</link>
+      <link>https://cocina-build.netlify.com/news/an-additional-post/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/an-additional-post/</guid>
+      <guid>https://cocina-build.netlify.com/news/an-additional-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>Another Post</title>
-      <link>https://cocina-testing.netlify.com/news/another-post/</link>
+      <link>https://cocina-build.netlify.com/news/another-post/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/another-post/</guid>
+      <guid>https://cocina-build.netlify.com/news/another-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>Great Things Coming</title>
-      <link>https://cocina-testing.netlify.com/news/great-things-coming/</link>
+      <link>https://cocina-build.netlify.com/news/great-things-coming/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/great-things-coming/</guid>
+      <guid>https://cocina-build.netlify.com/news/great-things-coming/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>This is a Post</title>
-      <link>https://cocina-testing.netlify.com/news/this-is-a-post/</link>
+      <link>https://cocina-build.netlify.com/news/this-is-a-post/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/this-is-a-post/</guid>
+      <guid>https://cocina-build.netlify.com/news/this-is-a-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>
       <title>We Have News</title>
-      <link>https://cocina-testing.netlify.com/news/we-have-news/</link>
+      <link>https://cocina-build.netlify.com/news/we-have-news/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://cocina-testing.netlify.com/news/we-have-news/</guid>
+      <guid>https://cocina-build.netlify.com/news/we-have-news/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
