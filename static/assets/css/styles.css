@@ -8,6 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
+body.snip-open > .push-footer{overflow:hidden;position:fixed}
 .push-footer {
     -webkit-box-flex: 1;
     -ms-flex: 1 0 auto;

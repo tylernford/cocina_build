@@ -1,45 +1,42 @@
-.snip-layout {font-family:"Work Sans", sans-serif;font-weight:500}
 
-#snipcart-footer {
-    display: none
-}
+ input {font-family:"Work Sans", sans-serif;}
 
-.snip-layout .snip-header {background:#fff}
+.snip-layout {font-family:"Work Sans", sans-serif;font-weight:600;color:#999696}
+.snip-layout .snip-form__label, .snip-layout .snip-static__link, .snip-layout .snip-actions__link { {color: #999696}
+
+/* Hide 'Powered by Snipcart' */
+#snipcart-footer {display: none}
+
+/* Header */
+.snip-layout .snip-header {background:#fff;border-bottom:1px solid rgb(238,238,238)}
+
+/* Hide 'My Cart' in header */
 #snipcart-title.snip-header__title{display:none}
-#snipcart-header-total{background-color:#fff}
+#snipcart-header-total{background-color:white;padding-top:6px;}
 .snip-header__total-label{color:#2B2422!important;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
 #snipcart-amount{color:#D18419;font-family:"JeanLuc"!important;font-size:16px!important;letter-spacing:.05em}
+/* End Header */
 
-/* Cart Close Button Color */
-#snipcart-close {color:#2B2422}
-
-.snip-layout .snip-ico--close {
-    /*
-    background-color:green;
-    height:16px!important;
-    width:16px!important;*/
-}
-.snip-layout .snip-ico--close:before {
-    /*
-    content: url("../icons/xxx.svg")!important;
-    margin:0!important;
-    padding:0!important;
-    background-color:red;
-    height:16px!important;
-    width:16px!important;
-    max-height:16px!important;
-    max-width:16px!important;
-    */
-}
-/* Align remove item icon with item title */
+/* Close Cart Icons */
+.snip-layout .snip-layout__close{top:16px}
+.snip-layout .snip-ico--close:before {content: url("../icons/close_gray.svg")!important;}
+.snip-layout .snip-ico--close:hover:before {content: url("../icons/close_black.svg")!important;}
+/* Remove item icons */
 .snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
-.snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/snipcart_remove_item.svg")!important;}
-.snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/snipcart_remove_item_hover.svg")!important;}
+.snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/close_gray.svg")!important;}
+.snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/close_black.svg")!important;}
 
 
+/* Plus/Minus Product Quantity Buttons */
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--minus,
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--add{background:#e0dede;}
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--minus:hover,
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--add:hover{background:#ccc;}
+/* Plus/Minus Product Quantity Buttons */
 
+/* - Next/Prev Action Buttons - */
 .snip-actions > .snip-btn {
-    border-radius:0;
+    border-radius:3px;
     font-family:"JeanLuc";
     height: 28px;
     padding-top:2px;
@@ -48,19 +45,37 @@
     color: #fff;
     font-size: 12px;
 }
-.snip-actions > .snip-btn--highlight {
-    background-color:rgba(209,132,25,.9)
-}
-.snip-actions > .snip-btn--highlight:hover {
-    background-color:rgba(209,132,25,.7)
+.snip-actions > .snip-btn--highlight {background-color:hsl(35, 79%, 46%)}
+.snip-actions > .snip-btn--highlight:hover {background-color:hsl(35, 75%, 49%)}
+/* End Next/Prev Action Buttons */
+#snipcart-previous{background-color:#3f3532}
+
+.snip-layout .snip-step__item{background-color:#e0dede;color:#999696}
+.snip-step__item.js-active > .snip-step__nb.snip-ico {color:#2b2422}
+
+
+/* Loading bar */
+.snip-layout .snip-loader--bar:before {
+    display: block;
+    position: absolute;
+    content: "";
+    left: -200px;
+    width: 30%;
+    height: .3em;
+    background-color:hsl(35, 79%, 46%);
+    -webkit-animation: snip-loading 2s ease-in-out infinite;
+    animation: snip-loading 2s ease-in-out infinite
 }
 @media only screen and (min-width:48em) {
+    /* Adjust spacing of subtotal */
+    #snipcart-header-total{padding-top:0;margin-top:33px;}
     .snip-header__total-label, #snipcart-amount{font-size:18px!important}
     .snip-actions > .snip-btn {
         font-size: 16px;
         height: 36px;
         padding-top:6px;
     }
+    .snip-layout .snip-layout__close{top:12px;right:16px}
     /* Align remove item icon with item title */
     .snip-product__remove.snip-ico.snip-ico--close{margin-top:-2px}
 }

@@ -698,7 +698,7 @@ body.snip-open {
     left: -200px;
     width: 30%;
     height: .3em;
-    background-color: #efe778;
+    background-color: red;
     -webkit-animation: snip-loading 2s ease-in-out infinite;
     animation: snip-loading 2s ease-in-out infinite
 }

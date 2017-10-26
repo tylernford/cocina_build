@@ -1,7 +1,8 @@
 
- input {font-family:"Work Sans", sans-serif;}
+ input {font-family:"Work Sans", sans-serif;font-weight:400;}
 
-.snip-layout {font-family:"Work Sans", sans-serif;font-weight:600}
+.snip-layout {font-family:"Work Sans", sans-serif;font-weight:400;color:#999696}
+.snip-layout .snip-form__label, .snip-layout .snip-static__link, .snip-layout .snip-actions__link {color: #999696}
 
 /* Hide 'Powered by Snipcart' */
 #snipcart-footer {display: none}
@@ -20,16 +21,33 @@
 .snip-layout .snip-layout__close{top:16px}
 .snip-layout .snip-ico--close:before {content: url("../icons/close_gray.svg")!important;}
 .snip-layout .snip-ico--close:hover:before {content: url("../icons/close_black.svg")!important;}
-/* Remove item icons */
+/* Remove items from cart icons */
 .snip-product__remove.snip-ico.snip-ico--close{margin-top:5px}
 .snip-product__remove.snip-ico.snip-ico--close:before {content:url("../icons/close_gray.svg")!important;}
 .snip-product__remove.snip-ico.snip-ico--close:hover:before {content:url("../icons/close_black.svg")!important;}
 
+/* Hide Quantity, Unit, and Total */
+#snipcart-items-header{display:none}
+/* Hide Quantity, Unit, and Total */
+/* Hide unit price */
+.snip-table__cell--bold{display:none}
+/* Hide Unit Price */
+#snipcart-items,.snip-product__name,.snip-quantity-trigger,.snip-table__cell--highlight,
+#snipcart-show-discount-box{font-family:'Stag Book', sans-serif;font-weight:400!important;letter-spacing:.05em;text-transform: capitalize!important}
 
+
+/* Plus/Minus Product Quantity Buttons */
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--minus{margin-right:3px;padding-top:2px}
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--add{margin-left:3px;padding-top:1px}
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--minus,
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--add{background:#e0dede;}
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--minus:hover,
+.snip-quantity-trigger__btn.snip-quantity-trigger__btn--add:hover{background:#ccc;}
+/* Plus/Minus Product Quantity Buttons */
 
 /* - Next/Prev Action Buttons - */
 .snip-actions > .snip-btn {
-    border-radius:0;
+    border-radius:3px;
     font-family:"JeanLuc";
     height: 28px;
     padding-top:2px;
@@ -41,9 +59,11 @@
 .snip-actions > .snip-btn--highlight {background-color:hsl(35, 79%, 46%)}
 .snip-actions > .snip-btn--highlight:hover {background-color:hsl(35, 75%, 49%)}
 /* End Next/Prev Action Buttons */
-#snipcart-previous{background-color:#544643}
+#snipcart-previous{background-color:#3f3532}
 
+.snip-layout .snip-step__item{background-color:#e0dede;color:#999696;border:none;}
 .snip-step__item.js-active > .snip-step__nb.snip-ico {color:#2b2422}
+.snip-step__item.js-active{background-color:#e0dede!important}
 
 
 /* Loading bar */
@@ -59,6 +79,8 @@
     animation: snip-loading 2s ease-in-out infinite
 }
 @media only screen and (min-width:48em) {
+    /* Remove Header Bottom Border*/
+    .snip-layout .snip-header {border-bottom:1px solid #fff}
     /* Adjust spacing of subtotal */
     #snipcart-header-total{padding-top:0;margin-top:33px;}
     .snip-header__total-label, #snipcart-amount{font-size:18px!important}
@@ -80,3 +102,38 @@
 .snip-layout .snip-btn--highlight:hover {
     background-color: #eadf4a
 }*/
+
+
+
+
+
+/* Replacing #333 with brown */
+.snip-layout input[type=password]:focus,
+.snip-layout input[type=password]:hover,
+.snip-layout input[type=text]:focus,
+.snip-layout input[type=text]:hover,
+.snip-layout select:focus,
+.snip-layout select:hover {
+    border-color: #333
+}
+.snip-layout .snip-flash__item {
+    border-bottom: 1px solid #333;
+}
+
+.snip-layout .snip-layout__loading,
+.snip-layout .snip-table .snip-table__cell__notices div.snip-table__cell__notices--warning,
+.snip-layout .snip-table .snip-table__cell__notices div.snip-table__cell__notices--error,
+.snip-layout .snip-table__loading,
+.snip-layout .snip-table__cell--highlight,
+.snip-layout .snip-product__name,
+.snip-layout .snip-form__help,
+.snip-layout .snip-step__item.js-active,
+.snip-layout .snip-error__title,
+.snip-layout .snip-static__title,
+.snip-layout .snip-static__link:hover,
+.snip-layout .snip-flash__item--success,
+.snip-layout .snip-flash__item--warn,
+.snip-layout .snip-badge--success,
+.snip-layout .snip-badge--warn {
+    color: #332b29
+}
