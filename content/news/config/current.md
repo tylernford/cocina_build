@@ -1,5 +1,5 @@
 ---
 title: "News: Current"
-type: news-current
 url: "/news/current"
+layout: config/current
 ---

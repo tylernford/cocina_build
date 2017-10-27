@@ -1,6 +1,5 @@
 ---
 title: "News: Awards"
-type: news-awards
 url: "/news/awards"
-layout: /config/awards
+layout: config/awards
 ---

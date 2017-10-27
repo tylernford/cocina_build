@@ -1,5 +1,5 @@
 ---
 title: "News: Press"
-type: news-press
 url: "/news/press"
+layout: config/press
 ---
