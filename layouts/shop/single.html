@@ -56,7 +56,7 @@
                                     data-item-name="{{ .Title }}"
                                     data-item-id="{{ .Params.product_id }}"
                                     data-item-image="{{ .Params.product_featured_image }}"
-                                    data-item-url="{{baseURL}}{{ .URL }}"
+                                    data-item-url="{{ .baseURL }}{{ .URL }}"
                                     data-item-price="{{ .Params.product_price }}"
                                     {{if .Params.product_sizes }}
                                     data-item-custom1-name="Size"
