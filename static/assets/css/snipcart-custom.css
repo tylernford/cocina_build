@@ -299,6 +299,7 @@ margin-top:.25rem!important}
 
 
 /* ------------------   Cart Section   ------------------ */
+/*#snip-layout-cart-content > #snipcart-main-content > #snipcart-steps li {border-bottom:1px solid white!important}
 /* Hide unit price */
 #snip-layout-cart-content > #snipcart-main-content > #snipcart-sub-content > .snipcart-step > #snipcart-items > #snipcart-items-list > .snip-table__item > .snip-table__cell--right.snip-table__cell--bold.snip-table__small-col{display:none!important;}
 @media screen and (max-width:48em){
@@ -325,6 +326,10 @@ margin-top:.25rem!important}
     #snip-layout-order-confirm > #snipcart-main-content > #snipcart-sub-content > .snipcart-step > #snipcart-cart-content > div > #snipcart-items > #snipcart-total {padding-left:19px;padding-right:19px}
 }
 /* ---------------- End Checkout Section ---------------- */
+
+/* -------------   Order Details Section   ------------- */
+.snip-layout-order-details{}
+/* ------------- End Order Details Section ------------- */
 
 /* ---   Empty Cart   --- */
 #snip-layout-empty-cart > #snipcart-main-content > #snipcart-header{display:none}
