@@ -2190,6 +2190,7 @@ margin-top:.25rem!important}
 }
 /* ------------------------------ Transitions ------------------------------ */
 /*-------------------------------Main Sitemap--------------------------------*/
+.news-categories_links,
 .main-sitemap .snipcart-checkout,
 .css-nav-logo {
 	opacity: 0;
@@ -2199,6 +2200,11 @@ margin-top:.25rem!important}
 	        animation-duration:900ms;
 	-webkit-animation-fill-mode:both;
 	        animation-fill-mode:both;
+}
+.news-categories_links {
+	-webkit-animation-delay:.7s !important;
+	        animation-delay:.7s !important;
+
 }
 .main-sitemap .lh-solid {
 	opacity: 0;
@@ -2316,11 +2322,17 @@ margin-top:.25rem!important}
 .t-del-4 {transition-delay: 1s !important;}
 .t-del-5 {transition-delay: 1.25s !important;}
 .t-del-6 {transition-delay: 1.75s !important;}
+.t-del-7 {transition-delay: 2s !important;}
 /*---------------------------- Section Animated -----------------------------*/
 .animated .fade-in,
 .animated .fade-in-up,
 .animated .fade-in-right,
 .animated .fade-in-left {
+	-webkit-transform: translate(0,0);
+	        transform: translate(0,0);
+	opacity: 1;
+}
+.animate-now.fade-in-right {
 	-webkit-transform: translate(0,0);
 	        transform: translate(0,0);
 	opacity: 1;
@@ -2349,6 +2361,7 @@ margin-top:.25rem!important}
 	        animation-name: fadeInUp;
 }
 .load--done .css-nav-logo,
+.news-categories_links,
 .load--done .main-sitemap .snipcart-checkout {
 	-webkit-animation-name: fadeIn;
 	        animation-name: fadeIn;

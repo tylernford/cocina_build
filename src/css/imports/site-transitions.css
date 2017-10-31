@@ -1,12 +1,17 @@
 /* ------------------------------ Transitions ------------------------------ */
 
 /*-------------------------------Main Sitemap--------------------------------*/
+.news-categories_links,
 .main-sitemap .snipcart-checkout,
 .css-nav-logo {
 	opacity: 0;
 	animation-delay:.25s;
 	animation-duration:900ms;
 	animation-fill-mode:both;
+}
+.news-categories_links {
+	animation-delay:.7s !important;
+
 }
 
 .main-sitemap .lh-solid {
@@ -97,12 +102,17 @@
 .t-del-4 {transition-delay: 1s !important;}
 .t-del-5 {transition-delay: 1.25s !important;}
 .t-del-6 {transition-delay: 1.75s !important;}
+.t-del-7 {transition-delay: 2s !important;}
 
 /*---------------------------- Section Animated -----------------------------*/
 .animated .fade-in,
 .animated .fade-in-up,
 .animated .fade-in-right,
 .animated .fade-in-left {
+	transform: translate(0,0);
+	opacity: 1;
+}
+.animate-now.fade-in-right {
 	transform: translate(0,0);
 	opacity: 1;
 }
@@ -127,6 +137,7 @@
 }
 
 .load--done .css-nav-logo,
+.news-categories_links,
 .load--done .main-sitemap .snipcart-checkout {
 	animation-name: fadeIn;
 }
