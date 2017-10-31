@@ -75,7 +75,9 @@ module.exports = __webpack_require__(1);
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+/* WEBPACK VAR INJECTION */(function(module) {var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;
 
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
 // ---------------------------------------------------------------------------
 /*! respimage - v1.4.2 - 2015-08-22
@@ -314,6 +316,403 @@ module.exports = __webpack_require__(1);
 	}a.picturefill || (a.picturefill = a.respimage, a.picturefillCFG || (a.picturefillCFG = a.respimgCFG));
 }(window, document);
 
+// ----------------------------------------------------------------------------
+/*! lazysizes - v3.0.0 | https://cdnjs.cloudflare.com/ajax/libs/lazysizes/3.0.0/lazysizes.min.js */
+!function (a, b) {
+	var c = b(a, a.document);a.lazySizes = c, "object" == ( false ? "undefined" : _typeof(module)) && module.exports && (module.exports = c);
+}(window, function (a, b) {
+	"use strict";
+	if (b.getElementsByClassName) {
+		var c,
+		    d = b.documentElement,
+		    e = a.Date,
+		    f = a.HTMLPictureElement,
+		    g = "addEventListener",
+		    h = "getAttribute",
+		    i = a[g],
+		    j = a.setTimeout,
+		    k = a.requestAnimationFrame || j,
+		    l = a.requestIdleCallback,
+		    m = /^picture$/i,
+		    n = ["load", "error", "lazyincluded", "_lazyloaded"],
+		    o = {},
+		    p = Array.prototype.forEach,
+		    q = function q(a, b) {
+			return o[b] || (o[b] = new RegExp("(\\s|^)" + b + "(\\s|$)")), o[b].test(a[h]("class") || "") && o[b];
+		},
+		    r = function r(a, b) {
+			q(a, b) || a.setAttribute("class", (a[h]("class") || "").trim() + " " + b);
+		},
+		    s = function s(a, b) {
+			var c;(c = q(a, b)) && a.setAttribute("class", (a[h]("class") || "").replace(c, " "));
+		},
+		    t = function t(a, b, c) {
+			var d = c ? g : "removeEventListener";c && t(a, b), n.forEach(function (c) {
+				a[d](c, b);
+			});
+		},
+		    u = function u(a, c, d, e, f) {
+			var g = b.createEvent("CustomEvent");return g.initCustomEvent(c, !e, !f, d || {}), a.dispatchEvent(g), g;
+		},
+		    v = function v(b, d) {
+			var e;!f && (e = a.picturefill || c.pf) ? e({ reevaluate: !0, elements: [b] }) : d && d.src && (b.src = d.src);
+		},
+		    w = function w(a, b) {
+			return (getComputedStyle(a, null) || {})[b];
+		},
+		    x = function x(a, b, d) {
+			for (d = d || a.offsetWidth; d < c.minSize && b && !a._lazysizesWidth;) {
+				d = b.offsetWidth, b = b.parentNode;
+			}return d;
+		},
+		    y = function () {
+			var a,
+			    c,
+			    d = [],
+			    e = [],
+			    f = d,
+			    g = function g() {
+				var b = f;for (f = d.length ? e : d, a = !0, c = !1; b.length;) {
+					b.shift()();
+				}a = !1;
+			},
+			    h = function h(d, e) {
+				a && !e ? d.apply(this, arguments) : (f.push(d), c || (c = !0, (b.hidden ? j : k)(g)));
+			};return h._lsFlush = g, h;
+		}(),
+		    z = function z(a, b) {
+			return b ? function () {
+				y(a);
+			} : function () {
+				var b = this,
+				    c = arguments;y(function () {
+					a.apply(b, c);
+				});
+			};
+		},
+		    A = function A(a) {
+			var b,
+			    c = 0,
+			    d = 125,
+			    f = 666,
+			    g = f,
+			    h = function h() {
+				b = !1, c = e.now(), a();
+			},
+			    i = l ? function () {
+				l(h, { timeout: g }), g !== f && (g = f);
+			} : z(function () {
+				j(h);
+			}, !0);return function (a) {
+				var f;(a = a === !0) && (g = 44), b || (b = !0, f = d - (e.now() - c), 0 > f && (f = 0), a || 9 > f && l ? i() : j(i, f));
+			};
+		},
+		    B = function B(a) {
+			var b,
+			    c,
+			    d = 99,
+			    f = function f() {
+				b = null, a();
+			},
+			    g = function g() {
+				var a = e.now() - c;d > a ? j(g, d - a) : (l || f)(f);
+			};return function () {
+				c = e.now(), b || (b = j(g, d));
+			};
+		},
+		    C = function () {
+			var f,
+			    k,
+			    l,
+			    n,
+			    o,
+			    x,
+			    C,
+			    E,
+			    F,
+			    G,
+			    H,
+			    I,
+			    J,
+			    K,
+			    L,
+			    M = /^img$/i,
+			    N = /^iframe$/i,
+			    O = "onscroll" in a && !/glebot/.test(navigator.userAgent),
+			    P = 0,
+			    Q = 0,
+			    R = 0,
+			    S = -1,
+			    T = function T(a) {
+				R--, a && a.target && t(a.target, T), (!a || 0 > R || !a.target) && (R = 0);
+			},
+			    U = function U(a, c) {
+				var e,
+				    f = a,
+				    g = "hidden" == w(b.body, "visibility") || "hidden" != w(a, "visibility");for (F -= c, I += c, G -= c, H += c; g && (f = f.offsetParent) && f != b.body && f != d;) {
+					g = (w(f, "opacity") || 1) > 0, g && "visible" != w(f, "overflow") && (e = f.getBoundingClientRect(), g = H > e.left && G < e.right && I > e.top - 1 && F < e.bottom + 1);
+				}return g;
+			},
+			    V = function V() {
+				var a, e, g, i, j, m, n, p, q;if ((o = c.loadMode) && 8 > R && (a = f.length)) {
+					e = 0, S++, null == K && ("expand" in c || (c.expand = d.clientHeight > 500 && d.clientWidth > 500 ? 500 : 370), J = c.expand, K = J * c.expFactor), K > Q && 1 > R && S > 2 && o > 2 && !b.hidden ? (Q = K, S = 0) : Q = o > 1 && S > 1 && 6 > R ? J : P;for (; a > e; e++) {
+						if (f[e] && !f[e]._lazyRace) if (O) {
+							if ((p = f[e][h]("data-expand")) && (m = 1 * p) || (m = Q), q !== m && (C = innerWidth + m * L, E = innerHeight + m, n = -1 * m, q = m), g = f[e].getBoundingClientRect(), (I = g.bottom) >= n && (F = g.top) <= E && (H = g.right) >= n * L && (G = g.left) <= C && (I || H || G || F) && (l && 3 > R && !p && (3 > o || 4 > S) || U(f[e], m))) {
+								if (ba(f[e]), j = !0, R > 9) break;
+							} else !j && l && !i && 4 > R && 4 > S && o > 2 && (k[0] || c.preloadAfterLoad) && (k[0] || !p && (I || H || G || F || "auto" != f[e][h](c.sizesAttr))) && (i = k[0] || f[e]);
+						} else ba(f[e]);
+					}i && !j && ba(i);
+				}
+			},
+			    W = A(V),
+			    X = function X(a) {
+				r(a.target, c.loadedClass), s(a.target, c.loadingClass), t(a.target, Z);
+			},
+			    Y = z(X),
+			    Z = function Z(a) {
+				Y({ target: a.target });
+			},
+			    $ = function $(a, b) {
+				try {
+					a.contentWindow.location.replace(b);
+				} catch (c) {
+					a.src = b;
+				}
+			},
+			    _ = function _(a) {
+				var b,
+				    d,
+				    e = a[h](c.srcsetAttr);(b = c.customMedia[a[h]("data-media") || a[h]("media")]) && a.setAttribute("media", b), e && a.setAttribute("srcset", e), b && (d = a.parentNode, d.insertBefore(a.cloneNode(), a), d.removeChild(a));
+			},
+			    aa = z(function (a, b, d, e, f) {
+				var g, i, k, l, o, q;(o = u(a, "lazybeforeunveil", b)).defaultPrevented || (e && (d ? r(a, c.autosizesClass) : a.setAttribute("sizes", e)), i = a[h](c.srcsetAttr), g = a[h](c.srcAttr), f && (k = a.parentNode, l = k && m.test(k.nodeName || "")), q = b.firesLoad || "src" in a && (i || g || l), o = { target: a }, q && (t(a, T, !0), clearTimeout(n), n = j(T, 2500), r(a, c.loadingClass), t(a, Z, !0)), l && p.call(k.getElementsByTagName("source"), _), i ? a.setAttribute("srcset", i) : g && !l && (N.test(a.nodeName) ? $(a, g) : a.src = g), (i || l) && v(a, { src: g })), a._lazyRace && delete a._lazyRace, s(a, c.lazyClass), y(function () {
+					(!q || a.complete && a.naturalWidth > 1) && (q ? T(o) : R--, X(o));
+				}, !0);
+			}),
+			    ba = function ba(a) {
+				var b,
+				    d = M.test(a.nodeName),
+				    e = d && (a[h](c.sizesAttr) || a[h]("sizes")),
+				    f = "auto" == e;(!f && l || !d || !a.src && !a.srcset || a.complete || q(a, c.errorClass)) && (b = u(a, "lazyunveilread").detail, f && D.updateElem(a, !0, a.offsetWidth), a._lazyRace = !0, R++, aa(a, b, f, e, d));
+			},
+			    ca = function ca() {
+				if (!l) {
+					if (e.now() - x < 999) return void j(ca, 999);var a = B(function () {
+						c.loadMode = 3, W();
+					});l = !0, c.loadMode = 3, W(), i("scroll", function () {
+						3 == c.loadMode && (c.loadMode = 2), a();
+					}, !0);
+				}
+			};return { _: function _() {
+					x = e.now(), f = b.getElementsByClassName(c.lazyClass), k = b.getElementsByClassName(c.lazyClass + " " + c.preloadClass), L = c.hFac, i("scroll", W, !0), i("resize", W, !0), a.MutationObserver ? new MutationObserver(W).observe(d, { childList: !0, subtree: !0, attributes: !0 }) : (d[g]("DOMNodeInserted", W, !0), d[g]("DOMAttrModified", W, !0), setInterval(W, 999)), i("hashchange", W, !0), ["focus", "mouseover", "click", "load", "transitionend", "animationend", "webkitAnimationEnd"].forEach(function (a) {
+						b[g](a, W, !0);
+					}), /d$|^c/.test(b.readyState) ? ca() : (i("load", ca), b[g]("DOMContentLoaded", W), j(ca, 2e4)), f.length ? (V(), y._lsFlush()) : W();
+				}, checkElems: W, unveil: ba };
+		}(),
+		    D = function () {
+			var a,
+			    d = z(function (a, b, c, d) {
+				var e, f, g;if (a._lazysizesWidth = d, d += "px", a.setAttribute("sizes", d), m.test(b.nodeName || "")) for (e = b.getElementsByTagName("source"), f = 0, g = e.length; g > f; f++) {
+					e[f].setAttribute("sizes", d);
+				}c.detail.dataAttr || v(a, c.detail);
+			}),
+			    e = function e(a, b, c) {
+				var e,
+				    f = a.parentNode;f && (c = x(a, f, c), e = u(a, "lazybeforesizes", { width: c, dataAttr: !!b }), e.defaultPrevented || (c = e.detail.width, c && c !== a._lazysizesWidth && d(a, f, e, c)));
+			},
+			    f = function f() {
+				var b,
+				    c = a.length;if (c) for (b = 0; c > b; b++) {
+					e(a[b]);
+				}
+			},
+			    g = B(f);return { _: function _() {
+					a = b.getElementsByClassName(c.autosizesClass), i("resize", g);
+				}, checkElems: g, updateElem: e };
+		}(),
+		    E = function E() {
+			E.i || (E.i = !0, D._(), C._());
+		};return function () {
+			var b,
+			    d = { lazyClass: "lazyload", loadedClass: "lazyloaded", loadingClass: "lazyloading", preloadClass: "lazypreload", errorClass: "lazyerror", autosizesClass: "lazyautosizes", srcAttr: "data-src", srcsetAttr: "data-srcset", sizesAttr: "data-sizes", minSize: 40, customMedia: {}, init: !0, expFactor: 1.5, hFac: .8, loadMode: 2 };c = a.lazySizesConfig || a.lazysizesConfig || {};for (b in d) {
+				b in c || (c[b] = d[b]);
+			}a.lazySizesConfig = c, j(function () {
+				c.init && E();
+			});
+		}(), { cfg: c, autoSizer: D, loader: C, init: E, uP: v, aC: r, rC: s, hC: q, fire: u, gW: x, rAF: y };
+	}
+});
+// support for background images:
+document.addEventListener('lazybeforeunveil', function (e) {
+	var bg = e.target.getAttribute('data-bg');
+	if (bg) {
+		e.target.style.backgroundImage = 'url(' + bg + ')';
+	}
+});
+
+// ----------------------------------------------------------------------------
+// ScrollMonitor
+// https://github.com/stutrek/scrollMonitor/blob/master/scrollMonitor.js
+!function (t, e) {
+	"object" == ( false ? "undefined" : _typeof(exports)) && "object" == ( false ? "undefined" : _typeof(module)) ? module.exports = e() :  true ? !(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_FACTORY__ = (e),
+				__WEBPACK_AMD_DEFINE_RESULT__ = (typeof __WEBPACK_AMD_DEFINE_FACTORY__ === 'function' ?
+				(__WEBPACK_AMD_DEFINE_FACTORY__.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__)) : __WEBPACK_AMD_DEFINE_FACTORY__),
+				__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__)) : "object" == (typeof exports === "undefined" ? "undefined" : _typeof(exports)) ? exports.scrollMonitor = e() : t.scrollMonitor = e();
+}(undefined, function () {
+	return function (t) {
+		function e(o) {
+			if (i[o]) return i[o].exports;var s = i[o] = { exports: {}, id: o, loaded: !1 };return t[o].call(s.exports, s, s.exports, e), s.loaded = !0, s.exports;
+		}var i = {};return e.m = t, e.c = i, e.p = "", e(0);
+	}([function (t, e, i) {
+		"use strict";
+		var o = i(1),
+		    s = o.isInBrowser,
+		    n = i(2),
+		    r = new n(s ? document.body : null);r.setStateFromDOM(null), r.listenToDOM(), s && (window.scrollMonitor = r), t.exports = r;
+	}, function (t, e) {
+		"use strict";
+		e.VISIBILITYCHANGE = "visibilityChange", e.ENTERVIEWPORT = "enterViewport", e.FULLYENTERVIEWPORT = "fullyEnterViewport", e.EXITVIEWPORT = "exitViewport", e.PARTIALLYEXITVIEWPORT = "partiallyExitViewport", e.LOCATIONCHANGE = "locationChange", e.STATECHANGE = "stateChange", e.eventTypes = [e.VISIBILITYCHANGE, e.ENTERVIEWPORT, e.FULLYENTERVIEWPORT, e.EXITVIEWPORT, e.PARTIALLYEXITVIEWPORT, e.LOCATIONCHANGE, e.STATECHANGE], e.isOnServer = "undefined" == typeof window, e.isInBrowser = !e.isOnServer, e.defaultOffsets = { top: 0, bottom: 0 };
+	}, function (t, e, i) {
+		"use strict";
+		function o(t, e) {
+			if (!(t instanceof e)) throw new TypeError("Cannot call a class as a function");
+		}function s(t) {
+			return c ? 0 : t === document.body ? window.innerHeight || document.documentElement.clientHeight : t.clientHeight;
+		}function n(t) {
+			return c ? 0 : t === document.body ? Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.documentElement.clientHeight) : t.scrollHeight;
+		}function r(t) {
+			return c ? 0 : t === document.body ? window.pageYOffset || document.documentElement && document.documentElement.scrollTop || document.body.scrollTop : t.scrollTop;
+		}var h = i(1),
+		    c = h.isOnServer,
+		    a = h.isInBrowser,
+		    l = h.eventTypes,
+		    p = i(3),
+		    w = function () {
+			function t(e, i) {
+				function h() {
+					if (a.viewportTop = r(e), a.viewportBottom = a.viewportTop + a.viewportHeight, a.documentHeight = n(e), a.documentHeight !== p) {
+						for (w = a.watchers.length; w--;) {
+							a.watchers[w].recalculateLocation();
+						}p = a.documentHeight;
+					}
+				}function c() {
+					for (u = a.watchers.length; u--;) {
+						a.watchers[u].update();
+					}for (u = a.watchers.length; u--;) {
+						a.watchers[u].triggerCallbacks();
+					}
+				}o(this, t);var a = this;this.item = e, this.watchers = [], this.viewportTop = null, this.viewportBottom = null, this.documentHeight = n(e), this.viewportHeight = s(e), this.DOMListener = function () {
+					t.prototype.DOMListener.apply(a, arguments);
+				}, this.eventTypes = l, i && (this.containerWatcher = i.create(e));var p, w, u;this.update = function () {
+					h(), c();
+				}, this.recalculateLocations = function () {
+					this.documentHeight = 0, this.update();
+				};
+			}return t.prototype.listenToDOM = function () {
+				a && (window.addEventListener ? (this.item === document.body ? window.addEventListener("scroll", this.DOMListener) : this.item.addEventListener("scroll", this.DOMListener), window.addEventListener("resize", this.DOMListener)) : (this.item === document.body ? window.attachEvent("onscroll", this.DOMListener) : this.item.attachEvent("onscroll", this.DOMListener), window.attachEvent("onresize", this.DOMListener)), this.destroy = function () {
+					window.addEventListener ? (this.item === document.body ? (window.removeEventListener("scroll", this.DOMListener), this.containerWatcher.destroy()) : this.item.removeEventListener("scroll", this.DOMListener), window.removeEventListener("resize", this.DOMListener)) : (this.item === document.body ? (window.detachEvent("onscroll", this.DOMListener), this.containerWatcher.destroy()) : this.item.detachEvent("onscroll", this.DOMListener), window.detachEvent("onresize", this.DOMListener));
+				});
+			}, t.prototype.destroy = function () {}, t.prototype.DOMListener = function (t) {
+				this.setStateFromDOM(t);
+			}, t.prototype.setStateFromDOM = function (t) {
+				var e = r(this.item),
+				    i = s(this.item),
+				    o = n(this.item);this.setState(e, i, o, t);
+			}, t.prototype.setState = function (t, e, i, o) {
+				var s = e !== this.viewportHeight || i !== this.contentHeight;if (this.latestEvent = o, this.viewportTop = t, this.viewportHeight = e, this.viewportBottom = t + e, this.contentHeight = i, s) for (var n = this.watchers.length; n--;) {
+					this.watchers[n].recalculateLocation();
+				}this.updateAndTriggerWatchers(o);
+			}, t.prototype.updateAndTriggerWatchers = function (t) {
+				for (var e = this.watchers.length; e--;) {
+					this.watchers[e].update();
+				}for (e = this.watchers.length; e--;) {
+					this.watchers[e].triggerCallbacks(t);
+				}
+			}, t.prototype.createCustomContainer = function () {
+				return new t();
+			}, t.prototype.createContainer = function (e) {
+				"string" == typeof e ? e = document.querySelector(e) : e && e.length > 0 && (e = e[0]);var i = new t(e, this);return i.setStateFromDOM(), i.listenToDOM(), i;
+			}, t.prototype.create = function (t, e) {
+				"string" == typeof t ? t = document.querySelector(t) : t && t.length > 0 && (t = t[0]);var i = new p(this, t, e);return this.watchers.push(i), i;
+			}, t.prototype.beget = function (t, e) {
+				return this.create(t, e);
+			}, t;
+		}();t.exports = w;
+	}, function (t, e, i) {
+		"use strict";
+		function o(t, e, i) {
+			function o(t, e) {
+				if (0 !== t.length) for (E = t.length; E--;) {
+					T = t[E], T.callback.call(s, e, s), T.isOne && t.splice(E, 1);
+				}
+			}var s = this;this.watchItem = e, this.container = t, i ? i === +i ? this.offsets = { top: i, bottom: i } : this.offsets = { top: i.top || u.top, bottom: i.bottom || u.bottom } : this.offsets = u, this.callbacks = {};for (var d = 0, f = w.length; d < f; d++) {
+				s.callbacks[w[d]] = [];
+			}this.locked = !1;var m, v, b, I, E, T;this.triggerCallbacks = function (t) {
+				switch (this.isInViewport && !m && o(this.callbacks[r], t), this.isFullyInViewport && !v && o(this.callbacks[h], t), this.isAboveViewport !== b && this.isBelowViewport !== I && (o(this.callbacks[n], t), v || this.isFullyInViewport || (o(this.callbacks[h], t), o(this.callbacks[a], t)), m || this.isInViewport || (o(this.callbacks[r], t), o(this.callbacks[c], t))), !this.isFullyInViewport && v && o(this.callbacks[a], t), !this.isInViewport && m && o(this.callbacks[c], t), this.isInViewport !== m && o(this.callbacks[n], t), !0) {case m !== this.isInViewport:case v !== this.isFullyInViewport:case b !== this.isAboveViewport:case I !== this.isBelowViewport:
+						o(this.callbacks[p], t);}m = this.isInViewport, v = this.isFullyInViewport, b = this.isAboveViewport, I = this.isBelowViewport;
+			}, this.recalculateLocation = function () {
+				if (!this.locked) {
+					var t = this.top,
+					    e = this.bottom;if (this.watchItem.nodeName) {
+						var i = this.watchItem.style.display;"none" === i && (this.watchItem.style.display = "");for (var s = 0, n = this.container; n.containerWatcher;) {
+							s += n.containerWatcher.top - n.containerWatcher.container.viewportTop, n = n.containerWatcher.container;
+						}var r = this.watchItem.getBoundingClientRect();this.top = r.top + this.container.viewportTop - s, this.bottom = r.bottom + this.container.viewportTop - s, "none" === i && (this.watchItem.style.display = i);
+					} else this.watchItem === +this.watchItem ? this.watchItem > 0 ? this.top = this.bottom = this.watchItem : this.top = this.bottom = this.container.documentHeight - this.watchItem : (this.top = this.watchItem.top, this.bottom = this.watchItem.bottom);this.top -= this.offsets.top, this.bottom += this.offsets.bottom, this.height = this.bottom - this.top, void 0 === t && void 0 === e || this.top === t && this.bottom === e || o(this.callbacks[l], null);
+				}
+			}, this.recalculateLocation(), this.update(), m = this.isInViewport, v = this.isFullyInViewport, b = this.isAboveViewport, I = this.isBelowViewport;
+		}var s = i(1),
+		    n = s.VISIBILITYCHANGE,
+		    r = s.ENTERVIEWPORT,
+		    h = s.FULLYENTERVIEWPORT,
+		    c = s.EXITVIEWPORT,
+		    a = s.PARTIALLYEXITVIEWPORT,
+		    l = s.LOCATIONCHANGE,
+		    p = s.STATECHANGE,
+		    w = s.eventTypes,
+		    u = s.defaultOffsets;o.prototype = { on: function on(t, e, i) {
+				switch (!0) {case t === n && !this.isInViewport && this.isAboveViewport:case t === r && this.isInViewport:case t === h && this.isFullyInViewport:case t === c && this.isAboveViewport && !this.isInViewport:case t === a && this.isInViewport && this.isAboveViewport:
+						if (e.call(this, this.container.latestEvent, this), i) return;}if (!this.callbacks[t]) throw new Error("Tried to add a scroll monitor listener of type " + t + ". Your options are: " + w.join(", "));this.callbacks[t].push({ callback: e, isOne: i || !1 });
+			}, off: function off(t, e) {
+				if (!this.callbacks[t]) throw new Error("Tried to remove a scroll monitor listener of type " + t + ". Your options are: " + w.join(", "));for (var i, o = 0; i = this.callbacks[t][o]; o++) {
+					if (i.callback === e) {
+						this.callbacks[t].splice(o, 1);break;
+					}
+				}
+			}, one: function one(t, e) {
+				this.on(t, e, !0);
+			}, recalculateSize: function recalculateSize() {
+				this.height = this.watchItem.offsetHeight + this.offsets.top + this.offsets.bottom, this.bottom = this.top + this.height;
+			}, update: function update() {
+				this.isAboveViewport = this.top < this.container.viewportTop, this.isBelowViewport = this.bottom > this.container.viewportBottom, this.isInViewport = this.top < this.container.viewportBottom && this.bottom > this.container.viewportTop, this.isFullyInViewport = this.top >= this.container.viewportTop && this.bottom <= this.container.viewportBottom || this.isAboveViewport && this.isBelowViewport;
+			}, destroy: function destroy() {
+				var t = this.container.watchers.indexOf(this),
+				    e = this;this.container.watchers.splice(t, 1);for (var i = 0, o = w.length; i < o; i++) {
+					e.callbacks[w[i]].length = 0;
+				}
+			}, lock: function lock() {
+				this.locked = !0;
+			}, unlock: function unlock() {
+				this.locked = !1;
+			} };for (var d = function d(t) {
+			return function (e, i) {
+				this.on.call(this, t, e, i);
+			};
+		}, f = 0, m = w.length; f < m; f++) {
+			var v = w[f];o.prototype[v] = d(v);
+		}t.exports = o;
+	}]);
+});
+
+$('.section-animate').each(function (index, section) {
+	var sectionWatcher = scrollMonitor.create(section, -150);
+	sectionWatcher.enterViewport(function () {
+		section.classList.add('animated');
+	});
+	sectionWatcher.exitViewport(function () {
+		section.classList.remove('animated');
+	});
+});
+
 // JS Goes here - ES6 supported
 $(document).ready(function () {
 
@@ -368,10 +767,45 @@ $(document).ready(function () {
 		return false;
 	});
 
+	// ------------------------------------  -------------------------------------
+	// Loaded
+	// setTimeout(function() {
+	$('body').addClass('load--done');
+	// }, 1500);
+
 	// ------------------------------------------------------------------------
 	// Done
 	console.log("Cocina214 | Built by Telegraph ");
 });
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)(module)))
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports) {
+
+module.exports = function(module) {
+	if(!module.webpackPolyfill) {
+		module.deprecate = function() {};
+		module.paths = [];
+		// module.parent = undefined by default
+		if(!module.children) module.children = [];
+		Object.defineProperty(module, "loaded", {
+			enumerable: true,
+			get: function() {
+				return module.l;
+			}
+		});
+		Object.defineProperty(module, "id", {
+			enumerable: true,
+			get: function() {
+				return module.i;
+			}
+		});
+		module.webpackPolyfill = 1;
+	}
+	return module;
+};
+
 
 /***/ })
 /******/ ]);
