@@ -1,0 +1,47 @@
+{{ define "main" }}
+<main class="bg-white mt-3 pb-5_5 ph3   mt5-ns ph4-ns   mt0@50   ph5-l">
+    <h1 class="element-invisible">Shop</h1>
+
+    <div class=" center mw-64">
+        {{ range .Data.Pages.GroupByParam "product_category" }}
+            <div class="section-animate mb-_8125">
+                <!--   Product Category   -->
+                <h2 class="fade-in-right  f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{ .Key }}</h2>
+                <!-- End Product Category -->
+
+                <!--   Divider   -->
+                <div class="bg-gold h-_125 mt0 nb-_3125"></div>
+                <!-- End Divider -->
+
+                <!--   Product Grid   -->
+                <div class=" flex flex-wrap justify-between   css-product-grid">
+                    {{ range .Pages }}
+                        <!--   Product   -->
+                        <div class="fade-in t-del-1 mt-2_3125   css-product-grid-item">
+                            <!--   Product Photo   -->
+                            <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
+                                <img alt="" class="db w-100" src="{{ .Params.product_featured_image }}" />
+                            </a>
+                            <!-- End Product Photo -->
+
+                            <!--   Product Info   -->
+                            <a class="c-dark-brown db dim link" href="{{ .URL }}">
+                                <!--   Product Name   -->
+                                <h3 class="f6 fw6 mb-_375 mt0 tracked-narrow ttu wrksns   f5-ns lh-1_5-ns mb-_0625-ns">{{ .Title }}</h3>
+                                <!-- End Product Name -->
+
+                                <!--   Product Price   -->
+                                <p class="f5 fw6 jean-luc mv0   f-1_125-ns">${{ .Params.product_price }}</p>
+                                <!-- End Product Price -->
+                            </a>
+                            <!-- End Product Info -->
+                        </div>
+                        <!-- End Product -->
+                    {{ end }}
+                </div>
+                <!-- End Product Grid -->
+            </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
