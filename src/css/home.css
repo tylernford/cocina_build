@@ -1,3 +1,6 @@
+@import "imports/blinking-headline.css";
+
+
 .mb-1_4375{margin-bottom:1.4375rem}
 .mt-_1875{margin-top:.1875rem}
 .mt-_3125{margin-top:.3125rem}
@@ -55,3 +58,4 @@
 @media screen and (min-width:81.25em) {
     .pl0\@81{padding-left:0}
 }
+
