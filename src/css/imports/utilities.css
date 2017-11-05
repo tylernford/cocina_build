@@ -32,6 +32,7 @@
 .h-3{height:3rem}
 .h-15{height:15rem}
 .h-20{height:20rem}
+.h-26{height:26rem}
 .h-30{height:30rem}
 
 .hover-b--c-red:hover{border-color:#E63728}
@@ -363,7 +364,7 @@
     .w1-l{width:1rem}
     .w-1_8125-l{width:1.8125rem}
     .w-100-l{width:100%}
-    
+
     .mw-18_5-l{max-width:18.5rem}
     .mw-26-l{max-width:26rem}
     .mw-72-l{max-width:72rem}
