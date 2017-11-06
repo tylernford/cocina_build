@@ -60,35 +60,29 @@
 
 
 		{{ partial "footer" . }}
-		
+
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		
 		<!-- Site JS -->
 		<script src="/app.js"></script>
-
 		<!-- Snipcart Dependencies -->
 		<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
 				id="snipcart" data-api-key="YmZkMmRkYzAtM2I0ZS00MDk4LTk3YWQtOTBlODhhYmViNGI1NjM2NDIyOTkzMzEwMDQyNzA4"></script>
 
-		<!-- Snipcart Nav transition -->
+		<!-- Snipcart Custom Fields -->
         <script src="{{ .Site.BaseURL }}/assets/js/snipcart-fields.js" async=""></script>
-		
-		<!-- Snipcart Select -->
+
 		<script>
+		/* Snipcart Select */
 		$('#js-snipcart-select').change(function() {
 			$('#js-snipcart-add-to-cart-button').data('item-custom1-value', $(this).val());
 		});
-		</script>
-
-		<!-- Snipcart Summary -->
-		<script>
+		/* Snipcart Summary */
 		$(document).ready(function($) {
     		setTimeout(function() {
      			$(".snipcart-summary").addClass("css-snipcart-show-hide");
     		}, 1);
 		});
 		</script>
-
 	</body>
 </html>
