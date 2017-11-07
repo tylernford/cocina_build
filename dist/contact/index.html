@@ -127,12 +127,37 @@
 
 			
 <style>
+a[href^="tel"] {
+  color:inherit;
+  text-decoration:none
+}
 ::placeholder {
   color:#aaa
+}
+.w-3_75{width:3.75rem}
+
+@media screen and (min-width:30em){
+    .w-4_25-ns{width:4.25rem}
 }
 @media screen and (min-width:40em){
     .ml3\@40{margin-left:1rem}
     .mr3\@40{margin-right:1rem}
+}
+@media screen and (min-width:50em){
+    .w-50\@50{width:50%}
+    .ml3\@50{margin-left:1rem}
+    .mr3\@50{margin-right:1rem}
+}
+@media screen and (min-width:54em){
+    .mb0\@54{margin-bottom:0}
+    .w-50\@54{width:50%}
+    .flex\@54{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .mw-26\@54{max-width:26rem}
+}
+@media screen and (min-width:79em){
+    .bg-green\@79{background-color:green}
+    .mw-32\@79{max-width:32em}
+    .w-25\@79{width:25rem}
 }
 </style>
 
@@ -142,9 +167,9 @@
     <h1 class="element-invisible">Our Locations</h1>
 
     
-    <div class="section-animate  bg-dark-brown  mv2   mv3-ns   flex-l   css-ie-flex-shrink">
+    <div class="section-animate mv2   mv3-ns   flex@54   css-ie-flex-shrink">
         
-        <div class=" c-gold pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   w-50-l   pr-7@79">
+        <div class="bg-dark-brown c-gold mb2 pb-4_3125 pr3 pt-3_5   mb3-ns pr4-ns   mb0@54 w-50@54   pr-7@79">
             
             <div class="flex@79 justify-end@79">
                 <h2 class="fade-in-right  f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   w-25@79">Winter Park, Florida</h2>
@@ -159,29 +184,20 @@
 
             
             <div class="fade-in t-del-3    flex@79 justify-end@79">
-                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   w-25@79">
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   mw-26@54   w-25@79">
                     
-                    <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">    
-                        <h3 class="element-invisible">Address</h3>
-
-                        <div class="flex justify-betdween   djustify-start-ns">
-                            <p class="f6 mv0 w-s50   f5@23   wd-48@25   mfw-12-ns  bg-grdeen"
-                            style="width:68px">Phone:</p>
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   ml4-ns w-auto-ns">407-031-9192</p>
+                        <div class="flex">
+                            <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Phone:</p>
+                            <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">407-031-9192</p>
                         </div>
-                        <div class="flex justify-betdween   djustify-start-ns">
-                            <p class="f6 mv0 w-s50   f5@23   wd-48@25   mfw-12-ns  bg-grdeen"
-                            style="width:68px">Address:</p>
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   ml4-ns w-auto-ns">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
+                        <div class="flex">
+                            <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
+                            <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
                         </div>
-
-
-                        <div class="flex justiffy-between mt4">
-                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="">Get Directions</a>
-                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white
-                            ml4" href="">Call Us</a>
+                        <div class="flex mt4">
+                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="">Get Directions</a>
+                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="">Call Us</a>
                         </div>
-                    </div>
                     
                 </div>
             </div>
@@ -189,45 +205,40 @@
         </div>
         
 
+
+
+
         
-        <div class="bg-gold pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   w-50-l   pr-7@79">
+        <div class="bg-gold pb-4_3125 pr3 pt-3_5   pr4-ns   w-50@54   pr-7@79">
             
-            <div class="flex@79 justify-end@79">
+            <div class="flex@79 justify-end@79 mw-32@79">
                 <h2 class="fade-in-right f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   w-25@79">Daytona Beach, Florida</h2>
             </div>
             
 
             
-            <div class="flex@90 justify-end@90">
+            <div class="flex@90 justify-end@90 mw-32@79">
                 <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   w-27@90"></div>
             </div>
             
 
             
-            <div class="fade-in t-del-3  flex@79 justify-end@79">
-                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   w-25@79">
+            <div class="fade-in t-del-3  flex@79 justify-end@79 mw-32@79">
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   mw-26@54   w-25@79">
                     
-                    <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
-
-                        <h3 class="element-invisible">Address</h3>
-                        <div class="flex justify-betdween   djustify-start-ns">
-                            <p class="f6 mv0 w-s50   f5@23   wd-48@25   mfw-12-ns  bg-grdeen"
-                            style="width:68px">Phone:</p>
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   ml4-ns w-auto-ns">407-031-9192</p>
+                        <div class="flex">
+                            <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Phone:</p>
+                            <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">407-031-9192</p>
                         </div>
-                        <div class="flex justify-betdween   djustify-start-ns">
-                            <p class="f6 mv0 w-s50   f5@23   wd-48@25   mfw-12-ns  bg-grdeen"
-                            style="width:68px">Address:</p>
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   ml4-ns w-auto-ns">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
+                        <div class="flex">
+                            <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
+                            <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
                         </div>
-
-
-                        <div class="flex justiffy-between mt4">
-                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="">Get Directions</a>
-                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white
-                            ml4" href="">Call Us</a>
+                        <div class="flex mt4">
+                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white
+                            ph4-ns" href="">Get Directions</a>
+                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="">Call Us</a>
                         </div>
-                    </div>
                     
                 </div>
             </div>
@@ -245,11 +256,11 @@
         
         <div class="bg-dark-brown h-_125 mt0" style="margin-bottom:27px"></div>
         
-        <div class="fade-in t-del-1 flex@40">
-            <div class="lh-2 nested-p  w-50@40 mr3@40">
+        <div class="fade-in t-del-1 flex@50">
+            <div class="lh-2 nested-p  w-50@50 mr3@50">
                 <p class="">Contact our Winter Park Private Dining &amp; Event Manager, Heather. Please allow up to 48hrs for a response. Contact our Winter Park Private Dining &amp; Event Manager, Heather. Please allow up to 48hrs for a response.</p>
             </div>
-            <div class="w-50@40 ml3@40">
+            <div class="w-50@50 ml3@50">
                 
                 
                 <script async src="https://static.howdyform.com/howdyClient.js?token=Zm9zc2lsY3JlZWtmYW1pbHlkZW50aXN0cnlAZ21haWwuY29t" data-howdy-recipient="fossilcreekfamilydentistry@gmail.com"></script>
@@ -258,19 +269,19 @@
                 <form class="" style="margin-top:7px"  method="POST">
                     
                         <label class="db f5 lh-solid jean-luc mt0 tracked w-100" style="margin-bottom:14px" for="first_name">Name</label>
-                        <input class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 pt1 w-100 wrksns"
-                        style="margin-bottom:25px" id="first_name" name="first_name" placeholder="Name" type="text">
+                        <input class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 w-100 wrksns"
+                        style="margin-bottom:25px;padding-top:2px" id="first_name" name="first_name" placeholder="Name" type="text">
                     
 
                     
                         <label class="db f5 jean-luc mt0 tracked-narrow w-100" style="margin-bottom:13px" for="email">Email</label>
-                        <input class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 pt1 w-100 wrksns"
-                        style="margin-bottom:25px"  id="email" name="email" placeholder="Email" type="text">
+                        <input class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 w-100 wrksns"
+                        style="margin-bottom:25px;padding-top:2px"  id="email" name="email" placeholder="Email" type="text">
                     
 
                     
                         <label class="db f5 jean-luc mt0 tracked-narrow w-100" style="margin-bottom:13px" for="message">Note:</label>
-                        <textarea class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 pt3 w-100 wrksns"
+                        <textarea class="b--c-dark-brown ba bw1 fw5 h-2_5 ph2 pt2 w-100 wrksns"
                         style="height:176px;margin-bottom:20px;resize: none;" id="message" name="message" placeholder="Message" type="text" ></textarea>
                     
 
