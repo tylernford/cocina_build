@@ -1,6 +1,0 @@
-baseURL = "https://cocina-build.netlify.com"
-languageCode = "en-us"
-title = "Cocina 214"
-
-[taxonomies]
-  category = "categories"
