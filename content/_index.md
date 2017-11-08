@@ -5,18 +5,10 @@ upcoming_events:
   when: Mondays – Thursdays
   time: 4:30p – 6:30p
   description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
-- name: Ladies Night
-  when: Wednesdays
-  time: 5:00p – 7:00p
-  description: "$4 Rocks & Frozen Margaritas"
 - name: Brunch
   when: Saturdays & Sundays
   time: 11:00a – 3:00p
   description: "$2 Brunch Mimosas"
-- name: Ladies Night
-  when: Saturday the 5th
-  time: 10:00a – 3:00p
-  description: Join the festivities!
 catering: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
   or private event by selecting Cocina 214 as your catering preference. Whether the
   event is small or large, Cocina 214 offers a wide variety of dishes that caters
@@ -33,6 +25,7 @@ private_dining: With a stylish and approachable family-friendly environment, Coc
   alike.
 type: page
 date: 2017-10-12 00:00:00 +0000
+
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex &ndash; all served in a vibrant, elegant setting.
 
