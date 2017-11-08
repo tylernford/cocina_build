@@ -4,7 +4,7 @@ pages:
 hide_body: false
 fields:
 - name: featured_staff
-  label: Featured staff
+  label: Featured Staff
   type: field_group_list
   fields:
   - type: file
@@ -24,7 +24,7 @@ fields:
   hidden: false
   default: ''
 - name: winter_park_staff
-  label: Winter park staff
+  label: Winter Park Staff
   type: field_group_list
   fields:
   - name: photo
@@ -45,7 +45,7 @@ fields:
   hidden: false
   default: ''
 - name: daytona_beach_staff
-  label: Daytona beach staff
+  label: Daytona Beach Staff
   type: field_group_list
   fields:
   - name: photo
