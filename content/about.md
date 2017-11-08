@@ -16,6 +16,8 @@ winter_park_staff:
 - photo: 
   name: 
   title: 
+  first_name: Karen
+  last_name: Gofphin
 - photo: 
   name: 
   title: 
