@@ -2,6 +2,13 @@
 title: About
 type: static
 layout: about
+featured_staff:
+- photo:
+  name: Lambrine<br> Macejewski
+  title: Manager, Partner <br>&amp; Co-Founder
+- photo:
+  name: Heather<br> Cox
+  title: Private Dining &amp; Event Management
 ---
 
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food here in Winter Park.
