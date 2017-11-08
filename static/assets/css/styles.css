@@ -5,6 +5,7 @@ html {
   box-sizing: inherit;
 }
 body {
+    max-width:125rem;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
