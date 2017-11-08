@@ -1,0 +1,81 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: featured_staff
+  label: Featured staff
+  type: field_group_list
+  fields:
+  - name: photo
+    label: Photo
+    type: text
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: winter_park_staff
+  label: Winter park staff
+  type: field_group_list
+  fields:
+  - name: photo
+    label: Photo
+    type: text
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: daytona_beach_staff
+  label: Daytona beach staff
+  type: field_group_list
+  fields:
+  - name: photo
+    label: Photo
+    type: text
+    hidden: false
+    default: ''
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: title
+    label: Title
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
