@@ -17,10 +17,13 @@ upcoming_events:
   when: Saturday the 5th
   time: 10:00a – 3:00p
   description: Join the festivities!
-catering: |-
-  Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding or private event by selecting Cocina 214 as your catering preference. Whether the event is small or large, Cocina 214 offers a wide variety of dishes that caters to all types of palates. Cocina 214 catering combines the experience of freshly made food with dedicated high-quality service to make a perfect eating experience at any event. Make your event buzz with excitement over the authentic and deliciousness Tex-Mex food provided by Cocina 214 catering service.
-
-  What what hey
+catering: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
+  or private event by selecting Cocina 214 as your catering preference. Whether the
+  event is small or large, Cocina 214 offers a wide variety of dishes that caters
+  to all types of palates. Cocina 214 catering combines the experience of freshly
+  made food with dedicated high-quality service to make a perfect eating experience
+  at any event. Make your event buzz with excitement over the authentic and deliciousness
+  Tex-Mex food provided by Cocina 214 catering service.
 private_dining: With a stylish and approachable family-friendly environment, Cocina
   214 is a vibrant spot perfect for brunch, lunch or dinner. A lively bar, contemporary
   dining room and relaxing patio offer the right atmosphere for any mood. Cocina 214’s
