@@ -1,5 +1,6 @@
 ---
 pages:
+- news/this-is-a-post.md
 - news/we-have-news.md
 hide_body: false
 fields:
