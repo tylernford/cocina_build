@@ -20,7 +20,7 @@
                 {{ range after 1 .Params.featured_staff }}
                     <div class="fade-in-left t-del-1 w-48   w-100@42   w-48@50   css-featured-grid-item">
                         <img alt="" class="db mb-1_1875" src="" />
-                        <p class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">{{ .name | markdownify }}</p>
+                        <p class="fw6 lh-solid mb2 mt0 tracked-narrow ttu wrksns">{{ .first_name }}<br> {{ .last_name }}</p>
                         <p class="c-gold lh-solid mv0 tracked-narrow">{{ .title | markdownify }}</p>
                     </div>
                 {{ end }}
