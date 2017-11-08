@@ -10,11 +10,12 @@ fields:
   - type: file
     name: photo
     label: Photo
-  - name: name
-    label: Name
-    type: text
-    hidden: false
-    default: ''
+  - type: text
+    name: first_name
+    label: First Name
+  - type: text
+    name: last_name
+    label: Last Name
   - name: title
     label: Title
     type: text
