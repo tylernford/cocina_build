@@ -1,48 +1,48 @@
 ---
 title: About
-type: static
+type: about
 layout: about
 featured_staff:
-- photo:
+- photo: "/assets/images/location/portrait.png"
   name: Lambrine<br> Macejewski
-  title: Manager, Partner <br>&amp; Co-Founder
-- photo:
+  title: Manager, Partner <br>& Co-Founder
+- photo: "/assets/images/location/portrait.png"
   name: Heather<br> Cox
   title: Private Dining &amp; Event Management
 winter_park_staff:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
 daytona_beach_staff:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
-- photo:
-  name:
-  title:
----
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
+- photo: 
+  name: 
+  title: 
 
+---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food here in Winter Park.
 
 Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant, elegant setting.
