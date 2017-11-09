@@ -1,0 +1,54 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: upcoming_events
+  label: Upcoming events
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: when
+    label: When
+    type: text
+    hidden: false
+    default: ''
+  - name: time
+    label: Time
+    type: text
+    hidden: false
+    default: ''
+  - name: description
+    label: Description
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: catering
+  label: Catering
+  type: textarea
+  hidden: false
+  default: ''
+- name: private_dining
+  label: Private dining
+  type: textarea
+  hidden: false
+  default: ''
