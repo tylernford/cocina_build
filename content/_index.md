@@ -1,6 +1,10 @@
 ---
 title: Home
 upcoming_events:
+- name: " Happy Hour"
+  when: Mondays – Thursdays
+  time: 4:30p – 6:30p
+  description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
 - name: Happy Hour
   when: Mondays – Thursdays
   time: 4:30p – 6:30p
