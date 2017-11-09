@@ -15,8 +15,8 @@ fields:
   hidden: true
   default: ''
 - type: text
-  name: page
-  label: Page
+  name: forestry_title
+  label: Title
   default: Home
 - name: upcoming_events
   label: Upcoming Events
