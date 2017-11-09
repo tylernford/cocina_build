@@ -25,7 +25,6 @@ private_dining: With a stylish and approachable family-friendly environment, Coc
   alike.
 type: page
 date: 2017-10-12 00:00:00 +0000
-page: Home
 forestry_title: Home
 
 ---

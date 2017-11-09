@@ -8,10 +8,9 @@ featured_staff:
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
 - photo: "/assets/images/location/portrait.png"
-  name: Heather<br> Cox
-  title: Private Dining & Event Management
   first_name: Heather
   last_name: Cox
+  title: Private Dining & Event Management
 winter_park_staff:
 - photo: "/assets/images/location/portrait.png"
   first_name: Karen
