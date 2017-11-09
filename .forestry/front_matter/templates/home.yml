@@ -54,16 +54,6 @@ fields:
   config:
     labelField: name
 - type: field_group
-  name: private_dining
-  label: Private Dining
-  fields:
-  - type: textarea
-    name: text
-    label: text
-  - type: file
-    name: photo
-    label: photo
-- type: field_group
   name: catering
   label: Catering
   fields:
@@ -73,3 +63,13 @@ fields:
   - type: file
     name: photo
     label: Photo
+- type: field_group
+  name: private_dining
+  label: Private Dining
+  fields:
+  - type: textarea
+    name: text
+    label: text
+  - type: file
+    name: photo
+    label: photo
