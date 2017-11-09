@@ -26,6 +26,15 @@ private_dining: With a stylish and approachable family-friendly environment, Coc
 type: page
 date: 2017-10-12 00:00:00 +0000
 forestry_title: Home
+private_dine:
+  text: With a stylish and approachable family-friendly environment, Cocina 214 is
+    a vibrant spot perfect for brunch, lunch or dinner. A lively bar, contemporary
+    dining room and relaxing patio offer the right atmosphere for any mood. Cocina
+    214’s menu ranges from exciting dishes to wholesome entrees alongside traditional
+    favorites for every type of palette. With a kid-friendly staff and comfortable,
+    spacious eating, Cocina 214 is a natural choice for families, hipsters, foodies
+    and young-professionals alike.
+  photo: "/assets/images/image_4.jpg"
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex &ndash; all served in a vibrant, elegant setting.
