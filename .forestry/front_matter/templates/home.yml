@@ -58,13 +58,8 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: private_dining
-  label: Private dining
-  type: textarea
-  hidden: false
-  default: ''
 - type: field_group
-  name: private_dine
+  name: private_dining
   label: Private Dining
   fields:
   - type: textarea
