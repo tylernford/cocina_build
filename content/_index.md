@@ -21,6 +21,15 @@ private_dining:
     spacious eating, Cocina 214 is a natural choice for families, hipsters, foodies
     and young-professionals alike.
   photo: "/assets/images/image_4.jpg"
+catering:
+  text: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
+    or private event by selecting Cocina 214 as your catering preference. Whether
+    the event is small or large, Cocina 214 offers a wide variety of dishes that caters
+    to all types of palates. Cocina 214 catering combines the experience of freshly
+    made food with dedicated high quality service to make a perfect eating experience
+    at any event. Make your event buzz with excitement over the authentic and deliciousness
+    Tex-Mex food provided by Cocina 214 catering service.
+  photo: "/assets/images/image_3.jpg"
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex &ndash; all served in a vibrant, elegant setting.
