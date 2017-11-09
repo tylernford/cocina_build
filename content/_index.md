@@ -9,13 +9,6 @@ upcoming_events:
   when: Saturdays & Sundays
   time: 11:00a – 3:00p
   description: "$2 Brunch Mimosas"
-catering: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
-  or private event by selecting Cocina 214 as your catering preference. Whether the
-  event is small or large, Cocina 214 offers a wide variety of dishes that caters
-  to all types of palates. Cocina 214 catering combines the experience of freshly
-  made food with dedicated high-quality service to make a perfect eating experience
-  at any event. Make your event buzz with excitement over the authentic and deliciousness
-  Tex-Mex food provided by Cocina 214 catering service.
 type: page
 date: 2017-10-12 00:00:00 +0000
 forestry_title: Home
