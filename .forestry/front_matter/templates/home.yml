@@ -65,7 +65,7 @@ fields:
   default: ''
 - type: field_group
   name: private_dine
-  label: private_dine
+  label: Private Dining
   fields:
   - type: textarea
     name: text
