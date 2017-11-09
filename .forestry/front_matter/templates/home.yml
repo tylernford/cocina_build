@@ -6,18 +6,13 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: type
   label: Type
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: upcoming_events
-  label: Upcoming events
+  label: Upcoming Events
   type: field_group_list
   fields:
   - name: name
@@ -40,8 +35,16 @@ fields:
     type: text
     hidden: false
     default: ''
+  - type: text
+    name: link_text
+    label: Link Text
+  - type: text
+    name: link_url
+    label: Link URL
   hidden: false
   default: ''
+  config:
+    labelField: name
 - name: catering
   label: Catering
   type: textarea
