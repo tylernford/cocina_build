@@ -3,6 +3,9 @@ pages:
 - about.md
 hide_body: false
 fields:
+- type: text
+  label: Title
+  name: forestry_title
 - name: featured_staff
   label: Featured Staff
   type: field_group_list
