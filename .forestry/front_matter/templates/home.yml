@@ -6,6 +6,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Please Don't Change Title
 - name: type
   label: Type
   type: text
