@@ -16,11 +16,10 @@ catering: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate,
   made food with dedicated high-quality service to make a perfect eating experience
   at any event. Make your event buzz with excitement over the authentic and deliciousness
   Tex-Mex food provided by Cocina 214 catering service.
-private_dining: ''
 type: page
 date: 2017-10-12 00:00:00 +0000
 forestry_title: Home
-private_dine:
+private_dining:
   text: With a stylish and approachable family-friendly environment, Cocina 214 is
     a vibrant spot perfect for brunch, lunch or dinner. A lively bar, contemporary
     dining room and relaxing patio offer the right atmosphere for any mood. Cocina

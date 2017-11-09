@@ -25,7 +25,7 @@
                 <div class="bg-dark-brown h-_125 mb-1_4375 mr3 mt-_3125   mr4-ns   mb-_4375@79 mr-6_5@79 mt-2_375@79"></div>
                 <div class="flex flex-wrap justify-between lh-2 mt3 ph3 tracked-narrow   ml4-ns ph0-ns   mw-31_5-l   fr@79 mr-6_5@79">
                     {{ range .Params.upcoming_events }}
-                        <div class="fade-in t-del-2  mb-1_75 w-100   w-448@25   mb-3_25-ns pr3-ns w-50-ns   pr0-l w-13-l">
+                        <div class="fade-in t-del-2  mb-1_75 w-100   mb-3_25-ns pr3-ns w-50-ns   pr0-l w-13-l">
                             <h3 class="f-1_125 fw4 lh-1_5 mb1 mt0 white">{{ .name }}</h3>
                             <p class="mv0">{{ .when }}</p>
                             <p class="mv0">{{ .time }}</p>
@@ -34,11 +34,6 @@
                     {{ end }}
                 </div>
             </div>
-            <style>
-            @media screen and (min-width:60em) {
-                .h-auto-l{height:auto}
-            }
-            </style>
             <div class="bg-gold overflow-hidden w-100 h-20   h-auto-l w-45-l   w-42@79">
                 <div data-bg="{{ .Site.BaseURL }}/assets/images/image_2.jpg" style="height: 100%;width:100%;background-position:center center;background-size:cover" class="lazyload scaleUpImg t-del-2"></div>
             </div>
