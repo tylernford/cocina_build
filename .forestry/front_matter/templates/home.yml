@@ -63,3 +63,13 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- type: field_group
+  name: private_dine
+  label: private_dine
+  fields:
+  - type: textarea
+    name: text
+    label: text
+  - type: file
+    name: photo
+    label: photo
