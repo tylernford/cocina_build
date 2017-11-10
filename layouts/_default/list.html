@@ -30,8 +30,8 @@
                             <p class="mv0">{{ .when }}</p>
                             <p class="mv0">{{ .time }}</p>
                             <p class="mv0">{{ .description }}</p>
-                            {{ if isset .link_url }}
-                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="/news">{{ .link_text }}</a>
+                            {{ if ( .Params.link_url ) and ( .Params.link_url "!=" "") }}
+                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="/news">{{ .link_url }}</a>
                             {{ end }}
                         </div>
                     {{ end }}
