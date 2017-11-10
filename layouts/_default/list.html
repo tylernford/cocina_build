@@ -3,7 +3,7 @@
 <link href="{{ .Site.BaseURL }}/assets/css/home.css" rel="stylesheet">
 
 {{ range where .Data.Pages "Title" "Home"}}
-    <div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="" style="background-size:cover;background-position:center center;"></div>
+    <div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>
 
     <main class="ph3-ns">
         <div class="center mw-66 ph3 section-animate  flex@48 justify-between@48   ph0-l">
