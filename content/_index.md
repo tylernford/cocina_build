@@ -5,6 +5,8 @@ upcoming_events:
   when: Mondays – Thursdays
   time: 4:30p – 6:30p
   description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
+  link_text: Learn More
+  link_url: https://google.com
 - name: Happy Hour
   when: Mondays – Thursdays
   time: 4:30p – 6:30p
