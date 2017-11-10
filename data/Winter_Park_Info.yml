@@ -1,8 +1,8 @@
 ---
-address:
+Address:
   part_one: 151 Welbourne Avenue
   part_two: East Winter Park, Florida 32789
-hours:
+Hours:
 - days: Monday–Saturday
   times: 11:30 – 10:00
 - days: Sunday
@@ -10,6 +10,7 @@ hours:
 - days: Bar open late
   times: Friday & Saturday
 Event_Coordinator:
+  photo: "/assets/images/location/portrait.png"
   first_name: Heather
   last_name: Cox
   phone: 000 . 000 . 0000
