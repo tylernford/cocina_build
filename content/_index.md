@@ -6,7 +6,7 @@ upcoming_events:
   time: 4:30p – 6:30p
   description: "$5 Rocks & Frozen 214"
   link_text: Learn More
-  link_url: ''
+  link_url: https://google.com
 - name: Happy Hour
   when: Mondays – Thursdays
   time: 4:30p – 6:30p
