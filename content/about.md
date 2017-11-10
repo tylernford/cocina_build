@@ -39,6 +39,22 @@ daytona_beach_staff:
     first_name: Karen
     last_name: Gofphin
     title: Assistant General Manager
+  - photo: "/assets/images/location/portrait.png"
+    first_name: Miguel
+    last_name: Flores
+    title: Sous Chef
+  - photo: "/assets/images/location/portrait.png"
+    first_name: Maria
+    last_name: Moreno
+    title: Sous Chef
+  - photo: "/assets/images/location/portrait.png"
+    first_name: Oscar
+    last_name: Gaona
+    title: General Manager
+  - photo: "/assets/images/location/portrait.png"
+    first_name: Eugenia
+    last_name: Stergios
+    title: Manager
 forestry_title: About
 hero_photo: "/assets/images/about/about_1.jpg"
 
