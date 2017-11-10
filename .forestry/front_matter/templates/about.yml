@@ -6,6 +6,9 @@ fields:
 - type: text
   label: Title
   name: forestry_title
+- type: file
+  name: hero_photo
+  label: Hero Photo
 - name: featured_staff
   label: Featured Staff
   type: field_group_list
@@ -46,6 +49,9 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: boolean
+  name: show_daytona_beach_staff
+  label: Show Daytona Beach Staff
 - name: daytona_beach_staff
   label: Daytona Beach Staff
   type: field_group_list
