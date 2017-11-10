@@ -18,6 +18,9 @@ fields:
   name: forestry_title
   label: Title
   default: Home
+- type: file
+  name: hero_photo
+  label: Hero Photo
 - type: field_group
   name: upcoming_events
   label: Upcoming Events
