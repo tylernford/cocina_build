@@ -1,14 +1,5 @@
 ---
 title: Home
-upcoming_events:
-- name: Happy Hour
-  when: Mondays – Thursdays
-  time: 4:30p – 6:30p
-  description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
-- name: Brunch
-  when: Saturdays & Sundays
-  time: 11:00a – 3:00p
-  description: "$2 Brunch Mimosas"
 type: page
 date: 2017-10-12 00:00:00 +0000
 forestry_title: Home
