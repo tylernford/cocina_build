@@ -25,14 +25,14 @@ catering:
 upcoming_events:
   photo: "/assets/images/image_2.jpg"
   events:
-  - event_name: Brunch
-    event_date: Saturdays & Sundays
-    event_time: 11:00a – 3:00p
-    event_description: "$2 Brunch Mimosas"
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
     event_description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
+  - event_name: Brunch
+    event_date: Saturdays & Sundays
+    event_time: 11:00a – 3:00p
+    event_description: "$2 Brunch Mimosas"
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex &ndash; all served in a vibrant, elegant setting.
