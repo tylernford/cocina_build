@@ -9,9 +9,8 @@ hours:
   times: 11:30 – 9:00
 - days: Bar open late
   times: Friday & Saturday
-Event Coordination:
-  Coordinator:
-    first_name: Heather
-    last_name: Cox
-    phone: 000 . 000 . 0000
-    email: heather@cocina214.com
+Event_Coordinator:
+  first_name: Heather
+  last_name: Cox
+  phone: 000 . 000 . 0000
+  email: heather@cocina214.com
