@@ -22,33 +22,29 @@ fields:
   label: Upcoming Events
   type: field_group_list
   fields:
-  - name: name
-    label: Name
-    type: text
-    hidden: false
-    default: ''
-  - name: when
-    label: When
-    type: text
-    hidden: false
-    default: ''
-  - name: time
-    label: Time
-    type: text
-    hidden: false
-    default: ''
-  - name: description
-    label: Description
-    type: text
-    hidden: false
-    default: ''
-  - type: text
-    name: link_text
-    label: Link Text
-    description: e.g. "Learn More", "Register", "View Event Menu"
-  - type: text
-    name: link_url
-    label: Link URL
+  - type: file
+    name: photo
+    label: Photo
+  - type: field_group
+    name: events
+    label: Events
+    fields:
+    - type: text
+      label: Name
+      name: name
+    - type: text
+      name: when
+      label: When
+    - type: text
+      name: time
+      label: Time
+    - type: text
+      name: description
+      label: Description
+    - type: text
+      name: link_text
+      label: Link Text
+      description: e.g. "Learn More", "Register", "View Event Menu"
   hidden: false
   default: ''
   config:
