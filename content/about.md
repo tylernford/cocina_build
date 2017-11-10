@@ -33,7 +33,7 @@ winter_park_staff:
   last_name: Stergios
   title: Manager
 daytona_beach_staff:
-  show_staff: false
+  show_staff: true
   staff:
   - photo: "/assets/images/location/portrait.png"
     first_name: Karen
