@@ -31,7 +31,7 @@
                             <p class="mv0">{{ .time }}</p>
                             <p class="mv0">{{ .description }}</p>
                             {{ if ( .Params.link_url ) and ( .Params.link_url "!=" "") }}
-                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="/news">{{ .link_url }}</a>
+                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .link_url }}">{{ .link_text }}</a>
                             {{ end }}
                         </div>
                     {{ end }}
