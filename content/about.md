@@ -34,7 +34,11 @@ winter_park_staff:
   title: Manager
 daytona_beach_staff:
   show_staff: false
-  staff: []
+  staff:
+  - photo: "/assets/images/location/portrait.png"
+    first_name: Karen
+    last_name: Gofphin
+    title: Assistant General Manager
 forestry_title: About
 hero_photo: "/assets/images/about/about_1.jpg"
 
