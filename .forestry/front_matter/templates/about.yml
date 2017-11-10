@@ -56,7 +56,7 @@ fields:
   - type: boolean
     name: show_staff
     label: Show Staff
-  - type: field_group
+  - type: field_group_list
     name: staff
     label: Staff
     fields:
@@ -64,8 +64,8 @@ fields:
       name: photo
       label: Photo
     - type: text
-      label: First Name
       name: first_name
+      label: First Name
     - type: text
       name: last_name
       label: Last Name
