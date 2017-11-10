@@ -26,7 +26,7 @@ fields:
     name: photo
     label: Photo
     default: "/assets/images/image_2.jpg"
-  - type: field_group
+  - type: field_group_list
     name: events
     label: Events
     fields:
@@ -48,8 +48,8 @@ fields:
       description: e.g. "Learn More", "Register", "View Event Menu"
     - type: text
       name: event_link_url
-      label: Event Link Url
-      description: This can link to a news post, other website, or file
+      label: Event Link URL
+      description: This can link to a news post, other website, file, etc.
 - type: field_group
   name: catering
   label: Catering
