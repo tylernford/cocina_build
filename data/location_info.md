@@ -1,2 +1,2 @@
-location_one_address:
-  - "What"
+---
+location_one_address: hey
