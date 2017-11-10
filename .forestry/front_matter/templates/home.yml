@@ -44,3 +44,10 @@ fields:
 - type: field_group
   name: upcoming_events
   label: Upcoming Events
+  fields:
+  - type: file
+    name: photo
+    label: Photo
+  - type: field_group
+    name: events
+    label: Events
