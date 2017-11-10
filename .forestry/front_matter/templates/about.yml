@@ -49,3 +49,26 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: field_group
+  name: daytona_beach_staff
+  label: Daytona Beach Staff
+  fields:
+  - type: boolean
+    name: show_staff
+    label: Show Staff
+  - type: field_group
+    name: staff
+    label: Staff
+    fields:
+    - type: file
+      name: photo
+      label: Photo
+    - type: text
+      label: First Name
+      name: first_name
+    - type: text
+      name: last_name
+      label: Last Name
+    - type: text
+      name: title
+      label: Title
