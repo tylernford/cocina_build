@@ -30,7 +30,9 @@
                             <p class="mv0">{{ .when }}</p>
                             <p class="mv0">{{ .time }}</p>
                             <p class="mv0">{{ .description }}</p>
-                            <!--<a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="/news">Learn More</a>-->
+                            {{ if isset .link_url }}
+                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="/news">{{ .link_text }}</a>
+                            {{ end }}
                         </div>
                     {{ end }}
                 </div>
