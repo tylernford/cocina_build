@@ -21,7 +21,6 @@ catering:
     at any event. Make your event buzz with excitement over the authentic and deliciousness
     Tex-Mex food provided by Cocina 214 catering service.
   photo: "/assets/images/image_3.jpg"
-  upcoming_events: []
 upcoming_events:
   photo: "/assets/images/image_2.jpg"
   events:
