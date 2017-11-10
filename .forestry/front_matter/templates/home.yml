@@ -19,6 +19,38 @@ fields:
   label: Title
   default: Home
 - type: field_group
+  name: upcoming_events
+  label: Upcoming Events
+  fields:
+  - type: file
+    name: photo
+    label: Photo
+    default: "/assets/images/image_2.jpg"
+  - type: field_group
+    name: events
+    label: Events
+    fields:
+    - type: text
+      name: event_name
+      label: Event Name
+    - type: text
+      name: event_date
+      label: Event Date
+    - type: text
+      name: event_time
+      label: Event Time
+    - type: text
+      name: event_description
+      label: Event Description
+    - type: text
+      name: event_link_text
+      label: Event Link Text
+      description: e.g. "Learn More", "Register", "View Event Menu"
+    - type: text
+      name: event_link_url
+      label: Event Link Url
+      description: This can link to a news post, other website, or file
+- type: field_group
   name: catering
   label: Catering
   fields:
@@ -41,13 +73,3 @@ fields:
   - type: file
     name: photo
     label: photo
-- type: field_group
-  name: upcoming_events
-  label: Upcoming Events
-  fields:
-  - type: file
-    name: photo
-    label: Photo
-  - type: field_group
-    name: events
-    label: Events
