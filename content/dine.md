@@ -1,6 +1,6 @@
 ---
 title: Dine
-type: dine
+type: static
 layout: dine
 forestry_title: Dine
 dine_with_us:
