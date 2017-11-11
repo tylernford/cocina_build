@@ -5,7 +5,9 @@ layout: contact
 hero_photo: "/assets/images/location/location_1.jpg"
 forestry_title: Contact
 form_title: Get in Touch
-form_text: ''
+form_text: Contact our Winter Park Private Dining & Event Manager, Heather. Please
+  allow up to 48hrs for a response. Contact our Winter Park Private Dining & Event
+  Manager, Heather. Please allow up to 48hrs for a response.
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food here in Winter Park.
