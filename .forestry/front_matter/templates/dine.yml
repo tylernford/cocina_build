@@ -85,9 +85,15 @@ fields:
   - type: text
     name: title
     label: Title
+  - type: file
+    name: winter_park_photo
+    label: Winter Park Photo
   - type: textarea
-    name: winter_park
-    label: Winter Park
+    name: winter_park_text
+    label: Winter Park Text
+  - type: file
+    name: daytona_beach_photo
+    label: Daytona Beach Photo
   - type: textarea
-    name: daytona_beach
-    label: Daytona Beach
+    name: daytona_beach_text
+    label: Daytona Beach Text
