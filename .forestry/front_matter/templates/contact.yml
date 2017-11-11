@@ -1,4 +1,6 @@
 ---
+pages:
+- contact.md
 hide_body: false
 fields:
 - type: text
