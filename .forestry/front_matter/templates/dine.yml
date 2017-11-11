@@ -48,3 +48,13 @@ fields:
     - type: file
       name: menu
       label: Menu
+  - type: field_group
+    name: reservations
+    label: Reservations
+    fields:
+    - type: textarea
+      name: text
+      label: Text
+    - type: text
+      name: phone
+      label: Phone
