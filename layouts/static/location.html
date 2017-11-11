@@ -29,7 +29,7 @@
                     <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
                         <h3 class="element-invisible">Address</h3>
                         <p class="mb-_8125 mt0">{{ .Site.Data.Winter_Park_Info.Address.part_one }}<br>{{ .Site.Data.Winter_Park_Info.Address.part_two }}</p>
-                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="https://www.google.com/maps/place/Cocina+214/@28.596916,-81.3525747,17z/data=!3m1!4b1!4m5!3m4!1s0x88e7701a9984e623:0x16d50fb8ac0d377e!8m2!3d28.596916!4d-81.350386">Get Directions</a>
+                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="{{ .Site.Data.Winter_Park_Info.Address.google_maps_url }}">Get Directions</a>
 
                         <h3 class="f5 fw4 mv0">Hours:</h3>
                         {{ range .Site.Data.Winter_Park_Info.Hours }}
@@ -95,7 +95,7 @@
                     <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
                         <h3 class="element-invisible">Address</h3>
                         <p class="mb-_8125 mt0">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
-                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="">Get Directions</a>
+                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
 
                         <h3 class="f5 fw4 mv0">Hours:</h3>
                         {{ range .Site.Data.Daytona_Beach_Info.Hours }}
