@@ -25,5 +25,18 @@ dine_with_us:
     text: Call to make a reservation today!
     phone: 407.790.7997
 hero_photo: "/assets/images/dine/dine_1.jpg"
+catering:
+  text: Let us Cater Office Lunches or Corporate Functions, Engagement Parties, Bridal
+    Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries,
+    Holiday Parties and much more!
+  menu: ''
+private_dining:
+  text: |-
+    Reserve our stunning private dining room for your private event needs, from personal to business.
+
+    - Menus are completely unique to host’s needs.
+    - Two HD TVs and sound system available for use.
+    - Linens included with reservation.
+  menu: ''
 
 ---
