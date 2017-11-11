@@ -1,7 +1,7 @@
 ---
 pages:
 - contact.md
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: forestry_title
