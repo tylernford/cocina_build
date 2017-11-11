@@ -78,3 +78,16 @@ fields:
   - type: file
     name: menu
     label: Menu
+- type: field_group
+  name: events
+  label: Events
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: winter_park
+    label: Winter Park
+  - type: textarea
+    name: daytona_beach
+    label: Daytona Beach
