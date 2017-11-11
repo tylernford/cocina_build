@@ -13,7 +13,7 @@ dine_with_us:
   menus:
   - menu_name: Dine-In
     menu: "/assets/images/shop/t-shirt.png"
-  - menu_name: Take-Out
+  - menu_name: Take–Out
     menu: "/assets/images/shop/t-shirt.png"
   featured:
     name: Happy Hour
