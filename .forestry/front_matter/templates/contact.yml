@@ -1,18 +1,15 @@
 ---
 hide_body: false
 fields:
-- name: title
+- type: text
+  name: forestry_title
   label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: ''
+- type: file
+  name: hero_photo
+  label: hero_photo
+- type: text
+  name: form_title
+  label: Form Title
+- type: text
+  name: form_text
+  label: Form Text
