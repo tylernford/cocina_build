@@ -38,5 +38,11 @@ private_dining:
     - Two HD TVs and sound system available for use.
     - Linens included with reservation.
   menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+events:
+  title: Book Your Private Party or Catering
+  winter_park: Contact our Winter Park Private Dining & Event Manager, Heather. Please
+    allow up to 48hrs for a response.
+  daytona_beach: Contact our Daytona Beach Private Dining & Event Manager, Name. Please
+    allow up to 48hrs for a response.
 
 ---
