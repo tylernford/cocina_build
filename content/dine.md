@@ -21,5 +21,6 @@ dine_with_us:
     when: Monday – Thursday
     menu_name: Happy Hour
     menu: "/assets/images/shop/t-shirt.png"
+hero_photo: "/assets/images/dine/dine_1.jpg"
 
 ---
