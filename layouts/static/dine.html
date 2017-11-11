@@ -62,8 +62,8 @@
                 <!-- End Divider -->
 
                 <div class="fade-in t-del-1 lh-2 mb-2_6875 measure-wide ml3 nested-p white   ml4-ns   fr@79 w-25@79">
-                    <p></p>
-                    <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="">Menu</a>
+                    <p>{{ .Params.catering.text | markdownify }}</p>
+                    <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.catering.menu }}">View Catering Menu</a>
                 </div>
             </div>
         </div>
@@ -76,13 +76,8 @@
             <!-- End Divider -->
 
             <div class="fade-in t-del-2   lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p   mh4-ns   mr5-l   ml-7@79 w-25@79">
-                <!--<p>Reserve our stunning private dining room for your private event needs, from personal to business.</p>
-                <ul>
-                    <li>Menus are completely unique to host’s needs.</li>
-                    <li>Two HD TVs and sound system available for use.</li>
-                    <li>Linens included with reservation.</li>
-                </ul>-->
-                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="">Menu</a>
+                <p>{{ .Params.private_dining.text | markdownify }}</p>
+                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.private_dining.menu }}">View Private Dining Menu</a>
             </div>
         </div>
     </div>
