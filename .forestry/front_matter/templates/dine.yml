@@ -1,18 +1,29 @@
 ---
 hide_body: false
 fields:
-- name: title
+- type: text
+  name: forestry_title
   label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: ''
+- type: text
+  name: hero_photo
+  label: Hero Photo
+- type: field_group
+  name: dine_with_us
+  label: Dine with Us
+  fields:
+  - type: file
+    name: photo
+    label: Photo
+  - type: textarea
+    name: text
+    label: Text
+  - type: field_group_list
+    name: menus
+    label: Menus
+    fields:
+    - type: text
+      name: menu_name
+      label: Menu Name
+    - type: file
+      name: menu
+      label: Menu
