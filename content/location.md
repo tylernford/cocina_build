@@ -1,6 +1,6 @@
 ---
 title: Location
-type: location
+type: static
 layout: location
 show_daytona: true
 forestry_title: Location
