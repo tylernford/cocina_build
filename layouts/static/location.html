@@ -28,37 +28,31 @@
                     <!--   Address & Hours   -->
                     <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
                         <h3 class="element-invisible">Address</h3>
-                        <p class="mb-_8125 mt0">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
-                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="">Get Directions</a>
+                        <p class="mb-_8125 mt0">{{ .Site.Data.Winter_Park_Info.Address.part_one }}<br>{{ .Site.Data.Winter_Park_Info.Address.part_two }}</p>
+                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="https://www.google.com/maps/place/Cocina+214/@28.596916,-81.3525747,17z/data=!3m1!4b1!4m5!3m4!1s0x88e7701a9984e623:0x16d50fb8ac0d377e!8m2!3d28.596916!4d-81.350386">Get Directions</a>
 
                         <h3 class="f5 fw4 mv0">Hours:</h3>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Monday&ndash;Saturday</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">11:30 &ndash; 10:00</p>
-                        </div>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Sunday</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">11:30 &ndash; 9:00</p>
-                        </div>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Bar open late</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">Friday &amp; Saturday</p>
-                        </div>
+                        {{ range .Site.Data.Winter_Park_Info.Hours }}
+                            <div class="flex justify-between   justify-start-ns">
+                                <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
+                                <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
+                            </div>
+                        {{ end }}
                     </div>
                     <!-- End Address & Hours -->
 
                     <!--   Event Coordination   -->
                     <div class="flex@25 justify-between@25   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 justify-start@53 ml0@53 w-auto@53   w-100-l">
                         <!--   Coordinator Photo   -->
-                        <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.BaseURL }}/assets/images/location/portrait.png" />
+                        <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.Data.Winter_Park_Info.Event_Coordinator.photo }}" />
                         <!-- End Coordinator Photo -->
 
                         <!--   Coordinator Info   -->
                         <div class="ml3@25 w-48@25   w-auto-ns   ml0@40   ml3@53   css-ie-flex-shrink">
                             <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3>
-                            <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">Heather<br class="dn   db-l"> Cox</p>
-                            <a class="c-gold db hover-white lh-solid link mb1 mt0   f6@25" href="tel:">000 . 000 . 0000</a>
-                            <a class="c-gold db hover-white lh-solid link mv0   f6@25" href="mailto:">heather@cocina214.com</a>
+                            <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">{{ .Site.Data.Winter_Park_Info.Event_Coordinator.first_name }}<br class="dn   db-l"> {{ .Site.Data.Winter_Park_Info.Event_Coordinator.last_name }}</p>
+                            <a class="c-gold db hover-white lh-solid link mb1 mt0   f6@25" href="tel:{{ .Site.Data.Winter_Park_Info.Event_Coordinator.phone }}">{{ .Site.Data.Winter_Park_Info.Event_Coordinator.phone }}</a>
+                            <a class="c-gold db hover-white lh-solid link mv0   f6@25" href="mailto:{{ .Site.Data.Winter_Park_Info.Event_Coordinator.email }}">{{ .Site.Data.Winter_Park_Info.Event_Coordinator.email }}</a>
                         </div>
                         <!-- End Coordinator Info -->
                     </div>
@@ -100,37 +94,31 @@
                     <!--   Address & Hours   -->
                     <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
                         <h3 class="element-invisible">Address</h3>
-                        <p class="mb-_8125 mt0">000 Smith Street<br>Daytona Beach, Florida 00000</p>
+                        <p class="mb-_8125 mt0">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
                         <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="">Get Directions</a>
 
                         <h3 class="f5 fw4 mv0">Hours:</h3>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Monday&ndash;Saturday</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">11:30 &ndash; 10:00</p>
-                        </div>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Sunday</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">11:30 &ndash; 9:00</p>
-                        </div>
-                        <div class="flex justify-between   justify-start-ns">
-                            <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">Bar open late</p>
-                            <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">Friday &amp; Saturday</p>
-                        </div>
+                        {{ range .Site.Data.Daytona_Beach_Info.Hours }}
+                            <div class="flex justify-between   justify-start-ns">
+                                <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
+                                <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
+                            </div>
+                        {{ end }}
                     </div>
                     <!-- End Address & Hours -->
 
                     <!--   Event Coordination   -->
                     <div class="flex@25 justify-between@25   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 justify-start@53 ml0@53 w-auto@53   w-100-l">
                         <!--   Coordinator Photo   -->
-                        <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.BaseURL }}/assets/images/location/portrait.png" />
+                        <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.photo }}" />
                         <!-- End Coordinator Photo -->
 
                         <!--   Coordinator Info   -->
                         <div class="ml3@25 w-48@25   w-auto-ns   ml0@40   ml3@53   css-ie-flex-shrink">
                             <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">Private Event Coordination</h3>
-                            <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">Heather<br class="dn   db-l"> Cox</p>
-                            <a class="c-dark-brown db hover-white lh-solid link mb1 mt0   f6@25" href="tel:">000 . 000 . 0000</a>
-                            <a class="c-dark-brown db hover-white lh-solid link mv0   f6@25" href="mailto:">heather@cocina214.com</a>
+                            <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.first_name }}<br class="dn   db-l"> {{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.last_name }}</p>
+                            <a class="c-dark-brown db hover-white lh-solid link mb1 mt0   f6@25" href="tel:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}</a>
+                            <a class="c-dark-brown db hover-white lh-solid link mv0   f6@25" href="mailto:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}</a>
                         </div>
                         <!-- End Coordinator Info -->
                     </div>
