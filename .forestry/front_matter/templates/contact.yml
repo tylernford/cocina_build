@@ -12,6 +12,6 @@ fields:
 - type: text
   name: form_title
   label: Form Title
-- type: text
+- type: textarea
   name: form_text
   label: Form Text
