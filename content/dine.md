@@ -12,15 +12,15 @@ dine_with_us:
     occasion you’re sure to enjoy.
   menus:
   - menu_name: Dine-In
-    menu: "/assets/images/shop/t-shirt.png"
+    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
   - menu_name: Take–Out
-    menu: "/assets/images/shop/t-shirt.png"
+    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
   featured:
     name: Happy Hour
     hours: 4:30 – 6:00
     when: Monday – Thursday
     menu_name: Happy Hour
-    menu: "/assets/images/shop/t-shirt.png"
+    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
   reservations:
     text: Call to make a reservation today!
     phone: 407.790.7997
@@ -29,7 +29,7 @@ catering:
   text: Let us Cater Office Lunches or Corporate Functions, Engagement Parties, Bridal
     Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries,
     Holiday Parties and much more!
-  menu: ''
+  menu: "/uploads/2017/11/11/placeholder_menu.pdf"
 private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
@@ -37,6 +37,6 @@ private_dining:
     - Menus are completely unique to host’s needs.
     - Two HD TVs and sound system available for use.
     - Linens included with reservation.
-  menu: ''
+  menu: "/uploads/2017/11/11/placeholder_menu.pdf"
 
 ---
