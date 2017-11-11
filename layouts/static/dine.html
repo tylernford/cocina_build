@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="" style="background-size:cover;background-position:center center;"></div>
+<div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>
 
 <main class="ph3-ns">
     <div class="section-animate bg-gold mt2   mv3-ns   flex@53">
@@ -14,35 +14,39 @@
 
                 <div class=" lh-2 ml3 white   ml4-ns   fr@79 w-25@79">
                     <div class="fade-in t-del-2  mb-2_6875 measure-wide nested-p">
-                        <!--dine text-->
-                        <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href=""></a>
+                        <p>{{ .Params.dine_with_us.text | markdownify }}</p>
+                        {{ range first 1 .Params.dine_with_us.menus }}
+                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .menu_name }} Menu</a>
+                        {{ end }}
                         <br>
-                        <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href=""></a>
+                        {{ range after 1 .Params.dine_with_us.menus }}
+                            <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .menu_name }} Menu</a>
+                        {{ end }}
                     </div>
 
                     <div class="bg-dark-brown h-_125 mb-1_1875"></div>
 
                     <div class="fade-in t-del-2 mb-2_6875   flex@25">
-                        <div class="mb-1_375   mb0@25 w-12@25">
-                            <p class="mv0"></p>
-                            <p class="mv0"></p>
-                            <p class="mv0"></p>
-                        </div>
-                        <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25   css-arrow-link" href=""></a>
+                            <div class="mb-1_375   mb0@25 w-12@25">
+                                <p class="mv0">{{ .Params.dine_with_us.featured.name }}</p>
+                                <p class="mv0">{{ .Params.dine_with_us.featured.hours }}</p>
+                                <p class="mv0">{{ .Params.dine_with_us.featured.when }}</p>
+                            </div>
+                            <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25   self-end@25   css-arrow-link" href="{{ .Params.dine_with_us.featured.menu }}">{{ .Params.dine_with_us.featured.menu_name }} Menu</a>
                     </div>
 
                     <div class="bg-dark-brown h-_125 mb-1_1875"></div>
 
                     <div class="fade-in t-del-2 flex@25">
-                        <p class="mb-1_375 mt0   mb0@25 w-12@25"></p>
-                        <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25 self-end@25   css-arrow-link"  href=""></a>
+                        <p class="mb-1_375 mt0   mb0@25 w-12@25">{{ .Params.dine_with_us.reservations.text }}</p>
+                        <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25 self-end@25   css-arrow-link"  href="tel:{{ .Params.dine_with_us.reservations.phone }}">{{ .Params.dine_with_us.reservations.phone }}</a>
                     </div>
                 </div>
             </div>
         </div>
 
         <div class="overflow-hidden h-20   h-30-ns   h-auto@53 w-50@53">
-            <div data-bg="" style="height: 100%;width:100%;background-position:center center;background-size:cover" class="lazyload scaleUpImg t-del-2"></div>
+            <div data-bg="{{ .Params.dine_with_us.photo }}" style="height: 100%;width:100%;background-position:center center;background-size:cover" class="lazyload scaleUpImg t-del-2"></div>
         </div>
     </div>
 
