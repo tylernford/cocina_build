@@ -4,7 +4,7 @@ fields:
 - type: text
   name: forestry_title
   label: Title
-- type: text
+- type: file
   name: hero_image
   label: Hero Image
 - type: boolean
