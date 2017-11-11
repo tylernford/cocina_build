@@ -24,8 +24,22 @@ fields:
     - type: file
       name: menu
       label: Menu
-- fields:
-  - type: file
-    name: hero_photo
-    label: Hero Photo
-  type: boolean
+  - type: field_group
+    name: featured
+    label: Featured
+    fields:
+    - type: text
+      name: name
+      label: Name
+    - type: text
+      name: hours
+      label: Hours
+    - type: text
+      name: when
+      label: When
+    - type: text
+      name: menu_name
+      label: Menu Name
+    - type: file
+      name: menu
+      label: Menu
