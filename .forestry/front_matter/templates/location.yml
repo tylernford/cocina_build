@@ -7,8 +7,8 @@ fields:
   name: forestry_title
   label: Title
 - type: file
-  name: hero_image
-  label: Hero Image
+  name: hero_photo
+  label: Hero Photo
 - type: boolean
   name: show_daytona
   label: Show Daytona Beach Info
