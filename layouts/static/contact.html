@@ -26,15 +26,15 @@
                 <div class="lh-2 ml3 tracked-narrow   ml4-ns   mw-26@54   w-25@79">
                     <div class="flex">
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Phone:</p>
-                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">407-031-9192</p>
+                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Winter_Park_Info.Phone }}</p>
                     </div>
                     <div class="flex">
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
-                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
+                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Winter_Park_Info.Address.part_one }}<br>{{ .Site.Data.Winter_Park_Info.Address.part_two }}</p>
                     </div>
                     <div class="flex mt4">
-                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="">Get Directions</a>
-                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="">Call Us</a>
+                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Winter_Park_Info.Address.google_maps_url }}">Get Directions</a>
+                        <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Winter_Park_Info.Phone }}">Call Us</a>
                     </div>
                 </div>
             </div>
@@ -62,15 +62,15 @@
                 <div class="lh-2 ml3 tracked-narrow   ml4-ns   mw-26@54   w-25@79">
                     <div class="flex">
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Phone:</p>
-                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">407-031-9192</p>
+                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Daytona_Beach_Info.Phone }}</p>
                     </div>
                     <div class="flex">
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
-                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">151 Welbourne Avenue<br>East Winter Park, Florida 32789</p>
+                        <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
                     </div>
                     <div class="flex mt4">
-                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="">Get Directions</a>
-                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="">Call Us</a>
+                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
+                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Daytona_Beach_Info.Phone }}">Call Us</a>
                     </div>
                 </div>
             </div>
