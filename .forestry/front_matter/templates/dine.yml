@@ -58,3 +58,23 @@ fields:
     - type: text
       name: phone
       label: Phone
+- type: field_group
+  name: catering
+  label: Catering
+  fields:
+  - type: textarea
+    name: text
+    label: Text
+  - type: file
+    name: menu
+    label: Menu
+- type: field_group
+  name: private_dining
+  label: Private Dining
+  fields:
+  - type: textarea
+    name: text
+    label: Text
+  - type: file
+    name: menu
+    label: Menu
