@@ -21,6 +21,9 @@ dine_with_us:
     when: Monday – Thursday
     menu_name: Happy Hour
     menu: "/assets/images/shop/t-shirt.png"
+  reservations:
+    text: Call to make a reservation today!
+    phone: 407.790.7997
 hero_photo: "/assets/images/dine/dine_1.jpg"
 
 ---
