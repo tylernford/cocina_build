@@ -4,9 +4,6 @@ fields:
 - type: text
   name: forestry_title
   label: Title
-- type: text
-  name: hero_photo
-  label: Hero Photo
 - type: field_group
   name: dine_with_us
   label: Dine with Us
@@ -27,3 +24,8 @@ fields:
     - type: file
       name: menu
       label: Menu
+- fields:
+  - type: file
+    name: hero_photo
+    label: Hero Photo
+  type: boolean
