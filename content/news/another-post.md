@@ -2,8 +2,6 @@
 title: Another Post
 location: Winter Park
 date: 2017-10-11 00:00:00 +0000
-categories:
-- awards
 featured_image: "/assets/images/news/featured_image.jpg"
 image: "/assets/images/news/featured_image.jpg"
 

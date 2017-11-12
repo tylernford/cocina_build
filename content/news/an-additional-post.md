@@ -2,8 +2,6 @@
 title: An Additional Post
 location: Winter Park
 date: 2017-10-12 00:00:00 +0000
-categories:
-- press
 featured_image: "/assets/images/news/featured_image.jpg"
 image: "/assets/images/news/featured_image.jpg"
 
