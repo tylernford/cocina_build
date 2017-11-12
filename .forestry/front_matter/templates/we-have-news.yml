@@ -42,18 +42,10 @@ fields:
   name: test
   config:
     source:
-      type: datafiles
+      type: simple
+      section: news
+    options:
+    - hey
+    - what
+    - beep
   label: Test
-- type: field_group
-  name: test_2
-  label: Test 2
-  fields:
-  - type: text
-    name: whoop
-    label: whoop
-  - type: text
-    name: dhoop
-    label: dhoop
-  - type: text
-    name: fhoop
-    label: fhoop
