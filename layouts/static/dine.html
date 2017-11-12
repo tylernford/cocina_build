@@ -115,20 +115,18 @@
 
 .test-div {
 	transition: opacity 300ms ease-in-out;
+    opacity: 0;
 }
-.test-div {
-	opacity: 0;
-}
-.test-div {
+.test-div.load {
 	opacity: 1;
 	transition: opacity 300ms;
 }
-.test-div-t-del-2 {transition-delay: 0.5s !important;}
+/*.test-div-t-del-2 {transition-delay: 0.5s !important;}*/
 </style>
 <!--<div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>-->
 
 
-<div class="h-26 mt-3   mt5-ns   mt0@50   relative bg-black-03    test-div    test-div-t-del-2">
+<div class="h-26 mt-3   mt5-ns   mt0@50   relative bg-black-03    test-div">
     <div class="absolute h-100 left-0 top-0 w-100  bg-2"
     style="background: url(/assets/images/location/location_1.jpg) no-repeat center;background-size: cover;">
         <div class="absolute bottom-0 center left-0 ph3 right-0 tr w-100   ph-3-ns   ph5-l   mw-64@72 ph0@72">
@@ -145,7 +143,7 @@
 </div>
 
 
-<main class="ph3-ns">
+<main class="ph3-ns bg-black-03">
     <div class="section-animate bg-gold mt2   mv3-ns   flex@53">
         <div class=" mb2 pb-5_3125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-7@79">
             <div class="fr@90 w-27@90">
