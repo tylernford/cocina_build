@@ -22,11 +22,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
 - name: type
   label: Type
   type: text
@@ -39,13 +34,15 @@ fields:
   name: image
   label: image
 - type: select
-  name: test
+  name: category
   config:
     source:
       type: simple
       section: news
     options:
-    - hey
-    - what
-    - beep
-  label: Test
+    - awards
+    - current
+    - past-events
+    - press
+    - upcoming
+  label: Category
