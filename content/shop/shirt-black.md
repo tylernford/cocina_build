@@ -1,6 +1,6 @@
 ---
 title: Ground Break Daytona Beach T-Shirt (Black)
-product_category: ''
+product_category: T-Shirts
 product_id: ground-break-t-shirt-black
 product_price: 24
 product_details:
