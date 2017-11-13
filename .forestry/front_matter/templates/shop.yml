@@ -17,7 +17,7 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: tag_list
+- type: text
   name: product_category
   label: Product Category
 - type: number
