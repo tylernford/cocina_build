@@ -1,7 +1,7 @@
 ---
 title: Gift Card ($10)
 product_id: gift-card-10
-product_category: ''
+product_category: T-Shirts
 product_price: 10
 product_details: []
 product_sizes: []
