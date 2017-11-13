@@ -1,10 +1,10 @@
 ---
 title: Gift Card ($10)
-product_category: Gift Cards
 product_id: gift-card-10
+product_category: Gift Cards
 product_price: 10
 product_details:
-product_options:
+product_sizes:
 product_size_guide:
 product_featured_image: /assets/images/shop/gift_card.png
 product_images:
