@@ -1,10 +1,10 @@
 ---
 pages:
+- news/we-have-news.md
 - news/an-additional-post.md
 - news/another-post.md
 - news/great-things-coming.md
 - news/this-is-a-post.md
-- news/we-have-news.md
 hide_body: false
 fields:
 - name: title
