@@ -1,10 +1,10 @@
 ---
 pages:
+- shop/shirt-red.md
+- shop/shirt-gold.md
 - shop/gift-card-10.md
 - shop/gift-card-25.md
 - shop/shirt-black.md
-- shop/shirt-gold.md
-- shop/shirt-red.md
 hide_body: false
 fields:
 - name: title
