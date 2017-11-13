@@ -20,7 +20,7 @@
                         <div class="fade-in t-del-1 mt-2_3125   css-product-grid-item">
                             <!--   Product Photo   -->
                             <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
-                                <img alt="" class="db w-100" src="{{ range first 1 .Params.product_images }}{{.}}{{end}}" />
+                                <img alt="" class="db w-100" src="{{ .Params.product_featured_image }}" />
                             </a>
                             <!-- End Product Photo -->
 
