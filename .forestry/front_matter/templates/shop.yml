@@ -1,0 +1,35 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: id
+  label: ID
+  config:
+    required: true
+- type: text
+  name: category
+  label: Category
+  description: e.g. "T-Shirts", "Gift Cards"
+  config:
+    required: true
+- type: number
+  name: price
+  label: Price
+- type: list
+  name: details
+  label: Details
+- type: list
+  name: sizes
+  label: Sizes
+- type: text
+  name: size_guide
+  label: Size Guide
+- type: image_gallery
+  name: images
+  label: Images
+  description: The first image will be featured on shop and product pages
