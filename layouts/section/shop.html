@@ -6,7 +6,7 @@
         {{ range .Data.Pages.GroupByParam "product_category" }}
             <div class="section-animate mb-_8125">
                 <!--   Product Category   -->
-                <h2 class="fade-in-right  f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{ .Key }}</h2>
+                <h2 class="fade-in-right  f4 fw6 lh-1_5 mb-_5625 mt0 pt-2_3125 tracked-narrow ttu wrksns   f3-ns lh-1_75-ns mb2-ns pt-2_125-ns   pt-3_625@53">{{.Key}}</h2>
                 <!-- End Product Category -->
 
                 <!--   Divider   -->
@@ -20,7 +20,7 @@
                         <div class="fade-in t-del-1 mt-2_3125   css-product-grid-item">
                             <!--   Product Photo   -->
                             <a class="db dim mb-_6875   mb-_9375-ns" href="{{ .URL }}">
-                                <img alt="" class="db w-100" src="{{ .Params.product_featured_image }}" />
+                                <img alt="" class="db w-100" src="{{ range first 1 .Params.product_images }}{{.}}{{end}}" />
                             </a>
                             <!-- End Product Photo -->
 
