@@ -1,4 +1,6 @@
 ---
+pages:
+- shop/gift-card-25.md
 hide_body: false
 fields:
 - type: text
