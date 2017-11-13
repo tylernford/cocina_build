@@ -1,4 +1,6 @@
 ---
+pages:
+- shop/shirt-red.md
 hide_body: false
 fields:
 - name: title
