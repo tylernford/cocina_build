@@ -1,7 +1,7 @@
 ---
 title: Gift Card ($25)
 product_id: gift-card-25
-product_category: ''
+product_category: Gift Cards
 product_price: 25
 product_details: []
 product_sizes: []
