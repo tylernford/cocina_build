@@ -40,3 +40,10 @@ fields:
   type: image_gallery
   hidden: false
   default: ''
+- type: text
+  name: type
+  label: type
+  hidden: true
+  config:
+    required: true
+  default: shop
