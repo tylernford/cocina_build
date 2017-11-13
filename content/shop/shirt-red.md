@@ -1,7 +1,7 @@
 ---
 title: Ground Break Daytona Beach T-Shirt (Red)
 product_id: ground-break-t-shirt-red
-product_category: ''
+product_category: Gift Cards
 product_price: 24
 product_details:
 - 100% Cotton
