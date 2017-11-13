@@ -2,8 +2,6 @@
 title: We Have News
 location: Winter Park
 date: 2017-09-29 00:00:00 +0000
-categories:
-- past-events
 featured_image: "/assets/images/news/featured_image.jpg"
 image: "/assets/images/news/featured_image.jpg"
 test: hey
