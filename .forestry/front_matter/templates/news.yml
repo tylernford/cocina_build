@@ -12,27 +12,20 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: location
-  label: Location
-  type: text
-  hidden: false
-  default: ''
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
-- type: file
-  name: featured_image
-  label: Featured Image
-- type: file
-  name: image
-  label: image
+- type: select
+  name: location
+  config:
+    source:
+      type: simple
+    options:
+    - Winter Park
+    - Daytona Beach
+  label: Location
 - type: select
   name: category
   config:
@@ -46,3 +39,12 @@ fields:
     - press
     - upcoming
   label: Category
+- type: file
+  name: featured_image
+  label: Featured Image
+- type: file
+  name: image
+  label: image
+- type: image_gallery
+  name: photos
+  label: photos
