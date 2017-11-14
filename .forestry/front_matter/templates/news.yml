@@ -39,6 +39,9 @@ fields:
     - press
     - upcoming
   label: Category
+- type: file
+  name: featured_photo
+  label: Featured Photo
 - type: image_gallery
   name: photos
   label: photos
