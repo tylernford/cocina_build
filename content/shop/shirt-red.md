@@ -1,22 +1,5 @@
 ---
 title: Ground Break Daytona Beach T-Shirt (Red)
-product_id: ground-break-t-shirt-red
-product_category: Gift Cards
-product_price: 24
-product_details:
-- 100% Cotton
-- Tri-Blend American Apparel
-product_sizes:
-- Small
-- Medium
-- Large
-- X-Large
-product_size_guide: https://needsupply.com/help/#sizing
-product_featured_image: ''
-product_images:
-- "/assets/images/shop/t-shirt.png"
-- "/assets/images/shop/t-shirt.png"
-- "/assets/images/shop/t-shirt.png"
 category: T-Shirt
 id: ground-break-t-shirt-red
 price: 24
