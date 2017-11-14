@@ -31,7 +31,10 @@ fields:
 - type: text
   name: size_guide
   label: Size Guide
+- type: file
+  name: featured_image
+  label: Featured Image
 - type: image_gallery
   name: images
   label: Images
-  description: The first image will be featured on shop and product pages
+  description: ''
