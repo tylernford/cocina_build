@@ -45,6 +45,10 @@ fields:
     - upcoming
     required: true
   label: Category
+  default: awards
+- type: text
+  name: video_url
+  label: Video URL
 - type: file
   name: featured_photo
   label: Featured Photo
