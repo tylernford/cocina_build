@@ -2,8 +2,6 @@
 title: Great Things Coming
 location: Daytona Beach
 date: 2017-10-10 00:00:00 +0000
-featured_image: "/assets/images/news/featured_image.jpg"
-image: "/assets/images/news/featured_image.jpg"
 category: past-events
 photos:
 - "/assets/images/news/featured_image.jpg"

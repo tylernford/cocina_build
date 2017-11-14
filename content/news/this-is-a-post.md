@@ -2,8 +2,6 @@
 title: This is a Post
 location: Daytona Beach
 date: 2017-10-03 00:00:00 +0000
-featured_image: "/assets/images/news/featured_image.jpg"
-image: "/assets/images/news/featured_image.jpg"
 category: awards
 photos:
 - "/assets/images/news/featured_image.jpg"
