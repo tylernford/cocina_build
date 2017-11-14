@@ -212,6 +212,7 @@
 
     .flex\@40{display:-webkit-box;display:-ms-flexbox;display:flex}
     .flex-row\@40{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row;}
+    .flex-wrap\@40{-ms-flex-wrap:wrap;flex-wrap:wrap}
     .justify-between\@40{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
 
     .mb0\@40{margin-bottom:0}
