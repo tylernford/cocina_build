@@ -12,11 +12,15 @@ fields:
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - type: select
   name: location
   config:
@@ -25,6 +29,7 @@ fields:
     options:
     - Winter Park
     - Daytona Beach
+    required: false
   label: Location
 - type: select
   name: category
@@ -38,6 +43,7 @@ fields:
     - past-events
     - press
     - upcoming
+    required: true
   label: Category
 - type: file
   name: featured_photo
