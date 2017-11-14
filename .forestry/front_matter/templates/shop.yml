@@ -26,6 +26,8 @@ fields:
 - type: number
   name: price
   label: Price
+  config:
+    required: true
 - type: list
   name: details
   label: Details
