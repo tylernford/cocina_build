@@ -29,7 +29,7 @@ catering:
   text: Let us Cater Office Lunches or Corporate Functions, Engagement Parties, Bridal
     Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries,
     Holiday Parties and much more!
-  menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+  menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
 private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
@@ -37,7 +37,7 @@ private_dining:
     - Menus are completely unique to host’s needs.
     - Two HD TVs and sound system available for use.
     - Linens included with reservation.
-  menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+  menu: "/uploads/2017/11/15/cocina_214_private_dining_menu-1.pdf"
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/assets/images/dine/large_photo.jpg"
