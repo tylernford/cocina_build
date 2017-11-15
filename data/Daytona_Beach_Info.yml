@@ -2,7 +2,7 @@
 Address:
   part_one: 000 Smith Street
   part_two: Daytona Beach, Florida 00000
-  google_maps_url:
+  google_maps_url: ''
 Phone: 000 . 000 . 0000
 Hours:
 - days: Monday–Saturday
@@ -17,4 +17,4 @@ Event_Coordinator:
   last_name: Cox
   phone: 000 . 000 . 0000
   email: heather@cocina214.com
-show_daytona: true
+show_daytona: false
