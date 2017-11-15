@@ -55,3 +55,15 @@ fields:
 - type: image_gallery
   name: photos
   label: photos
+- type: field_group
+  name: video
+  label: Video
+  fields:
+  - type: text
+    name: video_key
+    label: Video Key
+    description: If you want to embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
+      and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
+  - type: file
+    name: video_upload
+    label: Video Upload
