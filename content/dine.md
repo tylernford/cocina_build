@@ -15,6 +15,8 @@ dine_with_us:
     menu: "/uploads/2017/11/15/cocina_214-menu.pdf"
   - menu_name: Take–Out
     menu: "/uploads/2017/11/15/cocina_214-take-out_menu.pdf"
+  - menu_name: Kids’
+    menu: "/uploads/2017/11/15/cocina_214_kids_menu.pdf"
   featured:
     name: Happy Hour
     hours: 4:30 – 6:00
