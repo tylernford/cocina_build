@@ -68,7 +68,10 @@
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
                         <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
                     </div>
-                    <div class="flex mt4">
+                    {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}
+                        <p class="b--c-dark-brown ba bg-dark-brown bw1 c-gold dib f-1_125 h-2_5 jean-luc lh-1_5 link mb0 mt4 ph4 pt-_375 tracked-narrow ttu">Coming Soon</p>
+                    {{ end }}
+                    <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex mt4{{end}}">
                         <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
                         <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Daytona_Beach_Info.Phone }}">Call Us</a>
                     </div>

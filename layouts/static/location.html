@@ -94,20 +94,27 @@
                         <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
                             <h3 class="element-invisible">Address</h3>
                             <p class="mb-_8125 mt0">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
-                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu white" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
 
-                            <h3 class="f5 fw4 mv0">Hours:</h3>
-                            {{ range .Site.Data.Daytona_Beach_Info.Hours }}
-                                <div class="flex justify-between   justify-start-ns">
-                                    <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
-                                    <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
-                                </div>
+                            {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}
+                                <p class="b--c-dark-brown ba bg-dark-brown bw1 c-gold dib f-1_125 h-2_5 jean-luc lh-1_5 link mb-2_1875 mt0 ph4 pt-_375 tracked-narrow ttu">Coming Soon</p>
                             {{ end }}
+
+                            <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{ end }}">
+                                <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
+
+                                <h3 class="f5 fw4 mv0">Hours:</h3>
+                                {{ range .Site.Data.Daytona_Beach_Info.Hours }}
+                                    <div class="flex justify-between   justify-start-ns">
+                                        <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
+                                        <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
+                                    </div>
+                                {{ end }}
+                            </div>
                         </div>
                         <!-- End Address & Hours -->
 
                         <!--   Event Coordination   -->
-                        <div class="flex@25 justify-between@25   w-12-ns   db@40 ml2@40 mt-_3125@40   mr-3@48   flex@53 justify-start@53 ml0@53 w-auto@53   w-100-l">
+                        <div class="justify-between@25   w-12-ns   ml2@40 mt-_3125@40   mr-3@48   justify-start@53 ml0@53 w-auto@53   w-100-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex@25   db@40   flex@53{{ end }}">
                             <!--   Coordinator Photo   -->
                             <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.photo }}" />
                             <!-- End Coordinator Photo -->
@@ -129,7 +136,7 @@
             <!-- End Location Info -->
 
             <!--   Map   -->
-            <div class="bg-mid-gray h-20   h-28_5-ns   h-auto-l w-50-l" id="location_two_map"></div>
+            <div class="bg-mid-gray h-20   h-28_5-ns   h-auto-l w-50-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}h-43_6875@53{{ end }}" id="location_two_map"></div>
             <!-- End Map -->
         </div>
         <!-- End Location Two -->
