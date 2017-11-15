@@ -11,7 +11,7 @@ private_dining:
     favorites for every type of palette. With a kid-friendly staff and comfortable,
     spacious eating, Cocina 214 is a natural choice for families, hipsters, foodies
     and young-professionals alike.
-  photo: "/assets/images/image_4.jpg"
+  photo: "/uploads/2017/11/15/chips_with_salsa trios.jpg"
 catering:
   text: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
     or private event by selecting Cocina 214 as your catering preference. Whether
