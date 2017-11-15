@@ -2,13 +2,10 @@
 title: An Additional Post
 location: Daytona Beach
 date: 2017-10-12 00:00:00 +0000
-featured_image: "/assets/images/news/featured_image.jpg"
-image: "/assets/images/news/featured_image.jpg"
 category: upcoming
 photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/assets/images/news/featured_image.jpg"
-video_url: https://www.youtube.com/embed/Jg8U1XObkes
 video_key: k
 
 ---
