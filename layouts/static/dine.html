@@ -111,22 +111,11 @@
 }
 .text-shadow { text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); }
 .bg-black-03{background-color:rgba(0,0,0,.01)}
-
-
-.test-div {
-	transition: opacity 300ms ease-in-out;
-    opacity: 0;
-}
-.test-div.load {
-	opacity: 1;
-	transition: opacity 300ms;
-}
-/*.test-div-t-del-2 {transition-delay: 0.5s !important;}*/
 </style>
 <!--<div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>-->
 
 
-<div class="h-26 mt-3   mt5-ns   mt0@50   relative bg-black-03    test-div">
+<div class="h-26 mt-3   mt5-ns   mt0@50   relative bg-black-03">
     <div class="absolute h-100 left-0 top-0 w-100  bg-2"
     style="background: url(/assets/images/location/location_1.jpg) no-repeat center;background-size: cover;">
         <div class="absolute bottom-0 center left-0 ph3 right-0 tr w-100   ph-3-ns   ph5-l   mw-64@72 ph0@72">
@@ -159,8 +148,8 @@
                         {{ range first 1 .Params.dine_with_us.menus }}
                             <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .menu_name }} Menu</a>
                         {{ end }}
-                        <br>
                         {{ range after 1 .Params.dine_with_us.menus }}
+                            <br>
                             <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .menu_name }} Menu</a>
                         {{ end }}
                     </div>
