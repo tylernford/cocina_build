@@ -37,7 +37,7 @@ private_dining:
     - Menus are completely unique to host’s needs.
     - Two HD TVs and sound system available for use.
     - Linens included with reservation.
-  menu: "/uploads/2017/11/15/cocina_214_private_dining_menu-1.pdf"
+  menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/assets/images/dine/large_photo.jpg"
