@@ -30,10 +30,13 @@
                 </div>
             </div>
             <div class="flex@40 justify-between@40 flex-wrap@40   db@53 mt1@53 pl3@53 w-50@53   mmt-_3125-l mt0-l pl4-l w-64-l   pl0@66 w-38@66">
+                <video class="db mt-2_8125 self-start w-100   w-48@40   mt4@53 w-100@53" controls>
+                    <source src="/assets/test_video.mp4" type="video/mp4">
+                </video>
                 {{ if .Params.video_url }}
                     <div class="db mt-2_8125 self-start w-100   w-48@40   mt4@53 w-100@53">
                         <div id="video-container">
-                            <iframe class="z-0" src='{{ .Params.video_url }}' frameborder='0' allowfullscreen></iframe>
+                            <iframe class="z-0" src='https://www.youtube.com/embed/{{ .Params.video_url }}' frameborder='0' allowfullscreen></iframe>
                         </div>
                     </div>
                 {{ end }}
