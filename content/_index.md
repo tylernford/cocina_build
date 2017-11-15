@@ -23,7 +23,7 @@ catering:
   photo: "/assets/images/image_3.jpg"
   upcoming_events: []
 upcoming_events:
-  photo: "/assets/images/image_2.jpg"
+  photo: "/uploads/2017/11/15/mexican_corn copy.jpg"
   events:
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
