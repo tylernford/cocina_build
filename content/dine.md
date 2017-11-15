@@ -12,15 +12,15 @@ dine_with_us:
     occasion you’re sure to enjoy.
   menus:
   - menu_name: Dine-In
-    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+    menu: "/uploads/2017/11/15/cocina_214-menu.pdf"
   - menu_name: Take–Out
-    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+    menu: "/uploads/2017/11/15/cocina_214-take-out_menu.pdf"
   featured:
     name: Happy Hour
     hours: 4:30 – 6:00
     when: Monday – Thursday
     menu_name: Happy Hour
-    menu: "/uploads/2017/11/11/placeholder_menu.pdf"
+    menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
   reservations:
     text: Call to make a reservation today!
     phone: 407.790.7997
