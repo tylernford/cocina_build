@@ -46,15 +46,6 @@ fields:
     required: true
   label: Category
   default: awards
-- type: text
-  name: video_url
-  label: Video URL
-- type: file
-  name: featured_photo
-  label: Featured Photo
-- type: image_gallery
-  name: photos
-  label: photos
 - type: field_group
   name: video
   label: Video
@@ -67,3 +58,9 @@ fields:
   - type: file
     name: video_upload
     label: Video Upload
+- type: file
+  name: featured_photo
+  label: Featured Photo
+- type: image_gallery
+  name: photos
+  label: photos
