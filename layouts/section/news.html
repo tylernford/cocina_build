@@ -6,7 +6,7 @@
     {{ partial "news-categories" . }}
 
 
-    {{ range (.Paginator 2).Pages }}
+    {{ range (.Paginator 5).Pages }}
         <div class="section-animate">
             <!--   Featured Image on Small Displays   -->
             {{ if .Params.featured_photo }}
