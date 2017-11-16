@@ -4,6 +4,6 @@ type: static
 layout: location
 show_daytona: true
 forestry_title: Location
-hero_photo: "/assets/images/location/location_1.jpg"
+hero_photo: "/uploads/2017/11/16/painting.jpg"
 
 ---
