@@ -11,7 +11,7 @@ product_images: []
 id: gift-card-10
 category: Gift Cards
 price: 10
-featured_image: "/uploads/2017/11/16/gift_card_gold.png"
+featured_image: "/uploads/2017/11/16/gift_card_black.png"
 images: []
 details: []
 sizes: []
