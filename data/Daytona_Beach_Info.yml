@@ -2,7 +2,7 @@
 Address:
   part_one: 451 S. Atlantic Ave
   part_two: Daytona Beach, FL 32118
-  google_maps_url: ''
+  google_maps_url: https://www.google.com/maps?q=451+S.+Atlantic+Ave+Daytona+Beach,+FL+32118&rlz=1C5CHFA_enUS749US749&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjQ9rmr18PXAhWogFQKHXb4CeMQ_AUICigB
 Phone: 000 . 000 . 0000
 Hours:
 - days: Monday–Saturday
