@@ -5,8 +5,8 @@
 
     {{ partial "news-categories" . }}
 
-
-    {{ range (.Paginator 5).Pages }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") 5 }}
+    {{ range (.Paginator 5).Pages}}
         <div class="section-animate">
             <!--   Featured Image on Small Displays   -->
             {{ if .Params.featured_photo }}
