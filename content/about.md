@@ -43,15 +43,15 @@ daytona_beach_staff:
     first_name: Miguel
     last_name: Flores
     title: Sous Chef
-  - photo: "/assets/images/location/portrait.png"
+  - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Maria
     last_name: Moreno
     title: Sous Chef
-  - photo: "/assets/images/location/portrait.png"
+  - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Oscar
     last_name: Gaona
     title: General Manager
-  - photo: "/assets/images/location/portrait.png"
+  - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Eugenia
     last_name: Stergios
     title: Manager
