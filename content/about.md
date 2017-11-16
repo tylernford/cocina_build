@@ -35,11 +35,11 @@ winter_park_staff:
 daytona_beach_staff:
   show_staff: true
   staff:
-  - photo: "/assets/images/location/portrait.png"
+  - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Karen
     last_name: Gofphin
     title: Assistant General Manager
-  - photo: "/assets/images/location/portrait.png"
+  - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Miguel
     last_name: Flores
     title: Sous Chef
