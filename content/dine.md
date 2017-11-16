@@ -44,7 +44,7 @@ events:
   winter_park_photo: "/uploads/2017/11/16/guac_bar.jpg"
   winter_park_text: Contact our Winter Park Private Dining & Event Manager, Heather.
     Please allow up to 48hrs for a response.
-  daytona_beach_photo: "/assets/images/dine/large_photo.jpg"
+  daytona_beach_photo: "/uploads/2017/11/16/daytona_booth.jpg"
   daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
     Please allow up to 48hrs for a response.
 hero_photos:
