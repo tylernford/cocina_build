@@ -6,9 +6,16 @@ fields:
 - type: text
   name: forestry_title
   label: Title
-- type: file
-  name: hero_photo
-  label: Hero Photo
+- type: field_group
+  name: hero_photos
+  label: Hero Photos
+  fields:
+  - type: file
+    name: winter_park
+    label: Winter Park
+  - type: file
+    name: daytona_beach
+    label: Daytona Beach
 - type: field_group
   name: dine_with_us
   label: Dine with Us
