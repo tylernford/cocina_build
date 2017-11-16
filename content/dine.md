@@ -4,7 +4,7 @@ type: static
 layout: dine
 forestry_title: Dine
 dine_with_us:
-  photo: "/assets/images/dine/dine_2.jpeg"
+  photo: "/uploads/2017/11/16/mexican_corn.jpg"
   text: Whether you’re looking to dine out in the charming Winter Park Historic District,
     or want an authentic Tex-Mex dinner to take home, Cocina 214 is perfect for every
     occasion. We have been voted best restaurant for families, best place to bring
