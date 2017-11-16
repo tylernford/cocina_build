@@ -26,7 +26,6 @@ dine_with_us:
   reservations:
     text: Call to make a reservation today!
     phone: 407.790.7997
-hero_photo: "/assets/images/dine/dine_1.jpg"
 catering:
   text: Let us Cater Office Lunches or Corporate Functions, Engagement Parties, Bridal
     Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries,
@@ -49,7 +48,7 @@ events:
   daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
     Please allow up to 48hrs for a response.
 hero_photos:
-  winter_park: "/assets/images/location/location_1.jpg"
+  winter_park: "/assets/images/dine/dine_1.jpg"
   daytona_beach: "/assets/images/location/location_1.jpg"
 
 ---
