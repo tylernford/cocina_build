@@ -9,6 +9,7 @@ fields:
 - type: file
   name: hero_photo
   label: Hero Photo
+  default: "/uploads/2017/11/16/chicken street tacos with fire roasted salsa.jpg"
 - name: featured_staff
   label: Featured Staff
   type: field_group_list
