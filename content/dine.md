@@ -41,7 +41,7 @@ private_dining:
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
 events:
   title: Book Your Private Party or Catering
-  winter_park_photo: "/uploads/2017/11/16/winter_park_bar.jpg"
+  winter_park_photo: "/assets/images/dine/large_photo.jpg"
   winter_park_text: Contact our Winter Park Private Dining & Event Manager, Heather.
     Please allow up to 48hrs for a response.
   daytona_beach_photo: "/assets/images/dine/large_photo.jpg"
