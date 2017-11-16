@@ -48,5 +48,8 @@ events:
   daytona_beach_photo: "/assets/images/dine/large_photo.jpg"
   daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
     Please allow up to 48hrs for a response.
+hero_photos:
+  winter_park: "/assets/images/location/location_1.jpg"
+  daytona_beach: "/assets/images/location/location_1.jpg"
 
 ---
