@@ -5,8 +5,19 @@
 
     {{ partial "news-categories" . }}
 
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") 5 }}
+
     {{ range (.Paginator 5).Pages}}
+        {{ if eq .Title "News: Awards" }}
+
+        {{ else if eq .Title "News: Current" }}
+
+        {{ else if eq .Title "News: Past Events" }}
+
+        {{ else if eq .Title "News: Press" }}
+
+        {{ else if eq .Title "News: Upcoming" }}
+
+        {{else}}
         <div class="section-animate">
             <!--   Featured Image on Small Displays   -->
             {{ if .Params.featured_photo }}
@@ -59,6 +70,7 @@
             </div>
             <!-- End Post Summary -->
         </div>
+        {{end}}
     {{ end }}
 
 
