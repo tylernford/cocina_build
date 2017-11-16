@@ -21,6 +21,7 @@ fields:
 - type: file
   name: hero_photo
   label: Hero Photo
+  default: "/uploads/2017/11/16/chicken street tacos with fire roasted salsa.jpg"
 - type: field_group
   name: upcoming_events
   label: Upcoming Events
