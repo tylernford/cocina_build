@@ -3,32 +3,32 @@ title: About
 type: static
 layout: about
 featured_staff:
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Lambrine
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Heather
   last_name: Cox
   title: Private Dining & Event Management
 winter_park_staff:
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
   last_name: Gofphin
   title: Assistant General Manager
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Miguel
   last_name: Flores
   title: Sous Chef
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Oscar
   last_name: Gaona
   title: General Manager
-- photo: "/assets/images/location/portrait.png"
+- photo: "/uploads/2017/11/16/portrait.png"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
