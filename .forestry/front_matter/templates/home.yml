@@ -1,7 +1,7 @@
 ---
 pages:
 - _index.md
-hide_body: false
+hide_body: true
 fields:
 - name: title
   label: Title
