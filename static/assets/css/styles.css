@@ -155,7 +155,11 @@ span.error{
 
 
 /* -------------------------------------------   News Styles   ------------------------------------------ */
-/* Video Embed*/
+/*   Nested Link   */
+.nested-link > p > a {color:#D18419;text-decoration:none;opacity:1}
+.nested-link > p > a{opacity:1}.nested-link > p > a,.nested-link > p > a:focus,.nested-link > p > a:hover{-webkit-transition:opacity .15s ease-in;transition:opacity .15s ease-in}.nested-link > p > a:focus,.nested-link > p > a:hover{opacity:.7}
+/* End Nested Link */
+/*   Video Embed   */
 #video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
 #video-container iframe, #embed-container object, #embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 /* End Video Embed */
