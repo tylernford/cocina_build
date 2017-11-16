@@ -49,6 +49,6 @@ events:
     Please allow up to 48hrs for a response.
 hero_photos:
   winter_park: "/assets/images/dine/dine_1.jpg"
-  daytona_beach: "/assets/images/location/location_1.jpg"
+  daytona_beach: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"
 
 ---
