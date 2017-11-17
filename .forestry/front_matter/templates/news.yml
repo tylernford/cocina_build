@@ -49,9 +49,13 @@ fields:
 - type: file
   name: featured_photo
   label: Featured Photo
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - type: image_gallery
   name: photos
   label: photos
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - type: text
   name: video_key
   label: Video Key
