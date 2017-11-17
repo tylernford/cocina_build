@@ -13,9 +13,13 @@ fields:
   - type: file
     name: winter_park
     label: Winter Park
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: file
     name: daytona_beach
     label: Daytona Beach
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
 - type: field_group
   name: dine_with_us
   label: Dine with Us
