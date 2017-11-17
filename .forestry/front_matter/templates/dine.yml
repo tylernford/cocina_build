@@ -27,6 +27,8 @@ fields:
   - type: file
     name: photo
     label: Photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: textarea
     name: text
     label: Text
@@ -40,6 +42,8 @@ fields:
     - type: file
       name: menu
       label: Menu
+      description: File names should not have spaces. e.g. "dine in menu.pdf" should
+        be changed to "dine_in_menu.pdf"
   - type: field_group
     name: featured
     label: Featured
@@ -59,6 +63,8 @@ fields:
     - type: file
       name: menu
       label: Menu
+      description: File names should not have spaces. e.g. "dine in menu.pdf" should
+        be changed to "dine_in_menu.pdf"
   - type: field_group
     name: reservations
     label: Reservations
