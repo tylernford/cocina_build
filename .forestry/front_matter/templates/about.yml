@@ -9,7 +9,9 @@ fields:
 - type: file
   name: hero_photo
   label: Hero Photo
-  default: "/uploads/2017/11/16/chicken street tacos with fire roasted salsa.jpg"
+  default: ''
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - name: featured_staff
   label: Featured Staff
   type: field_group_list
@@ -17,6 +19,8 @@ fields:
   - type: file
     name: photo
     label: Photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: text
     name: first_name
     label: First Name
@@ -37,6 +41,8 @@ fields:
   - type: file
     name: photo
     label: Photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: text
     name: first_name
     label: First Name
@@ -64,6 +70,8 @@ fields:
     - type: file
       name: photo
       label: Photo
+      description: File names should not have spaces. e.g. "street tacos.jpg" should
+        be changed to "street_tacos.jpg"
     - type: text
       name: first_name
       label: First Name
