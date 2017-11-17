@@ -9,6 +9,8 @@ fields:
 - type: file
   name: hero_photo
   label: Hero Photo
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - type: boolean
   name: show_daytona
   label: Show Daytona Beach Info
