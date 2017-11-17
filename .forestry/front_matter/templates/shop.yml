@@ -40,7 +40,10 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - type: image_gallery
   name: images
   label: Images
-  description: ''
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
