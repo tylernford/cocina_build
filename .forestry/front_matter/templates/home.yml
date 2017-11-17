@@ -21,7 +21,9 @@ fields:
 - type: file
   name: hero_photo
   label: Hero Photo
-  default: "/uploads/2017/11/16/chicken street tacos with fire roasted salsa.jpg"
+  default: ''
+  description: File names should not have spaces. e.g. "street tacos.jpg" should be
+    changed to "street_tacos.jpg"
 - type: field_group
   name: upcoming_events
   label: Upcoming Events
@@ -29,7 +31,9 @@ fields:
   - type: file
     name: photo
     label: Photo
-    default: "/assets/images/image_2.jpg"
+    default: ''
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: field_group_list
     name: events
     label: Events
