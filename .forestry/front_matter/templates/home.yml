@@ -83,3 +83,5 @@ fields:
   - type: file
     name: photo
     label: photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
