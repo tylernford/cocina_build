@@ -68,6 +68,8 @@ fields:
   - type: file
     name: photo
     label: Photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
   - type: list
     name: upcoming_events
     label: Upcoming Events
