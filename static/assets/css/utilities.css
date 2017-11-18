@@ -36,6 +36,8 @@
 .h-26{height:26rem}
 .h-30{height:30rem}
 
+.max-h-1_75{max-height:1.75rem}
+
 .hover-b--c-red:hover{border-color:#E63728}
 .hover-ba:hover{border-style:solid;border-width:1px}
 .hover-bg-dark-brown:hover{background-color:#2B2422}
@@ -74,6 +76,7 @@
 .mb-2_6875{margin-bottom:2.6875rem}
 .mb-2_8125{margin-bottom:2.8125rem}
 .mb-2_875{margin-bottom:2.875rem}
+.mb-3{margin-bottom:3rem}
 .mb-3_125{margin-bottom:3.125rem}
 .mb-3_8125{margin-bottom:3.8125rem}
 .mb-4_75{margin-bottom:4.75rem}
@@ -101,7 +104,6 @@
 
 .nt-_1875{margin-top:-.1875rem}
 
-.pt-_125{padding-top:.125rem}
 .pb-1_625{padding-bottom:1.625rem}
 .pb-3{padding-bottom:3rem}
 .pb-3_1875{padding-bottom:3.1875rem}
@@ -116,6 +118,7 @@
 .pt-_375{padding-top:.375rem}
 .pt-2_3125{padding-top:2.3125rem}
 .pt-2_5{padding-top:2.5rem}
+.pt-3{padding-top:3rem}
 .pt-3_5{padding-top:3.5rem}
 .pt-3_6875{padding-top:3.6875rem}
 
@@ -242,6 +245,12 @@
     .pb3\@42{padding-bottom:1rem}
     .w-100\@42{width:100%}
 }
+@media screen and (min-width:43em) {
+    .flex\@43{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .justify-between\@43{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+
+    .mw-18_75\@43{max-width:18.75rem}
+}
 @media screen and (min-width:48em) {
     .mr-3\@48{margin-right:3rem}
 }
@@ -342,6 +351,18 @@
     .w-50\@54{width:50%}
 
     .mw-26\@54{max-width:26rem}
+}
+@media screen and (min-width:56em) {
+    .flex\@56{display:-webkit-box;display:-ms-flexbox;display:flex}
+    .flex-column\@56{-webkit-box-orient:vertical;-ms-flex-direction:column;flex-direction:column}
+    .flex-row\@56{-webkit-box-direction:normal}.flex-row\@56{-webkit-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}
+    .justify-between\@56{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}
+    .mb0\@56{margin-bottom:0}
+    .pb-3\@56{padding-bottom:3rem}
+    .w-75\@56{width:75%}
+}
+@media screen and (min-width:59em) {
+    .w-70\@59{width:70%}
 }
 @media screen and (min-width:60em) {
     .center-l{margin-left:auto;margin-right:auto}

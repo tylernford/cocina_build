@@ -4,6 +4,11 @@ Address:
   part_two: Daytona Beach, FL 32118
   google_maps_url: https://www.google.com/maps?q=451+S.+Atlantic+Ave+Daytona+Beach,+FL+32118&rlz=1C5CHFA_enUS749US749&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjQ9rmr18PXAhWogFQKHXb4CeMQ_AUICigB
 Phone: 000 . 000 . 0000
+Email: info@cocina214.com
+Social_Media:
+  twitter: https://twitter.com
+  facebook: https://facebook.com
+  instagram: https://instagram.com
 Hours:
 - days: Monday–Saturday
   times: 11:30 – 10:00

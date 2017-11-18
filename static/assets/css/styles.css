@@ -265,7 +265,22 @@ span.error{
     }
 }
 /* ---------------------------------------------- END NAV ----------------------------------------------- */
+
+
+
+
+/* ---------------------------------------------   FOOTER   --------------------------------------------- */
 .css-footer-logo{height:16px;width:4.95rem;}
 @media screen and (min-width:30em) {
     .css-footer-logo{height:1.25rem;width:6.1875rem}
 }
+@media screen and (min-width:56em) {
+    .css-footer-logo{height:63px;width:91px}
+}
+/* Old Footer
+.css-footer-logo{height:16px;width:4.95rem;}
+@media screen and (min-width:30em) {
+    .css-footer-logo{height:1.25rem;width:6.1875rem}
+}
+*/
+/* --------------------------------------------- END FOOTER --------------------------------------------- */

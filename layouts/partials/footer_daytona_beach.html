@@ -1,0 +1,27 @@
+<div class="fade-in t-del-2     mb-3 w-100   mw-18_75@43   mb0@56">
+    <p class="f-1_0625 mb-_625 mt-_0625">Winter Park</p>
+
+    <!--   Divider   -->
+    <div class="bg-dark-brown h-_125 mb-1_1875 mt0"></div>
+    <!-- End Divider -->
+
+    <!--   Address   -->
+    <a class="c-dark-brown db hover-c-gold link mb-1_5 mt0" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</a>
+    <a class="c-dark-brown db hover-c-gold lh-title link mb0 mt0" href="mailto:{{ .Site.Data.Daytona_Beach_Info.Email }}">{{ .Site.Data.Daytona_Beach_Info.Email }}</a>
+    <a class="c-dark-brown db hover-c-gold lh-title link mb4" href="tel:{{ .Site.Data.Daytona_Beach_Info.Phone }}">{{ .Site.Data.Daytona_Beach_Info.Phone }}</a>
+    <!-- End Address -->
+
+    <!--   Social   -->
+    <div class="fade-in t-del-1 flex h-1_75 justify-between max-h-1_75 w4">
+        <a class=" c-dark-brown db h-1_75 hover-c-gold link w-1_75   css-ie-nt-3_9375" href="{{ .Site.Data.Daytona_Beach_Info.Social_Media.twitter }}">
+            {{ partial "social/twitter" }}
+        </a>
+        <a class="c-dark-brown db h-1_75 hover-c-gold link w-1_75   css-ie-nt-3_9375" href="{{ .Site.Data.Daytona_Beach_Info.Social_Media.facebook }}">
+            {{ partial "social/facebook" }}
+        </a>
+        <a class="c-dark-brown db h-1_75 hover-c-gold link w-1_75   css-ie-nt-3_9375" href="{{ .Site.Data.Daytona_Beach_Info.Social_Media.instagram }}">
+            {{ partial "social/instagram" }}
+        </a>
+    </div>
+    <!-- End Social -->
+</div>
