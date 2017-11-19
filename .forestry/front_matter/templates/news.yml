@@ -29,6 +29,7 @@ fields:
     options:
     - Winter Park
     - Daytona Beach
+    - All Locations
     required: false
   label: Location
 - type: select
