@@ -2,12 +2,9 @@
 title: An Additional Post
 location: Daytona Beach
 date: 2017-10-12 00:00:00 +0000
-featured_image: "/assets/images/news/featured_image.jpg"
-image: "/assets/images/news/featured_image.jpg"
 category: upcoming
 photos: []
 featured_photo: "/uploads/2017/11/16/topo_chico.jpg"
-video_url: https://www.youtube.com/embed/Jg8U1XObkes
 video_key: Mrb9zdl_Cjs
 
 ---

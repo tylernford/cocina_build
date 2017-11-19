@@ -6,18 +6,12 @@
     {{ partial "news-categories" . }}
 
 
-    {{ range (.Paginator 5).Pages}}
-        {{ if eq .Title "News: Awards" }}
 
-        {{ else if eq .Title "News: Current" }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "news") 5 }}
+    {{ range $paginator.Pages }}
 
-        {{ else if eq .Title "News: Past Events" }}
 
-        {{ else if eq .Title "News: Press" }}
 
-        {{ else if eq .Title "News: Upcoming" }}
-
-        {{else}}
         <div class="section-animate">
             <!--   Featured Image on Small Displays   -->
             {{ if .Params.featured_photo }}
@@ -70,31 +64,30 @@
             </div>
             <!-- End Post Summary -->
         </div>
-        {{end}}
     {{ end }}
 
 
-    <!--
+
     {{if or (.Paginator.HasPrev) (.Paginator.HasNext)}}
         <div class="section-animate">
             <div class="center ph3   ph4-ns   mt5@53   ph5-l   mw-64@79 ph0@79">
-                <!--   Divider   --
+                <!--   Divider   -->
                 <div class="bg-dark-brown h-_125 mb-_625 mt0 "></div>
-                <!-- End Divider --
+                <!-- End Divider -->
             </div>
             <div class="fade-in center ph3 w-100   ph4-ns   ph5-l   mw-64@79 ph0@79">
                 {{ if .Paginator.HasPrev }}
-                    <!--   Back to News Button   --
+                    <!--   Back to News Button   -->
                     <a class="c-dark-brown dib f4 jean-luc lh-solid link mv0 tracked-narrow ttu   css-back-arrow-link" href="{{ .Paginator.Prev.URL }}">Previous Page</a>
-                    <!-- End Back to News Button --
+                    <!-- End Back to News Button -->
                 {{ end }}
                 {{ if .Paginator.HasNext }}
-                    <!--   Back to News Button   --
+                    <!--   Back to News Button   -->
                     <a class="c-dark-brown dib f4 jean-luc lh-solid link mv0 tracked-narrow ttu   css-arrow-link   fr" href="{{ .Paginator.Next.URL }}">Next Page</a>
-                    <!-- End Back to News Button --
+                    <!-- End Back to News Button -->
                 {{ end }}
             </div>
         </div>
-    {{ end }}-->
+    {{ end }}
 </main>
 {{ end }}
