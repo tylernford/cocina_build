@@ -2,7 +2,7 @@
 title: Another Post
 location: Winter Park
 date: 2017-10-11 00:00:00 +0000
-category: press
+category: current
 photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/assets/images/news/featured_image.jpg"
