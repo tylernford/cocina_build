@@ -15,7 +15,7 @@ winter_park_staff:
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
   last_name: Gofphin
-  title: Assistant General Manager
+  title: General Manager
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Miguel
   last_name: Flores
