@@ -47,8 +47,9 @@ private_dining:
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/11/16/guac_bar.jpg"
-  winter_park_text: Contact our Winter Park Events Manager, Jenna. Please allow up
-    to 48hrs for a response.
+  winter_park_text: |-
+    Contact our Winter Park Events & Catering Manager, Jenna. Please allow up to 48hrs for a response.
+    Catering@Cocina214.com
   daytona_beach_photo: "/uploads/2017/11/16/Happy Hour Food2.jpg"
   daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
     Please allow up to 48hrs for a response.
