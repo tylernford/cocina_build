@@ -32,9 +32,9 @@ dine_with_us:
     text: Call to make a reservation today!
     phone: 407.790.7997
 catering:
-  text: Let us Cater Office Lunches or Corporate Functions, Engagement Parties, Bridal
-    Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries,
-    Holiday Parties and much more!
+  text: Let us cater your Office Lunches or Corporate Functions, Engagement Parties,
+    Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays,
+    Anniversaries, Holiday Parties and much more!
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
 private_dining:
   text: |-
@@ -47,8 +47,8 @@ private_dining:
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/11/16/guac_bar.jpg"
-  winter_park_text: Contact our Winter Park Private Dining & Event Manager, Heather.
-    Please allow up to 48hrs for a response.
+  winter_park_text: Contact our Winter Park Events Manager, Jenna. Please allow up
+    to 48hrs for a response.
   daytona_beach_photo: "/uploads/2017/11/16/Happy Hour Food2.jpg"
   daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
     Please allow up to 48hrs for a response.
