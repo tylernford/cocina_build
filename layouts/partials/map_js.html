@@ -1,8 +1,8 @@
 <script>
 function initMap (){
-    var fossil_creek = {lat: 32.863814, lng: -97.289784};
+    var winter_park = {lat: 28.597058, lng: -81.350211};
     var map = new google.maps.Map(document.getElementById('location_one_map'), {
-        center: fossil_creek,
+        center: winter_park,
         zoom: 14,
         disableDefaultUI: true,
         styles:
@@ -170,14 +170,14 @@ function initMap (){
 
     var image = '{{ .Site.BaseURL }}/assets/icons/location_one_marker.svg';
     var marker = new google.maps.Marker({
-        position: fossil_creek,
+        position: winter_park,
         map: map,
         icon: image
     });
 
-    var woop = {lat: 32.863820, lng: -97.289720};
+    var daytona_beach = {lat: 29.2197688, lng: -81.004512};
     var map = new google.maps.Map(document.getElementById('location_two_map'), {
-        center: woop,
+        center: daytona_beach,
         zoom: 14,
         disableDefaultUI: true,
         styles:
@@ -371,7 +371,7 @@ function initMap (){
 
     var image = '{{ .Site.BaseURL }}/assets/icons/location_two_marker.svg';
     var marker = new google.maps.Marker({
-        position: woop,
+        position: daytona_beach,
         map: map,
         icon: image
     });
