@@ -22,7 +22,7 @@ catering:
     Tex-Mex food provided by Cocina 214 catering service.
   photo: "/uploads/2017/11/16/guac_bar.jpg"
 upcoming_events:
-  photo: "/uploads/2017/11/15/margarita_with_limes.jpg"
+  photo: "/uploads/2017/11/16/3 margaritas in the bar.jpg"
   events:
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
