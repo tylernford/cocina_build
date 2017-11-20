@@ -8,9 +8,9 @@ featured_staff:
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
 - photo: "/uploads/2017/11/16/portrait.png"
-  first_name: Heather
-  last_name: Cox
-  title: Private Dining & Event Management
+  first_name: 'Oscar '
+  last_name: Gaona
+  title: Regional General Manager
 winter_park_staff:
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
