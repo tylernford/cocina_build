@@ -25,9 +25,9 @@ winter_park_staff:
   last_name: Moreno
   title: Sous Chef
 - photo: "/uploads/2017/11/16/portrait.png"
-  first_name: Oscar
-  last_name: Gaona
-  title: General Manager
+  first_name: ''
+  last_name: ''
+  title: Manager
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Eugenia
   last_name: Stergios
@@ -36,20 +36,20 @@ daytona_beach_staff:
   show_staff: false
   staff:
   - photo: "/uploads/2017/11/16/portrait.png"
-    first_name: Karen
-    last_name: Gofphin
-    title: Assistant General Manager
+    first_name: 'Elizabeth '
+    last_name: Mireles
+    title: Manager
   - photo: "/uploads/2017/11/16/portrait.png"
-    first_name: Miguel
-    last_name: Flores
+    first_name: Marco
+    last_name: Carbajal
     title: Sous Chef
   - photo: "/uploads/2017/11/16/portrait.png"
-    first_name: Maria
-    last_name: Moreno
+    first_name: Humberto
+    last_name: Castillo
     title: Sous Chef
   - photo: "/uploads/2017/11/16/portrait.png"
-    first_name: Oscar
-    last_name: Gaona
+    first_name: Heather
+    last_name: Cox
     title: General Manager
   - photo: "/uploads/2017/11/16/portrait.png"
     first_name: Eugenia
