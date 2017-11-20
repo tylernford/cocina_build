@@ -40,8 +40,8 @@ private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
 
-    - Menus are completely unique to host’s needs.
-    - Two HD TVs and sound system available for use.
+    - Menus are completely unique to host’s needs & printed exclusively for your event.
+    - HD TVs and sound system available for use.
     - Linens included with reservation.
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
 events:
