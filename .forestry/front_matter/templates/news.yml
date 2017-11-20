@@ -1,8 +1,8 @@
 ---
 pages:
+- news/great-things-coming.md
 - news/an-additional-post.md
 - news/another-post.md
-- news/great-things-coming.md
 - news/we-have-news.md
 - news/this-is-a-post.md
 hide_body: false
