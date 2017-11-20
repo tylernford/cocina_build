@@ -5,11 +5,12 @@ layout: dine
 forestry_title: Dine
 dine_with_us:
   photo: "/uploads/2017/11/16/mexican_corn.jpg"
-  text: Whether you’re looking to dine out in the charming Winter Park Historic District,
-    or want an authentic Tex-Mex dinner to take home, Cocina 214 is perfect for every
-    occasion. We have been voted best restaurant for families, best place to bring
-    a client, best place for big groups, as well as best happy hour. So whatever the
-    occasion you’re sure to enjoy.
+  text: Whether you’re looking to dine out in the charming Winter Park Historic District
+    or beach front at the worlds most famous beach, Daytona Beach or want an authentic
+    Tex-Mex dinner to take home, Cocina 214 is perfect for every occasion. We have
+    been voted best restaurant for families, best place to bring a client, best place
+    for big groups, as well as best happy hour. So whatever the occasion you’re sure
+    to enjoy.
   menus:
   - menu_name: Dine-In
     menu: "/uploads/2017/11/15/cocina_214-menu.pdf"
