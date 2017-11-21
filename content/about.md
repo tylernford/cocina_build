@@ -27,7 +27,7 @@ winter_park_staff:
 - title: Manager
   first_name: 'Marcela '
   last_name: Hernandez
-  photo: "/uploads/2017/11/15/about.jpg"
+  photo: "/uploads/2017/11/21/Cocina_Black_and_White_Tumblers.jpg"
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Miguel
   last_name: Flores
