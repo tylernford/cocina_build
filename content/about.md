@@ -12,9 +12,9 @@ featured_staff:
   last_name: Gaona
   title: Regional General Manager
 - photo: "/uploads/2017/11/16/portrait.png"
-  first_name: 'Oscars '
-  last_name: Gaonas
-  title: Regional General Manager
+  first_name: 'Isidro '
+  last_name: 'Alvarez '
+  title: Executive Chef
 winter_park_staff:
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
@@ -63,6 +63,6 @@ forestry_title: About
 hero_photo: "/uploads/2017/11/15/about.jpg"
 
 ---
-Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food here in Winter Park.
+Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food in Winter Park and Daytona Beach, Florida.
 
 Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant, elegant setting.
