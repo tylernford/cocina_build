@@ -7,7 +7,6 @@ photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/uploads/2017/11/21/Taste_of_WP_2014.jpg"
 video_key: ''
-draft: true
 
 ---
 **AWARDS**
