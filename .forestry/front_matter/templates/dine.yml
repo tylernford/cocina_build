@@ -109,16 +109,14 @@ fields:
   - type: file
     name: winter_park_photo
     label: Winter Park Photo
-    description: File names should not have spaces. e.g. "street tacos.jpg" should
-      be changed to "street_tacos.jpg"
+    description: Image dimensions should be 1000px by 775px
   - type: textarea
     name: winter_park_text
     label: Winter Park Text
   - type: file
     name: daytona_beach_photo
     label: Daytona Beach Photo
-    description: File names should not have spaces. e.g. "street tacos.jpg" should
-      be changed to "street_tacos.jpg"
+    description: Image dimensions should be 1000px by 775px
   - type: textarea
     name: daytona_beach_text
     label: Daytona Beach Text
