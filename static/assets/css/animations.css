@@ -2,12 +2,12 @@
 @keyframes fadeInUp {
  from {
  	opacity: 0;
- 	transform: translate(0,10px);	
+ 	transform: translate(0,10px);
 
  }
  to {
  	opacity: 1;
- 	transform: translate(0,0);	
+ 	transform: translate(0,0);
  }
 }
 
@@ -27,24 +27,24 @@
 @keyframes fadeInUp {
  from {
  	opacity: 0;
- 	transform: translate(0,8px);	
+ 	transform: translate(0,8px);
 
  }
  to {
  	opacity: 1;
- 	transform: translate(0,0);	
+ 	transform: translate(0,0);
  }
 }
 /*Fade In Left*/
 /*@keyframes fadeInLeft {
  from {
  	opacity: 0;
- 	transform: translate(40px,0);	
+ 	transform: translate(40px,0);
 
  }
  to {
  	opacity: 1;
- 	transform: translate(0,0);	
+ 	transform: translate(0,0);
  }
 }
 */
@@ -53,12 +53,12 @@
 /*@keyframes fadeInRight {
  from {
  	opacity: 0;
- 	transform: translate(-40px,0);	
+ 	transform: translate(-40px,0);
 
  }
  to {
  	opacity: 1;
- 	transform: translate(0,0);	
+ 	transform: translate(0,0);
  }
 }
 */
@@ -66,7 +66,7 @@
 /*@keyframes scaleUp {
  from {
  	opacity: .15;
- 	transform: scale(1.01);	
+ 	transform: scale(1.01);
 
  }
  to {
@@ -76,8 +76,10 @@
 }*/
 
 /*Lazyload*/
-*[data-bg], 
+*[data-bg],
 .lazyload {
+	-webkit-transition: opacity 300ms ease-in-out;
+	-o-transition: opacity 300ms ease-in-out;
 	transition: opacity 300ms ease-in-out;
 }
 .lazyload,
@@ -86,6 +88,7 @@
 }
 .lazyloaded {
 	opacity: 1;
+	-webkit-transition: opacity 300ms;
+	-o-transition: opacity 300ms;
 	transition: opacity 300ms;
 }
-
