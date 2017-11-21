@@ -24,7 +24,9 @@ winter_park_staff:
   first_name: Eugenia
   last_name: Stergios
   title: Manager
-- title: ''
+- title: Manager
+  first_name: 'Marcela '
+  last_name: Hernandez
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Miguel
   last_name: Flores
