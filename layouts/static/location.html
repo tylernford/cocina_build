@@ -70,77 +70,75 @@
 
 
 
-    {{ if .Params.show_daytona }}
-        <!--   Location Two   -->
-        <div class="section-animate  bg-gold   mv2   mv3-ns   flex-l min-h-43-l   css-ie-flex-shrink">
-            <!--   Location Info   -->
-            <div class="pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   w-50-l   pr-7@79">
-                <!--   Location   -->
-                <div class="flex@79 justify-end@79">
-                    <h2 class="fade-in-right f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   w-25@79">Daytona Beach, Florida</h2>
-                </div>
-                <!-- End Location -->
-
-                <!--   Divider   -->
-                <div class="flex@90 justify-end@90">
-                    <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   w-27@90"></div>
-                </div>
-                <!-- End Divider -->
-
-                <!--   Address & Hours/Event Coordination   -->
-                <div class="fade-in t-del-3  flex@79 justify-end@79">
-                    <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   w-25@79">
-                        <!--   Address & Hours   -->
-                        <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
-                            <h3 class="element-invisible">Address</h3>
-                            <p class="mb-_8125 mt0">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
-
-                            {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}
-                                <p class="b--c-dark-brown ba bg-dark-brown bw1 c-gold dib f-1_125 h-2_5 jean-luc lh-1_5 link mb-2_1875 mt0 ph4 pt-_375 tracked-narrow ttu">Coming Soon</p>
-                            {{ end }}
-
-                            <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{ end }}">
-                                <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
-
-                                <h3 class="f5 fw4 mv0">Hours:</h3>
-                                {{ range .Site.Data.Daytona_Beach_Info.Hours }}
-                                    <div class="flex justify-between   justify-start-ns">
-                                        <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
-                                        <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
-                                    </div>
-                                {{ end }}
-                            </div>
-                        </div>
-                        <!-- End Address & Hours -->
-
-                        <!--   Event Coordination   -->
-                        <div class="justify-between@25   w-12-ns   ml2@40 mt-_3125@40   mr-3@48   justify-start@53 ml0@53 w-auto@53   w-100-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex@25   db@40   flex@53{{ end }}">
-                            <!--   Coordinator Photo   -->
-                            <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.photo }}" />
-                            <!-- End Coordinator Photo -->
-
-                            <!--   Coordinator Info   -->
-                            <div class="ml3@25 w-48@25   w-auto-ns   ml0@40   ml3@53   css-ie-flex-shrink">
-                                <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.title }}</h3>
-                                <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.first_name }}<br class="dn   db-l"> {{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.last_name }}</p>
-                                <a class="c-dark-brown db hover-white lh-solid link mb1 mt0   f6@25" href="tel:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}</a>
-                                <a class="c-dark-brown db hover-white lh-solid link mv0   f6@25" href="mailto:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}</a>
-                            </div>
-                            <!-- End Coordinator Info -->
-                        </div>
-                        <!-- End Event Coordination -->
-                    </div>
-                </div>
-                <!-- End Address & Hours/Event Coordination -->
+    <!--   Location Two   -->
+    <div class="section-animate  bg-gold   mv2   mv3-ns   flex-l min-h-43-l   css-ie-flex-shrink">
+        <!--   Location Info   -->
+        <div class="pb-4_3125 pr3 pt-3_5   pb-3@25   pr4-ns   pb-4_3125@40   pb-3@53   w-50-l   pr-7@79">
+            <!--   Location   -->
+            <div class="flex@79 justify-end@79">
+                <h2 class="fade-in-right f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   w-25@79">Daytona Beach, Florida</h2>
             </div>
-            <!-- End Location Info -->
+            <!-- End Location -->
 
-            <!--   Map   -->
-            <div class="bg-mid-gray h-20   h-28_5-ns   h-auto-l w-50-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}h-43_6875@53{{ end }}" id="location_two_map"></div>
-            <!-- End Map -->
+            <!--   Divider   -->
+            <div class="flex@90 justify-end@90">
+                <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   w-27@90"></div>
+            </div>
+            <!-- End Divider -->
+
+            <!--   Address & Hours/Event Coordination   -->
+            <div class="fade-in t-del-3  flex@79 justify-end@79">
+                <div class="lh-2 ml3 tracked-narrow   ml4-ns   flex@40 justify-between@40   db-l mw-26-l   w-25@79">
+                    <!--   Address & Hours   -->
+                    <div class="mb-3_8125   mb0@40 mr2@40 w-60@40   mb-3_8125-l mr0-l w-100-l">
+                        <h3 class="element-invisible">Address</h3>
+                        <p class="mb-_8125 mt0">{{ .Site.Data.Daytona_Beach_Info.Address.part_one }}<br>{{ .Site.Data.Daytona_Beach_Info.Address.part_two }}</p>
+
+                        {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}
+                            <p class="b--c-dark-brown ba bg-dark-brown bw1 c-gold dib f-1_125 h-2_5 jean-luc lh-1_5 link mb-2_1875 mt0 ph4 pt-_375 tracked-narrow ttu">Coming Soon</p>
+                        {{ end }}
+
+                        <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{ end }}">
+                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
+
+                            <h3 class="f5 fw4 mv0">Hours:</h3>
+                            {{ range .Site.Data.Daytona_Beach_Info.Hours }}
+                                <div class="flex justify-between   justify-start-ns">
+                                    <p class="f6 mv0 w-50   f5@23   w-48@25   mw-12-ns">{{ .days }}</p>
+                                    <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
+                                </div>
+                            {{ end }}
+                        </div>
+                    </div>
+                    <!-- End Address & Hours -->
+
+                    <!--   Event Coordination   -->
+                    <div class="justify-between@25   w-12-ns   ml2@40 mt-_3125@40   mr-3@48   justify-start@53 ml0@53 w-auto@53   w-100-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex@25   db@40   flex@53{{ end }}">
+                        <!--   Coordinator Photo   -->
+                        <img alt="" class="db mb-1_5 self-start w-12   mb0@25 w-48@25   w-12-ns   mb-1_5@40   mb0@53   css-no-flex-shrink" src="{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.photo }}" />
+                        <!-- End Coordinator Photo -->
+
+                        <!--   Coordinator Info   -->
+                        <div class="ml3@25 w-48@25   w-auto-ns   ml0@40   ml3@53   css-ie-flex-shrink">
+                            <h3 class="f4 fw6 jean-luc lh-1_5 mb-_375 nt-_1875 ttu white">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.title }}</h3>
+                            <p class="fw6 lh-solid mb-1_75 mt0 tracked-narrow ttu wrksns   mb5@25   mb-6@53   mb-5-l">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.first_name }}<br class="dn   db-l"> {{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.last_name }}</p>
+                            <a class="c-dark-brown db hover-white lh-solid link mb1 mt0   f6@25" href="tel:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.phone }}</a>
+                            <a class="c-dark-brown db hover-white lh-solid link mv0   f6@25" href="mailto:{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}">{{ .Site.Data.Daytona_Beach_Info.Event_Coordinator.email }}</a>
+                        </div>
+                        <!-- End Coordinator Info -->
+                    </div>
+                    <!-- End Event Coordination -->
+                </div>
+            </div>
+            <!-- End Address & Hours/Event Coordination -->
         </div>
-        <!-- End Location Two -->
-    {{ end }}
+        <!-- End Location Info -->
+
+        <!--   Map   -->
+        <div class="bg-mid-gray h-20   h-28_5-ns   h-auto-l w-50-l   {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}h-43_6875@53{{ end }}" id="location_two_map"></div>
+        <!-- End Map -->
+    </div>
+    <!-- End Location Two -->
 
     {{ partial "map_js" . }}
 </main>
