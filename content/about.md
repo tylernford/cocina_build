@@ -40,6 +40,7 @@ winter_park_staff:
 daytona_beach_staff:
   show_staff: false
   staff:
+  - {}
   - photo: "/uploads/2017/11/16/portrait.png"
     first_name: 'Elizabeth '
     last_name: Mireles
@@ -57,9 +58,9 @@ daytona_beach_staff:
     last_name: Cox
     title: General Manager
   - photo: "/uploads/2017/11/16/portrait.png"
-    first_name: ''
-    last_name: ''
-    title: Manager
+    first_name: 'Maria '
+    last_name: 'Varon '
+    title: Events Manager
 forestry_title: About
 hero_photo: "/uploads/2017/11/15/about.jpg"
 
