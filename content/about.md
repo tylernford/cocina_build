@@ -11,6 +11,10 @@ featured_staff:
   first_name: 'Oscar '
   last_name: Gaona
   title: Regional General Manager
+- photo: "/uploads/2017/11/16/portrait.png"
+  first_name: 'Oscars '
+  last_name: Gaonas
+  title: Regional General Manager
 winter_park_staff:
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
