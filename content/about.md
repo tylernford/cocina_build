@@ -16,6 +16,7 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
+- title: ''
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Karen
   last_name: Gofphin
@@ -29,9 +30,9 @@ winter_park_staff:
   last_name: Moreno
   title: Sous Chef
 - photo: "/uploads/2017/11/16/portrait.png"
-  first_name: ''
-  last_name: ''
-  title: Manager
+  first_name: 'Jenna '
+  last_name: Dever
+  title: Events & Catering Manager
 - photo: "/uploads/2017/11/16/portrait.png"
   first_name: Eugenia
   last_name: Stergios
