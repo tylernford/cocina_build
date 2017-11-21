@@ -41,6 +41,9 @@ daytona_beach_staff:
   show_staff: false
   staff:
   - {}
+  - first_name: Dasha
+    last_name: 'Ottich '
+    title: Catering Manager
   - photo: "/uploads/2017/11/16/portrait.png"
     first_name: 'Elizabeth '
     last_name: Mireles
