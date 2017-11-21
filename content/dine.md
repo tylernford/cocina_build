@@ -51,8 +51,8 @@ events:
     Contact our Winter Park Events & Catering Manager, Jenna. Please allow up to 48hrs for a response.
     Catering@Cocina214.com
   daytona_beach_photo: "/uploads/2017/11/21/happy_hour_food_2.jpg"
-  daytona_beach_text: Contact our Daytona Beach Private Dining & Event Manager, Name.
-    Please allow up to 48hrs for a response.
+  daytona_beach_text: Contact our Daytona Beach Event Manager Maria Varon or our Catering
+    Manager Dasha Ottich. Please allow up to 48hrs for a response.
 hero_photos:
   winter_park: "/uploads/2017/11/16/dine.jpg"
   daytona_beach: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"

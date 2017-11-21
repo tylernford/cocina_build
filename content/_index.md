@@ -5,12 +5,11 @@ date: 2017-10-12 00:00:00 +0000
 forestry_title: Home
 private_dining:
   text: With a stylish and approachable family-friendly environment, Cocina 214 is
-    a vibrant spot perfect for brunch, lunch or dinner. A lively bar, contemporary
-    dining room and relaxing patio offer the right atmosphere for any mood. Cocina
-    214’s menu ranges from exciting dishes to wholesome entrees alongside traditional
-    favorites for every type of palette. With a kid-friendly staff and comfortable,
-    spacious eating, Cocina 214 is a natural choice for families, hipsters, foodies
-    and young-professionals alike.
+    a vibrant spot perfect for any special occasion. We have fully private dining
+    rooms in both locations perfect for any special event! From rehearsal dinners
+    to birthdays to corporate meetings our private dining rooms are the perfect space.
+    We also offer special menu packages with the space and print menus exclusively
+    for your event!
   photo: "/uploads/2017/11/15/cocina_trio_with_chips.jpg"
 catering:
   text: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
