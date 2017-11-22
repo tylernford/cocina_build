@@ -24,7 +24,7 @@ dine_with_us:
     menu: "/uploads/2017/11/15/cocina_214_kids_menu.pdf"
   featured:
     name: Happy Hour
-    hours: 4:30 – 6:00
+    hours: 4:30 – 6:30
     when: Monday – Thursday
     menu_name: Happy Hour
     menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
