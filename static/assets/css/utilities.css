@@ -4,6 +4,7 @@
 .b--c-gold-hover:hover{border-color:#D18419}
 .b--c-red{border-color:#E63728}
 
+.bg-black-01{background-color:rgba(0,0,0,.01)}
 .bg-dark-brown{background-color:rgba(43,36,34,.98)}
 .bg-gold{background-color:rgba(209,132,25,.9)}
 .bg-putty{background-color:#E8E3D7}
@@ -121,6 +122,8 @@
 .pt-3{padding-top:3rem}
 .pt-3_5{padding-top:3.5rem}
 .pt-3_6875{padding-top:3.6875rem}
+
+.text-shadow { text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); }
 
 .tracked-narrow{letter-spacing:.05em}
 
