@@ -1,5 +1,5 @@
 ---
-title: Gift Card ($10)
+title: Gift Card ($50)
 product_id: gift-card-10
 product_category: T-Shirts
 product_price: 10
@@ -8,9 +8,9 @@ product_sizes: []
 product_size_guide: ''
 product_featured_image: "/assets/images/shop/gift_card.png"
 product_images: []
-id: gift-card-10
+id: gift-card-50
 category: Gift Cards
-price: 10
+price: 50
 featured_image: "/uploads/2017/11/16/gift_card_black.png"
 images: []
 details: []
