@@ -1,11 +1,11 @@
 {{ define "main" }}
 <style>
 .bg-1, .bg-2 {
-  -webkit-animation: fade 14.5s ease infinite;
-  -moz-animation: fade 14.5s ease infinite;
-  -ms-animation: fade 14.5s ease infinite;
-  -o-animation: fade 14.5s ease infinite;
-  animation: fade 14.5s ease infinite;
+  -webkit-animation: fade 10.5s ease infinite;
+  -moz-animation: fade 10.5s ease infinite;
+  -ms-animation: fade 10.5s ease infinite;
+  -o-animation: fade 10.5s ease infinite;
+  animation: fade 10.5s ease infinite;
 }
 .bg-1 {
   -webkit-animation-delay: 0.5s;
@@ -15,11 +15,11 @@
   animation-delay: 0.5s;
 }
 .bg-2 {
-  -webkit-animation-delay: 7.5s;
-  -mos-animation-delay: 7.5s;
-  -ms-animation-delay: 7.5s;
-  -o-animation-delay: 7.5s;
-  animation-delay: 7.5s;
+  -webkit-animation-delay: 5.5s;
+  -mos-animation-delay: 5.5s;
+  -ms-animation-delay: 5.5s;
+  -o-animation-delay: 5.5s;
+  animation-delay: 5.5s;
 }
 
 @-moz-keyframes fade {
@@ -55,9 +55,17 @@
   87.5% {opacity: 0}
   100% {opacity: 1}
 }
+.slider {
+    transition: opacity 300ms ease-in-out;
+    opacity: 0;
+ }
+.slider.load {
+    opacity: 1;
+    transition: opacity 300ms;
+}
 </style>
 <!--<div class="h-26 mt-3 lazyload   mt5-ns t-del-2 mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>-->
-<div class="bg-black-01 h-26 mt-3 relative   mt5-ns   mt0@50">
+<div class="bg-black-01 h-26 mt-3 relative   mt5-ns   mt0@50   test-div">
     <div class="absolute h-100 left-0 top-0 w-100  bg-2"
     style="background: url(/uploads/2017/11/16/daytona_beach_groundbreaking.jpg) no-repeat center;background-size: cover;">
     </div>
