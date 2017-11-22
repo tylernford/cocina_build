@@ -1,7 +1,7 @@
 ---
-title: Ground Break Daytona Beach T-Shirt (Red)
+title: You Had Me At Tacos T-Shirt (White)
 category: T-Shirts
-id: ground-break-t-shirt-red
+id: you-had-me-at-tacos-white
 price: 24
 details:
 - 100% Cotton
