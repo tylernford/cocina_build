@@ -7,16 +7,6 @@ fields:
   name: forestry_title
   label: Title
 - type: field_group
-  name: hero_photos
-  label: Hero Photos
-  fields:
-  - type: text
-    name: location
-    label: Location
-  - type: file
-    name: photo
-    label: Photo
-- type: field_group
   name: dine_with_us
   label: Dine with Us
   fields:
