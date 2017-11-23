@@ -31,7 +31,6 @@ upcoming_events:
     event_date: Saturdays & Sundays
     event_time: 11:00a – 3:00p
     event_description: "$2 Brunch Mimosas"
-hero_photo: "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
 hero_photos:
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
 - "/uploads/2017/11/21/Snapper_Veracruz.jpg"
