@@ -6,11 +6,7 @@ fields:
 - type: text
   name: forestry_title
   label: Title
-- type: file
-  name: hero_photo
-  label: Hero Photo
-  description: File names should not have spaces. e.g. "street tacos.jpg" should be
-    changed to "street_tacos.jpg"
 - type: image_gallery
   name: hero_photos
   label: hero_photos
+  description: Slider will display no more than 4 photos
