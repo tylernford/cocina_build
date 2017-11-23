@@ -3,7 +3,6 @@ title: Location
 type: static
 layout: location
 forestry_title: Location
-hero_photo: "/uploads/2017/11/16/painting.jpg"
 hero_photos:
 - "/uploads/2017/11/16/painting.jpg"
 - "/uploads/2017/11/16/dine.jpg"

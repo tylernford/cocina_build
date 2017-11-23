@@ -1,64 +1,11 @@
 {{ define "main" }}
-<style>
-.bg-1, .bg-2 {
-  -webkit-animation: fade 14.5s ease infinite;
-  -moz-animation: fade 14.5s ease infinite;
-  -ms-animation: fade 14.5s ease infinite;
-  -o-animation: fade 14.5s ease infinite;
-  animation: fade 14.5s ease infinite;
-}
-.bg-1 {
-  -webkit-animation-delay: 0.5s;
-  -mos-animation-delay: 0.5s;
-  -ms-animation-delay: 0.5s;
-  -o-animation-delay: 0.5s;
-  animation-delay: 0.5s;
-}
-.bg-2 {
-  -webkit-animation-delay: 7.5s;
-  -mos-animation-delay: 7.5s;
-  -ms-animation-delay: 7.5s;
-  -o-animation-delay: 7.5s;
-  animation-delay: 7.5s;
-}
 
-@-moz-keyframes fade {
-  0% {opacity: 1}
-  12.5% {opacity: 1}
-  25% {opacity: 1}
-  37.5% {opacity: 0}
-  50% {opacity: 0}
-  62.5% {opacity: 0}
-  75% {opacity: 0}
-  87.5% {opacity: 0}
-  100% {opacity: 1}
-}
-@-webkit-keyframes fade {
-  0% {opacity: 1}
-  12.5% {opacity: 1}
-  25% {opacity: 1}
-  37.5% {opacity: 0}
-  50% {opacity: 0}
-  62.5% {opacity: 0}
-  75% {opacity: 0}
-  87.5% {opacity: 0}
-  100% {opacity: 1}
-}
-@keyframes fade {
-  0% {opacity: 1}
-  12.5% {opacity: 1}
-  25% {opacity: 1}
-  37.5% {opacity: 0}
-  50% {opacity: 0}
-  62.5% {opacity: 0}
-  75% {opacity: 0}
-  87.5% {opacity: 0}
-  100% {opacity: 1}
-}
-</style>
-<!--<div class="lazyload t-del-2    h-26 mt-3   mt5-ns   mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>-->
+{{ partials "slider/styles" . }}
 
-
+<!--hero_photos:
+  winter_park: "/uploads/2017/11/16/dine.jpg"
+  daytona_beach: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"-->
+  <!--
 <div class="bg-black-01 h-26 mt-3 relative   mt5-ns   mt0@50">
     <div class="absolute h-100 left-0 top-0 w-100  bg-2"
     style="background: url({{ .Params.hero_photos.daytona_beach }}) no-repeat center;background-size: cover;">
@@ -72,6 +19,33 @@
             <p class="f4 jean-luc text-shadow tracked-narrow white">Winter Park</p>
         </div>
     </div>
+</div>-->
+
+<div class="bg-black-01 h-26 mt-3 relative   mt5-ns   mt0@50   css-slider">
+    {{ if gt (len .Params.hero_photos) 3 }}
+        {{ range  first 1 (after 3 .Params.hero_photos) }}
+            <div class="absolute h-100 left-0 top-0 w-100  bg-4" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
+        {{ end }}
+    {{ end }}
+    {{ if gt (len .Params.hero_photos) 2 }}
+        {{ range  first 1 (after 2 .Params.hero_photos) }}
+            <div class="absolute h-100 left-0 top-0 w-100  bg-3" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
+        {{ end }}
+    {{ end }}
+    {{ range  first 1 (after 1 .Params.hero_photos) }}
+        <div class="absolute h-100 left-0 top-0 w-100  bg-2" style="background: url({{ .Params.hero_photos.photo }}) no-repeat center;background-size: cover;">
+            <div class="absolute bottom-0 center left-0 ph3 right-0 tr w-100   ph-3f-ns   ph5-l   mw-64@72 ph0@72">
+                <p class="f4 jean-luc text-shadow tracked-narrow white">{{ .Params.hero_photos.location }}</p>
+            </div>
+        </div>
+    {{end}}
+    {{ range first 1 .Params.hero_photos }}
+        <div class="absolute h-100 left-0 top-0 w-100  bg-1" style="background: url({{ .Params.hero_photos.photo }}) no-repeat center;background-size: cover;">
+            <div class="absolute bottom-0 center left-0 ph3 right-0 tr w-100   ph-3f-ns   ph5-l   mw-64@72 ph0@72">
+                <p class="f4 jean-luc text-shadow tracked-narrow white">{{ .Params.hero_photos.location }}</p>
+            </div>
+        </div>
+    {{end}}
 </div>
 
 

@@ -1,26 +1,9 @@
 {{ define "main" }}
 
-{{ partial "css/slider" . }}
+{{ partial "slider/styles" . }}
 
-<!--<div class="h-26 mt-3 lazyload   mt5-ns t-del-2 mt0@50" data-bg="{{ .Params.hero_photo }}" style="background-size:cover;background-position:center center;"></div>-->
-<div class="bg-black-01 h-26 mt-3 relative   mt5-ns   mt0@50   css-slider">
-    {{ if gt (len .Params.hero_photos) 3 }}
-        {{ range  first 1 (after 3 .Params.hero_photos) }}
-            <div class="absolute h-100 left-0 top-0 w-100  bg-4" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
-        {{ end }}
-    {{ end }}
-    {{ if gt (len .Params.hero_photos) 2 }}
-        {{ range  first 1 (after 2 .Params.hero_photos) }}
-            <div class="absolute h-100 left-0 top-0 w-100  bg-3" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
-        {{ end }}
-    {{ end }}
-    {{ range  first 1 (after 1 .Params.hero_photos) }}
-        <div class="absolute h-100 left-0 top-0 w-100  bg-2" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
-    {{end}}
-    {{ range first 1 .Params.hero_photos }}
-        <div class="absolute h-100 left-0 top-0 w-100  bg-1" style="background: url({{.}}) no-repeat center;background-size: cover;"></div>
-    {{end}}
-</div>
+{{ partial "slider/markup" . }}
+
 
 <main class=" ph3-ns">
     <h1 class="element-invisible">Our Locations</h1>

@@ -53,8 +53,5 @@ events:
   daytona_beach_photo: "/uploads/2017/11/22/Bar_Food_Happy_Hour.jpg"
   daytona_beach_text: Contact our Daytona Beach Event Manager Maria Varon or our Catering
     Manager Dasha Ottich. Please allow up to 48hrs for a response.
-hero_photos:
-  winter_park: "/uploads/2017/11/16/dine.jpg"
-  daytona_beach: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"
 
 ---
