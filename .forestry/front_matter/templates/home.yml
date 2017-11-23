@@ -85,3 +85,4 @@ fields:
 - type: image_gallery
   name: hero_photos
   label: Hero Photos
+  description: Slider will display no more than 4 photos
