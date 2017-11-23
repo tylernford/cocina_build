@@ -109,3 +109,13 @@ fields:
   - type: textarea
     name: daytona_beach_text
     label: Daytona Beach Text
+- type: field_group_list
+  name: hero_photos
+  label: Hero Photos
+  fields:
+  - type: text
+    name: location
+    label: location
+  - type: file
+    name: photo
+    label: photo
