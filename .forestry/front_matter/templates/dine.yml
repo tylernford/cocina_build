@@ -16,6 +16,7 @@ fields:
   - type: file
     name: photo
     label: photo
+  description: Slider will display no more than 4 photos
 - type: field_group
   name: dine_with_us
   label: Dine with Us
