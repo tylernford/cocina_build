@@ -114,6 +114,11 @@ fields:
   - type: file
     name: menu
     label: Menu
+  - type: file
+    label: Photo
+    name: photo
+    description: File names should not have spaces. e.g. "street tacos.jpg" should
+      be changed to "street_tacos.jpg"
 - type: field_group
   name: events
   label: Events
