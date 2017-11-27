@@ -59,5 +59,8 @@ hero_photos:
   photo: "/uploads/2017/11/16/dine.jpg"
 - location: Daytona Beach
   photo: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"
+happy_hour:
+  text: ''
+  menu: ''
 
 ---
