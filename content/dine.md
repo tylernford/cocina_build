@@ -36,7 +36,7 @@ catering:
     Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays,
     Anniversaries, Holiday Parties and much more!
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
-  hero_photos: []
+  photo: "/uploads/2017/11/21/Mexican_Corn.jpg"
 private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
@@ -45,6 +45,7 @@ private_dining:
     - HD TVs and sound system available for use.
     - Linens included with reservation.
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
+  photo: "/uploads/2017/11/21/Mexican_Corn.jpg"
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/11/21/guac_bar.jpg"
@@ -62,5 +63,6 @@ hero_photos:
 happy_hour:
   text: ''
   menu: ''
+  photo: "/uploads/2017/11/21/Mexican_Corn.jpg"
 
 ---
