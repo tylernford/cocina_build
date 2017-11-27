@@ -12,7 +12,7 @@ sizes:
 - Large
 - X-Large
 size_guide: https://needsupply.com/help/#sizing
-featured_image: "/uploads/2017/11/22/you_had_me_at_tacos.jpg"
+featured_image: "/uploads/2017/11/27/you_had_me_at tacos.jpg"
 images:
 - "/uploads/2017/11/22/you_had_me_at_tacos.jpg"
 
