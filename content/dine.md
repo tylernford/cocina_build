@@ -63,6 +63,6 @@ hero_photos:
 happy_hour:
   text: ''
   menu: ''
-  photo: "/uploads/2017/11/21/Looking_in_ElNoble_w_saltlimesandbottle-1.jpg"
+  photo: "/uploads/2017/11/21/Sangria_w_colorful_background.jpg"
 
 ---
