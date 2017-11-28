@@ -98,7 +98,7 @@
     <!--   Catering   -->
     <div class="section-animate   flex flex-column-reverse mv2   mv3-ns   flex-row@53">
         <div class="h-20   h-30-ns    h-auto@53 w-50@53"
-        style="background:url({{ .Params.dine_with_us.photo }});background-position:center center;background-size:cover">
+        style="background:url({{ .Params.catering.photo }});background-position:center center;background-size:cover">
         </div>
 
         <div class="bg-dark-brown pb-1_625 pt-3_5 tracked-narrow white   mb0@53 w-50@53   css-ie-flex-shrink">
@@ -110,7 +110,7 @@
 
             <div class="fade-in t-del-2   lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p   mh4-ns   mr5-l   ml-7@79 w-25@79">
                 <p>{{ .Params.catering.text | markdownify }}</p>
-                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.private_dining.menu }}">View Catering Menu</a>
+                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.catering.menu }}">View Catering Menu</a>
             </div>
         </div>
     </div>
@@ -135,7 +135,7 @@
         </div>
 
         <div class="h-20   h-30-ns    h-auto@53 w-50@53"
-        style="background:url({{ .Params.dine_with_us.photo }});background-position:center center;background-size:cover">
+        style="background:url({{ .Params.private_dining.photo }});background-position:center center;background-size:cover">
         </div>
     </div>
     <!-- End Private Dining -->
@@ -144,7 +144,7 @@
     <!--   Happy Hour   -->
     <div class="section-animate   flex flex-column-reverse mb-4_75 flex-row@53">
         <div class="h-20   h-30-ns    h-auto@53 w-50@53"
-        style="background:url({{ .Params.dine_with_us.photo }});background-position:center center;background-size:cover">
+        style="background:url({{ .Params.happy_hour.photo }});background-position:center center;background-size:cover">
         </div>
 
         <div class="bg-gold pb-1_625 pt-3_5 tracked-narrow white   mb0@53 w-50@53   css-ie-flex-shrink">
@@ -155,8 +155,8 @@
             <!-- End Divider -->
 
             <div class="fade-in t-del-2   lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p   mh4-ns   mr5-l   ml-7@79 w-25@79">
-                <p>{{ .Params.catering.text | markdownify }}</p>
-                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.private_dining.menu }}">View Happy Hour Menu</a>
+                <p>{{ .Params.happy_hour.text | markdownify }}</p>
+                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.happy_hour.menu }}">View Happy Hour Menu</a>
                 <!--<div class="fade-in t-del-2 mb-2_6875   flex@25">
                         <div class="mb-1_375   mb0@25 w-12@25">
                             <p class="mv0">{{ .Params.dine_with_us.featured.hours }}</p>
