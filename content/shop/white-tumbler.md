@@ -1,8 +1,8 @@
 +++
 category = "Tumblers"
-date = "2017-11-21T15:34:45+00:00"
+date = "2017-11-21T15:34:45Z"
 details = []
-featured_image = "/uploads/2017/11/21/Cocina_Black_and_White_Tumblers.jpg"
+featured_image = "/uploads/2017/11/28/White_Tumbler.jpg"
 id = "white-tumbler"
 images = []
 price = "20.00"
