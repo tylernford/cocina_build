@@ -4,7 +4,7 @@ type: static
 layout: dine
 forestry_title: Dine
 dine_with_us:
-  photo: "/uploads/2017/11/16/mexican_corn.jpg"
+  photo: "/uploads/2017/11/21/3_margaritas_in_the_bar-2.jpg"
   text: 'Whether you’re looking to dine out in the charming Winter Park Historic District
     or beach front at the worlds most famous beach, Daytona Beach or want an authentic
     Tex-Mex dinner to take home, Cocina 214 is perfect for every occasion. Since its’
