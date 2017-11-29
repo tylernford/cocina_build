@@ -29,8 +29,8 @@ upcoming_events:
     event_description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
   - event_name: Brunch
     event_date: Saturdays & Sundays
-    event_time: 11:00a – 3:00p
-    event_description: "$2 Brunch Mimosas"
+    event_time: 11:30a – 3:00p
+    event_description: "$3 Brunch Mimosas"
 hero_photos:
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
 - "/uploads/2017/11/21/Snapper_Veracruz.jpg"
