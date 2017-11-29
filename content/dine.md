@@ -36,7 +36,7 @@ catering:
     Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays,
     Anniversaries, Holiday Parties and much more!
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
-  photo: "/uploads/2017/11/21/Mexican_Corn.jpg"
+  photo: "/uploads/2017/11/21/Beef_Enchiladas_MX_style_copy-1.jpg"
 private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
