@@ -45,7 +45,7 @@ private_dining:
     - HD TVs and sound system available for use.
     - Linens included with reservation.
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
-  photo: "/uploads/2017/11/29/Corn_Crusted_Mahi.jpg"
+  photo: "/uploads/2017/11/21/Ignacio_bites_white_background_3.jpg"
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/11/29/Happy_Hour_drinks_withwell.jpg"
