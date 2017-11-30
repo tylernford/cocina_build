@@ -27,9 +27,9 @@ $('.section-animate').each(function(index, section) {
 	sectionWatcher.enterViewport(function() {
 	    section.classList.add('animated');
 	});
-	sectionWatcher.exitViewport(function() {
-	    section.classList.remove('animated');
-	});
+	// sectionWatcher.exitViewport(function() {
+	//     section.classList.remove('animated');
+	// });
 });
 
 
