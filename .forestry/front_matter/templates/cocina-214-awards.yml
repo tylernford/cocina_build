@@ -1,4 +1,6 @@
 ---
+pages:
+- news/awards/awards.md
 hide_body: false
 fields:
 - name: title
