@@ -1,14 +1,18 @@
 ---
-title: 'News: Awards'
+title: Cocina 214 Winter Park Awards
+location: Winter Park
+date: 2017-09-29 00:00:00 +0000
+photos: []
+featured_photo: "/uploads/2017/11/21/Taste_of_WP_2014.jpg"
+video_key: ''
+type: awards
 url: "/news/awards"
-type: config
-
 ---
 **AWARDS**
 
 Cocina 214 made a name for itself in the Orlando area. Cocina 214 is regarded as one of the best restaurants in Orlando and has won numerous awards. Daytona Beach will be another market where Cocina 214 can thrive.
 
-**2017 Awards** 
+**2017 Awards**
 
 Orlando Sentinel Foodie Awards
 
@@ -56,11 +60,11 @@ Nominated for Best Small Business of the Year (2 years in a row!)
 
 Ovations Awards
 
-Best Happy Hour 
+Best Happy Hour
 
 **2014 Awards**
 
-Orlando Life Silver Spoon Awards 
+Orlando Life Silver Spoon Awards
 
 Best Mexican/Tex-Mex | Best Appetizer | Best Cocktail (Orange Blossom Margarita) | Best Dessert | Best Happy Hour | Best Family Place
 
