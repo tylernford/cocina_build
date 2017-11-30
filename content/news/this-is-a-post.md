@@ -8,4 +8,8 @@ featured_photo: "/uploads/2017/11/30/Daytona_Now_Hiring_Sign_red_Nov_2017.jpg"
 video_key: ''
 
 ---
-.
+We are building our **dream team** at Cocina 214 Daytona Beach and are looking for the perfect members!
+
+Do you want to work with a team of people that are genuinely interested and excited about taking care of people's culinary desires? Do you enjoy creating a fantastic experience for others?
+
+If **yes** then apply. Email your resume to General Manager Heather Cox at **heather@cocina214.com**
