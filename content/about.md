@@ -40,6 +40,10 @@ winter_park_staff:
   first_name: 'Jenna '
   last_name: Dever
   title: Events & Catering Manager
+- photo: "/uploads/2017/12/01/portrait.png"
+  first_name: Grid
+  last_name: Test
+  title: Grid Test
 daytona_beach_staff:
   show_staff: false
   staff:
