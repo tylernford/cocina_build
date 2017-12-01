@@ -7,60 +7,60 @@ featured_staff:
   first_name: Lambrine
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: 'Oscar '
   last_name: Gaona
   title: Regional General Manager
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: 'Isidro '
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: Karen
   last_name: Gofphin
   title: General Manager
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
 - title: Manager
   first_name: 'Marcela '
   last_name: Hernandez
-  photo: "/uploads/2017/11/21/Cocina_Black_and_White_Tumblers.jpg"
-- photo: "/uploads/2017/11/16/portrait.png"
+  photo: "/uploads/2017/12/01/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: Miguel
   last_name: Flores
   title: Sous Chef
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
-- photo: "/uploads/2017/11/16/portrait.png"
+- photo: "/uploads/2017/12/01/portrait.png"
   first_name: 'Jenna '
   last_name: Dever
   title: Events & Catering Manager
 daytona_beach_staff:
   show_staff: false
   staff:
-  - photo: "/uploads/2017/11/16/portrait.png"
+  - photo: "/uploads/2017/12/01/portrait.png"
     first_name: Heather
     last_name: Cox
     title: General Manager
-  - photo: "/uploads/2017/11/16/portrait.png"
+  - photo: "/uploads/2017/12/01/portrait.png"
     first_name: 'Elizabeth '
     last_name: Mireles
     title: Manager
   - {}
-  - photo: "/uploads/2017/11/16/portrait.png"
+  - photo: "/uploads/2017/12/01/portrait.png"
     first_name: Marco
     last_name: Carbajal
     title: Sous Chef
-  - photo: "/uploads/2017/11/16/portrait.png"
+  - photo: "/uploads/2017/12/01/portrait.png"
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
-  - photo: "/uploads/2017/11/16/portrait.png"
+  - photo: ""
     first_name: 'Maria '
     last_name: 'Varon '
     title: Events Manager
