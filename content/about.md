@@ -60,13 +60,14 @@ daytona_beach_staff:
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
-  - photo: ""
+  - photo: ''
     first_name: 'Maria '
     last_name: 'Varon '
     title: Events Manager
   - first_name: Dasha
     last_name: 'Ottich '
     title: Catering Manager
+    photo: "/uploads/2017/12/01/portrait.png"
 forestry_title: About
 hero_photo: "/uploads/2017/12/01/about.jpg"
 
