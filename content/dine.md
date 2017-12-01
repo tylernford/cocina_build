@@ -48,7 +48,7 @@ private_dining:
   photo: "/uploads/2017/11/21/Ignacio_bites_white_background_3.jpg"
 events:
   title: Book Your Private Party or Catering
-  winter_park_photo: "/uploads/2017/11/29/Happy_Hour_drinks_withwell.jpg"
+  winter_park_photo: "/uploads/2017/12/01/happy_hour_drinks_with_well.jpg"
   winter_park_text: |-
     Contact our Winter Park Events & Catering Manager, Jenna. Please allow up to 48hrs for a response.
     Catering@Cocina214.com
