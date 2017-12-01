@@ -36,7 +36,7 @@ winter_park_staff:
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
-- photo: "/uploads/2017/12/01/jenna_headshot_outside.jpg"
+- photo: ''
   first_name: 'Jenna '
   last_name: Dever
   title: Events & Catering Manager
