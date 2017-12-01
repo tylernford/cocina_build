@@ -36,7 +36,7 @@ catering:
     Bridal Showers, Rehearsal Dinners, Baby Showers, Alumni Gatherings, Birthdays,
     Anniversaries, Holiday Parties and much more!
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
-  photo: "/uploads/2017/11/21/guac_bar.jpg"
+  photo: ''
 private_dining:
   text: |-
     Reserve our stunning private dining room for your private event needs, from personal to business.
