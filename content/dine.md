@@ -57,7 +57,7 @@ events:
     Manager Dasha Ottich. Please allow up to 48hrs for a response.
 hero_photos:
 - location: Winter Park
-  photo: "/uploads/2017/11/16/dine.jpg"
+  photo: "/uploads/2017/12/01/dine.jpg"
 - location: Daytona Beach
   photo: "/uploads/2017/11/16/daytona_beach_groundbreaking.jpg"
 happy_hour:
