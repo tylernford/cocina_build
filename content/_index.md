@@ -10,7 +10,7 @@ private_dining:
     to birthdays to corporate meetings our private dining rooms are the perfect space.
     We also offer special menu packages with the space and print menus exclusively
     for your event!
-  photo: "/uploads/2017/11/21/Carne_Asada_2017_2-1.jpg"
+  photo: "/uploads/2017/12/01/Carne_Asada_2017_2.jpg"
 catering:
   text: Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
     or private event by selecting Cocina 214 as your catering preference. Whether
