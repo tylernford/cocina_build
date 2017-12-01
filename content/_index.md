@@ -34,7 +34,6 @@ upcoming_events:
 hero_photos:
 - "/uploads/2017/12/01/mexican_corn.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
-- "/uploads/2017/12/01/el_diablo.jpg"
 - "/uploads/2017/12/01/steak_fajitas.jpg"
 
 ---
