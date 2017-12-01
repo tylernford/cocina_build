@@ -7,6 +7,5 @@ hero_photos:
 - "/uploads/2017/12/01/rotiserrie_chicken_tacos.jpg"
 - "/uploads/2017/12/01/patio.jpg"
 - "/uploads/2017/12/01/dine.jpg"
-- "/uploads/2017/11/15/margarita_with_limes.jpg"
 
 ---
