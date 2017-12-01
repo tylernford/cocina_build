@@ -63,6 +63,6 @@ hero_photos:
 happy_hour:
   text: ''
   menu: ''
-  photo: ''
+  photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
 
 ---
