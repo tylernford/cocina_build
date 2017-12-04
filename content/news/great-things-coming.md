@@ -4,9 +4,11 @@ location: Winter Park
 date: 2017-10-07 13:00:00 -0500
 category: press
 photos:
+- "/uploads/2017/12/04/DOTD_led_drink.jpg"
 - "/assets/images/news/featured_image.jpg"
-featured_photo: "/assets/images/news/featured_image.jpg"
+featured_photo: "/uploads/2017/12/04/2017_DOTD_flyer.pdf"
 video_key: Mrb9zdl_Cjs
+draft: true
 
 ---
 Check out Tasty Chomps blog post about Cocina 214's first ever Day of the Dead Celebration. 
