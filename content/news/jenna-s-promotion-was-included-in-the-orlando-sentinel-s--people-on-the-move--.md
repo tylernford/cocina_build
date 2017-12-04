@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2017-12-04T10:49:24+00:00"
-draft = true
 featured_photo = "/uploads/2017/12/01/jenna_headshot_outside.jpg"
 location = "Winter Park"
 photos = []
