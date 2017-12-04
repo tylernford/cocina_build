@@ -1,12 +1,13 @@
 ---
 title: '2017 Cocina 214 Day of the Dead Celebration '
-location: Daytona Beach
+location: Winter Park
 date: 2017-10-07 13:00:00 -0500
 category: press
 photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/assets/images/news/featured_image.jpg"
 video_key: Mrb9zdl_Cjs
+draft: true
 
 ---
 Check out Tasty Chomps blog post about Cocina 214's first ever Day of the Dead Celebration. 
