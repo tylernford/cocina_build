@@ -1,8 +1,8 @@
 ---
-title: Great Things Coming
+title: '2017 Cocina 214 Day of the Dead Celebration '
 location: Daytona Beach
-date: 2017-10-10 00:00:00 +0000
-category: past-events
+date: 2017-10-07 13:00:00 -0500
+category: press
 photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/assets/images/news/featured_image.jpg"
@@ -10,6 +10,10 @@ video_key: Mrb9zdl_Cjs
 draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Check out Tasty Chomps blog post about Cocina 214's first ever Day of the Dead Celebration. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+The article highlights Cocina’s fun and inviting atmosphere, and features several new menu items with photos. Also, the blogger highlighted Cocina’s upcoming Daytona Beach location. Tasty Chomps attracts 28,000 visitors to its site.
+
+ 
+
+[http://tastychomps.com/2017/11/cocina-214-hosts-inaugural-day-of-the-dead-event-presented-by-el-jimador.html](http://tastychomps.com/2017/11/cocina-214-hosts-inaugural-day-of-the-dead-event-presented-by-el-jimador.html "http://tastychomps.com/2017/11/cocina-214-hosts-inaugural-day-of-the-dead-event-presented-by-el-jimador.html")
