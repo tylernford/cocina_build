@@ -1,5 +1,5 @@
 ---
-title: Check out Typsy Soul's article featuring Cocina 214 in Winter Park Favorites
+title: Cocina 214 a Winter Park Favorite
 location: Winter Park
 date: 2017-10-11 00:00:00 +0000
 category: press
