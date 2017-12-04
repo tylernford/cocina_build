@@ -19,7 +19,7 @@ catering:
     made food with dedicated high quality service to make a perfect eating experience
     at any event. Make your event buzz with excitement over the authentic and deliciousness
     Tex-Mex food provided by Cocina 214 catering service.
-  photo: "/uploads/2017/12/01/guac_bar.jpg"
+  photo: ''
 upcoming_events:
   photo: "/uploads/2017/12/01/Daytona_Now_Hiring_Sign_red_Nov_2017.png"
   events:
