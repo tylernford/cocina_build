@@ -7,7 +7,6 @@ photos:
 - "/assets/images/news/featured_image.jpg"
 featured_photo: "/assets/images/news/featured_image.jpg"
 video_key: Mrb9zdl_Cjs
-draft: true
 
 ---
 Check out Tasty Chomps blog post about Cocina 214's first ever Day of the Dead Celebration. 
