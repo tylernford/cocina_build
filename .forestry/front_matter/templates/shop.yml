@@ -1,11 +1,11 @@
 ---
 pages:
+- shop/shirt-red.md
 - shop/shirt-black.md
 - shop/white-tumbler.md
 - shop/black-tumbler.md
 - shop/shirt-gold.md
 - shop/gift-card-10.md
-- shop/shirt-red.md
 - shop/gift-card-25.md
 hide_body: false
 fields:
