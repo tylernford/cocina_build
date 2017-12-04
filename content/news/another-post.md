@@ -1,14 +1,15 @@
 ---
-title: Another Post
+title: Check out Typsy Soul's article featuring Cocina 214 in Winter Park Favorites
 location: Winter Park
 date: 2017-10-11 00:00:00 +0000
-category: current
+category: press
 photos:
 - "/assets/images/news/featured_image.jpg"
-featured_photo: "/assets/images/news/featured_image.jpg"
+featured_photo: "/uploads/2017/11/16/painting.jpg"
+video_key: ''
 draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Check out Typsy Soul's article featuring Cocina 214 in Winter Park Favorites!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+[http://www.typsysoul.com/blog/2017/7/2/407-my-hometown](http://www.typsysoul.com/blog/2017/7/2/407-my-hometown "http://www.typsysoul.com/blog/2017/7/2/407-my-hometown")
