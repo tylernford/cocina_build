@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2017-12-05T10:33:55-06:00"
-draft = true
 featured_photo = "/assets/headline.svg"
 location = "Daytona Beach"
 photos = []
