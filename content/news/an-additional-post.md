@@ -1,17 +1,23 @@
 ---
-title: An Additional Post
+title: 10 Best Restaurants to visit during the fall season!
 location: Daytona Beach
-date: 2017-10-12 00:00:00 +0000
+date: 2017-12-05 19:00:00 -0600
 featured_image: "/assets/images/news/featured_image.jpg"
 image: "/assets/images/news/featured_image.jpg"
-category: upcoming
+category: press
 photos: []
-featured_photo: "/uploads/2017/11/16/topo_chico.jpg"
+featured_photo: "/uploads/2017/11/21/Carnitas_closeup-1.jpg"
 video_url: https://www.youtube.com/embed/Jg8U1XObkes
 video_key: Mrb9zdl_Cjs
 draft: true
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.
+Cocina 214 was included as one of the “10 Best” restaurants to visit during the fall season in Central Florida! The article highlights Cocina 214 as an ‘upscale setting for business, for date night and for happy hour’. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+ 
+
+[http://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants-for-fall/](http://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants-for-fall/ "http://www.10best.com/destinations/florida/orlando/restaurants/best-restaurants-for-fall/")
+
+ 
+
+USA Today’s “10 Best” section is a part of USA Today’s travel beat, which attracts more than 145 million visitors to its site! 
