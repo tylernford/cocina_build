@@ -1,6 +1,6 @@
 ---
 title: 10 Best Restaurants to visit during the fall season!
-location: Daytona Beach
+location: Winter Park
 date: 2017-12-05 19:00:00 -0600
 featured_image: "/assets/images/news/featured_image.jpg"
 image: "/assets/images/news/featured_image.jpg"
@@ -9,6 +9,7 @@ photos: []
 featured_photo: "/uploads/2017/11/21/Carnitas_closeup-1.jpg"
 video_url: https://www.youtube.com/embed/Jg8U1XObkes
 video_key: Mrb9zdl_Cjs
+draft: true
 
 ---
 Cocina 214 was included as one of the “10 Best” restaurants to visit during the fall season in Central Florida! The article highlights Cocina 214 as an ‘upscale setting for business, for date night and for happy hour’. 
