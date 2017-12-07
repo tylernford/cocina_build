@@ -20,14 +20,14 @@ winter_park_staff:
   first_name: Karen
   last_name: Gofphin
   title: General Manager
-- photo: "/uploads/2017/12/07/eugenia1.jpg"
-  first_name: Eugenia
-  last_name: Stergios
-  title: Manager
 - title: Manager
   first_name: 'Marcela '
   last_name: Hernandez
   photo: "/uploads/2017/12/07/Marcela1.jpg"
+- photo: "/uploads/2017/12/07/eugenia1.jpg"
+  first_name: Eugenia
+  last_name: Stergios
+  title: Manager
 - photo: "/uploads/2017/12/07/Miguel2.jpg"
   first_name: Miguel
   last_name: Flores
