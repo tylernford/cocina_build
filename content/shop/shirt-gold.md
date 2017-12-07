@@ -15,6 +15,7 @@ size_guide: https://needsupply.com/help/#sizing
 featured_image: "/uploads/2017/11/21/I_hate_running_black_shirt.jpg"
 images:
 - "/uploads/2017/11/21/I_hate_running_black_shirt.jpg"
+weight: 400
 draft: true
 
 ---
