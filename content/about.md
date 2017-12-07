@@ -67,7 +67,7 @@ daytona_beach_staff:
   - first_name: Dasha
     last_name: 'Ottich '
     title: Catering Manager
-    photo: "/uploads/2017/12/01/portrait.png"
+    photo: "/uploads/2017/12/07/Dasha8.jpg"
 forestry_title: About
 hero_photo: "/uploads/2017/12/01/about.jpg"
 
