@@ -20,7 +20,7 @@
                 <div class="lh-2 ml3 tracked-narrow   ml4-ns   ml5-l   mw-28@72">
                     <!--   Product Description   -->
                     <div class="measure-wide">
-                        <p class="f3 fw6 jean-luc mb-1_3125 mt0   f-1_75-ns">${{ .Params.price }}[{{ .Params.shipping_weight }})</p>
+                        <p class="f3 fw6 jean-luc mb-1_3125 mt0   f-1_75-ns">${{ .Params.price }}</p>
                         <div class="mb-2_8125 nested-p">
                             {{ .Content }}
                         </div>
@@ -58,6 +58,7 @@
                                     data-item-image="{{ .Params.featured_image }}"
                                     data-item-url="{{.Site.BaseURL}}{{ .URL }}"
                                     data-item-price="{{ .Params.price }}"
+                                    data-item-weight="{{ .Params.shipping_weight }}"
                                     {{if .Params.sizes }}
                                     data-item-custom1-name="Size"
                                     data-item-custom1-options="{{ range first 1 .Params.sizes }}{{ . }}{{ end }}{{ range after 1 .Params.sizes }}|{{ . }}{{ end }}"
