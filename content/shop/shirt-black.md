@@ -15,6 +15,7 @@ size_guide: https://needsupply.com/help/#sizing
 featured_image: "/uploads/2017/11/22/lets_taco_bout_it.jpg"
 images:
 - "/uploads/2017/11/22/lets_taco_bout_it.jpg"
+weight: 400
 draft: true
 
 ---
