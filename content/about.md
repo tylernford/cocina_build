@@ -16,15 +16,15 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: "/uploads/2017/12/07/Karen7.jpg"
+- photo: "/uploads/2017/12/07/Karen7small.jpg"
   first_name: Karen
   last_name: Gofphin
   title: General Manager
 - title: Manager
   first_name: 'Marcela '
   last_name: Hernandez
-  photo: "/uploads/2017/12/07/Marcela1.jpg"
-- photo: "/uploads/2017/12/07/eugenia1.jpg"
+  photo: "/uploads/2017/12/07/Marcela1small.jpg"
+- photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
