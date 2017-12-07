@@ -5,10 +5,10 @@ details = []
 featured_image = "/uploads/2017/12/04/White_Tumblers_pic.jpg"
 id = "white-tumbler"
 images = []
-price = "20"
+price = 20
 size_guide = ""
 sizes = []
 title = "White Tumbler"
-weight = 100
+weight = ""
 
 +++
