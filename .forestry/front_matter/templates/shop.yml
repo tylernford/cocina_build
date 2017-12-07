@@ -30,6 +30,12 @@ fields:
   label: Price
   config:
     required: true
+- type: text
+  name: weight
+  label: Weight
+  config:
+    required: true
+  description: Necessary for calculating shipping. Weight must be in grams.
 - type: list
   name: details
   label: Details
@@ -49,9 +55,3 @@ fields:
   label: Images
   description: File names should not have spaces. e.g. "street tacos.jpg" should be
     changed to "street_tacos.jpg"
-- type: text
-  name: weight
-  label: Weight
-  config:
-    required: true
-  description: Necessary for calculating shipping. Weight must be in grams.
