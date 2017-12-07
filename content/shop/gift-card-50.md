@@ -8,7 +8,6 @@ images: []
 details: []
 sizes: []
 size_guide: ''
-weight: ''
 
 ---
 Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts. Gift cards can be redeemed at our Winter Park or Daytona Beach locations.
