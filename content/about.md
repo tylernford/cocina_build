@@ -43,11 +43,11 @@ winter_park_staff:
 daytona_beach_staff:
   show_staff: true
   staff:
-  - photo: "/uploads/2017/12/01/portrait.png"
+  - photo: "/uploads/2017/12/07/Heather10.jpg"
     first_name: Heather
     last_name: Cox
     title: General Manager
-  - photo: "/uploads/2017/12/01/portrait.png"
+  - photo: "/uploads/2017/12/07/Liz5.jpg"
     first_name: 'Elizabeth '
     last_name: Mireles
     title: Manager
