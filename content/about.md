@@ -7,7 +7,7 @@ featured_staff:
   first_name: Lambrine
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
-- photo: "/uploads/2017/12/01/portrait.png"
+- photo: "/uploads/2017/12/07/Oscar2.jpg"
   first_name: 'Oscar '
   last_name: Gaona
   title: Regional General Manager
