@@ -15,10 +15,6 @@ fields:
   config:
     required: true
 - type: text
-  name: url
-  label: URL
-  description: e.g. "white-tumbler", "gift-card-20"
-- type: text
   name: id
   label: ID
   config:
