@@ -9,5 +9,6 @@ price = "20.00"
 size_guide = ""
 sizes = []
 title = "Black Tumbler"
+weight = 100
 
 +++
