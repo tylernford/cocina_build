@@ -3,7 +3,7 @@ title: About
 type: static
 layout: about
 featured_staff:
-- photo: "/uploads/2017/12/07/Lambrine6.jpg"
+- photo: "/uploads/2017/12/07/Lambrine1.jpg"
   first_name: Lambrine
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
