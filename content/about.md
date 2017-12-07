@@ -60,7 +60,7 @@ daytona_beach_staff:
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
-  - photo: "/uploads/2017/12/07/MariaV11.jpg"
+  - photo: "/uploads/2017/12/07/MariaV11small.jpg"
     first_name: 'Maria '
     last_name: 'Varon '
     title: Events Manager
