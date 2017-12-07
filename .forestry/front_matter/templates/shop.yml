@@ -55,3 +55,7 @@ fields:
   label: Images
   description: File names should not have spaces. e.g. "street tacos.jpg" should be
     changed to "street_tacos.jpg"
+- type: text
+  name: url
+  label: URL
+  description: e.g. "white-tumbler", "gift-card-20"
