@@ -11,7 +11,7 @@ featured_staff:
   first_name: 'Oscar '
   last_name: Gaona
   title: Regional General Manager
-- photo: "/uploads/2017/12/07/Isidro5.jpg"
+- photo: "/uploads/2017/12/07/Isidro6.jpg"
   first_name: 'Isidro '
   last_name: 'Alvarez '
   title: Executive Chef
