@@ -58,7 +58,6 @@
                                     data-item-image="{{ .Params.featured_image }}"
                                     data-item-url="{{.Site.BaseURL}}{{ .URL }}"
                                     data-item-price="{{ .Params.price }}"
-                                    data-item-weight="{{ .Params.weight }}"
                                     {{if .Params.sizes }}
                                     data-item-custom1-name="Size"
                                     data-item-custom1-options="{{ range first 1 .Params.sizes }}{{ . }}{{ end }}{{ range after 1 .Params.sizes }}|{{ . }}{{ end }}"

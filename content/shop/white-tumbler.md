@@ -9,7 +9,6 @@ price = "20.00"
 size_guide = ""
 sizes = []
 title = "White Tumbler"
-url = "white-tumbler"
 weight = 100
 
 +++
