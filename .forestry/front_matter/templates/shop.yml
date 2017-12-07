@@ -35,12 +35,6 @@ fields:
 - type: text
   name: size_guide
   label: Size Guide
-- type: number
-  name: weight
-  label: Weight
-  description: Needed to calculate shipping. Weight must be in grams
-  config:
-    required: false
 - type: file
   name: featured_image
   label: Featured Image
