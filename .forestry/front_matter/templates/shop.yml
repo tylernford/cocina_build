@@ -31,8 +31,8 @@ fields:
   config:
     required: true
 - type: text
-  name: weight
-  label: Weight
+  name: shipping_weight
+  label: Shipping Weight
   config:
     required: true
   description: Necessary for calculating shipping. Weight must be in grams.
