@@ -10,6 +10,5 @@ shipping_weight = 400
 size_guide = ""
 sizes = []
 title = "White Tumbler"
-weight = 400
 
 +++

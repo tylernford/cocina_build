@@ -8,7 +8,6 @@ images: []
 details: []
 sizes: []
 size_guide: ''
-weight: 100
 shipping_weight: 100
 
 ---
