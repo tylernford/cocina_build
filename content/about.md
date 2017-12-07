@@ -36,12 +36,12 @@ winter_park_staff:
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
-- photo: "/uploads/2017/12/07/Jenna1.jpg"
+- photo: "/uploads/2017/12/07/Jenna2.jpg"
   first_name: 'Jenna '
   last_name: Dever
   title: Events & Catering Manager
 daytona_beach_staff:
-  show_staff: false
+  show_staff: true
   staff:
   - photo: "/uploads/2017/12/01/portrait.png"
     first_name: Heather
