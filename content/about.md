@@ -28,11 +28,11 @@ winter_park_staff:
   first_name: Eugenia
   last_name: Stergios
   title: Manager
-- photo: "/uploads/2017/12/07/Miguel2.jpg"
+- photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: Flores
   title: Sous Chef
-- photo: "/uploads/2017/12/07/Maria6.jpg"
+- photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
@@ -43,11 +43,11 @@ winter_park_staff:
 daytona_beach_staff:
   show_staff: true
   staff:
-  - photo: "/uploads/2017/12/07/Heather10.jpg"
+  - photo: "/uploads/2017/12/07/Heather10small.jpg"
     first_name: Heather
     last_name: Cox
     title: General Manager
-  - photo: "/uploads/2017/12/07/Liz5.jpg"
+  - photo: "/uploads/2017/12/07/Liz5small.jpg"
     first_name: 'Elizabeth '
     last_name: Mireles
     title: Manager
@@ -56,7 +56,7 @@ daytona_beach_staff:
     first_name: Marco
     last_name: Carbajal
     title: Sous Chef
-  - photo: "/uploads/2017/12/07/Humberto1.jpg"
+  - photo: "/uploads/2017/12/07/Humberto1small.jpg"
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
