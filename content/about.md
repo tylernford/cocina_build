@@ -20,7 +20,7 @@ winter_park_staff:
   first_name: Karen
   last_name: Gofphin
   title: General Manager
-- photo: "/uploads/2017/12/01/portrait.png"
+- photo: "/uploads/2017/12/07/eugenia1.jpg"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
