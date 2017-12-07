@@ -16,7 +16,7 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: "/uploads/2017/12/01/portrait.png"
+- photo: "/uploads/2017/12/07/Karen7.jpg"
   first_name: Karen
   last_name: Gofphin
   title: General Manager
@@ -27,12 +27,12 @@ winter_park_staff:
 - title: Manager
   first_name: 'Marcela '
   last_name: Hernandez
-  photo: "/uploads/2017/12/01/portrait.png"
-- photo: "/uploads/2017/12/01/portrait.png"
+  photo: "/uploads/2017/12/07/Marcela1.jpg"
+- photo: "/uploads/2017/12/07/Miguel2.jpg"
   first_name: Miguel
   last_name: Flores
   title: Sous Chef
-- photo: "/uploads/2017/12/01/portrait.png"
+- photo: "/uploads/2017/12/07/Maria6.jpg"
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
