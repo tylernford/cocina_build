@@ -3,15 +3,15 @@ title: About
 type: static
 layout: about
 featured_staff:
-- photo: "/uploads/2017/12/07/Lambrine6.jpg"
+- photo: "/uploads/2017/12/07/Lambrine1small.jpg"
   first_name: Lambrine
   last_name: Macejewski
   title: Manager, Partner & Co-Founder
-- photo: "/uploads/2017/12/07/Oscar2.jpg"
+- photo: "/uploads/2017/12/07/Oscar2small.jpg"
   first_name: 'Oscar '
   last_name: Gaona
   title: Regional General Manager
-- photo: "/uploads/2017/12/07/Isidro6.jpg"
+- photo: "/uploads/2017/12/07/Isidro6small.jpg"
   first_name: 'Isidro '
   last_name: 'Alvarez '
   title: Executive Chef
