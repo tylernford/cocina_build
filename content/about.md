@@ -56,11 +56,11 @@ daytona_beach_staff:
     first_name: Marco
     last_name: Carbajal
     title: Sous Chef
-  - photo: "/uploads/2017/12/01/portrait.png"
+  - photo: "/uploads/2017/12/07/Humberto1.jpg"
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
-  - photo: ''
+  - photo: "/uploads/2017/12/07/MariaV11.jpg"
     first_name: 'Maria '
     last_name: 'Varon '
     title: Events Manager
