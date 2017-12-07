@@ -14,8 +14,11 @@ sizes:
 size_guide: https://needsupply.com/help/#sizing
 featured_image: "/uploads/2017/11/27/you_had_me_at_tacos.jpg"
 images:
+- "/uploads/2017/12/07/shirt _product_details_3001.png"
+- "/uploads/2017/12/07/shirtspecs_3001shirt.png"
 - "/uploads/2017/11/27/you_had_me_at_tacos.jpg"
 weight: 400
+shipping_weight: 453.592
 draft: true
 
 ---
