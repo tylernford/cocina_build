@@ -70,7 +70,12 @@ hero_photos:
 - location: Daytona Beach
   photo: "/uploads/2017/12/01/daytona_beach_groundbreaking.jpg"
 happy_hour:
-  text: ''
+  text: |2-
+
+    Happy Hour
+    Mondays – Thursdays
+    4:30p – 6:30p
+    $5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and $5 Wells
   menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
   photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
 
