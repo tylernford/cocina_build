@@ -36,18 +36,11 @@ catering:
     Lunches or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal
     Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties
     and much more! \n\nWe can bring our award-winning Tex-Mex/Mexican to your work,
-    residence or other location with advanced notice. \n\nFree delivery within a 10
-    mile radius of our catering facility, with an additional fee for further mileage.
-    Delivery orders include a hot drop-off and quick onsite set-up. Minimum Order
-    is required for delivery and for catered events. All packages are priced per-person.
-    Includes 4R signature BBQ sauce, buns, plates, utensils and napkins. We also offer
-    your choice of bottled water, soda or lemonade, sweet tea and unsweet tea for
-    an additional fee per person.\n\n\n\nChoosing catering from 4 Rivers Smokehouse
-    will allow you to enjoy your party or event by leaving the details of set-up,
-    service and clean-up to our catering team. Catering includes chafing dishes, décor,
-    and accents with the assistance of your Catering Sales Manager. Premium catering
-    is available for an additional charge and includes upgraded utensils and service
-    ware."
+    residence or other location with advanced notice. \n\n- Free delivery within a
+    10 mile radius of our restaurant, with an additional fee for further mileage.
+    \n- Delivery orders include a hot drop-off and quick onsite set-up. \n- Minimum
+    Order is required for delivery and for catered events. \n\nLet us plan the details
+    of set-up, service and clean-up so you can enjoy your catered event."
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
