@@ -51,7 +51,7 @@ catering:
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
-  text: "With a stylish and approachable environment, COCINA|214 is a vibrant spot
+  text: "With a stylish and approachable environment, Cocina 214 is a vibrant spot
     perfect for brunch, lunch or dinner. Our lively bar, contemporary dining room,
     private dining room and relaxing patio can be the perfect location for any major
     event, from corporate gatherings to wedding rehearsal dinners. We also offer buy-out
