@@ -6,7 +6,7 @@ featured_staff:
 - photo: "/uploads/2017/12/08/Lambrine2small.jpg"
   first_name: Lambrine
   last_name: Macejewski
-  title: Manager, Partner & Co-Founder
+  title: Business Manager, Partner & Co-Founder
 - photo: "/uploads/2017/12/07/Oscar2small.jpg"
   first_name: 'Oscar '
   last_name: Gaona
