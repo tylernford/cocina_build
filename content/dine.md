@@ -37,7 +37,7 @@ catering:
     Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties
     and much more! \n\nWe can bring our award-winning Tex-Mex/Mexican to your work,
     residence or other location with advanced notice. \n\n- Free delivery within a
-    10 mile radius of our restaurant, with an additional fee for further mileage.
+    10-mile radius of our restaurant, with an additional fee for further mileage.
     \n- Delivery orders include a hot drop-off and quick onsite set-up. \n- Minimum
     Order is required for delivery and for catered events. \n\nLet us plan the details
     of set-up, service and clean-up so you can enjoy your catered event."
