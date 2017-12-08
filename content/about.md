@@ -52,7 +52,7 @@ daytona_beach_staff:
     last_name: Mireles
     title: Manager
   - {}
-  - photo: "/uploads/2017/12/01/portrait.png"
+  - photo: "/uploads/2017/12/08/Marco1_optimizedforweb.jpg"
     first_name: Marco
     last_name: Carbajal
     title: Sous Chef
