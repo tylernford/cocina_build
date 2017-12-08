@@ -40,7 +40,7 @@ catering:
     10-mile radius of our restaurant, with an additional fee for further mileage.
     \n- Delivery orders include a hot drop-off and quick onsite set-up. \n- Minimum
     Order is required for delivery and for catered events. \n\nLet us plan the details
-    of set-up, service and clean-up so you can enjoy your catered event."
+    of set-up, service and clean-up so you can enjoy your event."
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
