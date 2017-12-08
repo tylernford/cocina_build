@@ -26,7 +26,8 @@ upcoming_events:
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
-    event_description: "$5 Rocks & Frozen 214, $3 Draft Beers, and $5 Wells"
+    event_description: "$5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and
+      $5 Wells"
   - event_name: Brunch
     event_date: Saturdays & Sundays
     event_time: 11:30a – 3:00p
