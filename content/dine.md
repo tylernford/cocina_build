@@ -50,8 +50,9 @@ events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/12/01/happy_hour_drinks_with_well.jpg"
   winter_park_text: |-
-    Contact our Winter Park Events & Catering Manager, Jenna. Please allow up to 48hrs for a response.
-    Catering@Cocina214.com
+    Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
+
+    Jenna can be reached at: party@cocina214.com
   daytona_beach_photo: "/uploads/2017/12/01/Bar_Food_Happy_Hour.jpg"
   daytona_beach_text: Contact our Daytona Beach Event Manager Maria Varon or our Catering
     Manager Dasha Ottich. Please allow up to 48hrs for a response.
