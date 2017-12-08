@@ -72,7 +72,6 @@ hero_photos:
 happy_hour:
   text: |2-
 
-    Happy Hour
     Mondays – Thursdays
     4:30p – 6:30p
     $5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and $5 Wells
