@@ -38,9 +38,9 @@ catering:
     and much more! \n\nWe can bring our award-winning Tex-Mex/Mexican to your work,
     residence or other location with advanced notice. \n\n- Free delivery within a
     10-mile radius of our restaurant, with an additional fee for further mileage.
-    \n- Delivery orders include a hot drop-off and quick onsite set-up. \n- Minimum
-    Order is required for delivery and for catered events. \n\nLet us plan the details
-    of your catered event so that you can enjoy your gathering."
+    \n- Delivery orders include a drop-off and quick onsite set-up. \n- Minimum Order
+    is required for delivery and for catered events. \n\nLet us plan the details of
+    your catered event so that you can enjoy your gathering."
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
