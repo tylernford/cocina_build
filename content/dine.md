@@ -46,8 +46,8 @@ private_dining:
     room, or patio is the perfect location for any major event, from corporate gatherings
     to wedding rehearsal dinners. \n\n- Menus are completely unique to host’s needs
     & printed exclusively for your event.\n- HD TVs and sound system available for
-    use.\n- Standard linens included with reservation.\n\nLet us help plan your momentous
-    event."
+    use.\n- Standard linens are included with your reservation.\n\nLet us help plan
+    your momentous event."
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
   photo: "/uploads/2017/12/01/ignacio_bites.jpg"
 events:
