@@ -2,7 +2,7 @@
 title: Contact
 type: static
 layout: contact
-hero_photo: "/uploads/2017/12/08/SomeMamacitaPackageItems4_optimizedforweb-1.jpg"
+hero_photo: "/uploads/2017/12/08/Snapper-Frito-Tacos_1_optimizedforweb.jpg"
 forestry_title: Contact
 form_title: Get in Touch
 form_text: "We are here to answer any questions you may have. Feel free to reach out
