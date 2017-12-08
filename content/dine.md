@@ -62,7 +62,7 @@ hero_photos:
   photo: "/uploads/2017/12/01/daytona_beach_groundbreaking.jpg"
 happy_hour:
   text: ''
-  menu: ''
+  menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
   photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
 
 ---
