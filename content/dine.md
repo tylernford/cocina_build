@@ -38,12 +38,16 @@ catering:
   menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
-  text: |-
-    Reserve our stunning private dining room for your private event needs, from personal to business.
-
-    - Menus are completely unique to host’s needs & printed exclusively for your event.
-    - HD TVs and sound system available for use.
-    - Linens included with reservation.
+  text: "With a stylish and approachable environment, COCINA|214 is a vibrant spot
+    perfect for brunch, lunch or dinner. A lively bar, contemporary dining room, private
+    dining room and relaxing patio offer the right atmosphere for any mood.  COCINA|214’s
+    menu ranges from exciting dishes to wholesome entrees alongside traditional favorites
+    for every type of palette. \n\nCOCINA|214’s bar, main dining room, private dining
+    room, or patio is the perfect location for any major event, from corporate gatherings
+    to wedding rehearsal dinners. \n\n- Menus are completely unique to host’s needs
+    & printed exclusively for your event.\n- HD TVs and sound system available for
+    use.\n- Standard linens included with reservation.\n\nLet us help you plan your
+    momentous event."
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
   photo: "/uploads/2017/12/01/ignacio_bites.jpg"
 events:
