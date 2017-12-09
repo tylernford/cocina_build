@@ -18,6 +18,8 @@ dine_with_us:
     menu: "/uploads/2017/11/15/cocina_214-menu.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2017/11/16/Drinks_Long_FINAL 10-5-2017.pdf"
+  - menu_name: After Dinner Drink and Dessert
+    menu: "/uploads/2017/12/09/AfterDinner_FINAL 2017.pdf"
   - menu_name: Take–Out
     menu: "/uploads/2017/11/15/cocina_214-take-out_menu.pdf"
   - menu_name: Kids’
