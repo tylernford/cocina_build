@@ -2,7 +2,7 @@
 title: Contact
 type: static
 layout: contact
-hero_photo: "/uploads/2017/12/09/Dessets_with_tequila_spirits6_optimized.jpg"
+hero_photo: "/uploads/2017/12/09/guactrio_chips_centerview_optimized.jpg"
 forestry_title: Contact
 form_title: Get in Touch
 form_text: "We are here to answer any questions you may have. Feel free to reach out
