@@ -55,7 +55,7 @@ private_dining:
     Standard linens are included with your reservation.\n\nLet us help plan your momentous
     event."
   menu: "/uploads/2017/11/15/cocina_214_private_dining_menu.pdf"
-  photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
+  photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_optimized.jpg"
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2017/12/01/happy_hour_drinks_with_well.jpg"
