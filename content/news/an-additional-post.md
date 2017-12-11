@@ -1,5 +1,5 @@
 ---
-title: 10 Best Restaurants to visit during the fall season!
+title: USA Today’s “10 Best” Restaurants to visit during the fall season!
 location: Winter Park
 date: 2017-12-05 19:00:00 -0600
 featured_image: "/assets/images/news/featured_image.jpg"
