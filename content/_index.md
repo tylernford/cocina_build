@@ -21,7 +21,7 @@ catering:
     Tex-Mex food provided by Cocina 214 catering service.
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 upcoming_events:
-  photo: "/uploads/2017/12/01/Daytona_Now_Hiring_Sign_red_Nov_2017.png"
+  photo: "/uploads/2017/12/18/Daytona_Now_Hiring_Sign_red_Nov_2017_revised.jpg"
   events:
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
