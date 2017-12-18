@@ -37,8 +37,8 @@ fields:
     required: true
   description: Necessary for calculating shipping. Weight must be in grams.
 - type: boolean
-  name: taxable
-  label: Don't Add Tax
+  name: no_tax
+  label: No Tax
 - type: list
   name: details
   label: Details
