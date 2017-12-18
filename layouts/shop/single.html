@@ -53,6 +53,7 @@
                                     </select>
                                 {{ end }}
                                 <button class="bg-red bn fw6 h-2_5 hover-b--c-red hover-ba hover-bg-white hover-bw1 hover-c-red jean-luc pointer tracked-narrow w-8_5 white   snipcart-add-item"
+                                    data-item-taxable="{{ if .Params.no_tax }}false{{ else }}true{{end}}"
                                     data-item-name="{{ .Title }}"
                                     data-item-id="{{ .Params.id }}"
                                     data-item-image="{{ .Params.featured_image }}"

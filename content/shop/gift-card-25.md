@@ -10,7 +10,6 @@ size_guide: ''
 featured_image: "/uploads/2017/11/16/gift_card_black.png"
 weight: 100
 shipping_weight: 224
-taxable: false
 no_tax: true
 
 ---
