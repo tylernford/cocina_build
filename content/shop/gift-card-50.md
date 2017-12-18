@@ -10,6 +10,7 @@ sizes: []
 size_guide: ''
 weight: 100
 shipping_weight: 224
+taxable: false
 no_tax: true
 
 ---
