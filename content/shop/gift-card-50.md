@@ -16,4 +16,4 @@ no_tax: true
 ---
 Cocina 214 Gift Cards can be purchased for your friends and family in varying amounts. Gift cards can be redeemed at our Winter Park or Daytona Beach locations.
 
-We do not ship any orders on Saturdays or Sundays. Cocina 214 will be closed in observance of the holidays: New Year's Day, Memorial Day, Labor Day, Thanksgiving Day and Christmas Day. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed.
+We do not ship any orders on Saturdays or Sundays. In addition, Cocina 214 will be closed in observance of the holidays: New Year's Day, Memorial Day, Labor Day, Thanksgiving Day and Christmas Day and will not process orders on these days. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed.
