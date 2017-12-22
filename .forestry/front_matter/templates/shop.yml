@@ -1,5 +1,6 @@
 ---
 pages:
+- shop/shirt-gold.md
 - shop/shirt-black.md
 - shop/shirt-red.md
 - shop/i-hate-running-but-i-love-tacos-t-shirt-white-.md
@@ -7,7 +8,6 @@ pages:
 - shop/gift-card-25.md
 - shop/gift-card-50.md
 - shop/white-tumbler.md
-- shop/shirt-gold.md
 hide_body: false
 fields:
 - type: text
