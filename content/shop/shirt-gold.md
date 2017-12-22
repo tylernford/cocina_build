@@ -1,5 +1,5 @@
 ---
-title: I Hate Running but I Love Tacos T-Shirt (Black)
+title: I Hate Running but I Love Tacos T-Shirt (BLACK)
 id: i-hate-running-but-i-love-tacos-t-shirt-black
 category: T-Shirts
 price: 24
