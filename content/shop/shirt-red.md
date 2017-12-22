@@ -1,5 +1,5 @@
 ---
-title: You Had Me At Tacos T-Shirt (White)
+title: You Had Me At Tacos T-Shirt (DEEP HEATHER GREY)
 category: T-Shirts
 id: you-had-me-at-tacos-white
 price: 24
