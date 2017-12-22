@@ -1,7 +1,7 @@
 ---
 title: You Had Me At Tacos T-Shirt (DEEP HEATHER GREY)
 category: T-Shirts
-id: you-had-me-at-tacos-white
+id: you-had-me-at-tacos-deep-heather-grey
 price: 24
 details:
 - 100% Cotton
@@ -19,6 +19,7 @@ images:
 weight: 400
 shipping_weight: 453.592
 no_tax: false
+draft: true
 
 ---
 The back of this Limited Edition DEEP HEATHER GREY Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print feature saying "You had me at tacos."
