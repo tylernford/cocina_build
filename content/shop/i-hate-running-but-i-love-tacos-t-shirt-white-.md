@@ -2,7 +2,6 @@
 category = "T-Shirts"
 date = "2017-12-22T14:24:25+00:00"
 details = ["Tri-Blend American Apparel", "100% Cotton"]
-draft = true
 featured_image = "/uploads/2017/12/11/White_I_hate_running_front.jpg"
 id = "i-hate-running-but-i-love-tacos-t-shirt-white"
 images = ["/uploads/2017/12/07/shirt _product_details_3001.png", "/uploads/2017/12/07/shirtspecs_3001shirt.png"]
