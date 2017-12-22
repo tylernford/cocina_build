@@ -19,7 +19,6 @@ images:
 weight: 400
 shipping_weight: 453.592
 no_tax: false
-draft: true
 
 ---
 The back of this Limited Edition DEEP HEATHER GREY Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print feature saying "You had me at tacos."
