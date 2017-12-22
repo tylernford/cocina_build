@@ -20,7 +20,6 @@ images:
 weight: 400
 no_tax: true
 shipping_weight: 439.52
-draft: true
 
 ---
 The back of this Limited Edition DEEP HEATHER GREY Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "Lets taco bout it".
