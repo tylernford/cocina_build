@@ -1,6 +1,6 @@
 ---
 title: Lets Taco Bout It T-Shirt (DEEP HEATHER GREY)
-id: lets-taco-bout-it-shirt-white
+id: lets-taco-bout-it-shirt-deep-heather-grey
 category: T-Shirts
 price: 24
 details:
