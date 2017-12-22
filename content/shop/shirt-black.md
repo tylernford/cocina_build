@@ -1,6 +1,6 @@
 ---
-title: Let's Taco Bout It T-Shirt (DEEP HEATHER GREY)
-id: lets-talk-bout-it-shirt-white
+title: Lets Taco Bout It T-Shirt (DEEP HEATHER GREY)
+id: lets-taco-bout-it-shirt-white
 category: T-Shirts
 price: 24
 details:
@@ -18,8 +18,9 @@ images:
 - "/uploads/2017/12/07/shirt _product_details_3001.png"
 - "/uploads/2017/12/07/shirtspecs_3001shirt.png"
 weight: 400
-no_tax: true
+no_tax: false
 shipping_weight: 439.52
+draft: true
 
 ---
 The back of this Limited Edition DEEP HEATHER GREY Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "Lets taco bout it".
