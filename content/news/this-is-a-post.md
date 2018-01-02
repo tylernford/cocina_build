@@ -1,10 +1,10 @@
 ---
 title: 'Now Hiring!!!!! '
 location: Daytona Beach
-date: 2017-12-18 15:04:00 -0600
+date: 2018-01-01 19:39:00 -0600
 category: current
 photos: []
-featured_photo: "/uploads/2017/12/18/Daytona_Now_Hiring_Sign_red_Nov_2017_revised.jpg"
+featured_photo: "/uploads/2018/01/02/Daytona_Now_Hiring_Sign_red_Jan2018.jpg"
 video_key: ''
 
 ---
