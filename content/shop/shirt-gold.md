@@ -7,7 +7,6 @@ details:
 - 100% Cotton
 - Tri-Blend American Apparel
 sizes:
-- X-Small
 - Small
 - Medium
 - Large
