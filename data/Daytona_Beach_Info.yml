@@ -3,7 +3,7 @@ Address:
   part_one: 451 S. Atlantic Ave
   part_two: Daytona Beach, FL 32118
   google_maps_url: https://www.google.com/maps?q=451+S.+Atlantic+Ave+Daytona+Beach,+FL+32118&rlz=1C5CHFA_enUS749US749&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjQ9rmr18PXAhWogFQKHXb4CeMQ_AUICigB
-Phone: 000 . 000 . 0000
+Phone: 386.456.3168
 Email: info@cocina214.com
 Social_Media:
   twitter: https://twitter.com/Cocina214
@@ -16,4 +16,4 @@ Hours:
   times: 11:30 – 9:00
 - days: Bar Open Late
   times: Friday & Saturday
-show_coming_soon_badge: true
+show_coming_soon_badge: false
