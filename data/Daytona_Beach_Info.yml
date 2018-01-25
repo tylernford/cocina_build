@@ -10,10 +10,8 @@ Social_Media:
   facebook: https://www.facebook.com/Cocina214DaytonaBeach/
   instagram: https://instagram.com/Cocina214
 Hours:
-- days: Monday–Saturday
-  times: 11:00 – 10:00
-- days: Sunday
-  times: 11:00 – 10:00
-- days: open unti midnight
-  times: Friday & Saturday
+- days: Sunday–Thursday
+  times: '11:00 am – 10:00 pm '
+- days: Friday and Saturday
+  times: 11:00 am – midnight
 show_coming_soon_badge: false
