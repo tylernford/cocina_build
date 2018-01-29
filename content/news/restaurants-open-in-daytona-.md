@@ -1,7 +1,7 @@
 +++
 category = "press"
 date = "2018-01-25T05:01:55-06:00"
-featured_photo = ""
+featured_photo = "/uploads/2018/01/29/KC1_8181.JPG"
 location = "Daytona Beach"
 photos = []
 title = "Restaurants Open In Daytona "
