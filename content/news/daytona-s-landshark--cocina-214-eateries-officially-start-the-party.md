@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2018-01-25T05:47:34-06:00"
-draft = true
 featured_photo = "/uploads/2018/01/29/KC1_8158.JPG"
 location = "Daytona Beach"
 photos = []
