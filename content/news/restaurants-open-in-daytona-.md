@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2018-01-25T05:01:55-06:00"
-draft = true
 featured_photo = ""
 location = "Daytona Beach"
 photos = []
