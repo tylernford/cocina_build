@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2018-02-22T08:09:00-06:00"
-draft = true
 featured_photo = "/uploads/2018/02/28/Skinny-Margarita_2014b.jpg"
 location = "Winter Park"
 photos = []
