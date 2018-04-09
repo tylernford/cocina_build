@@ -50,7 +50,7 @@ upcoming_events:
       but racing Chihuahuas must register to race. 100% of registration fees benefit
       Winter Park Lost Pets and Poodle and Pooch '
     event_link_text: Register your chihuahua here
-    event_link_url: https://www.eventbrite.com/o/cocina-214-17183571861
+    event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
