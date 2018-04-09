@@ -64,8 +64,8 @@ events:
 
     Jenna can be reached at: party@cocina214.com
   daytona_beach_photo: "/uploads/2017/12/01/Bar_Food_Happy_Hour.jpg"
-  daytona_beach_text: Contact our Daytona Beach Event Manager Maria Varon or our Catering
-    Manager Dasha Ottich. Please allow up to 48hrs for a response.
+  daytona_beach_text: "Contact Dasha Ottich, our Daytona Beach Events & Catering Manager.
+    Please allow up to 48hrs for a response. \nDasha can be reached at: daytonaparty@cocina214.com"
 hero_photos:
 - location: Winter Park
   photo: "/uploads/2017/12/01/dine.jpg"
