@@ -43,27 +43,22 @@ daytona_beach_staff:
     first_name: Heather
     last_name: Cox
     title: General Manager
+  - photo: "/uploads/2017/12/07/MariaV11small.jpg"
+    first_name: 'Maria '
+    last_name: 'Varon '
+    title: Manager
   - photo: "/uploads/2017/12/07/Liz5small.jpg"
     first_name: 'Elizabeth '
     last_name: Mireles
     title: Manager
-  - {}
-  - photo: "/uploads/2017/12/08/Marco1_optimizedforweb.jpg"
-    first_name: Marco
-    last_name: Carbajal
-    title: Sous Chef
-  - photo: "/uploads/2017/12/07/Humberto1small.jpg"
-    first_name: Humberto
-    last_name: Castillo
-    title: Sous Chef
-  - photo: "/uploads/2017/12/07/MariaV11small.jpg"
-    first_name: 'Maria '
-    last_name: 'Varon '
-    title: Events Manager
   - first_name: Dasha
     last_name: 'Ottich '
     title: Catering Manager
     photo: "/uploads/2017/12/07/Dasha8small.jpg"
+  - photo: "/uploads/2017/12/07/Humberto1small.jpg"
+    first_name: Humberto
+    last_name: Castillo
+    title: Sous Chef
 forestry_title: About
 hero_photo: "/uploads/2017/12/01/about.jpg"
 
