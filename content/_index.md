@@ -32,7 +32,7 @@ upcoming_events:
     event_date: Saturdays & Sundays
     event_time: 11:30a – 3:00p
     event_description: "$3 Brunch Mimosas"
-  - event_name: Cinco de Mayo and our 7 Year Anniversary in Winter Park!
+  - event_name: Cinco de Mayo and our 7 Year Anniversary in Winter Park
     event_date: Saturday, May 5, 2018
     event_time: 11:30 am - 10:00 pm
     event_description: Celebrate Cinco de Mayo and our 7 year anniversary! We will
