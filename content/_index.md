@@ -43,12 +43,12 @@ upcoming_events:
     event_description: Celebrate Cinco de Mayo with us on Saturday, May 5th. 451 S.
       Atlantic Ave, Daytona Beach, FL 32118. We will have drink specials and a party
       on the lawn!
-  - event_name: Annual Running of the Chihuahuas
+  - event_name: Cocina 214's Annual Running of the Chihuahuas
     event_date: Sunday, May 6, 2018
     event_time: Race starts at 11:00 am
-    event_description: Our Annual Running of the Chihuahuas. Spectators are FREE but
-      racing Chihuahuas must register to race. 100% of registration fees benefit Winter
-      Park Lost Pets and Poodle and Pooch Rescue.
+    event_description: Spectators are FREE but racing Chihuahuas must register to
+      race. 100% of registration fees benefit Winter Park Lost Pets and Poodle and
+      Pooch Rescue.
     event_link_text: Register your chihuahua here
     event_link_url: eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
 hero_photos:
