@@ -35,8 +35,9 @@ upcoming_events:
   - event_name: Cinco de Mayo in Daytona Beach
     event_date: Saturday, May 5, 2018
     event_time: 11:00 am - 11:00 pm
-    event_description: Celebrate Cinco de Mayo with us on Saturday, May 5th. We will
-      have drink specials and a party on the lawn!
+    event_description: Celebrate Cinco de Mayo with us on Saturday, May 5th. 451 S.
+      Atlantic Ave, Daytona Beach, FL 32118. We will have drink specials and a party
+      on the lawn!
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
