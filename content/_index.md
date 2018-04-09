@@ -46,9 +46,9 @@ upcoming_events:
   - event_name: Annual Running of the Chihuahuas
     event_date: Sunday, May 6, 2018
     event_time: Race starts at 11:00 am
-    event_description: 'Our Annual Running of the Chihuahuas. Spectators are FREE
-      but racing Chihuahuas must register to race. 100% of registration fees benefit
-      Winter Park Lost Pets and Poodle and Pooch '
+    event_description: Our Annual Running of the Chihuahuas. Spectators are FREE but
+      racing Chihuahuas must register to race. 100% of registration fees benefit Winter
+      Park Lost Pets and Poodle and Pooch Rescue.
     event_link_text: Register your chihuahua here
     event_link_url: eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
 hero_photos:
