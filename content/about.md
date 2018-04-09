@@ -27,7 +27,7 @@ winter_park_staff:
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: Flores
-  title: Sous Chef
+  title: Manager
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
   last_name: Moreno
