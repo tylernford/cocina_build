@@ -23,15 +23,20 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/04/10/Cinco_WEB__2018a.jpg"
   events:
-  - event_name: Happy Hour
-    event_date: Mondays – Thursdays
-    event_time: 4:30p – 6:30p
-    event_description: "$5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and
-      $5 Wells"
-  - event_name: Brunch
-    event_date: Saturdays & Sundays
-    event_time: 11:30a – 3:00p
-    event_description: "$3 Brunch Mimosas"
+  - event_name: Cocina 214's 6th Annual Running of the Chihuahuas
+    event_date: Sunday, May 6, 2018
+    event_time: Race starts at 11:00 am
+    event_description: ''
+    event_link_text: ''
+    event_link_url: ''
+    event_links:
+    - event_link_text: Register your chihuahua here
+      event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
+    - event_link_text: Learn More about the 6th Annual Running of the Chihuahuas
+      event_link_url: http://cocina214.com/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Cinco de Mayo and our 7 Year Anniversary in Winter Park
     event_date: Saturday, May 5, 2018
     event_time: 11:30 am - 10:00 pm
@@ -47,22 +52,15 @@ upcoming_events:
       on the lawn!
     event_links:
     - event_link_text: View Event Poster Here
-  - event_name: Cocina 214's Annual Running of the Chihuahuas
-    event_date: Sunday, May 6, 2018
-    event_time: Race starts at 11:00 am
-    event_description: Spectators are FREE but racing Chihuahuas must register to
-      race. 100% of registration fees benefit Winter Park Lost Pets and Poodle and
-      Pooch Rescue.
-    event_link_text: ''
-    event_link_url: ''
-    event_links:
-    - event_link_text: Register your chihuahua here
-      event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
-    - event_link_text: Learn More about the 6th Annual Running of the Chihuahuas
-      event_link_url: http://cocina214.com/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+  - event_name: Happy Hour
+    event_date: Mondays – Thursdays
+    event_time: 4:30p – 6:30p
+    event_description: "$5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and
+      $5 Wells"
+  - event_name: Brunch
+    event_date: Saturdays & Sundays
+    event_time: 11:30a – 3:00p
+    event_description: "$3 Brunch Mimosas"
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
