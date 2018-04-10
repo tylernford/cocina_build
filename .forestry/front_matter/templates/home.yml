@@ -48,14 +48,6 @@ fields:
     - type: text
       name: event_description
       label: Event Description
-    - type: text
-      name: event_link_text
-      label: Event Link Text
-      description: e.g. "Learn More", "Register", "View Event Menu"
-    - type: text
-      name: event_link_url
-      label: Event Link URL
-      description: This can link to a news post, other website, file, etc.
     - type: field_group_list
       name: event_links
       label: Event Links
