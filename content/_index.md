@@ -37,12 +37,16 @@ upcoming_events:
     event_time: 11:30 am - 10:00 pm
     event_description: Celebrate Cinco de Mayo and our 7 year anniversary! We will
       have drink specials. 151 E. Welbourne Ave, Winter Park, FL 32789.
+    event_links:
+    - {}
   - event_name: Cinco de Mayo in Daytona Beach
     event_date: Saturday, May 5, 2018
     event_time: 11:00 am - 11:00 pm
     event_description: Celebrate Cinco de Mayo with us on Saturday, May 5th. 451 S.
       Atlantic Ave, Daytona Beach, FL 32118. We will have drink specials and a party
       on the lawn!
+    event_links:
+    - event_link_text: View Event Poster Here
   - event_name: Cocina 214's Annual Running of the Chihuahuas
     event_date: Sunday, May 6, 2018
     event_time: Race starts at 11:00 am
@@ -54,6 +58,9 @@ upcoming_events:
     event_links:
     - event_link_text: Register your chihuahua here
       event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
+    photo_link:
+      photo_link_text: Register your chihuahua here
+      photo_link_photo: "/uploads/2018/04/10/Cinco_WEB__2018_smaller file.jpg"
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
