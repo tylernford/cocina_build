@@ -26,7 +26,7 @@ upcoming_events:
   - event_name: Cocina 214's 6th Annual Running of the Chihuahuas
     event_date: Sunday, May 6, 2018
     event_time: Race starts at 11:00 am
-    event_description: ''
+    event_description: 151 E. Welbourne Ave, Winter Park, FL 32789
     event_link_text: ''
     event_link_url: ''
     event_links:
