@@ -58,6 +58,8 @@ upcoming_events:
     event_links:
     - event_link_text: Register your chihuahua here
       event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
+    - event_link_text: Learn More about the 6th Annual Running of the Chihuahuas
+      event_link_url: http://cocina214.com/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas/
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
