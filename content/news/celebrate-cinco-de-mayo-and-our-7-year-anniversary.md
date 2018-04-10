@@ -20,4 +20,4 @@ Corona giveaways 5:00-7:00 PM
 
 Sauza Tres Generaciones sampling 5:00-7:00 PM
 
-\$5 214 Rocks Margarita | $3 bottled Corona | $7 Tito’s Lodestar Lemonade | $7 Patron Blanco | $10 Loaded Coronas with Hornitos Cristalino Anejo \*while supplies last
+\$5 214 Rocks Margarita | $3 bottled Corona | $7 Tito’s Lonestar Lemonade | $7 Patron Blanco | $10 Loaded Coronas with Hornitos Cristalino Anejo \*while supplies last
