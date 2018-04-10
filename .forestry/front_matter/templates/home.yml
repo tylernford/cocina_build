@@ -63,6 +63,9 @@ fields:
       - type: text
         name: test_text
         label: Test Text
+      - type: text
+        name: test_url
+        label: Test URL
 - type: field_group
   name: catering
   label: Catering
