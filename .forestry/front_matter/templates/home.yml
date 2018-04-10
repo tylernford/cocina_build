@@ -56,6 +56,9 @@ fields:
       name: event_link_url
       label: Event Link URL
       description: This can link to a news post, other website, file, etc.
+    - type: field_group
+      name: tests
+      label: Tests
 - type: field_group
   name: catering
   label: Catering
