@@ -8,7 +8,7 @@ title = "Celebrate Cinco de Mayo and our 7-Year Anniversary at our Winter Park l
 video_key = ""
 
 +++
-Celebrate Cinco de Mayo and our 7-Year Anniversary at our Winter park location. We will have giveaways and drink specials throughout the day!
+Celebrate Cinco de Mayo and our 7-Year Anniversary at our Winter Park location. We will have giveaways and drink specials throughout the day!
 
 Corona giveaways 1:00-3:00 PM
 
@@ -16,7 +16,7 @@ Sauza Hornitos sampling1:00-3:00 PM
 
 Patron sampling 3:00-5:00 PM
 
-Corona giveaways 5:00-7:00 PM 
+Corona giveaways 5:00-7:00 PM
 
 Sauza Tres Generaciones sampling 5:00-7:00 PM
 
