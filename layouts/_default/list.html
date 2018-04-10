@@ -33,7 +33,7 @@
                             <p class="mv0">{{ .event_time }}</p>
                             <p class="mv0">{{ .event_description }}</p>
                             {{ if ( .event_link_url ) and ( .event_link_url "!=" "") }}
-                                <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .event_link_url }}">{{ .event_link_text }}</a>
+                                <a class="c-dark-brown db f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .event_link_url }}">{{ .event_link_text }}</a>
                             {{ end }}
                             {{ range .event_links }}
                                 {{ if ( .event_link_url ) and ( .event_link_url "!=" "") }}
