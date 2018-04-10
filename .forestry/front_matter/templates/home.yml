@@ -59,6 +59,11 @@ fields:
     - type: field_group_list
       name: event_links
       label: Event Links
+      fields:
+      - type: text
+        name: event_link_text
+        label: Event Link Text
+        description: ' e.g. "Learn More", "Register", "View Event Menu"'
 - type: field_group
   name: catering
   label: Catering
