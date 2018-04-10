@@ -4,7 +4,7 @@ date = "2018-04-10T11:37:09-05:00"
 featured_photo = "/uploads/2018/04/10/CincoDeMayoPoster_WP2018_forwebsite.jpg"
 location = "Winter Park"
 photos = []
-title = "Celebrate Cinco de Mayo and our 7 Year Anniversary"
+title = "Celebrate Cinco de Mayo and our 7 Year Anniversary at our Winter Park location"
 video_key = ""
 
 +++
