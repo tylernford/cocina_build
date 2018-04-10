@@ -39,7 +39,9 @@
                             {{ end }}
                             {{ range .event_links }}
                                 {{ if ( .event_link_url ) and ( .event_link_url "!=" "") }}
-                                    <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .event_link_url }}">{{ .event_link_text }}</a>
+                                    <div class="w-100">
+                                        <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .event_link_url }}">{{ .event_link_text }}</a>
+                                    </div>
                                 {{ end }}
                             {{ end }}
                         </div>
