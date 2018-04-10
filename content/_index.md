@@ -37,13 +37,14 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Cinco de Mayo and our 7 Year Anniversary in Winter Park
+  - event_name: Cinco de Mayo and our 7-Year Anniversary in Winter Park
     event_date: Saturday, May 5, 2018
     event_time: 11:30 am - 10:00 pm
-    event_description: Celebrate Cinco de Mayo and our 7 year anniversary! We will
-      have drink specials. 151 E. Welbourne Ave, Winter Park, FL 32789.
+    event_description: ''
     event_links:
-    - {}
+    - event_link_url: http://cocina214.com/news/celebrate-cinco-de-mayo-and-our-7-year-anniversary/
+      event_link_text: Learn more about our Cinco de Mayo & Anniversary Party in Winter
+        Park
   - event_name: Cinco de Mayo in Daytona Beach
     event_date: Saturday, May 5, 2018
     event_time: 11:00 am - 11:00 pm
