@@ -59,6 +59,10 @@ fields:
     - type: field_group
       name: tests
       label: Tests
+      fields:
+      - type: field_group_list
+        name: test_link
+        label: Test Link
 - type: field_group
   name: catering
   label: Catering
