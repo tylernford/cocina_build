@@ -67,6 +67,9 @@ fields:
       - type: text
         name: photo_link_text
         label: Photo Link Text
+      - type: file
+        name: photo_link_photo
+        label: Photo Link Photo
 - type: field_group
   name: catering
   label: Catering
