@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "current"
 date = "2018-04-10T12:48:46+00:00"
 featured_photo = "/uploads/2018/04/10/RunningOfChihuahuasPoster2018_for_website.jpg"
 location = "Winter Park"
