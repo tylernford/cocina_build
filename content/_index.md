@@ -50,7 +50,7 @@ upcoming_events:
     event_time: 11:00 am - 11:00 pm
     event_description: 451 S. Atlantic Ave, Daytona Beach, FL 32118
     event_links:
-    - event_link_text: Learn more about Cinco de Mayo in Daytona Beach
+    - event_link_text: Learn more about our Cinco de Mayo Party in Daytona Beach
       event_link_url: http://cocina214.com/news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-/
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
