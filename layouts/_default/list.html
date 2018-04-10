@@ -41,8 +41,11 @@
                                 {{ end }}
                             {{ end }}
                             
-
-                                
+                            {{ if ( .photo_link.photo_link_text ) and ( .photo_link.photo_link_photo "!=" "") }}
+                                <div class="w-100">
+                                    <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .photo_link.photo_link_photo }}">.</a>
+                                </div>
+                            {{ end }}
 
                         </div>
                     {{ end }}
