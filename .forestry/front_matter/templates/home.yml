@@ -63,6 +63,10 @@ fields:
     - type: field_group
       name: photo_link
       label: Photo Link
+      fields:
+      - type: text
+        name: photo_link_text
+        label: Photo Link Text
 - type: field_group
   name: catering
   label: Catering
