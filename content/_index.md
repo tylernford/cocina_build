@@ -21,7 +21,7 @@ catering:
     Tex-Mex food provided by Cocina 214 catering service.
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 upcoming_events:
-  photo: "/uploads/2018/04/10/Cinco_WEB__2018a.jpg"
+  photo: "/uploads/2018/04/10/Cinco_WEB__2018_forwebsite.jpg"
   events:
   - event_name: Cocina 214's 6th Annual Running of the Chihuahuas
     event_date: Sunday, May 6, 2018
@@ -36,7 +36,7 @@ upcoming_events:
       event_link_url: http://cocina214.com/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas/
     photo_link:
       photo_link_text: ''
-      photo_link_photo: "/uploads/2018/04/10/RunningOfChihuahuasPoster2018_for_website.jpg"
+      photo_link_photo: ''
   - event_name: Cinco de Mayo and our 7 Year Anniversary in Winter Park
     event_date: Saturday, May 5, 2018
     event_time: 11:30 am - 10:00 pm
