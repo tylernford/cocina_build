@@ -41,8 +41,8 @@
                                 {{ end }}
                             {{ end }}
                             
-                            {{ if ( photo_link.photo_link_text ) and ( .photo_link.photo_link_photo "!=" "") }}
-                                hi
+                            {{ range .photo_link }}
+                            hi
                             {{ end }}
                         </div>
                     {{ end }}
