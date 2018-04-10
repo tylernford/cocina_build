@@ -42,7 +42,7 @@
                             {{ end }}
                             
                             {{ range .photo_link }}
-                                {{ if ( .photo_link_text ) and ( .event_link_photo "!=" "") }}
+                                {{ if ( .photo_link_text ) and ( .photo_link_photo "!=" "") }}
                                     <div class="w-100">
                                         <a class="c-dark-brown dib f5 jean-luc lh-solid link mb0 mt3 tracked-narrow ttu   css-arrow-link" href="{{ .photo_link_photo }}">{{ .photo_link_text }}</a>
                                     </div>
