@@ -1,7 +1,6 @@
 +++
 category = "current"
-date = "2018-04-10T07:37:09-05:00"
-draft = true
+date = "2018-04-10T11:37:09-05:00"
 featured_photo = "/uploads/2018/04/10/CincoDeMayoPoster_WP2018_forwebsite.jpg"
 location = "Winter Park"
 photos = []
