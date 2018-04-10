@@ -51,6 +51,19 @@ upcoming_events:
       Pooch Rescue.
     event_link_text: Register your chihuahua here
     event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
+    tests:
+      test_link:
+      - {}
+      - {}
+      - {}
+    test_links:
+    - test_link:
+      - {}
+      - {}
+      test_text: First Link
+      test_url: https://google.com
+    - test_text: Second Link
+      test_url: https://facebook.com
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
