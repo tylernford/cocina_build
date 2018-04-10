@@ -63,6 +63,10 @@ fields:
       - type: field_group_list
         name: test_link
         label: Test Link
+        fields:
+        - type: text
+          name: link_test
+          label: Link Test
 - type: field_group
   name: catering
   label: Catering
