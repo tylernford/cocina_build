@@ -8,7 +8,7 @@ title = "Registration Now Open for Cocina 214's 6th Annual Running of the Chihua
 video_key = ""
 
 +++
-On Sunday, May 6th Cocina 214 will host the 6th Annual Running of the Chihuahuas. Spectators are FREE but racing Chihuahuas must register. All registration proceeds will be donated to Winter Park Lost Pets and Poodle and Pooch Rescue. The race starts at 11:00 am but arrive early to pick up your registration packet & race number. Make sure to get your photo taken with your pooch in Tito's Vodka famous photo booth.
+On Sunday, May 6th Cocina 214 will host the 6th Annual Running of the Chihuahuas at our Winter Park location at 151 E. Welbourne Ave. Spectators are FREE but racing Chihuahuas must register. All registration proceeds will be donated to Winter Park Lost Pets and Poodle and Pooch Rescue. The race starts at 11:00 am but arrive early to pick up your registration packet & race number. Make sure to get your photo taken with your pooch in Tito's Vodka famous photo booth.
 
 You can register your Chihuahua here: [https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128](https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128 "Register your Chihuahua here")
 
