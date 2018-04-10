@@ -60,16 +60,9 @@ fields:
       name: test_links
       label: Test Links
       fields:
-      - type: field_group_list
-        name: test_link
-        label: Test Link
-        fields:
-        - type: text
-          name: test_text
-          label: Test Text
-        - type: text
-          name: test_url
-          label: Test URL
+      - type: text
+        name: test_text
+        label: Test Text
 - type: field_group
   name: catering
   label: Catering
