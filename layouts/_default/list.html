@@ -40,6 +40,10 @@
                                     </div>
                                 {{ end }}
                             {{ end }}
+                            
+                            {{ if ( photo_link.photo_link_text ) and ( .photo_link.photo_link_photo "!=" "") }}
+                                hi
+                            {{ end }}
                         </div>
                     {{ end }}
                 </div>
