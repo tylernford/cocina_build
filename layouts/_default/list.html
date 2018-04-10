@@ -42,7 +42,9 @@
                             {{ end }}
                             
                             {{ range .photo_link }}
-                            
+                                {{ if ( photo_link_text ) and ( .photo_link_photo "!=" "") }}
+                                    hey
+                                {{ end }}
                             {{ end }}
                         </div>
                     {{ end }}
