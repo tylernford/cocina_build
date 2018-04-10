@@ -1,7 +1,6 @@
 +++
 category = "current"
 date = "2018-04-10T15:01:42+00:00"
-draft = true
 featured_photo = "/uploads/2018/04/10/CincoDeMayoPoster_Daytona2018_forwebsite.jpg"
 location = "Daytona Beach"
 photos = []
