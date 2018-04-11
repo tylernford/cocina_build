@@ -12,7 +12,7 @@ Celebrate Cinco de Mayo and our 7-Year Anniversary at our Winter Park location. 
 
 Corona giveaways 1:00-3:00 PM
 
-Sauza Hornitos sampling1:00-3:00 PM
+Sauza Hornitos sampling 1:00-3:00 PM
 
 Patron sampling 3:00-5:00 PM
 
