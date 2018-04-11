@@ -19,3 +19,5 @@ Patron sampling 3:00-5:00 PM
 Corona giveaways 5:00-7:00 PM
 
 Sauza Tres Generaciones sampling 5:00-7:00 PM
+
+Sauza Tres Generaciones sampling 5:00-7:00 PM
