@@ -26,6 +26,7 @@ pages:
 - news/another-post.md
 - news/this-is-a-post.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

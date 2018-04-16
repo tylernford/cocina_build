@@ -9,6 +9,7 @@ pages:
 - shop/gift-card-50.md
 - shop/white-tumbler.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   name: title
