@@ -16,4 +16,4 @@ We will have drink specials at our outside bar to help cheer on the Chihuahuas!
 
 Winter Park Chihuahua Drink Specials\*
 
-\$5 214 Rocks | $3 bottled Corona | $7 Tito’s Lonestar Lemonade| $7 Patron Blanco | $10 Loaded Coronas with Hornitos Cristalino Anejo \*while supplies last
+$5 214 Rocks | $3 bottled Corona | $7 Tito’s Lonestar Lemonade| $7 Patron Blanco | $10 Loaded Coronas with Hornitos Cristalino Anejo \*while supplies last
