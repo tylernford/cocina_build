@@ -23,35 +23,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/04/10/Cinco_WEB__2018_forwebsite.jpg"
   events:
-  - event_name: Cocina 214's 6th Annual Running of the Chihuahuas
-    event_date: Sunday, May 6, 2018
-    event_time: Race starts at 11:00 am
-    event_description: 151 E. Welbourne Ave, Winter Park, FL 32789
-    event_link_text: ''
-    event_link_url: ''
-    event_links:
-    - event_link_text: Register your chihuahua here
-      event_link_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
-    - event_link_text: Learn More about the 6th Annual Running of the Chihuahuas
-      event_link_url: http://cocina214.com/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
-  - event_name: Cinco de Mayo and our 7-Year Anniversary in Winter Park
-    event_date: Saturday, May 5, 2018
-    event_time: 11:30 am - 10:00 pm
-    event_description: 151 E. Welbourne Ave, Winter Park, FL 32789
-    event_links:
-    - event_link_url: http://cocina214.com/news/celebrate-cinco-de-mayo-and-our-7-year-anniversary/
-      event_link_text: Learn more about our Cinco de Mayo & Anniversary Party in Winter
-        Park
-  - event_name: Cinco de Mayo in Daytona Beach
-    event_date: Saturday, May 5, 2018
-    event_time: 11:00 am - 11:00 pm
-    event_description: 451 S. Atlantic Ave, Daytona Beach, FL 32118
-    event_links:
-    - event_link_text: Learn more about our Cinco de Mayo Party in Daytona Beach
-      event_link_url: http://cocina214.com/news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-/
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
