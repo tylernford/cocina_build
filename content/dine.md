@@ -65,7 +65,8 @@ events:
     Jenna can be reached at: Party@Cocina214.com
   daytona_beach_photo: "/uploads/2017/12/01/Bar_Food_Happy_Hour.jpg"
   daytona_beach_text: "Contact Kristina Fuertes, our Daytona Beach Events & Catering
-    Manager. Please allow up to 48hrs for a response. \nDasha can be reached at: DaytonaParty@Cocina214.com"
+    Manager. Please allow up to 48hrs for a response. \n\nKristina can be reached
+    at: DaytonaParty@Cocina214.com"
 hero_photos:
 - location: Winter Park
   photo: "/uploads/2017/12/01/dine.jpg"
