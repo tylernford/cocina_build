@@ -58,7 +58,7 @@ private_dining:
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
 events:
   title: Book Your Private Party or Catering
-  winter_park_photo: "/uploads/2017/12/01/happy_hour_drinks_with_well.jpg"
+  winter_park_photo: "/uploads/2017/12/01/Bar_Food_Happy_Hour.jpg"
   winter_park_text: |-
     Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
