@@ -70,7 +70,7 @@ hero_photos:
 - location: Winter Park
   photo: "/uploads/2017/12/01/dine.jpg"
 - location: Daytona Beach
-  photo: "/uploads/2017/12/01/daytona_beach_groundbreaking.jpg"
+  photo: "/uploads/2018/05/16/firepitbyocean_web.jpg"
 happy_hour:
   text: |2-
 
