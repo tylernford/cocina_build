@@ -59,6 +59,10 @@ daytona_beach_staff:
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
+  - photo: "/uploads/2018/05/16/Kristina.jpg"
+    first_name: Kristina
+    last_name: Fuertes
+    title: Events & Catering Manager
 forestry_title: About
 hero_photo: "/uploads/2017/12/01/about.jpg"
 
