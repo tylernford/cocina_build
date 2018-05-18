@@ -1,7 +1,6 @@
 +++
 category = "past-events"
 date = "2018-05-16T08:49:30-05:00"
-draft = true
 featured_photo = "/uploads/2018/05/16/Screen Shot 2018-05-16 at 10.09.43 AM.png"
 location = "Winter Park"
 photos = []
