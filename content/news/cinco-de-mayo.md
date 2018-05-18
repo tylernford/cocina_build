@@ -1,7 +1,6 @@
 +++
 category = "past-events"
 date = "2018-05-16T09:12:47-05:00"
-draft = true
 featured_photo = "/uploads/2018/04/10/CincoDeMayoPoster_Daytona2018_forwebsite.jpg"
 location = "Daytona Beach"
 photos = []
