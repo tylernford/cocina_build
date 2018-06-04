@@ -1,6 +1,4 @@
 ---
-pages:
-- contact.md
 hide_body: true
 is_partial: false
 fields:
@@ -18,3 +16,5 @@ fields:
 - type: textarea
   name: form_text
   label: Form Text
+pages:
+- contact.md

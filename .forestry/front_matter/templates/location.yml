@@ -1,6 +1,4 @@
 ---
-pages:
-- location.md
 hide_body: true
 is_partial: false
 fields:
@@ -11,3 +9,5 @@ fields:
   name: hero_photos
   label: Hero Photos
   description: Slider will display no more than 4 photos
+pages:
+- location.md

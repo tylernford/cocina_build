@@ -1,13 +1,4 @@
 ---
-pages:
-- shop/shirt-gold.md
-- shop/i-hate-running-but-i-love-tacos-t-shirt-white-.md
-- shop/shirt-black.md
-- shop/shirt-red.md
-- shop/black-tumbler.md
-- shop/gift-card-25.md
-- shop/gift-card-50.md
-- shop/white-tumbler.md
 hide_body: false
 is_partial: false
 fields:
@@ -60,3 +51,12 @@ fields:
   label: Images
   description: File names should not have spaces. e.g. "street tacos.jpg" should be
     changed to "street_tacos.jpg"
+pages:
+- shop/shirt-gold.md
+- shop/i-hate-running-but-i-love-tacos-t-shirt-white-.md
+- shop/shirt-black.md
+- shop/shirt-red.md
+- shop/black-tumbler.md
+- shop/gift-card-25.md
+- shop/gift-card-50.md
+- shop/white-tumbler.md

@@ -1,33 +1,4 @@
 ---
-pages:
-- news/cinco-de-mayo.md
-- news/6th-annual-running-of-the-chihuahuas.md
-- news/the-best-of-may-events-in-orlando-.md
-- news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas.md
-- news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-.md
-- news/celebrate-cinco-de-mayo-and-our-7-year-anniversary.md
-- news/daytona-beach-bike-week-.md
-- news/cocina-214-s-high-quality-margaritas-.md
-- news/national-margarita-day-1.md
-- news/national-margarita-day.md
-- news/orlando-sentinel-s--people-on-the-move--1.md
-- news/daytona-beach-grand-opening-.md
-- news/cocina-214-on-citysurfing-orlando-.md
-- news/cocina-214-debuts-on-the-beach-.md
-- news/daytona-s-landshark--cocina-214-eateries-officially-start-the-party.md
-- news/cocina-214-voted-best-gluten-free-restaurant-.md
-- news/restaurants-open-in-daytona-.md
-- news/cocina-214-holds-job-fair-next-week-in-daytona.md
-- news/jenna-s-promotion-was-included-in-the-orlando-sentinel-s--people-on-the-move--.md
-- news/orlando-sentinel-s--people-on-the-move-.md
-- news/edible-orlando-features-cocina-214-s-guac.md
-- news/cocina-214-makes-orlando-weekly-s-50-fave.md
-- news/cocina-214-daytona-beach-coming-in-january.md
-- news/an-additional-post.md
-- news/great-things-coming.md
-- news/we-have-news.md
-- news/another-post.md
-- news/this-is-a-post.md
 hide_body: false
 is_partial: false
 fields:
@@ -86,3 +57,33 @@ fields:
   label: Video Key
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
+pages:
+- news/the-best-of-may-events-in-orlando--1.md
+- news/cinco-de-mayo.md
+- news/6th-annual-running-of-the-chihuahuas.md
+- news/the-best-of-may-events-in-orlando-.md
+- news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas.md
+- news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-.md
+- news/celebrate-cinco-de-mayo-and-our-7-year-anniversary.md
+- news/daytona-beach-bike-week-.md
+- news/cocina-214-s-high-quality-margaritas-.md
+- news/national-margarita-day-1.md
+- news/national-margarita-day.md
+- news/orlando-sentinel-s--people-on-the-move--1.md
+- news/daytona-beach-grand-opening-.md
+- news/cocina-214-on-citysurfing-orlando-.md
+- news/cocina-214-debuts-on-the-beach-.md
+- news/daytona-s-landshark--cocina-214-eateries-officially-start-the-party.md
+- news/cocina-214-voted-best-gluten-free-restaurant-.md
+- news/restaurants-open-in-daytona-.md
+- news/cocina-214-holds-job-fair-next-week-in-daytona.md
+- news/jenna-s-promotion-was-included-in-the-orlando-sentinel-s--people-on-the-move--.md
+- news/orlando-sentinel-s--people-on-the-move-.md
+- news/edible-orlando-features-cocina-214-s-guac.md
+- news/cocina-214-makes-orlando-weekly-s-50-fave.md
+- news/cocina-214-daytona-beach-coming-in-january.md
+- news/an-additional-post.md
+- news/great-things-coming.md
+- news/we-have-news.md
+- news/another-post.md
+- news/this-is-a-post.md

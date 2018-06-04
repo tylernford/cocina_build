@@ -1,6 +1,4 @@
 ---
-pages:
-- dine.md
 hide_body: true
 is_partial: false
 fields:
@@ -143,3 +141,5 @@ fields:
   - type: textarea
     name: daytona_beach_text
     label: Daytona Beach Text
+pages:
+- dine.md
