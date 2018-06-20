@@ -142,4 +142,4 @@ fields:
     name: daytona_beach_text
     label: Daytona Beach Text
 pages:
-- dine.md
+- content/dine.md

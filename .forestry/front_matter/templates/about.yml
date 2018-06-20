@@ -81,4 +81,4 @@ fields:
       name: title
       label: Title
 pages:
-- about.md
+- content/about.md

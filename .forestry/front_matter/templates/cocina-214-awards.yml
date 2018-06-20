@@ -23,4 +23,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- news/awards/awards.md
+- content/news/awards/awards.md

@@ -17,4 +17,4 @@ fields:
   name: form_text
   label: Form Text
 pages:
-- contact.md
+- content/contact.md

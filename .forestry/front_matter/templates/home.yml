@@ -94,4 +94,4 @@ fields:
     description: File names should not have spaces. e.g. "street tacos.jpg" should
       be changed to "street_tacos.jpg"
 pages:
-- _index.md
+- content/_index.md
