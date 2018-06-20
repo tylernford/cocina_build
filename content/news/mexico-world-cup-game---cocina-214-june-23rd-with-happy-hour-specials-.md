@@ -1,27 +1,19 @@
 +++
-category = "awards"
+category = "upcoming"
 date = "2018-06-20T10:48:51-05:00"
-featured_photo = ""
-location = ""
+featured_photo = "/uploads/2018/06/20/World-Cup-Soccer-Special-2019.jpg"
+location = "All Locations"
 photos = []
-title = "Mexico World Cup Game @ Cocina 214 June 23rd with Happy Hour Specials!"
+title = "Mexico World Cup Game @ Cocina 214 on June 23rd with Happy Hour Specials!"
 video_key = ""
 
 +++
 Mexico World Cup Game vs. South Korea
 
- 
-
-Come cheer on Mexico and enjoy our 
-
-Happy Hour this Saturday from 
-
-11:00 am - 3:00 pm !
+Come cheer on Mexico and enjoy our Happy Hour this Saturday from 11:00 am - 3:00 pm !
 
 **Where:** Cocina 214 Bar (both locations)
 
-**When:** Saturday, June 23, 2018 @ 11:00 am 
+**When:** Saturday, June 23, 2018 @ 11:00 am
 
 See you there!
-
-![](/uploads/2018/06/20/World-Cup-Soccer-Special-2019.jpg)
