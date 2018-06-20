@@ -23,6 +23,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/05/16/outsidebardaytona.jpg"
   events:
+  - event_name: World Cup Mexico Game!
+    event_date: Saturday, June 23rd
+    event_time: 11:00 am
+    event_description: ''
+    event_links:
+    - event_link_url: http://cocina214.com/news/mexico-world-cup-game---cocina-214-june-23rd-with-happy-hour-specials-/
+      event_link_text: More info here...
+    photo_link:
+      photo_link_photo: "/uploads/2018/06/20/World-Cup-Soccer-Special-2019.jpg"
+      photo_link_text: Cheer on Mexico and enjoy our Happy Hour specials!
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
