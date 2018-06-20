@@ -26,7 +26,8 @@ upcoming_events:
   - event_name: World Cup Mexico Game!
     event_date: Saturday, June 23rd
     event_time: 11:00 am
-    event_description: ''
+    event_description: Come cheer on Mexico and enjoy our  Happy Hour from 11:00 am
+      - 3:00 pm!
     event_links:
     - event_link_url: http://cocina214.com/news/mexico-world-cup-game---cocina-214-june-23rd-with-happy-hour-specials-/
       event_link_text: More info here...
