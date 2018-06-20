@@ -1,7 +1,6 @@
 +++
 category = "awards"
 date = "2018-06-20T10:48:51-05:00"
-draft = true
 featured_photo = ""
 location = ""
 photos = []
