@@ -10,7 +10,7 @@ video_key = ""
 +++
 Mexico World Cup Game vs. South Korea
 
-Come cheer on Mexico and enjoy our Happy Hour this Saturday until 3:00 pm ! We will OPEN EARLY at 10:30am to watch the game.
+Come cheer on Mexico and enjoy our Happy Hour this Saturday from 11:00 am until 3:00 pm! 
 
 **Where:** Cocina 214 Bar (both locations)
 
