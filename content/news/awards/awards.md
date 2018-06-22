@@ -9,6 +9,12 @@ type: awards
 url: "/news/awards"
 
 ---
-### **Cocina 214 made a name for itself in the Orlando area. Cocina 214 is regarded as one of the best restaurants in Orlando and has won numerous awards. Daytona Beach will be another market where Cocina 214 can thrive.**![](/uploads/2017/12/01/Cocina_Awards_2011_2017.jpg)![](/uploads/2017/12/01/Cocina_Awards_2011_20172.jpg)![](/uploads/2017/12/01/Cocina_Awards_2011_20173.jpg)
+### **Cocina 214 made a name for itself in the Orlando area. Cocina 214 is regarded as one of the best restaurants in Orlando and has won numerous awards. Daytona Beach is another market where Cocina 214 can thrive.**
+
+![](/uploads/2018/06/22/Cocina Awards 2011-2018.jpg)
+
+![](/uploads/2018/06/22/Cocina Awards 2011-20182.jpg)
+
+![](/uploads/2018/06/22/Cocina Awards 2011-20183.jpg)![](/uploads/2018/06/22/Cocina Awards 2011-20182.jpg)
 
 ### 
