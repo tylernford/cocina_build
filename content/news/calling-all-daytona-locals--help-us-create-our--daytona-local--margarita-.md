@@ -10,7 +10,7 @@ video_key = ""
 +++
 Help us create our "Daytona Local" Margarita and submit your Margarita Recipe for a Chance to Win!
 
-3 Finalists will be selected to make their drink for Local Judges on **National Tequila Day, Tuesday, July 24th**. The 1st Place Winner will receive a $100 Cocina 214 Gift Card and their Margarita will be crowned the Daytona Local Margarita!
+3 Finalists will be selected to make their drink for Local Judges on **National Tequila Day, Tuesday, July 24th**. The 1st Place Winner will receive a $100 Cocina 214 Gift Card and their Margarita will be crowned the Daytona Local Margarita on the Cocina 214 Drink Menu!
 
   
 **Registration Deadline: July 16th**
