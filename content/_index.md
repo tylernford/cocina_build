@@ -23,6 +23,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/05/16/outsidebardaytona.jpg"
   events:
+  - event_name: The Daytona Local Margarita Contest
+    event_date: Tuesday, July 24th
+    event_time: 6:00 pm
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More and Resgister
+      event_link_url: http://cocina214.com/news/calling-all-daytona-locals--help-us-create-our--daytona-local--margarita-/
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
