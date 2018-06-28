@@ -29,7 +29,7 @@ upcoming_events:
     event_description: Calling all Daytona Locals! We want locals to help create our
       Daytona Local Margarita.
     event_links:
-    - event_link_text: Learn More and Resgister
+    - event_link_text: Learn More and Register
       event_link_url: http://cocina214.com/news/calling-all-daytona-locals--help-us-create-our--daytona-local--margarita-/
     photo_link:
       photo_link_photo: "/uploads/2018/06/28/Margarita-Contest-Poster-2018_aqua.jpg"
