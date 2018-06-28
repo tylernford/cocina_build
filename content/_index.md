@@ -32,8 +32,8 @@ upcoming_events:
     - event_link_text: Learn More and Register
       event_link_url: http://cocina214.com/news/calling-all-daytona-locals--help-us-create-our--daytona-local--margarita-/
     photo_link:
-      photo_link_photo: "/uploads/2018/06/28/Margarita-Contest-Poster-2018_aqua.jpg"
-      photo_link_text: Daytona Local Margarita Contest
+      photo_link_photo: ''
+      photo_link_text: ''
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
