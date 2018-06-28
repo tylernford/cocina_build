@@ -26,8 +26,8 @@ upcoming_events:
   - event_name: The Daytona Local Margarita Contest
     event_date: Tuesday, July 24th
     event_time: 6:30 pm
-    event_description: Calling all Daytona Locals! We want locals to help create our
-      Daytona Local Margarita.
+    event_description: Calling all Daytona Locals! Submit your Margarita Recipe for
+      a Chance to Win!
     event_links:
     - event_link_text: Learn More and Register
       event_link_url: http://cocina214.com/news/calling-all-daytona-locals--help-us-create-our--daytona-local--margarita-/
