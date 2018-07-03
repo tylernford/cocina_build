@@ -32,7 +32,7 @@ dine_with_us:
     menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
   reservations:
     text: Call to make a reservation today!
-    phone: 407.790.7997
+    phone: Winter Park 407.790.7997  | Daytona Beach 386.456.3168
 catering:
   text: "Cocina 214 would love to cater your next event! Let us cater your Office
     Lunches or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal
