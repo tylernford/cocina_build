@@ -71,7 +71,7 @@ hero_photos:
 - location: Winter Park
   photo: "/uploads/2017/12/01/dine.jpg"
 - location: Daytona Beach
-  photo: "/uploads/2018/05/16/firepitbyocean_web.jpg"
+  photo: "/uploads/2018/07/03/interior-looking-at-taco-sign2.jpg"
 happy_hour:
   text: |2-
 
