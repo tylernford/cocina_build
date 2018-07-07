@@ -21,7 +21,7 @@ catering:
     Tex-Mex food provided by Cocina 214 catering service.
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 upcoming_events:
-  photo: "/uploads/2018/07/07/Margarits-in-Daytona-looking-towards-the-PD.jpg"
+  photo: "/uploads/2018/07/07/Margarits-in-Daytona-looking-towards-the-PD-1.jpg"
   events:
   - event_name: The Daytona Local Margarita Contest
     event_date: Tuesday, July 24th
