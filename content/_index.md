@@ -23,14 +23,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: The Daytona Local Margarita Contest
-    event_date: Tuesday, July 24th
-    event_time: 6:30 pm
-    event_description: Calling all Daytona Locals! Submit your Margarita Recipe for
-      a Chance to Win!
+  - event_name: National Avocado Day
+    event_date: Tuesday, July 31st
+    event_time: All Day!
+    event_description: Celebrate National Avocado Day With Us!
     event_links:
-    - event_link_text: Learn More and Register
-      event_link_url: http://cocina214.com/news/calling-all-daytona-locals--help-us-create-our--daytona-local--margarita-/
+    - event_link_text: 'Learn More '
+      event_link_url: http://cocina214.com/news/celebrate-national-avocado-day-at-cocina-214--tuesday--july-31st-/
     photo_link:
       photo_link_photo: ''
       photo_link_text: ''
