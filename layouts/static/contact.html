@@ -32,10 +32,20 @@
                         <p class="f6 mv0 w-3_75   f5-ns w-4_25-ns">Address:</p>
                         <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Winter_Park_Info.Address.part_one }}<br>{{ .Site.Data.Winter_Park_Info.Address.part_two }}</p>
                     </div>
-                    <div class="flex mt4">
+                    <div class="flex mb4 mt4">
                         <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Winter_Park_Info.Address.google_maps_url }}">Get Directions</a>
                         <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Winter_Park_Info.Phone }}">Call Us</a>
                     </div>
+                  
+                    <!--   Reservation Widget   -->
+                    <a href="https://resy.com/cities/orl/cocina214winterpark" id="resyButton-uk1lx0ui">Book your Cocina 214- Winter Park reservation on Resy</a>
+
+                    <script src="https://widgets.resy.com/embed.js"></script>
+
+                    <script>
+                    resyWidget.addButton(document.getElementById('resyButton-uk1lx0ui'), {"venueId":2897,"apiKey":"rf4w2sdQmokQblphxG5lbPPA4Wl6C2lD","replace":true});
+                    </script>
+                    <!--   End Reservation Widget   -->
                 </div>
             </div>
             <!-- End Phone & Address -->
@@ -71,10 +81,20 @@
                     {{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}
                         <p class="b--c-dark-brown ba bg-dark-brown bw1 c-gold dib f-1_125 h-2_5 jean-luc lh-1_5 link mb0 mt4 ph4 pt-_375 tracked-narrow ttu">Coming Soon</p>
                     {{ end }}
-                    <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex mt4{{end}}">
+                    <div class="{{ if $.Site.Data.Daytona_Beach_Info.show_coming_soon_badge }}dn{{else}}flex mb4 mt4{{end}}">
                         <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Daytona_Beach_Info.Address.google_maps_url }}">Get Directions</a>
                         <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Daytona_Beach_Info.Phone }}">Call Us</a>
                     </div>
+                    
+                    <!--   Reservation Widget   -->
+                    <a href="https://resy.com/cities/orl/cocina214daytonabeach" id="resyButton-cb4wik0r">Book your Cocina 214 - Daytona Beach reservation on Resy</a>
+
+                    <script src="https://widgets.resy.com/embed.js"></script>
+
+                    <script>
+                    resyWidget.addButton(document.getElementById('resyButton-cb4wik0r'), {"venueId":2899,"apiKey":"YKs6YiYHBE7F8KSR66srfKvRvSh3dbik","replace":true});
+                    </script>
+                    <!--   End Reservation Widget   -->
                 </div>
             </div>
             <!-- End Phone & Address -->
@@ -83,27 +103,6 @@
     </div>
     <!-- End Locations -->
 
-    <!--
-    <script>var $=jQuery.noConflict();function iframeLoaded(){var iFrameID=document.getElementById('idIframe');if(iFrameID){iFrameID.height='';if(iFrameID.contentWindow.document.body.scrollHeight<425){iFrameID.height='425px';}else{iFrameID.height=iFrameID.contentWindow.document.body.scrollHeight+'px';}}}$(document).ready(function(){var myIframe=document.getElementById('restaurantconnect');myIframe.contentWindow.addEventListener('click',getClick);window.addEventListener('message',function(e){var iframe=jQuery('#restaurantconnect');var eventName=e.data[0];var data=e.data[1]+10;if(data<425){data=425;}switch(eventName){case'setHeight':iframe.animate({height:data},200);break;}},false);});function getClick(){document.getElementById('restaurantconnect').contentWindow.resizeIframe();}function getResize(){document.getElementById('restaurantconnect').contentWindow.resizeIframe();}function resizeIframe(){var newHeight=$('#restaurantconnect').contents().height();if(newHeight<425){newHeight=425;}$('#restaurantconnect').height();$('#restaurantconnect').animate({height:newHeight},500);}</script>
-
-    <div class="section-animate center mt-4_75 mw-64 ph3   ph4-ns   ph0@70">
-        <h2 class="fade-in-right f4 fw6 lh-1_5 mb-_5625 mt0 pt-_0625 tracked-narrow ttu wrksns   f3-ns mb-_625-ns pt0-ns">Make a Reservation at Winter Park</h2>
-        <!--   Divider   --
-        <div class="bg-dark-brown h-_125 mb-1_6875 mt0"></div>
-        <!-- End Divider --
-        <iframe style="min-height:400px;" src='https://secure.restaurantconnect.com/reserve/v1/index_mobile.php?p=MXw4Njl8MDAwNjA1fDB8MHwwfHNsYXRl' frameborder='0' scrolling='auto' allowTransparency='true' id='restaurantconnect' width='100%' hdeight='650'></iframe>
-    </div>
-
-    <script>var $=jQuery.noConflict();function iframeLoaded(){var iFrameID=document.getElementById('idIframe');if(iFrameID){iFrameID.height='';if(iFrameID.contentWindow.document.body.scrollHeight<425){iFrameID.height='425px';}else{iFrameID.height=iFrameID.contentWindow.document.body.scrollHeight+'px';}}}$(document).ready(function(){var myIframe=document.getElementById('restaurantconnect2');myIframe.contentWindow.addEventListener('click',getClick);window.addEventListener('message',function(e){var iframe=jQuery('#restaurantconnect2');var eventName=e.data[0];var data=e.data[1]+10;if(data<425){data=425;}switch(eventName){case'setHeight':iframe.animate({height:data},200);break;}},false);});function getClick(){document.getElementById('restaurantconnect2').contentWindow.resizeIframe();}function getResize(){document.getElementById('restaurantconnect2').contentWindow.resizeIframe();}function resizeIframe(){var newHeight=$('#restaurantconnect2').contents().height();if(newHeight<425){newHeight=425;}$('#restaurantconnect2').height();$('#restaurantconnect2').animate({height:newHeight},500);}</script>
-
-    <div class="section-animate center mt-4_75 mw-64 ph3   ph4-ns   ph0@70">
-        <h2 class="fade-in-right f4 fw6 lh-1_5 mb-_5625 mt0 pt-_0625 tracked-narrow ttu wrksns   f3-ns mb-_625-ns pt0-ns">Make a Reservation at Daytona Beach</h2>
-        <!--   Divider   --
-        <div class="bg-dark-brown h-_125 mb-1_6875 mt0"></div>
-        <!-- End Divider --
-        <iframe style="min-height:400px;" src='https://secure.restaurantconnect.com/reserve/v1/index_mobile.php?p=Mnw4ODN8MDAwNjA1fDB8MHwwfA==' frameborder='0' scrolling='auto' allowTransparency='true' id='restaurantconnect2' width='100%'></iframe>
-    </div>
--->
 
     <div class="section-animate center mt-4_75 mw-64 pb-5 ph3   ph4-ns   ph0@70">
         <h2 class="fade-in-right f4 fw6 lh-1_5 mb-_5625 mt0 pt-_0625 tracked-narrow ttu wrksns   f3-ns mb-_625-ns pt0-ns">{{ .Params.form_title }}</h2>
