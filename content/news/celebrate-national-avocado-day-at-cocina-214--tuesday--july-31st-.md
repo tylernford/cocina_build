@@ -19,3 +19,5 @@ Both of our Cocina 214 Locations will be celebrating all day long!
 www.Cocina214.com
 
 451 South atlantic Ave | Daytona Beach, Florida 32118 |
+
+![](/uploads/2018/07/26/Avocado-Day-2018_for-website.jpg)
