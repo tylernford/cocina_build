@@ -76,9 +76,51 @@
 
                     <div class="bg-dark-brown h-_125 mb-1_1875"></div>
 
-                    <div class="fade-in t-del-2 flex@25">
-                        <p class="mb-1_375 mt0   mb0@25 w-12@25">{{ .Params.dine_with_us.reservations.text }}</p>
-                        <a class="dib f4 jean-luc link tracked-narrow ttu white   lh-2_25@25 ml4@25 self-end@25   css-arrow-link"  href="tel:{{ .Params.dine_with_us.reservations.phone }}">{{ .Params.dine_with_us.reservations.phone }}</a>
+                    <div class="fade-in t-del-2">
+                       <!--   Winter Park   -->
+                       <p class="f4 jean-luc lrh-solid mb0">Winter Park</p>
+                       <div class="flex@25 justify-between">
+                          <p class="mt0">
+                             151 E. Welbourne Ave</br>
+                             <a class="no-underline white" href="tel:{{ .Site.Data.Winter_Park_Info.Phone }}">{{ .Site.Data.Winter_Park_Info.Phone }}</a>
+                          </p>
+                           
+                          <!--   Reservation Widget   -->
+                          <div style="margin-top:4px">
+                             <a href="https://resy.com/cities/orl/cocina214winterpark" id="resyButton-uk1lx0ui">Book your Cocina 214- Winter Park reservation on Resy</a>
+
+                             <script src="https://widgets.resy.com/embed.js"></script>
+
+                             <script>
+                             resyWidget.addButton(document.getElementById('resyButton-uk1lx0ui'), {"venueId":2897,"apiKey":"rf4w2sdQmokQblphxG5lbPPA4Wl6C2lD","replace":true});
+                             </script>
+                             <!--   End Reservation Widget   -->
+                          </div>
+                       </div>
+                       <!-- End Winter Park -->
+                       
+                       <!--   Daytona Beach   -->
+                       <p class="f4 jean-luc lrh-solid mb0">Daytona Beach</p>
+                       <div class="flex@25 justify-between">
+                          <p class="mt0">
+                             451 S. Atlantic Ave</br>
+                             <a class="no-underline white" href="tel:{{ .Site.Data.Daytona_Beach_Info.Phone }}">{{ .Site.Data.Daytona_Beach_Info.Phone }}</a>
+                          </p>
+                           
+                          <!--   Reservation Widget   -->
+                          <div style="margin-top:4px">
+                             <!--   Reservation Widget   -->
+                             <a href="https://resy.com/cities/orl/cocina214daytonabeach" id="resyButton-cb4wik0r">Book your Cocina 214 - Daytona Beach reservation on Resy</a>
+
+                             <script src="https://widgets.resy.com/embed.js"></script>
+
+                             <script>
+                             resyWidget.addButton(document.getElementById('resyButton-cb4wik0r'), {"venueId":2899,"apiKey":"YKs6YiYHBE7F8KSR66srfKvRvSh3dbik","replace":true});
+                             </script>
+                          </div>
+                          <!--   End Reservation Widget   -->
+                       </div>
+                       <!-- End Daytona Beach -->
                     </div>
                 </div>
             </div>
