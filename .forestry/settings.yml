@@ -4,15 +4,21 @@ auto_deploy: false
 admin_path: 
 webhook_url: https://www.eventbrite.com/e/cocina-214s-annual-running-of-the-chihuahuas-tickets-44995960128
 sections:
-- path: content/news
+- type: directory
+  path: content/news
   label: News
   create: all
-- path: content/shop
+  match: "**/*"
+- type: directory
+  path: content/shop
   label: Shop
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
