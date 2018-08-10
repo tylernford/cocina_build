@@ -29,6 +29,9 @@ upcoming_events:
     event_description: Join us @ Cocina 214 Daytona for  Yoga on the Beachfront Lawn!
     photo_link:
       photo_link_photo: "/uploads/2018/08/10/Beach-Yoga_2018.jpg"
+      photo_link_text: Yoga Brunch at Cocina 214 Daytona Beach
+    event_links:
+    - {}
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
