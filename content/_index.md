@@ -23,16 +23,12 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: National Avocado Day
-    event_date: Tuesday, July 31st
-    event_time: All Day!
-    event_description: Celebrate National Avocado Day With Us!
-    event_links:
-    - event_link_text: 'Learn More '
-      event_link_url: http://cocina214.com/news/celebrate-national-avocado-day-at-cocina-214--tuesday--july-31st-/
+  - event_name: Beachfront Yoga Brunch
+    event_date: Sunday, August 12th
+    event_time: 10:00 am - 11:00 am
+    event_description: Join us @ Cocina 214 Daytona for  Yoga on the Beachfront Lawn!
     photo_link:
-      photo_link_photo: ''
-      photo_link_text: ''
+      photo_link_photo: "/uploads/2018/08/10/Beach-Yoga_2018.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Thursdays
     event_time: 4:30p – 6:30p
