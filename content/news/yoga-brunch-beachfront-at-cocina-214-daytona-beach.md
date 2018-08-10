@@ -1,7 +1,6 @@
 +++
 category = "current"
 date = "2018-08-12T09:25:49-05:00"
-draft = true
 featured_photo = "/uploads/2018/08/10/Beach-Yoga_2018.jpg"
 location = "Daytona Beach"
 photos = []
