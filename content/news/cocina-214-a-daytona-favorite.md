@@ -1,7 +1,6 @@
 +++
 category = "current"
 date = "2018-08-27T08:49:40-05:00"
-draft = true
 featured_photo = ""
 location = "Daytona Beach"
 photos = []
