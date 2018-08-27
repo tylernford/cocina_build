@@ -54,10 +54,10 @@ fields:
     changed to "street_tacos.jpg"
 pages:
 - content/shop/shirt-black.md
-- content/shop/gift-card-25.md
-- content/shop/shirt-gold.md
-- content/shop/shirt-red.md
-- content/shop/white-tumbler.md
-- content/shop/black-tumbler.md
 - content/shop/i-hate-running-but-i-love-tacos-t-shirt-white-.md
+- content/shop/black-tumbler.md
+- content/shop/white-tumbler.md
+- content/shop/shirt-red.md
+- content/shop/shirt-gold.md
 - content/shop/gift-card-50.md
+- content/shop/gift-card-25.md
