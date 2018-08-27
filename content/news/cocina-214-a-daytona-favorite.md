@@ -1,8 +1,7 @@
 +++
 category = "current"
 date = "2018-08-27T08:49:40-05:00"
-draft = true
-featured_photo = ""
+featured_photo = "/uploads/2018/08/27/Yoga Brunch.jpeg"
 location = "Daytona Beach"
 photos = []
 title = "Cocina 214 the Coolest Place on the Block"
