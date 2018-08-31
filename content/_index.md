@@ -34,7 +34,7 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/happy-hour-of-giving-at-cocina-214-daytona-beach/
   - event_name: Happy Hour
-    event_date: Mondays – Thursdays
+    event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
     event_description: "$5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, $5
       Wells and more!"
