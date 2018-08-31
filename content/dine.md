@@ -21,7 +21,7 @@ dine_with_us:
   - menu_name: After Dinner Drink and Dessert
     menu: "/uploads/2018/08/31/AfterDinner_5x7_Aug 2018_Final.pdf"
   - menu_name: Take–Out
-    menu: "/uploads/2017/11/15/cocina_214-take-out_menu.pdf"
+    menu: "/uploads/2018/08/31/TakeOut_Menu_Aug 2018_Final.pdf"
   - menu_name: Kids’
     menu: "/uploads/2017/11/15/cocina_214_kids_menu.pdf"
   featured:
