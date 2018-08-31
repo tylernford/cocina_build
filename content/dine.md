@@ -15,11 +15,11 @@ dine_with_us:
     Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
   - menu_name: Dine-In
-    menu: "/uploads/2017/11/15/cocina_214-menu.pdf"
+    menu: "/uploads/2018/08/31/StandardMenu_August_2018 Final.pdf"
   - menu_name: Cocktail
-    menu: "/uploads/2017/11/16/Drinks_Long_FINAL 10-5-2017.pdf"
+    menu: "/uploads/2018/08/31/Drinks August 2018_Final.pdf"
   - menu_name: After Dinner Drink and Dessert
-    menu: "/uploads/2017/12/09/AfterDinner_FINAL 2017.pdf"
+    menu: "/uploads/2018/08/31/AfterDinner_5x7_Aug 2018_Final.pdf"
   - menu_name: Take–Out
     menu: "/uploads/2017/11/15/cocina_214-take-out_menu.pdf"
   - menu_name: Kids’
