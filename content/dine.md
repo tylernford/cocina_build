@@ -23,13 +23,13 @@ dine_with_us:
   - menu_name: Take–Out
     menu: "/uploads/2018/08/31/TakeOut_Menu_Aug 2018_Final.pdf"
   - menu_name: Kids’
-    menu: "/uploads/2017/11/15/cocina_214_kids_menu.pdf"
+    menu: "/uploads/2018/08/31/Kids_Menu_Cocina 2018 Final.pdf"
   featured:
     name: Happy Hour
-    hours: 4:30 – 6:30
-    when: Monday – Thursday
+    hours: 4:00 – 6:30
+    when: Monday – Friday
     menu_name: Happy Hour
-    menu: "/uploads/2017/11/15/cocina_214-happy_hour_menu.pdf"
+    menu: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final.pdf"
   reservations:
     text: Call to make a reservation today!
     phone: Winter Park 407.790.7997  | Daytona Beach 386.456.3168
