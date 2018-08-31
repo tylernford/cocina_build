@@ -5,7 +5,7 @@ featured_photo = "/uploads/2018/08/31/Provision-Packs-HH-at-Cocina-214-Daytona_S
 location = "Daytona Beach"
 photos = []
 title = "Happy Hour of Giving at Cocina 214 Daytona Beach"
-video_key = " https://www.provisionpacks.org/provisionpacks"
+video_key = ""
 
 +++
 Cocina 214 Daytona Beach is proud to participate in **VOLUSIA** **DINING DAYS** September 7th - September 16th, 2018. Go to [https://www.volusiadiningdays.com](https://www.volusiadiningdays.com "https://www.volusiadiningdays.com") for more info. The program benefits the Provision Packs charity and we are having a Happy Hour to benefit this wonderful local charity!
