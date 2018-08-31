@@ -23,13 +23,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: Beachfront Yoga Brunch
-    event_date: Sunday, August 12th
-    event_time: 10:00 am - 11:00 am
-    event_description: Join us @ Cocina 214 Daytona for  Yoga on the Beachfront Lawn!
+  - event_name: Happy Hour Benefitting Provision Packs
+    event_date: Thursday, September 13th
+    event_time: 4:30-6:30 pm
+    event_description: Join us @ Cocina 214 Daytona for a Happy Hour of Giving!
     photo_link:
-      photo_link_photo: "/uploads/2018/08/10/Beach-Yoga_2018.jpg"
-      photo_link_text: Yoga Brunch at Cocina 214 Daytona Beach
+      photo_link_photo: "/uploads/2018/08/31/Provision-Packs-HH-at-Cocina-214-Daytona_Sept-13-2018.jpg"
+      photo_link_text: Happy Hour of Giving at Cocina 214 Daytona Beach
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/yoga-brunch-beachfront-at-cocina-214-daytona-beach/
