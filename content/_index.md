@@ -43,8 +43,8 @@ upcoming_events:
       photo_link_text: Happy Hour Menu
   - event_name: Brunch
     event_date: Saturdays & Sundays
-    event_time: 11:30a – 3:00p
-    event_description: "$3 Brunch Mimosas"
+    event_time: until 3:00pm
+    event_description: Brunch Menu with $3 Brunch Mimosas
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
