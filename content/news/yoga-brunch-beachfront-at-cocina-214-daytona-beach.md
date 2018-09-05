@@ -1,7 +1,17 @@
 +++
-category = "awards"
+category = "upcoming"
 date = "2018-09-05T14:29:15-05:00"
-draft = true
+featured_photo = "/uploads/2018/09/05/Beach-Yoga_September-2018-medium.jpg"
+location = "Daytona Beach"
+photos = []
 title = "Yoga Brunch Beachfront at Cocina 214 Daytona Beach!"
+video_key = ""
 
 +++
+Join us for yoga on the beachfront lawn!  
+  
+Soraya Sanchez from [Dynamic Alignment Yoga](https://www.facebook.com/DynamicAlignmentYoga/) will teach free beginner's yoga from 10-11am. Plan to stay for brunch after class and receive a complimentary mimosa with the purchase of an entree!  
+  
+Don't forget to bring your yoga mat, a towel, lots of water, and sunscreen.
+
+![](/uploads/2018/09/05/Beach-Yoga_September-2018-medium.jpg)
