@@ -29,7 +29,7 @@ upcoming_events:
     event_description: Join us @ Cocina 214 Daytona for a Happy Hour of Giving!
     photo_link:
       photo_link_photo: "/uploads/2018/08/31/Provision-Packs-HH-at-Cocina-214-Daytona_Sept-13-2018.jpg"
-      photo_link_text: Happy Hour of Giving at Cocina 214 Daytona Beach
+      photo_link_text: Happy Hour of Giving Poster
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/happy-hour-of-giving-at-cocina-214-daytona-beach/
