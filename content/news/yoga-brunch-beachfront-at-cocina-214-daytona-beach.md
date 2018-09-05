@@ -1,6 +1,6 @@
 +++
 category = "upcoming"
-date = "2018-09-05T14:29:15-05:00"
+date = "2018-09-23T09:00:00-05:00"
 featured_photo = "/uploads/2018/09/05/Beach-Yoga_September-2018-medium.jpg"
 location = "Daytona Beach"
 photos = []
