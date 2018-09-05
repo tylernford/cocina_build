@@ -33,6 +33,13 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/happy-hour-of-giving-at-cocina-214-daytona-beach/
+  - event_name: Yoga Brunch
+    event_date: September 23rd
+    event_time: 10:00-11:00 am
+    event_description: Yoga Brunch
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/yoga-brunch-beachfront-at-cocina-214-daytona-beach/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
