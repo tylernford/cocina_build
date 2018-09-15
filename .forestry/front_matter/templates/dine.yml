@@ -101,16 +101,30 @@ fields:
     label: Menu
     description: File names should not have spaces. e.g. "dine in menu.pdf" should
       be changed to "dine_in_menu.pdf"
-  - type: file
+  - type: field_group
     name: winter_park_menu
     label: Winter Park Menu
-    description: File names should not have spaces. e.g. "dine in menu.pdf" should
-      be changed to "dine_in_menu.pdf"
-  - type: file
+    fields:
+    - type: text
+      name: text
+      label: Text
+    - type: file
+      name: menu
+      label: Menu
+      description: File names should not have spaces. e.g. "dine in menu.pdf" should
+        be changed to "dine_in_menu.pdf"
+  - type: field_group
     name: daytona_beach_menu
     label: Daytona Beach Menu
-    description: File names should not have spaces. e.g. "dine in menu.pdf" should
-      be changed to "dine_in_menu.pdf"
+    fields:
+    - type: text
+      name: text
+      label: Text
+    - type: file
+      name: menu
+      label: Menu
+      description: File names should not have spaces. e.g. "dine in menu.pdf" should
+        be changed to "dine_in_menu.pdf"
   - type: file
     name: photo
     label: Photo
