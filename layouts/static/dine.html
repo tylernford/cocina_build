@@ -189,7 +189,9 @@
 
             <div class="fade-in t-del-2   lh-2 mb-2_6875 measure-wide mh3 nested-list nested-p   mh4-ns   mr5-l   ml-7@79 w-25@79">
                 <p>{{ .Params.private_dining.text | markdownify }}</p>
-                <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .Params.private_dining.menu }}">View Private Dining Menu</a>
+                {{ range .Params.private_dining.menus }}
+                  <a class="dib f4 jean-luc lh-1_5 link mt-1_625 tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .link_text }}</a>
+                {{ end }}
             </div>
         </div>
     </div>

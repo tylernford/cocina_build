@@ -56,8 +56,6 @@ private_dining:
     event."
   menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
-  winter_park_menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
-  daytona_beach_menu: ''
   menus:
   - menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
     link_text: View Private Dining Menu
