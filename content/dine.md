@@ -54,7 +54,6 @@ private_dining:
     printed exclusively for your event.\n- HD TVs and sound system available for use.\n-
     Standard linens are included with your reservation.\n\nLet us help plan your momentous
     event."
-  menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
   menus:
   - menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
