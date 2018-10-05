@@ -23,7 +23,8 @@ upcoming_events:
   - event_name: Halloween-Themed Beachfront Yoga & Brunch
     event_date: October 28, 2018
     event_time: 10:00 am - 11:00am
-    event_description: ''
+    event_description: 'Free Beachfront Yoga and a Complimentary Mimosa with the purchase
+      of an entree '
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/halloween-themed-yoga-brunch!/
