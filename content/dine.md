@@ -37,7 +37,8 @@ catering:
   text: "Cocina 214 would love to cater your next event! Let us cater your Office
     Lunches or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal
     Dinners, Baby Showers, Alumni Gatherings, Birthdays, Anniversaries, Holiday Parties
-    and much more! \n\nWe can bring our award-winning Tex-Mex/Mexican to your work,
+    and much more! \n\nGet a $25 Cocina 214 Gift Card for every $500 Catering Order
+    that you place!\n\nWe can bring our award-winning Tex-Mex/Mexican to your work,
     residence or other location with advanced notice. \n\n- Free delivery within a
     10-mile radius of our restaurant, with an additional fee for further mileage.
     \n- Delivery orders include a drop-off and quick onsite set-up. \n- Minimum Order
