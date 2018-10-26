@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "current"
 date = "2018-10-25T23:00:00-05:00"
 featured_photo = "/uploads/2018/10/26/Celebrate-the-Season-with-Cocina-214_2018.jpg"
 location = "All Locations"
