@@ -1,5 +1,5 @@
 +++
-category = "current"
+category = "past-events"
 date = "2018-04-10T11:37:09-05:00"
 featured_photo = "/uploads/2018/04/16/CincoDeMayoPoster_WPFinal2018_forwebsite.jpg"
 location = "Winter Park"
