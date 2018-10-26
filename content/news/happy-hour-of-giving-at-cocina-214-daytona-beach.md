@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2018-08-31T10:36:45-05:00"
 featured_photo = "/uploads/2018/08/31/Provision-Packs-HH-at-Cocina-214-Daytona_Sept-13-2018.jpg"
 location = "Daytona Beach"
