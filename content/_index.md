@@ -28,6 +28,12 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/halloween-themed-yoga-brunch!/
+  - event_name: Book your Holiday Party or Catering with Cocina 214!
+    event_date: Now - December 2018
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/celebrate-the-season-with-cocina-214/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
