@@ -4,7 +4,7 @@ date = "2018-10-26T11:54:52-05:00"
 featured_photo = "/uploads/2018/10/26/Celebrate-the-Season-with-Cocina-214_2018.jpg"
 location = "All Locations"
 photos = []
-title = "Celebrate the Season with Cocina 214!"
+title = "Let Cocina 214 Host or Cater your Upcoming Holiday Party!"
 video_key = ""
 
 +++
