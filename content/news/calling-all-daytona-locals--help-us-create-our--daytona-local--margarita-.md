@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2018-06-27T19:17:44-05:00"
 featured_photo = "/uploads/2018/06/28/Margarita-Contest-Poster-2018_aqua.jpg"
 location = "Daytona Beach"
