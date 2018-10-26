@@ -28,7 +28,8 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/halloween-themed-yoga-brunch!/
-  - event_name: Book your Holiday Party or Catering with Cocina 214!
+  - event_name: Book your Holiday Party or Catering with Cocina 214 and Receive a
+      $25 Gift Card!
     event_date: Now - December 2018
     event_description: ''
     event_links:
