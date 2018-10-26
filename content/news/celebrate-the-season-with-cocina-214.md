@@ -1,7 +1,7 @@
 +++
 category = "current"
 date = "2018-10-28T23:00:00-05:00"
-featured_photo = "/uploads/2018/10/26/Celebrate-the-Season-with-Cocina-214_2018.jpg"
+featured_photo = "/uploads/2018/10/26/Orlando-Magazine-Ad_Dec-2018.jpg"
 location = "All Locations"
 photos = []
 title = "Let Cocina 214 Host or Cater your Upcoming Holiday Party!"
@@ -20,4 +20,4 @@ For our **_Daytona Beach_** location, email Kristina Fuertes at: daytonaparty@co
 
 For our **_Winter Park_** location, email Jenna Dever at: party@cocina214.com
 
-![](/uploads/2018/10/26/Orlando-Magazine-Ad_Dec-2018.jpg)
+![](/uploads/2018/10/26/Celebrate-the-Season-with-Cocina-214_2018.jpg)
