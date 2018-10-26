@@ -59,6 +59,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas.md
 - content/news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-.md
 - content/news/halloween-themed-yoga-brunch!.md
 - content/news/mexico-world-cup-game---cocina-214-june-23rd-with-happy-hour-specials-.md
@@ -73,7 +74,6 @@ pages:
 - content/news/jenna-s-promotion-was-included-in-the-orlando-sentinel-s--people-on-the-move--.md
 - content/news/cocina-214-debuts-on-the-beach-.md
 - content/news/cocina-214-a-daytona-favorite.md
-- content/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas.md
 - content/news/cocina-214-daytona-beach-coming-in-january.md
 - content/news/we-have-news.md
 - content/news/great-things-coming.md
