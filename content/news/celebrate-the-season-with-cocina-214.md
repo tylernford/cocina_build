@@ -14,7 +14,7 @@ We can help plan your Sit-Down Dinner, Taco Bar, Fajita Bar, Margarita Bar or ot
 
 **_As a holiday perk, get a $25 Gift Card for every $500 Catering Order or Private Dining Event!_**
 
-Cocina 214 was voted one of the "Best Places to Celebrate" by Orlando Magazine, so book now!
+**Cocina 214 was voted one of the "Best Places to Celebrate" by Orlando Magazine, so book now!**
 
 For our **_Daytona Beach_** location, email Kristina Fuertes at: daytonaparty@cocina214.com
 
