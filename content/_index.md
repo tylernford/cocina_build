@@ -34,6 +34,8 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/celebrate-the-season-with-cocina-214/
+    photo_link:
+      photo_link_photo: "/uploads/2018/10/26/Orlando-Magazine-Ad_Dec-2018.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
