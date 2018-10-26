@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2018-06-20T10:48:51-05:00"
 featured_photo = "/uploads/2018/06/20/World-Cup-Soccer-Special-2019.jpg"
 location = "All Locations"
