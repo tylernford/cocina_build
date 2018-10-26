@@ -1,5 +1,5 @@
 +++
-category = "current"
+category = "past-events"
 date = "2018-04-10T15:01:42+00:00"
 featured_photo = "/uploads/2018/04/16/CincoDeMayoPoster_DaytonaFinal2018_forwebsite.jpg"
 location = "Daytona Beach"
