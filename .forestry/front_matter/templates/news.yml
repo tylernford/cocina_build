@@ -59,6 +59,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/november-beach-yoga.md
 - content/news/halloween-themed-yoga-brunch!.md
 - content/news/registration-now-open-for-cocina-214-s-annual-running-of-the-chihuahuas.md
 - content/news/celebrate-cinco-de-mayo-at-the-beach-with-cocina-214-daytona-.md
