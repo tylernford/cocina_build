@@ -33,10 +33,13 @@ upcoming_events:
   - event_name: November Yoga Brunch
     event_date: November 18, 2018
     event_time: 10:00 am
-    event_description: ''
+    event_description: Gratitude-Themed Yoga on our Beachfront Lawn
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/november-beach-yoga/
+    photo_link:
+      photo_link_text: Event Poster
+      photo_link_photo: "/uploads/2018/11/07/Beach-Yoga_November-2018.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
