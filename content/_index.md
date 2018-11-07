@@ -30,6 +30,13 @@ upcoming_events:
     photo_link:
       photo_link_photo: "/uploads/2018/10/26/Orlando-Magazine-Ad_Dec-2018.jpg"
       photo_link_text: Link to Holiday Poster Here
+  - event_name: November Yoga Brunch
+    event_date: November 18, 2018
+    event_time: 10:00 am
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/november-beach-yoga/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
