@@ -150,5 +150,4 @@ fields:
     name: daytona_beach_text
     label: Daytona Beach Text
 pages:
-- content/test.md
 - content/dine.md
