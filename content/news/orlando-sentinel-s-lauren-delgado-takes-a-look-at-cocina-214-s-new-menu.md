@@ -2,7 +2,7 @@
 category = "press"
 date = "2018-11-15T08:17:59-06:00"
 draft = true
-featured_photo = ""
+featured_photo = "/uploads/2018/11/15/os-1542232733-cap03dlfdd-snap-image.jpg"
 location = "Winter Park"
 photos = []
 title = "Orlando Sentinel's Lauren Delgado Takes a Look at Cocina 214's New Menu!"
