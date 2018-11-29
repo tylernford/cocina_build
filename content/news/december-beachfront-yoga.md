@@ -16,6 +16,6 @@ This is our Holiday-Themed class. Feel free to wear festive gear or even an ugly
 
 Yoga will be held on the green space, overlooking the ocean. The class is open to kids, families and friends, so come join us! 
 
-Don't forget to bring your yoga mat, a towel, lots of water, and sunscreen.
+Don't forget to bring your yoga mat, a towel and water.
 
 ![](/uploads/2018/11/29/Beach-Yoga_December-2018.jpg)
