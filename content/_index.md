@@ -20,10 +20,10 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: December Beachfront Yoga & Brunch
+  - event_name: December Yoga
     event_date: December 16, 2018
     event_time: 10:00-11:00 am
-    event_description: ''
+    event_description: Beachfront Yoga & Brunch
     photo_link:
       photo_link_photo: "/uploads/2018/11/29/Beach-Yoga_December-2018.jpg"
       photo_link_text: Event Poster Here
