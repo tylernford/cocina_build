@@ -20,6 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: December Beachfront Yoga & Brunch
+    event_date: December 16, 2018
+    event_time: 10:00-11:00 am
+    event_description: ''
+    photo_link:
+      photo_link_photo: "/uploads/2018/11/29/Beach-Yoga_December-2018.jpg"
+      photo_link_text: Event Poster Here
   - event_name: Book your Holiday Party or Catering with Cocina 214 and Receive a
       $25 Gift Card!
     event_date: Now - December 2018
@@ -30,16 +37,6 @@ upcoming_events:
     photo_link:
       photo_link_photo: "/uploads/2018/10/26/Orlando-Magazine-Ad_Dec-2018.jpg"
       photo_link_text: Link to Holiday Poster Here
-  - event_name: November Yoga Brunch
-    event_date: November 18, 2018
-    event_time: 10:00 am
-    event_description: Gratitude-Themed Yoga on our Beachfront Lawn
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: http://cocina214.com/news/november-beach-yoga/
-    photo_link:
-      photo_link_text: Event Poster
-      photo_link_photo: "/uploads/2018/11/07/Beach-Yoga_November-2018.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
