@@ -59,6 +59,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/december-beachfront-yoga.md
 - content/news/orlando-sentinel-s-lauren-delgado-takes-a-look-at-cocina-214-s-new-menu.md
 - content/news/november-beach-yoga.md
 - content/news/halloween-themed-yoga-brunch!.md
