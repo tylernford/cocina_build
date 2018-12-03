@@ -20,6 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: Sunday Funday
+    event_date: December 9, 2018
+    event_time: 11:00 am - 3:00 pm
+    event_description: 'Sunday Funday with Bottomless Mimosas and free Local Beer
+      Samples '
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/sunday-funday-on-deember-9th/
   - event_name: December Yoga
     event_date: December 16, 2018
     event_time: 10:00-11:00 am
