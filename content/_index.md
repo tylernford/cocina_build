@@ -28,6 +28,9 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/sunday-funday-on-deember-9th/
+    photo_link:
+      photo_link_text: View Event Poster Here
+      photo_link_photo: "/uploads/2018/12/02/SundayFunday_December-2018.jpg"
   - event_name: December Yoga
     event_date: December 16, 2018
     event_time: 10:00-11:00 am
