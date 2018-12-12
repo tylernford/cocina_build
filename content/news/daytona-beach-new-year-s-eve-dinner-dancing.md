@@ -1,7 +1,6 @@
 +++
 category = "upcoming"
 date = "2018-12-31T17:00:34-06:00"
-draft = true
 featured_photo = "/uploads/2018/12/12/New-Year's-Eve-Daytona-2018.jpg"
 location = "Daytona Beach"
 photos = []
