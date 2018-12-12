@@ -30,6 +30,16 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/december-beachfront-yoga/
+  - event_name: Daytona Beach New Year's Eve Dinner & Dancing
+    event_date: Monday, December 31st
+    event_time: 7:00 pm
+    event_description: Daytona Beach New Year's Eve Dinner & Dancing
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/daytona-beach-new-year-s-eve-dinner-dancing/
+    photo_link:
+      photo_link_text: View Event Poster Here
+      photo_link_photo: "/uploads/2018/12/12/New-Year's-Eve-Daytona-2018-1.jpg"
   - event_name: Book your Holiday Party or Catering with Cocina 214 and Receive a
       $25 Gift Card!
     event_date: Now - December 2018
