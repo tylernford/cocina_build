@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2018-12-09T10:00:15-06:00"
 featured_photo = "/uploads/2018/12/02/SundayFunday_December-2018.jpg"
 location = "Daytona Beach"
