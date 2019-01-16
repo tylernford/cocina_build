@@ -20,6 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: January Yoga Brunch
+    event_date: Sunday, January 20th
+    event_time: 10:00am
+    event_description: ''
+    photo_link:
+      photo_link_text: Event Poster Here
+      photo_link_photo: "/uploads/2019/01/16/Beach-Yoga_January-2019.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
