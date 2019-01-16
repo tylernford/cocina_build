@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: January Yoga Brunch
     event_date: Sunday, January 20th
     event_time: 10:00am
-    event_description: ''
+    event_description: Join us for Beachfront Yoga and Brunch afterwards!
     photo_link:
       photo_link_text: Event Poster Here
       photo_link_photo: "/uploads/2019/01/16/Beach-Yoga_January-2019.jpg"
