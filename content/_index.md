@@ -27,6 +27,9 @@ upcoming_events:
     photo_link:
       photo_link_text: Event Poster Here
       photo_link_photo: "/uploads/2019/01/16/Beach-Yoga_January-2019.jpg"
+    event_links:
+    - event_link_text: 'Learn More '
+      event_link_url: http://cocina214.com/news/january-beachfront-yoga-in-daytona-beach/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
