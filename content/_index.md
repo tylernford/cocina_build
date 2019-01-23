@@ -20,16 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: January Yoga Brunch
-    event_date: Sunday, January 20th
-    event_time: 10:00am
-    event_description: Join us for Beachfront Yoga and Brunch afterwards!
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/01/16/Beach-Yoga_January-2019.jpg"
+  - event_name: February Sunday Funday!
+    event_date: Sunday, February 3rd
+    event_time: 11:00 am - 3:00 pm
+    event_description: ''
     event_links:
-    - event_link_text: 'Learn More '
-      event_link_url: http://cocina214.com/news/january-beachfront-yoga-in-daytona-beach/
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/february-sunday-funday/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
