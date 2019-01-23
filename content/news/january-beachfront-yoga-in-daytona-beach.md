@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2019-01-20T09:00:00-06:00"
 featured_photo = "/uploads/2019/01/16/Beach-Yoga_January-2019.jpg"
 location = "Daytona Beach"
