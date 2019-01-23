@@ -15,3 +15,5 @@ Before the Big Game, let's Sunday Funday!
 Join us for games on the lawn, brunch & $15 bottomless mimosas per person.
 
 Cornholes, Jenga and a DJ will be out on the lawn overlooking the ocean, so get your FUNDAY on!
+
+![](/uploads/2019/01/23/SundayFunday2_Feb-2019.jpg)
