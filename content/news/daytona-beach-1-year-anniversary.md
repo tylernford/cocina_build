@@ -8,10 +8,14 @@ title = "Daytona Beach 1 Year Anniversary!!!"
 video_key = ""
 
 +++
-Help us celebrate our Daytona Beach Location's 1 Year Anniversary on **Friday, January 25th**!
+Help us celebrate our **_1 Year Anniversary_** @ Cocina 214 Daytona Beach !
 
-We will be offering buy-one-get-one 214 Rocks or Frozen Margaritas, all day long!*
+**Friday, January 25th** 
 
-\*Limit 1 per person. Must be at least 21 years of age with valid ID.
+We will be offering **_buy-one-get-one_** 214 Rocks or Frozen Margaritas **_all day long_**!
+
+BOGO 214 Rocks or Frozen Margaritas*!
+
+\*Limit 1 per person. Offer only valid at Cocina 214 Daytona Beach on 1/25/2019. Must be at least 21 years of age with a valid ID.
 
 ![](/uploads/2019/01/24/1-year-anniversary_Daytona.jpg)
