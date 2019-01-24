@@ -27,6 +27,9 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: http://cocina214.com/news/daytona-beach-1-year-anniversary/
+    photo_link:
+      photo_link_text: Event Poster Here
+      photo_link_photo: "/uploads/2019/01/24/1-year-anniversary_Daytona-1.jpg"
   - event_name: February Sunday Funday!
     event_date: Sunday, February 3rd
     event_time: 11:00 am - 3:00 pm
