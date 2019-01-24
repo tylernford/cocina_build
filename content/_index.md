@@ -20,6 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: Daytona Beach 1 Year Anniversary!
+    event_date: Friday, January 25th
+    event_time: 11:00 am - Close
+    event_description: Help us Celebrate our 1 Year Anniversary!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: http://cocina214.com/news/daytona-beach-1-year-anniversary/
   - event_name: February Sunday Funday!
     event_date: Sunday, February 3rd
     event_time: 11:00 am - 3:00 pm
