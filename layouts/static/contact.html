@@ -6,7 +6,7 @@
     <h1 class="element-invisible">Contact Us</h1>
 
     <!-- Locations -->
-    <div class="mv2   mv3-ns   flex@54   css-ie-flex-shrink section-animate ">
+    <div class="mv2   mv3-ns   css-ie-flex-shrink section-animate ">
         <!--   Location One   -->
         <div class="section-animate  bg-dark-brown  mv2   mv3-ns   flex-l   css-ie-flex-shrink">
             <!--   Location Info   -->
@@ -47,7 +47,7 @@
                             </div>
                         {{ end }}
 
-                        <div style="position:relative; display:block;"></div>
+                        <div style="position:relative; display:block; height:36px;"></div>
                       
                         <!--   Reservation Widget   -->
                         <a href="https://resy.com/cities/orl/cocina214winterpark" id="resyButton-uk1lx0ui">Book your Cocina 214- Winter Park reservation on Resy</a>
@@ -82,7 +82,7 @@
 
                 <!--   Divider   -->
                 <div class="flex@90 justify-end@90">
-                    <div class="bg-gold h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   w-27@90"></div>
+                    <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   w-27@90"></div>
                 </div>
                 <!-- End Divider -->
 
@@ -98,8 +98,8 @@
                             <p class="f6 ml2 mv0   f5-ns   ml3-ns w-auto-ns   ml4-l">{{ .Site.Data.Winter_Park_Info.Address.part_one }}<br>{{ .Site.Data.Winter_Park_Info.Address.part_two }}</p>
                         </div>
                         <div class="flex mb4 mt4">
-                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ph3 pt-_375 tracked-narrow ttu white   ph4-ns" href="{{ .Site.Data.Winter_Park_Info.Address.google_maps_url }}">Get Directions</a>
-                            <a class="b--c-gold ba bw1 c-gold dib f-1_125 h-2_5 hover-bg-gold hover-c-dark-brown jean-luc lh-1_5 link ml3 ph3 pt-_375 tracked-narrow ttu white   ph4-ns   ml4-l" href="tel:{{ .Site.Data.Winter_Park_Info.Phone }}">Call Us</a>
+                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu" href="{{ .Site.Data.Winter_Park_Info.Address.google_maps_url }}">Get Directions</a>
+                            <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-c-gold jean-luc lh-1_5 link mb-2_1875 ph4 pt-_375 tracked-narrow ttu" href="tel:{{ .Site.Data.Winter_Park_Info.Phone }}">Call Us</a>
                         </div>
 
                         <h3 class="f5 fw4 mv0">Hours:</h3>
@@ -109,6 +109,8 @@
                                 <p class="f6 mv0 w-50 white   f5@23   w-48@25   ml3-ns w-auto-ns">{{ .times }}</p>
                             </div>
                         {{ end }}
+
+                        <div style="position:relative; display:block; height:36px;"></div>
                       
                         <!--   Reservation Widget   -->
                         <a href="https://resy.com/cities/orl/cocina214winterpark" id="resyButton-uk1lx0ui">Book your Cocina 214- Winter Park reservation on Resy</a>
