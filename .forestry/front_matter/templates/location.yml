@@ -11,5 +11,4 @@ fields:
   label: Hero Photos
   description: Slider will display no more than 4 photos
 pages:
-- content/Loyalty.md
 - content/location.md
