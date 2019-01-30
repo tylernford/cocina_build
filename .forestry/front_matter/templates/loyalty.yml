@@ -1,0 +1,12 @@
+---
+label: loyalty
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: forestry_title
+  label: Title
+- type: image_gallery
+  name: hero_photos
+  label: Hero Photos
+  description: Slider will display no more than 4 photos
