@@ -20,16 +20,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: Daytona Beach 1 Year Anniversary!
-    event_date: Friday, January 25th
-    event_time: 11:00 am - Close
-    event_description: Help us Celebrate our 1 Year Anniversary!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: http://cocina214.com/news/daytona-beach-1-year-anniversary/
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/01/24/1-year-anniversary_Daytona-1.jpg"
   - event_name: February Sunday Funday!
     event_date: Sunday, February 3rd
     event_time: 11:00 am - 3:00 pm
@@ -40,6 +30,13 @@ upcoming_events:
     photo_link:
       photo_link_text: Event Poster Here
       photo_link_photo: "/uploads/2019/01/23/SundayFunday2_Feb-2019.jpg"
+  - event_name: February Yoga Brunch
+    event_date: Sunday, February 10th
+    event_time: 10:00 am
+    event_description: Beachfront Yoga Brunch
+    photo_link:
+      photo_link_text: 'Event Poster Here '
+      photo_link_photo: "/uploads/2019/01/30/Beach-Yoga_Feb-2019.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
