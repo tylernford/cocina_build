@@ -1,0 +1,405 @@
+/***** Main/Host Page CSS *****/
+.body
+{
+    font-family: "Verdana",sans-serif;
+    text-align: left;
+}
+
+#centeringDiv
+{
+    position: relative;
+}
+
+.page
+{
+    font-family: "Verdana",sans-serif;
+    background-color: #E8E3D7;
+}
+
+    /** Form text CSS **/
+#titleText
+{
+    font-weight: bold;
+    color: rgb(230,230,200);
+}
+#instructionalText
+{
+    font-weight: 600;
+    color: rgb(230,230,200);
+}
+
+#instructionalText_LoginPage
+{
+    font-weight: 600;
+    color: rgb(230,230,200);
+}
+
+.pageInstructions /**Main instructions on client color's background**/
+{
+    font-weight: 600;
+    color: rgb(200,200,170);
+}
+
+.formHeadlines
+{
+    color: rgb(230,230,200);
+}
+
+.inputLabel
+{
+    color: rgb(230,230,200);
+}
+
+.formLabel
+{
+    color: rgb(230,230,200);
+}
+
+.formLabelSmall
+{
+    color: rgb(230,230,200);
+}
+
+.footerText
+{
+    color: rgb(230,230,200);
+}
+
+hr
+{
+    background-color: rgb(230,230,200);
+    color: rgb(230,230,200);
+}
+    /** Form text CSS **/
+    
+#userTag
+{
+    color: rgb(80,80,60);
+    background-color: rgb(200,200,160);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(80,80,60);
+    text-align: center;
+}
+    
+a.userTagLink:link
+{
+    font-size: 12px; 
+    font-weight: 600; 
+    font-style:  normal; 
+    margin-top: 0px;
+    color: rgb(130,130,100);
+}
+
+a.userTagLink:hover
+{
+    font-size: 12px; 
+    font-weight: 600; 
+    font-style:  normal; 
+    margin-top: 0px;
+    color: rgb(51,51,51);
+}
+
+#forgotPasswordLink
+{
+    font-weight: 400;
+    color: rgb(230,230,200);
+}
+
+    /** Link CSS **/
+.links 
+{ 
+    text-decoration: none;
+}
+
+a:link  
+{
+    margin: 0px;
+    padding: 0px;
+    color:  rgb(230,230,200);
+    text-decoration: none;
+}
+a:active
+{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(230,230,200);
+    text-decoration: none;
+}
+a:visited
+{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(230,230,200);
+    text-decoration: none;
+}
+a:hover
+{
+    margin: 0px;
+    padding: 0px;
+    color:  rgb(60,60,35);
+    text-decoration: none;
+}
+
+.mainNavLink
+{
+    color:  rgb(0,0,0);
+    font-size: 16pt;
+    font-weight: 600;
+    font-style: normal;
+    clear: none;
+    display: inline;
+}
+
+.secondNavLink
+{
+    color:  rgb(20,219,158);
+    font-size: 16pt;
+    font-weight: 600;
+    font-style: normal;
+    clear: none;
+    display:inline;
+}
+    /** Link CSS **/
+
+.mainDelimiter
+{
+    font-size: 18pt;
+    font-weight: 600;
+    font-style: normal;
+    clear: none;
+    display:inline;
+    margin: 0px 10px 0px 10px;
+}
+
+.secondDelimiter
+{    
+    font-size: 18pt;
+    font-weight: 600;
+    font-style: normal;
+    clear: none;
+    display:inline;
+    margin: 0px 10px 0px 10px;
+}
+
+.title
+{
+    font-size: 24pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(230,230,200);
+    text-align: center;
+}
+
+.instructions /**Instructions on white background**/
+{
+    font-size: 13pt;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 16pt;
+    color: rgb(120,120,70);
+    text-align: center;
+}
+
+.homePageLink 
+{
+    font-size: 18pt;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(230,230,200);
+    text-align: center;
+    text-decoration: none;
+}
+
+.disclaimerText
+{
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(230,230,200);
+    text-align: center;
+}
+
+.asterisk 
+{
+    font-size:11pt;
+    font-weight:normal;
+    font-style:normal;
+    color:rgb(220, 0, 0);
+    text-align:left;
+}
+/***** Main/Host Page CSS *****/
+
+
+/***** Login Page CSS *****/
+.login {
+    font-size:11pt;
+    font-weight:bold;
+    font-style:normal;
+    color:rgb(0, 0, 0);
+    text-align:center;
+}
+.errorMessage
+{
+    color: red;
+    text-align: center;
+}
+/***** Login Page CSS *****/
+
+
+/***** Standings Page *****/
+h1.standingsHeadline
+{
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(80,80,60);
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    text-align: left;
+}
+
+h2.standingsHeadline
+{
+    font-size: 48px;
+    font-weight: 900;
+    color: rgb(120,120,70);
+    margin: 0px;
+    padding: 0px;
+}
+
+h3.standingsHeadline
+{
+    font-size: 16px;
+    font-style: oblique;
+    margin: 0px 0px 5px 20px;
+    padding: 0px;
+}
+
+.standingsText
+{
+    margin: 0px;
+}
+/***** Standings Page *****/
+
+
+/***** Profile/Bonus Plan Pages CSS *****/
+.pageHeadlines
+{
+    color: rgb(230,230,200);
+    margin: auto;
+    text-align: center;
+}
+
+.fldLabel 
+{
+    font-family: Tahoma,Arial,Helvetica,sans-serif;
+    font-size:11pt;
+    font-weight:normal;
+    font-style:normal;
+    color:rgb(0, 0, 0);
+    text-align:right;
+    width:50%;
+}
+
+.fldData 
+{
+    font-family: Tahoma,Arial,Helvetica,sans-serif;
+    font-size:11pt;
+    font-weight:normal;
+    font-style:normal;
+    color:rgb(0, 0, 0);
+    text-align:left;
+    background-color:rgb(255, 255, 255);
+    width:230px;
+}
+
+.BPName 
+{ 
+    font-family: Tahoma,Arial,Helvetica,sans-serif;
+    font-size:11pt;
+    font-weight:bold;
+    font-style:normal;
+    color:rgb(0, 0, 0);
+    text-align:right;
+}
+
+.BPBalance {
+	font-family: Tahoma,Arial,Helvetica,sans-serif;
+	font-size:11pt;
+	font-weight:normal;
+	font-style:normal;
+	color:rgb(0, 0, 0);
+	text-align:left;
+}
+
+.grpbox {
+	font-family: Tahoma,Arial,Helvetica,sans-serif;
+	font-size:11pt;
+	font-weight:bold;
+	font-style:normal;
+	color:rgb(0, 0, 0);
+	text-align:left;
+}
+
+.Txn_both {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:  10pt;
+	font-weight: bold;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+	text-align: left;
+}
+
+.Txn_one {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size:  18pt;
+	font-weight: bold;
+	font-style: normal;
+	color: rgb(255, 255, 255);
+	text-align: left;
+}
+
+.eCardBalance_both {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 10pt; 
+	font-weight: bold; 
+	font-style: normal; 
+	color: rgb(0, 0, 0); 
+	text-align: center;
+}
+
+.eCardBalance_one {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 12pt; 
+	font-weight: bold; 
+	font-style: normal; 
+	color: rgb(0, 0, 0);
+	text-align: center;
+}
+
+.TxnValues_both {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 10pt; 
+	font-weight: bold; 
+	font-style: normal; 
+	color: rgb(0, 0, 0); 
+	text-align: left; 
+}
+
+.TxnValues_one {
+	font-family: Tahoma, Arial, Helvetica, sans-serif; 
+	font-size: 14pt; 
+	font-weight: bold; 
+	font-style: normal; 
+	color: rgb(0, 0, 0); 
+	text-align: left;
+}
+
+.EditProfile { 
+        font-family: Tahoma,Arial,Helvetica,sans-serif; 
+        font-size:10pt; 
+        font-weight:normal; 
+        font-style:normal; 
+        color:rgb(0, 0, 0); 
+        text-align:center 
+}
