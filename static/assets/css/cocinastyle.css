@@ -455,6 +455,11 @@ h3.standingsHeadline
     margin-right: auto;  
 }
 
+p.submit {
+    width: 100% !important;
+    height: auto !important;
+}
+
 input[type=submit] {
     width: 8.5rem;
     height: 2.5rem;
