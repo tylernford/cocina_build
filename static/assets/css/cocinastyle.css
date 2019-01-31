@@ -439,7 +439,7 @@ h3.standingsHeadline
 #loginForm table {
     position: relative;
     display: block;
-    width: 84%;
+    width: 73%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -462,7 +462,7 @@ h3.standingsHeadline
     position: absolute;
     left: 0;
     top: 0;
-    width: 122px !important;
+    width: 106px !important;
 }
 
 .formLinesLeft .inputLabel {
@@ -473,7 +473,7 @@ h3.standingsHeadline
 
 .formLinesRight {
     width: 100% !important;
-    padding-left: 122px;
+    padding-left: 106px;
     box-sizing: border-box;
 }
 
