@@ -442,3 +442,9 @@ h3.standingsHeadline
 #securityQuestions {
     max-width: 131px;
 }
+
+#newAccountForm {
+    max-width: 406px !important;
+    margin-left: auto;
+    margin-right: auto;  
+}
