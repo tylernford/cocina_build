@@ -468,6 +468,7 @@ h3.standingsHeadline
 .formLinesRight {
     width: 100% !important;
     padding-left: 16%;
+    box-sizing: border-box;
 }
 
 .formFields {
