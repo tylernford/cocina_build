@@ -4,7 +4,7 @@ date = "2019-02-10T09:00:00-06:00"
 featured_photo = "/uploads/2019/01/30/Beach-Yoga_Feb-2019.jpg"
 location = "Daytona Beach"
 photos = []
-title = "February Yoga Brunch"
+title = "February Yoga Brunchh"
 video_key = ""
 
 +++
