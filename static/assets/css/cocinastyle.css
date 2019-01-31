@@ -431,3 +431,7 @@ h3.standingsHeadline
 .endHR {
     display: none;
 }
+
+.formFields {
+    width: auto !important;
+}
