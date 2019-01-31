@@ -33,7 +33,7 @@
 {
     font-weight: 600;
     color: #2b2422;
-    margin-bottom: 36px;
+    margin-bottom: 36px !important;
     font-size: 18pt;
 }
 
@@ -107,6 +107,7 @@ a.userTagLink:hover
 {
     font-weight: 400;
     color: #2b2422;
+    font-size: 9pt;
 }
 
     /** Link CSS **/
@@ -408,7 +409,7 @@ h3.standingsHeadline
 }
 
 #main {
-    margin: 0px auto 12px auto;
+    margin: 0px auto 12px auto !important;
 }
 
 #memberlinkForm {
@@ -429,4 +430,26 @@ h3.standingsHeadline
 
 .endHR {
     display: none;
+}
+
+#loginForm {
+    position: relative;
+}
+
+#loginForm table {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+
+.formLinesLeft {
+    width: 20% !important;
+}
+
+.formLinesRight {
+    width: 80% !important;
+}
+
+.formFields {
+    width: 100% !important;
 }
