@@ -33,6 +33,8 @@
 {
     font-weight: 600;
     color: #2b2422;
+    margin-bottom: 36px;
+    font-size: 18pt;
 }
 
 .pageInstructions /**Main instructions on client color's background**/
@@ -214,7 +216,7 @@ a:hover
 
 .disclaimerText
 {
-    font-size: 12pt;
+    font-size: 9pt;
     font-weight: normal;
     font-style: normal;
     color: #2b2422;
@@ -403,4 +405,28 @@ h3.standingsHeadline
         font-style:normal; 
        color: #2b2422; 
         text-align:center 
+}
+
+#main {
+    margin: 0px auto 12px auto;
+}
+
+#memberlinkForm {
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    background: #d18419e6;
+}
+
+.formDiv {
+    max-width: 420px;
+}
+
+.homelink {
+    font-size: 13pt;
+}
+
+.endHR {
+    display: none;
 }
