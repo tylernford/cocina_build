@@ -444,12 +444,30 @@ h3.standingsHeadline
     margin-right: auto;
 }
 
+#loginForm table tbody {
+    position: relative;
+    display: block !important;
+}
+
+#loginForm table tr {
+    position: relative;
+    display: block !important;
+}
+
+#loginForm table td {
+    display: block !important;
+}
+
 .formLinesLeft {
+    position: absolute;
+    left: 0;
+    top: 0;
     width: 16% !important;
 }
 
 .formLinesRight {
-    width: 84% !important;
+    width: 100% !important;
+    padding-left: 16%;
 }
 
 .formFields {
