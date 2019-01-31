@@ -452,7 +452,8 @@ h3.standingsHeadline
 input[type=submit] {
     width: 8.5rem;
     height: 2.5rem;
-    background: none !important;
-    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    background: #e5dfd1 !important;
+    border-color: #2b2422;
     padding: 1px 7px;
+    cursor: pointer;
 }
