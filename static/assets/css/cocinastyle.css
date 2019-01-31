@@ -460,6 +460,6 @@ input[type=submit] {
     height: 2.5rem;
     background: #e5dfd1 !important;
     border-color: #2b2422;
-    padding: 1px 7px;
+    padding: 0 !important;
     cursor: pointer;
 }
