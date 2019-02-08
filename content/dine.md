@@ -44,7 +44,7 @@ catering:
     \n- Delivery orders include a drop-off and quick onsite set-up. \n- Minimum Order
     is required for delivery and for catered events. \n\nLet us plan the details of
     your catered event so that you can enjoy your gathering."
-  menu: "/uploads/2017/11/15/cocina_214_catering_menu.pdf"
+  menu: "/uploads/2019/02/08/CateringMenu_Jan 2019.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
   text: "With a stylish and approachable environment, Cocina 214 is a vibrant spot
