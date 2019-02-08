@@ -15,7 +15,7 @@ dine_with_us:
     Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
   - menu_name: Dine-In
-    menu: "/uploads/2018/08/31/StandardMenu_August_2018 Final.pdf"
+    menu: "/uploads/2019/02/08/StandardMenu_January_2019_FINAL.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2018/08/31/Drinks August 2018_Final.pdf"
   - menu_name: After Dinner Drink and Dessert
