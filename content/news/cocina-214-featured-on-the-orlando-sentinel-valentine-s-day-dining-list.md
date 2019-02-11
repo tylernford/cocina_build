@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2019-01-31T23:00:00-06:00"
-draft = true
 featured_photo = "/uploads/2019/02/04/Cocina214.jpg"
 location = "All Locations"
 photos = []
