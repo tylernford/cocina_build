@@ -8,7 +8,7 @@ hero_photos:
 - "/uploads/2018/06/22/Taco-wall-with-interior-background.jpg"
 - "/uploads/2017/12/01/patio.jpg"
 - "/uploads/2017/12/01/dine.jpg"
-content_section_1_title: Club 214 Member Perks 2
+content_section_1_title: Club 214 Member Perks
 content_section_1: <p>&lt;ul style="padding-left:0;"&gt;</p><p>                            &lt;li&gt;Join
   Club 214 and get your first 1000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
   5 points for every dollar you spend&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
