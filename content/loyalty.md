@@ -14,6 +14,7 @@ content_section_1: |-
   *   Earn 5 points for every dollar you spend
   *   Earn double points on Tuesdays
   *   Receive special invites to exclusive Club 214 Member-Only events
+  *   New
 section_1_image: "/uploads/2018/06/22/Taco-wall-with-interior-background.jpg"
 content_section_2_title: Exclusive Member-Only Perks
 content_section_2: |-
