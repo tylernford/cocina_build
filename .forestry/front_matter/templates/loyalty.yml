@@ -17,9 +17,9 @@ fields:
   name: content_section_1
   label: Content Section 1
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
-      format: html
+      format: markdown
 - type: file
   name: section_1_image
   label: Section 1 Image
