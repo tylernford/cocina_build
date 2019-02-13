@@ -17,7 +17,7 @@ fields:
   name: content_section_1
   label: Content Section 1
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: file

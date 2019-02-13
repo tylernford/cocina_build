@@ -9,11 +9,13 @@ hero_photos:
 - "/uploads/2017/12/01/patio.jpg"
 - "/uploads/2017/12/01/dine.jpg"
 content_section_1_title: Club 214 Member Perks
-content_section_1: |-
-  * Join Club 214 and get your first 1000 points
-  * Earn 5 points for every dollar you spend
-  * Earn double points on Tuesdays
-  * Receive special invites to exclusive Club 214 Member-Only events
+content_section_1: "*   Join Club 214 and get your first 1000 points\n*   Earn 5 points
+  for every dollar you spend\n*   Earn double points on Tuesdays\n*   Receive special
+  invites to exclusive Club 214 Member-Only events\n\n[https://cocinatwoonefour.alohaenterprise.com/memberlink/Login.html?companyID=cto02](<a
+  href= \"https://cocinatwoonefour.alohaenterprise.com/memberlink/Login.html?companyID=cto02\")\"
+  target=\"\\_blank\">Loyalty Sign In  \n[https://cocina214.com/assets/images/Club214\\_InfoCard\\_Jan\\_2019.pdf](<a
+  href= \"https://cocinatwoonefour.alohaenterprise.com/memberlink/Login.html?companyID=cto02\")\"
+  style=\"margin-top:20px;\" target=\"\\_blank\">Download Info Card"
 section_1_image: "/uploads/2018/06/22/Taco-wall-with-interior-background.jpg"
 content_section_2_title: Exclusive Member-Only Perks
 content_section_2: '<p>&lt;ul style="padding-left:0;"&gt;</p><p>                    &lt;li&gt;Skinny
