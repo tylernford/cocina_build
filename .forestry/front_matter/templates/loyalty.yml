@@ -30,7 +30,7 @@ fields:
   name: content_section_2
   label: Content Section 2
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: file
@@ -43,7 +43,7 @@ fields:
   name: content_section_3
   label: Content Section 3
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: file
@@ -56,7 +56,7 @@ fields:
   name: content_section_4
   label: Content Section 4
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: file
