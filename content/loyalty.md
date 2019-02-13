@@ -35,16 +35,16 @@ content_section_2: '<p>&lt;ul style="padding-left:0;"&gt;</p><p>                
   in on Catering: $25 Gift Card for each Catering Order over $500&lt;/li&gt;</p><p>                &lt;/ul&gt;</p>'
 section_2_image: "/uploads/2017/11/21/frozen_margarita_outside_closeup_w_limes.jpg"
 content_section_3_title: Club 214 Rewards
-content_section_3: <p>&lt;ul style="padding-left:0;"&gt;</p><p>                            &lt;li&gt;Earn
-  a $10 Gift Card when you accumulate 1000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Receive
-  1 FREE Cocina Trio when you accumulate 2500 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a Cocina 214 T-Shirt when you accumulate 5000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a $25 Gift Card when you accumulate 7500 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a bottle of Patron Blanco when you accumulate 10,000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a $50 Gift Card when you accumulate 15,000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a bottle of Don Julio 1942 when you accumulate 20,000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a bottle of Clase Azul Reposado when you accumulate 25,000 points&lt;/li&gt;</p><p>                            &lt;li&gt;Earn
-  a 10-person Tequila Tasting experience when you accumulate 50,000 points&lt;/li&gt;</p><p>                        &lt;/ul&gt;</p>
+content_section_3: '    <p><ul style="padding-left:0;"></p><p>                            <li>Earn
+  a $10 Gift Card when you accumulate 1000 points</li></p><p>                            <li>Receive
+  1 FREE Cocina Trio when you accumulate 2500 points</li></p><p>                            <li>Earn
+  a Cocina 214 T-Shirt when you accumulate 5000 points</li></p><p>                            <li>Earn
+  a $25 Gift Card when you accumulate 7500 points</li></p><p>                            <li>Earn
+  a bottle of Patron Blanco when you accumulate 10,000 points</li></p><p>                            <li>Earn
+  a $50 Gift Card when you accumulate 15,000 points</li></p><p>                            <li>Earn
+  a bottle of Don Julio 1942 when you accumulate 20,000 points</li></p><p>                            <li>Earn
+  a bottle of Clase Azul Reposado when you accumulate 25,000 points</li></p><p>                            <li>Earn
+  a 10-person Tequila Tasting experience when you accumulate 50,000 points</li></p><p>                        </ul></p>'
 section_3_image: "/uploads/2017/12/04/guac_bar.jpg"
 content_section_4_title: Additional Member-Only Perks Throughout the Year
 content_section_4: <p>&lt;ul style="padding-left:0;"&gt;</p><p>                    &lt;li&gt;Receive
