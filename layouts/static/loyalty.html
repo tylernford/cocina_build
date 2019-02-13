@@ -11,7 +11,7 @@
     <div class="section-animate bg-gold mt2   mv3-ns   flex@53">
         <div class=" mb2 pb-5_3125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-7@79">
             <div class="fr@90 w-27@90">
-                <h1 class="fade-in-right  f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 w-25@79">test {{ .Params.content_section_1_title }}</h1>
+                <h1 class="fade-in-right  f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 w-25@79">{{ .Params.content_section_1_title }}</h1>
 
                 <!--   Divider   -->
                 <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   fr@79"></div>
@@ -19,31 +19,20 @@
 
                 <div class=" lh-2 ml3 white   ml4-ns   fr@79 w-25@79">
                     <div class="fade-in t-del-2  mb-2_6875 measure-wide nested-p">
-                        <ul style="padding-left:0;">
-                            <li>Join Club 214 and get your first 1000 points</li>
-                            <li>Earn 5 points for every dollar you spend</li>
-                            <li>Earn double points on Tuesdays</li>
-                            <li>Receive special invites to exclusive Club 214 Member-Only events</li>
-                        </ul>
-
-                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-white jean-luc lh-1_5 link mt-_3125 ph4 pt-_375 tracked-narrow ttu" href="https://cocinatwoonefour.alohaenterprise.com/memberlink/Login.html?companyID=cto02" target="_blank">Loyalty Sign In</a>
-
-                        <br />
-
-                        <a class="b--c-dark-brown ba bw1 c-dark-brown dib f-1_125 h-2_5 hover-bg-dark-brown hover-white jean-luc lh-1_5 link mt-_3125 ph4 pt-_375 tracked-narrow ttu" href="https://cocina214.com/assets/images/Club214_InfoCard_Jan_2019.pdf" style="margin-top:20px;" target="_blank">Download Info Card</a>
+                        {{ .Params.content_section_1 }}
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="h-20   h-30-ns   h-auto@53 w-50@53" style="background-image:url(http://cocina214.com/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg);background-position:center center;background-size:cover"></div>
+        <div class="h-20   h-30-ns   h-auto@53 w-50@53" style="background-image:url({{ .Params.section_1_image }});background-position:center center;background-size:cover"></div>
     </div>
 
     <div class="section-animate   flex flex-column-reverse mv2   mv3-ns   flex-row@53">
         <div class="h-20   h-30-ns    h-auto@53 w-50@53" style="background-image:url(http://cocina214.com/uploads/2017/12/01/3_margaritas_in_the_bar.jpg);background-position:center center;background-size:cover"></div>
 
         <div class="bg-dark-brown pb-1_625 pt-3_5 tracked-narrow white   mb0@53 w-50@53   css-ie-flex-shrink">
-            <h2 class="fade-in-right t-del-1 c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-7@79 w-25@79">Exclusive Member-Only Perks</h2>
+            <h2 class="fade-in-right t-del-1 c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-7@79 w-25@79">{{ .Params.content_section_2_title }}</h2>
 
             <!--   Divider   -->
             <div class="bg-gold h-_125 mb-1_1875 mr3 mt-_3125   mr4-ns mt-_375-ns   mr5-l   w-32@79   ml-5@90   w-27@90"></div>
@@ -63,7 +52,7 @@
     <div class="section-animate bg-gold mt2   mv3-ns   flex@53">
         <div class=" mb2 pb-5_3125 pr3 pt-3_5 tracked-narrow   mb3-ns pr4-ns   mb0@53 w-50@53   pr5-l   pr-7@79">
             <div class="fr@90 w-27@90">
-                <h1 class="fade-in-right  f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 w-25@79">Club 214 Rewards</h1>
+                <h1 class="fade-in-right  f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu w-100 wrksns   f3-ns ml4-ns pt0-ns   fr@79 w-25@79">{{ .Params.content_section_3_title }}</h1>
 
                 <!--   Divider   -->
                 <div class="bg-dark-brown h-_125 mb-1_1875 mt-_3125 w-100   mt-_375-ns   fr@79"></div>
@@ -94,7 +83,7 @@
         <div class="h-20   h-30-ns    h-auto@53 w-50@53" style="background-image:url(http://cocina214.com/uploads/2017/11/15/chips-and-guac.jpg);background-position:center center;background-size:cover"></div>
 
         <div class="bg-dark-brown pb-1_625 pt-3_5 tracked-narrow white   mb0@53 w-50@53   css-ie-flex-shrink">
-            <h2 class="fade-in-right t-del-1 c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-7@79 w-25@79">Additional Member-Only Perks Throughout the Year</h2>
+            <h2 class="fade-in-right t-del-1 c-gold f4 fw6 lh-2 ml3 mv0 pt-_0625 tracked-narrow ttu wrksns   f3-ns ml4-ns pt0-ns   mr5-l   ml-7@79 w-25@79">{{ .Params.content_section_4_title }}</h2>
 
             <!--   Divider   -->
             <div class="bg-gold h-_125 mb-1_1875 mr3 mt-_3125   mr4-ns mt-_375-ns   mr5-l   w-32@79   ml-5@90   w-27@90"></div>
