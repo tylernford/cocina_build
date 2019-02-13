@@ -20,26 +20,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: February Sunday Funday!
-    event_date: Sunday, February 3rd
-    event_time: 11:00 am - 3:00 pm
-    event_description: Before the Big Game, let's Sunday Funday!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: http://cocina214.com/news/february-sunday-funday/
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/01/23/SundayFunday2_Feb-2019.jpg"
-  - event_name: February Yoga Brunch
-    event_date: Sunday, February 10th
-    event_time: 10:00 am
-    event_description: Beachfront Yoga Brunch
-    photo_link:
-      photo_link_text: 'Event Poster Here '
-      photo_link_photo: "/uploads/2019/01/30/Beach-Yoga_Feb-2019.jpg"
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: http://cocina214.com/news/february-yoga-brunch/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
