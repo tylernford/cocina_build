@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2018-04-25T09:54:59-05:00"
 featured_photo = "/uploads/2018/04/25/Screen Shot 2018-04-25 at 11.02.49 AM.png"
 location = "Winter Park"
