@@ -20,6 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: Valentine's Day
+    event_date: February 14th
+    event_time: All Day...
+    event_description: Share a Piece of Tres Leches on Us!
+    photo_link:
+      photo_link_photo: "/uploads/2019/02/14/Valentine's-Day-2019.jpg"
+      photo_link_text: View Details Here
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
