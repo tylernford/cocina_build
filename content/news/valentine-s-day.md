@@ -8,8 +8,10 @@ title = "Valentine's Day"
 video_key = ""
 
 +++
-Share a piece of our Award-Winning Tres Leches on Valentine's Day, Thursday, February 14th! 
+Share a piece of our Award-Winning Tres Leches on Valentine's Day, Thursday, February 14th!
 
 With the purchase of 2 entrees, you will receive 1 piece of Tres Leches to share.
 
 Enjoy and Happy Valentine's Day!
+
+![](/uploads/2019/02/14/Valentine's-Day-2019.jpg)
