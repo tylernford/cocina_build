@@ -14,7 +14,7 @@ content_section_1: |-
   *   Earn 5 points for every dollar you spend
   *   Earn double points on Tuesdays
   *   Receive special invites to exclusive Club 214 Member-Only events
-section_1_image: "/uploads/2018/06/22/Taco-wall-with-interior-background.jpg"
+section_1_image: "/uploads/2019/02/14/Club214_InfoCard_Jan-2019_website.jpg"
 content_section_2_title: Exclusive Member-Only Perks
 content_section_2: |-
   *   Skinny Sunday: BOGO Skinny Margarita, with the purchase of an entrée (limit 1 per person, per visit)
@@ -33,7 +33,7 @@ content_section_3: |-
   *   Earn a bottle of Don Julio 1942 when you accumulate 20,000 points
   *   Earn a bottle of Clase Azul Reposado when you accumulate 25,000 points
   *   Earn a 10-person Tequila Tasting experience when you accumulate 50,000 points
-section_3_image: "/uploads/2017/12/04/guac_bar.jpg"
+section_3_image: "/uploads/2019/02/14/Club214_InfoCard_Jan-20192.jpg"
 content_section_4_title: Additional Member-Only Perks Throughout the Year
 content_section_4: |-
   *   Receive 10% off any Margarita on National Margarita Day, February 22nd
