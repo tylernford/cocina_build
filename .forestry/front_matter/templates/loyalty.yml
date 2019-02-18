@@ -62,5 +62,3 @@ fields:
 - type: file
   name: section_4_image
   label: Section 4 Image
-pages:
-- content/loyalty.md
