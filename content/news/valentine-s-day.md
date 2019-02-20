@@ -1,5 +1,5 @@
 +++
-category = "current"
+category = "past-events"
 date = "2019-02-13T23:00:00-06:00"
 featured_photo = "/uploads/2019/02/14/Valentine's-Day-2019.jpg"
 location = "All Locations"
