@@ -14,7 +14,7 @@ content_section_1: |-
   *   Earn 5 points for every dollar you spend
   *   Earn double points on Tuesdays
   *   Receive special invites to exclusive Club 214 Member-Only events
-section_1_image: "/uploads/2019/02/18/Club214_InfoCard_Jan-2019_website.jpg"
+section_1_image: "/uploads/2019/02/21/Club214_InfoCard_Jan-2019_website.jpg"
 content_section_2_title: Exclusive Member-Only Perks
 content_section_2: |-
   *   Skinny Sunday: BOGO Skinny Margarita, with the purchase of an entrée (limit 1 per person, per visit)
