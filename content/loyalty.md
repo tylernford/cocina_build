@@ -49,6 +49,6 @@ content_section_4: |-
   *   Receive 10% off Desserts on National Dessert Day, October 14th
   *   Receive 10% off Nacho Macho on National Nacho Day, November 6th
   *   Receive 1 free Sangria, with the purchase of an entree, on National Sangria Day, December 20th
-section_4_image: "/uploads/2019/02/18/Loyalty-Bday-Love.jpg"
+section_4_image: "/uploads/2019/02/21/Piece-of-Tres-Leches.jpg"
 
 ---
