@@ -33,7 +33,7 @@ content_section_3: |-
   *   Earn a bottle of Don Julio 1942 when you accumulate 20,000 points
   *   Earn a bottle of Clase Azul Reposado when you accumulate 25,000 points
   *   Earn a 10-person Tequila Tasting experience when you accumulate 50,000 points
-section_3_image: "/uploads/2019/02/21/Club214_InfoCard_Jan 2019 2_small size.jpg"
+section_3_image: "/uploads/2019/02/21/214Rocks-and-Frozen-with-tree_tall.jpg"
 content_section_4_title: Additional Member-Only Perks Throughout the Year
 content_section_4: |-
   *   Receive 10% off any Margarita on National Margarita Day, February 22nd
