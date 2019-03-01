@@ -39,7 +39,7 @@ content_section_4: |-
   *   Receive 10% off any Margarita on National Margarita Day, February 22nd
   *   Receive a Free glass of Hess Select Chardonnay or 337 Cabernet, with purchase of an entree, on National Wine Day, May 25th
   *   Receive 10% off Brisket Tacos & Brisket Quesadillas on National Brisket Day, May 28th
-  *   Receive $5 off Rotisserie Chicken Tacos & the Rotisserie Chicken Entree on National Rotisserie Chicken Day, June 2nd
+  *   Receive $5 off Chikira (Rotisserie Chicken) Tacos & the Rotisserie Chicken Entree on National Rotisserie Chicken Day, June 2nd
   *   Receive 10% off any Margarita or Tequila Shot on National Tequila Day, July 24th
   *   Receive 10% off Avocado Bites on National Avocado Day, July 31st
   *   Receive $5 off any Fajitas on National Fajita Day, August 18th
