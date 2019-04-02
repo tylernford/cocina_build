@@ -52,6 +52,7 @@
                 <div class=" lh-2 ml3 white   ml4-ns   fr@79 w-25@79">
                     <div class="fade-in t-del-2  mb-2_6875 measure-wide nested-p">
                         <p>{{ .Params.dine_with_us.text | markdownify }}</p>
+                        <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="https://cocina214.alohaorderonline.com/StartOrder.aspx" target="_blank">ORDER ONLINE</a>
                         {{ range first 1 .Params.dine_with_us.menus }}
                             <a class="dib f4 jean-luc lh-1_5 link tracked-narrow ttu white   css-arrow-link" href="{{ .menu }}">{{ .menu_name }} Menu</a>
                         {{ end }}
