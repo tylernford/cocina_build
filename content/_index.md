@@ -20,13 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: 'March Beachfront Yoga Brunch '
-    event_date: Sunday, March 17th
-    event_time: 10:00 am
-    event_description: St Patrick's Day Yoga & Brunch!
-    photo_link:
-      photo_link_text: View Event Poster Here
-      photo_link_photo: "/uploads/2019/02/28/Beach-Yoga_March-2019.jpg"
+  - event_name: Cinco de Mayo PARTY!!
+    event_date: Sunday, May 5th
+    event_time: Party starts at 11:00 am
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/cinco-de-mayo-1/
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
