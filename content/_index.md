@@ -23,10 +23,13 @@ upcoming_events:
   - event_name: Cinco de Mayo PARTY!!
     event_date: Sunday, May 5th
     event_time: Party starts at 11:00 am
-    event_description: ''
+    event_description: Cinco de Mayo party and specials at both locations!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cinco-de-mayo-1/
+    photo_link:
+      photo_link_photo: "/uploads/CincoDeMayoPoster2019_web.jpg"
+      photo_link_text: View Event Poster Here
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
