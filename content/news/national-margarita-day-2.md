@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2019-02-22T10:00:00-06:00"
 featured_photo = "/uploads/2019/02/14/National-Margarita-Day-2019.jpg"
 location = "All Locations"
