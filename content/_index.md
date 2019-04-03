@@ -25,6 +25,8 @@ upcoming_events:
     event_time: Race starts at 11:00 am
     event_description: ''
     event_links:
+    - event_link_text: Register Here
+      event_link_url: https://www.eventbrite.com/e/annual-running-of-the-chihuahuas-cinco-de-mayo-block-party-tickets-58396263797
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cocina-214-s-annual-running-of-the-chihuahuas/
     photo_link:
