@@ -27,6 +27,9 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cocina-214-s-annual-running-of-the-chihuahuas/
+    photo_link:
+      photo_link_text: 'View Event Poster '
+      photo_link_photo: "/uploads/RunningOfChihuahuasPoster2019_web.jpg"
   - event_name: Cinco de Mayo PARTY!!
     event_date: Sunday, May 5th
     event_time: Party starts at 11:00 am
