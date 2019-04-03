@@ -20,6 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: Annual Running of the Chihuahuas
+    event_date: Sunday, May 5th
+    event_time: Race starts at 11:00 am
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/cocina-214-s-annual-running-of-the-chihuahuas/
   - event_name: Cinco de Mayo PARTY!!
     event_date: Sunday, May 5th
     event_time: Party starts at 11:00 am
