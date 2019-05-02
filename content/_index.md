@@ -33,7 +33,7 @@ upcoming_events:
       photo_link_text: View Event Poster Here
       photo_link_photo: "/uploads/RunningOfChihuahuasPoster2019_web.jpg"
   - event_name: Cinco de Mayo PARTY!!
-    event_date: Sunday, May 5th
+    event_date: Sunday, May 5, 2019
     event_time: Party starts at 11:00 am
     event_description: Cinco de Mayo party and specials at both locations!
     event_links:
