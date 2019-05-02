@@ -46,7 +46,9 @@ upcoming_events:
     event_date: Sunday, May 19, 2019
     event_time: 10:00am
     event_description: Beachside Yoga and then Brunch!
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/may-beachside-yoga-brunch/
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
