@@ -50,8 +50,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/may-beachside-yoga-brunch/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: Event Poster Here
+      photo_link_photo: "/uploads/2019/05/02/Beach-Yoga_May-2019.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
