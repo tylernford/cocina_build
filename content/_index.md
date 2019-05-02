@@ -21,7 +21,7 @@ upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
   - event_name: Annual Running of the Chihuahuas
-    event_date: Sunday, May 5th
+    event_date: Sunday, May 5, 2019
     event_time: Race starts at 11:00 am
     event_description: ''
     event_links:
