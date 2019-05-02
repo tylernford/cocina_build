@@ -1,7 +1,7 @@
 ---
 title: Home
 type: page
-date: 2017-10-12 00:00:00 +0000
+date: '2017-10-12T00:00:00.000+00:00'
 forestry_title: Home
 private_dining:
   text: With a stylish and approachable family-friendly environment, Cocina 214 is
@@ -42,6 +42,14 @@ upcoming_events:
     photo_link:
       photo_link_photo: "/uploads/CincoDeMayoPoster2019_web.jpg"
       photo_link_text: View Event Poster Here
+  - event_name: May Yoga Brunch
+    event_date: Sunday, May 19, 2019
+    event_time: 10:00am
+    event_description: Beachside Yoga and then Brunch!
+    event_links: []
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
@@ -50,10 +58,15 @@ upcoming_events:
     photo_link:
       photo_link_photo: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final-2.pdf"
       photo_link_text: Happy Hour Menu
+    event_links: []
   - event_name: Brunch
     event_date: Saturdays & Sundays
     event_time: until 3:00pm
     event_description: Brunch Menu with $3 Brunch Mimosas
+    event_links: []
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
