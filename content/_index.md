@@ -20,28 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: Annual Running of the Chihuahuas
-    event_date: Sunday, May 5, 2019
-    event_time: Race starts at 11:00 am
+  - event_name: Pictures from our Annual Running of the Chihuahuas
+    event_date: Pics from Race Day, Sunday May 5th
+    event_time: ''
     event_description: ''
     event_links:
-    - event_link_text: Register Here
-      event_link_url: https://www.eventbrite.com/e/annual-running-of-the-chihuahuas-cinco-de-mayo-block-party-tickets-58396263797
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cocina-214-s-annual-running-of-the-chihuahuas/
+    - event_link_text: View Link Info
+      event_link_url: https://cocina214.com/news/pictures-from-the-7th-annual-running-of-the-chihuahuas/
     photo_link:
-      photo_link_text: View Event Poster Here
-      photo_link_photo: "/uploads/RunningOfChihuahuasPoster2019_web.jpg"
-  - event_name: Cinco de Mayo PARTY!!
-    event_date: Sunday, May 5, 2019
-    event_time: Party starts at 11:00 am
-    event_description: Cinco de Mayo party and specials at both locations!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cinco-de-mayo-1/
-    photo_link:
-      photo_link_photo: "/uploads/CincoDeMayoPoster2019_web.jpg"
-      photo_link_text: View Event Poster Here
+      photo_link_text: ''
+      photo_link_photo: "/uploads/2019/05/06/7th-Annual-Running-of-the-Chihuahuas-2019.jpg"
   - event_name: May Yoga Brunch
     event_date: Sunday, May 19, 2019
     event_time: 10:00am
