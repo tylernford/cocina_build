@@ -10,7 +10,7 @@ video_key = ""
 +++
 Thank you for everyone who came out for our **7th Annual Running of the Chihuahuas** on Cinco de Mayo, Sunday, May 5, 2019!
 
-Lola Grace Photography took photos from the event. Click on the link below to view the photos from the big day.
+**Lola Grace Photography** took photos from the event. Click on the link below to view the photos from the big day.
 
 When you click on each individual image, in the bottom right-hand corner a cart and download option are available. The following **4-digit pin is required: 3778**
 
