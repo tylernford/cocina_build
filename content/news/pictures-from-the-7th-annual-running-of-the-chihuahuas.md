@@ -23,4 +23,4 @@ Questions? Contact [sherimazariegos@gmail.com](mailto:sherimazariegos@gmail.com 
 
 Enjoy!
 
-![](/uploads/2019/05/06/7th-Annual-Running-of-the-Chihuahuas-2019.jpg)
+![](/uploads/2019/05/06/Race-Track_7th-Annual-Running-of-the-Chihuahuas-2019.jpg)
