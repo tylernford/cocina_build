@@ -21,8 +21,8 @@ upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
   - event_name: Pictures from our Annual Running of the Chihuahuas
-    event_date: Pics from Race Day, Sunday May 5th
-    event_time: ''
+    event_date: 'Pics from Race Day '
+    event_time: Sunday, May 5th
     event_description: ''
     event_links:
     - event_link_text: View Link Info
