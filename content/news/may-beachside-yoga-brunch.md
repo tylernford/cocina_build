@@ -8,7 +8,7 @@ title = "May Beachside Yoga & Brunch"
 video_key = ""
 
 +++
-Join us @ Cocina 214 Daytona Beach for Yoga on the Beachfront Lawn!
+Join us @ Cocina 214 Daytona Beach for **Yoga on the Beachfront Lawn**!
 
 **Sunday, May 19th at 10:00am**
 

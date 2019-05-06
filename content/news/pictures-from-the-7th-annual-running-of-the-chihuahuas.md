@@ -12,9 +12,9 @@ Thank you for everyone who came out for our **7th Annual Running of the Chihuahu
 
 Lola Grace Photography took photos from the event. Click on the link below to view the photos from the big day.
 
-When you click on each individual image, in the bottom right-hand corner a cart and download option are available. The following **4-digit pin is required: 3778** 
+When you click on each individual image, in the bottom right-hand corner a cart and download option are available. The following **4-digit pin is required: 3778**
 
-[https://sherimazariegos.pixieset.com/cocina214annualchihuahuaracescincodemayo/?pid=2823141522&id=363&h=MTc3MDE1MDQ3MA](https://sherimazariegos.pixieset.com/cocina214annualchihuahuaracescincodemayo/?pid=2823141522&id=363&h=MTc3MDE1MDQ3MA "Picture Link")
+[https://sherimazariegos.pixieset.com/cocina214annualchihuahuaracescincodemayo/](https://sherimazariegos.pixieset.com/cocina214annualchihuahuaracescincodemayo/ "https://sherimazariegos.pixieset.com/cocina214annualchihuahuaracescincodemayo/")
 
 Lola Grace Photography  
 [https://lolagracephoto.com/](https://lolagracephoto.com/ "https://lolagracephoto.com/")
