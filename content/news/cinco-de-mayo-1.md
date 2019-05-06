@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "past-events"
 date = "2019-05-05T10:00:00-05:00"
 featured_photo = "/uploads/CincoDeMayoPoster2019_web.jpg"
 location = "All Locations"
