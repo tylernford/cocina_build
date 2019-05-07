@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: Mother's Day at Cocina 214
     event_date: Sunday, May 12, 2019
     event_time: ''
-    event_description: Learn More
+    event_description: ''
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/mother-s-day-at-cocina-214/
