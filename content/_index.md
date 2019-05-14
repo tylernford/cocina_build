@@ -28,7 +28,7 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/need-a-break/
     photo_link:
-      photo_link_text: View Event Poster Here
+      photo_link_text: Event Poster Here
       photo_link_photo: "/uploads/2019/05/14/Need-a-Break-2019.jpg"
   - event_name: Pictures from our Annual Running of the Chihuahuas
     event_date: 'Pics from Race Day '
