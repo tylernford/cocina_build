@@ -20,13 +20,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: Mother's Day at Cocina 214
-    event_date: Sunday, May 12, 2019
+  - event_name: Need a Break?
+    event_date: Entire Month of May
     event_time: ''
-    event_description: ''
+    event_description: Enjoy some Drink Specials
     event_links:
     - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/mother-s-day-at-cocina-214/
+      event_link_url: https://cocina214.com/news/need-a-break/
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
