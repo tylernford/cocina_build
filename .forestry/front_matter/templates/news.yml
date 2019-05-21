@@ -58,12 +58,12 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/may-beachside-yoga-brunch.md
 - content/news/need-a-break.md
 - content/news/mother-s-day-at-cocina-214.md
 - content/news/cinco-de-mayo-1.md
 - content/news/daytona-beach-bike-week-.md
 - content/news/cocina-214-s-annual-running-of-the-chihuahuas.md
-- content/news/may-beachside-yoga-brunch.md
 - content/news/february-sunday-funday.md
 - content/news/cocina-214-featured-on-the-orlando-sentinel-valentine-s-day-dining-list.md
 - content/news/january-beachfront-yoga-in-daytona-beach.md
