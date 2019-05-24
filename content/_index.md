@@ -21,9 +21,9 @@ upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
   - event_name: Memorial Day at Daytona Beach
-    event_date: 'Memorial Weekend: May 24th-May 27th'
-    event_time: Honor our servicemen and women all weekend
-    event_description: Enjoy our Freedom and some Drink Specials
+    event_date: 'Memorial Weekend: May 24th-27th'
+    event_time: Honor our servicemen and women all weekend long!
+    event_description: Enjoy our Freedom and some Drink Specials!
     event_links:
     - event_link_text: ''
       event_link_url: ''
