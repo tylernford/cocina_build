@@ -8,7 +8,7 @@ title = "National Wine Day for our Club 214 Loyalty Members!"
 video_key = ""
 
 +++
-Calling all Club214 Loyalty Members!
+**Calling all Club214 Loyalty Members!**
 
 Join us on **National Wine Day, Saturday, May 25th**!
 
