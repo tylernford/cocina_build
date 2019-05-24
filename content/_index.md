@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: National Wine Day
+    event_date: Saturday, May 25th
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/national-wine-day/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Need a Break?
     event_date: 'Entire Month of May '
     event_time: ''
@@ -40,16 +50,6 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: "/uploads/2019/05/06/7th-Annual-Running-of-the-Chihuahuas-2019.jpg"
-  - event_name: May Yoga Brunch
-    event_date: Sunday, May 19, 2019
-    event_time: 10:00am
-    event_description: Beachside Yoga and then Brunch!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/may-beachside-yoga-brunch/
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/05/02/Beach-Yoga_May-2019.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
