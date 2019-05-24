@@ -4,7 +4,7 @@ date = "2019-02-27T23:00:00-06:00"
 featured_photo = ""
 location = "All Locations"
 photos = []
-title = "2019 Orlando Sentinel Foodie Awards"
+title = "2019 Orlando Sentinel Foodie Awards- Best Tex Mex"
 video_key = ""
 
 +++
