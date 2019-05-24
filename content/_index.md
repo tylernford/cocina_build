@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: Memorial Day at Daytona Beach
     event_date: 'Memorial Weekend: May 24th-27th'
     event_time: Honor our servicemen & women all weekend long!
-    event_description: Appreciate our Freedom and Enjoy Some Drink Specials!
+    event_description: Appreciate our Freedom and Enjoy Some Drink Specials
     event_links:
     - event_link_text: ''
       event_link_url: ''
