@@ -4,7 +4,7 @@ date = "2019-05-24T23:00:00-05:00"
 featured_photo = "/uploads/2019/05/24/Loyalty_Wine-Day-May-25th.jpg"
 location = "All Locations"
 photos = []
-title = "National Wine Day!"
+title = "National Wine Day for our Club 214 Loyalty Members!"
 video_key = ""
 
 +++
@@ -28,3 +28,5 @@ If you have not joined our Loyalty Program, it's fast and easy! Go to [https://c
 * **Margarita Monday:** 1 Free 214 Rocks or Frozen Margarita, with the purchase of an entrée (limit 1 per person, per visit & offer not valid with other offers)
 * **Birthday Love:** Receive 1 free Tres Leches on your birthday (must enter bday on sign up)
 * **Cash in on Catering:** $25 Gift Card for each Catering Order over $500
+
+![](/uploads/2019/05/24/Loyalty_Wine-Day-May-25th.jpg)
