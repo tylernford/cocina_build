@@ -1,7 +1,6 @@
 +++
 category = "press"
 date = "2019-05-05T23:00:00-05:00"
-draft = true
 featured_photo = ""
 location = ""
 photos = []
