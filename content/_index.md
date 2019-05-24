@@ -22,14 +22,14 @@ upcoming_events:
   events:
   - event_name: National Wine Day
     event_date: Saturday, May 25th
-    event_time: ''
-    event_description: ''
+    event_time: All Day Long!
+    event_description: Free Glass of Wine for Club 214 Loyalty Members!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/national-wine-day/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: Event Poster Here
+      photo_link_photo: "/uploads/2019/05/24/Loyalty_Wine-Day-May-25th.jpg"
   - event_name: Need a Break?
     event_date: 'Entire Month of May '
     event_time: ''
