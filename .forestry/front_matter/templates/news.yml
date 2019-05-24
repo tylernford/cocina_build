@@ -58,6 +58,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/2019-dining-awards-readers-spotlight-2.md
 - content/news/2019-dining-awards-readers-choice.md
 - content/news/our-favorite-romantic-weekend-getaways-from-orlando.md
 - content/news/2019-orlando-sentinel-foodie-awards-best-happy-hour.md
