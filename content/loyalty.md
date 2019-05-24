@@ -24,7 +24,7 @@ content_section_2: |-
 section_2_image: "/uploads/2017/11/21/frozen_margarita_outside_closeup_w_limes.jpg"
 content_section_3_title: Club 214 Rewards
 content_section_3: |-
-  *   Earn a $10 Gift Card when you accumulate 1000 points
+  *   Earn $10 Gift when you reach your first 1000 points
   *   Receive 1 FREE Cocina Trio when you accumulate 2500 points
   *   Earn a Cocina 214 T-Shirt when you accumulate 5000 points
   *   Earn a $25 Gift Card when you accumulate 7500 points
