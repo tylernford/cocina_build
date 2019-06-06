@@ -4,7 +4,7 @@ date = "2019-06-07T23:00:00-05:00"
 featured_photo = "/uploads/2019/06/06/best-friends-day-2019.jpg"
 location = "All Locations"
 photos = []
-title = "Celebrate National Best Friend Day @Cocina 214 with Margaritas!"
+title = "Celebrate National Best Friends Day @ Cocina 214 with Margaritas!"
 video_key = ""
 
 +++
