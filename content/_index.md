@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: National Best Friends Day
     event_date: Saturday, June 8, 2019
     event_time: All Day Long!
-    event_description: ''
+    event_description: Enjoy 214 Rocks Margaritas together!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-national-best-friend-day-cocina-214-with-margaritas/
