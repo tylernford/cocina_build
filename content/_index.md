@@ -20,36 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: Memorial Day at Daytona Beach
-    event_date: 'Memorial Weekend: May 24th-27th'
-    event_time: Honor our servicemen & women all weekend long!
-    event_description: Appreciate our Freedom and Enjoy Some Drink Specials
-    event_links:
-    - event_link_text: ''
-      event_link_url: ''
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/05/24/Memorial-Day-Weekend-Datyona-2019.jpg"
-  - event_name: National Wine Day
-    event_date: Saturday, May 25th
-    event_time: All Day Long!
-    event_description: Free Glass of Wine for Club 214 Loyalty Members!
+  - event_name: Beachfront  Yoga on National Yoga Day
+    event_date: Friday, June 21, 2019
+    event_time: 6:30-7:30 PM
+    event_description: Free beachfront yoga & the stay for dinner!
     event_links:
     - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/national-wine-day/
+      event_link_url: https://cocina214.com/news/beach-yoga-on-national-yoga-day/
     photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/05/24/Loyalty_Wine-Day-May-25th.jpg"
-  - event_name: Need a Break?
-    event_date: 'Entire Month of May '
-    event_time: ''
-    event_description: Enjoy some Drink Specials
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/need-a-break/
-    photo_link:
-      photo_link_text: Event Poster Here
-      photo_link_photo: "/uploads/2019/05/14/Need-a-Break-2019.jpg"
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Pictures from our Annual Running of the Chihuahuas
     event_date: 'Pics from Race Day '
     event_time: Sunday, May 5th
