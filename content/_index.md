@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-national-best-friend-day-cocina-214-with-margaritas/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/06/06/best-friends-day-2019.jpg"
   - event_name: Beachfront  Yoga on National Yoga Day
     event_date: Friday, June 21, 2019
     event_time: 6:30-7:30 PM
