@@ -1,5 +1,5 @@
 +++
-category = "upcoming"
+category = "current"
 date = "2019-06-21T17:30:00-05:00"
 featured_photo = "/uploads/2019/06/06/Beach-Yoga_June-2019.jpg"
 location = "Daytona Beach"
