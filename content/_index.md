@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/beach-yoga-on-national-yoga-day/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/06/06/Beach-Yoga_June-2019.jpg"
   - event_name: Pictures from our Annual Running of the Chihuahuas
     event_date: 'Pics from Race Day '
     event_time: Sunday, May 5th
