@@ -1,5 +1,5 @@
 +++
-category = "current"
+category = "past-events"
 date = "2019-05-24T23:00:00-05:00"
 featured_photo = "/uploads/2019/05/24/Loyalty_Wine-Day-May-25th.jpg"
 location = "All Locations"
