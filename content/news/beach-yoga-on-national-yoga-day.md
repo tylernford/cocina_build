@@ -8,8 +8,10 @@ title = "Beach Yoga on National Yoga Day!"
 video_key = ""
 
 +++
-CALLING ALL YOGIS!!🧘‍♀️ 🧘‍♂️ Come out and join us for our first ever evening yoga on International Yoga Day! 
+CALLING ALL YOGIS!!🧘‍♀️ 🧘‍♂️ Come out and join us for our first ever evening beachfront yoga on International Yoga Day @ Cocina 214 Daytona Beach!
 
-Enjoy a free 1 hour beginners class over looking the ocean, stay for dinner and get a free 214 rocks margarita or draft beer with a purchase of an entree🍻🌮🌯
+Soraya Sanchez from Dynamic Alignment Yoga will teach Free Beginner’s Yoga from 6:30-7:30 PM on the Lawn overlooking the ocean.
+
+After the FREE 1 hour yoga class, stay for dinner! Receive 1 Complimentary Draft Beer or 214 Rocks Margarita with the Purchase of an entrèe.
 
 ![](/uploads/2019/06/06/Beach-Yoga_June-2019.jpg)
