@@ -1,5 +1,5 @@
 +++
-category = "current"
+category = "past-events"
 date = "2019-05-14T11:49:00-05:00"
 featured_photo = "/uploads/2019/05/14/Need-a-Break-2019.jpg"
 location = "All Locations"
