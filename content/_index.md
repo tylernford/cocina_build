@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: Margarita Mondays for Club 214 Members!
+    event_date: Every Monday
+    event_time: All Day on Mondays
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/margarita-mondays-for-club-214-members/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Beachfront  Yoga on National Yoga Day
     event_date: Friday, June 21, 2019
     event_time: 6:30-7:30 PM
