@@ -58,6 +58,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/margarita-mondays-for-club-214-members.md
 - content/news/celebrate-national-best-friend-day-cocina-214-with-margaritas.md
 - content/news/beach-yoga-on-national-yoga-day.md
 - content/news/national-wine-day.md
