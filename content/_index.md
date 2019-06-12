@@ -28,7 +28,7 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/margarita-mondays-for-club-214-members/
     photo_link:
-      photo_link_text: View Event Poster Here
+      photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/06/12/Margarita-Monday-Promo_letter.jpg"
   - event_name: Beachfront  Yoga on National Yoga Day
     event_date: Friday, June 21, 2019
