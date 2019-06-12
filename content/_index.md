@@ -20,16 +20,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
-  - event_name: National Best Friends Day
-    event_date: Saturday, June 8, 2019
-    event_time: All Day Long!
-    event_description: Enjoy 214 Rocks Margaritas together!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/celebrate-national-best-friend-day-cocina-214-with-margaritas/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/06/06/best-friends-day-2019.jpg"
   - event_name: Beachfront  Yoga on National Yoga Day
     event_date: Friday, June 21, 2019
     event_time: 6:30-7:30 PM
