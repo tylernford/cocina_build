@@ -30,16 +30,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/06/12/Margarita-Monday-Promo_letter.jpg"
-  - event_name: Beachfront  Yoga on National Yoga Day
-    event_date: Friday, June 21, 2019
-    event_time: 6:30-7:30 PM
-    event_description: Free beachfront yoga & the stay for dinner!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/beach-yoga-on-national-yoga-day/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/06/06/Beach-Yoga_June-2019.jpg"
   - event_name: Pictures from our Annual Running of the Chihuahuas
     event_date: 'Pics from Race Day '
     event_time: Sunday, May 5th
