@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-national-avocado-day-with-cocina-214/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/07/25/Avocado-Day-2019.jpg"
   - event_name: Margarita Mondays for Club 214 Members!
     event_date: Every Monday
     event_time: All Day on Mondays
