@@ -19,6 +19,8 @@ video_key = ""
 
 151 East Welbourne Ave | Winter Park, Florida 32789
 
-451 South Atlantic Ave | Daytona Beach, Florida 32118 
+451 South Atlantic Ave | Daytona Beach, Florida 32118
 
-**_VOTED BEST TEX-MEX & MEXICAN in Orlando 8 years in a r_ow!**
+**VOTED BEST TEX-MEX & MEXICAN in Orlando 8 years in a row!**
+
+![](/uploads/2019/07/25/Avocado-Day-2019.jpg)
