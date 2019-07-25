@@ -1,7 +1,6 @@
 +++
 category = "upcoming"
 date = "2019-07-31T10:00:00-05:00"
-draft = true
 featured_photo = "/uploads/2019/07/25/Avocado-Day-2019.jpg"
 location = "All Locations"
 photos = []
