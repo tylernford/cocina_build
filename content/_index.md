@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: National Avocado Day
+    event_date: Wednesday, July 31, 2019
+    event_time: All Day Long!
+    event_description: Enjoy Half Price Guacamole all day long!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/celebrate-national-avocado-day-with-cocina-214/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Margarita Mondays for Club 214 Members!
     event_date: Every Monday
     event_time: All Day on Mondays
