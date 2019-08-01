@@ -69,7 +69,7 @@ events:
     Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
     Jenna can be reached at: Party@Cocina214.com
-  daytona_beach_photo: "/uploads/2017/12/08/SomeMamacitaPackageItems4_optimizedforweb.jpg"
+  daytona_beach_photo: "/uploads/2019/08/01/new-dine-image.jpg"
   daytona_beach_text: "Contact Kristina Fuertes, our Daytona Beach Events & Catering
     Manager. Please allow up to 48hrs for a response. \n\nKristina can be reached
     at: DaytonaParty@Cocina214.com"
