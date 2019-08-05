@@ -34,7 +34,7 @@ dine_with_us:
     menu: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final.pdf"
   reservations:
     text: Call to make a reservation today!
-    phone: Winter Park 407. 790. 7997  | Daytona Beach 386. 281. 3391
+    phone: 'Winter Park 407. 790. 7997 '
 catering:
   text: "Cocina 214 would love to cater your next event! Let us cater your Office
     Lunches or Corporate Functions, Engagement Parties, Bridal Showers, Rehearsal
@@ -69,15 +69,11 @@ events:
     Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
     Jenna can be reached at: Party@Cocina214.com
-  daytona_beach_photo: "/uploads/2019/08/01/new-dine-image.jpg"
-  daytona_beach_text: "Contact Kristina Fuertes, our Daytona Beach Events & Catering
-    Manager. Please allow up to 48hrs for a response. \n\nKristina can be reached
-    at: DaytonaParty@Cocina214.com"
+  daytona_beach_photo: ''
+  daytona_beach_text: ''
 hero_photos:
 - location: Winter Park
   photo: "/uploads/2017/12/01/dine.jpg"
-- location: Daytona Beach
-  photo: "/uploads/2018/07/03/interior-looking-at-taco-sign2.jpg"
 happy_hour:
   text: |2-
 
