@@ -24,6 +24,10 @@ winter_park_staff:
   first_name: Dasha
   last_name: Ottich
   title: Manager
+- photo: "/uploads/2017/12/07/Liz5.jpg"
+  first_name: Elizabeth
+  last_name: Mireles
+  title: Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: Flores
