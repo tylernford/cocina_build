@@ -16,13 +16,13 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- title: General Manager
-  first_name: 'Marcela '
-  last_name: Hernandez
-  photo: "/uploads/2017/12/07/Marcela1small.jpg"
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: Stergios
+  title: Manager
+- photo: "/uploads/2017/12/07/Dasha8.jpg"
+  first_name: Dasha
+  last_name: Ottich
   title: Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
@@ -37,7 +37,7 @@ winter_park_staff:
   last_name: Dever
   title: Events & Catering Manager
 daytona_beach_staff:
-  show_staff: true
+  show_staff: false
   staff:
   - photo: "/uploads/2017/12/07/Heather10small.jpg"
     first_name: Heather
