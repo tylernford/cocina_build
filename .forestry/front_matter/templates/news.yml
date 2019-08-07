@@ -58,6 +58,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/celebrate-national-avocado-day-with-cocina-214.md
 - content/news/6th-annual-running-of-the-chihuahuas.md
 - content/news/national-margarita-day-1.md
 - content/news/cocina-214-s-high-quality-margaritas-.md
@@ -74,7 +75,6 @@ pages:
 - content/news/best-margaritas-around-orlando-according-to-yelpers.md
 - content/news/running-of-the-chihuahuas.md
 - content/news/margarita-mondays-for-club-214-members.md
-- content/news/celebrate-national-avocado-day-with-cocina-214.md
 - content/news/an-additional-post.md
 - content/news/another-post.md
 - content/news/great-things-coming.md
