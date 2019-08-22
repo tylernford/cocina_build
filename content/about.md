@@ -16,18 +16,22 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- title: General Manager
-  first_name: 'Marcela '
-  last_name: Hernandez
-  photo: "/uploads/2017/12/07/Marcela1small.jpg"
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
+- photo: "/uploads/2017/12/07/Dasha8.jpg"
+  first_name: Dasha
+  last_name: Ottich
+  title: Manager
+- photo: "/uploads/2017/12/07/Liz5.jpg"
+  first_name: Elizabeth
+  last_name: Mireles
+  title: Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: Flores
-  title: Manager
+  title: Sous Chef
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
   last_name: Moreno
@@ -37,7 +41,7 @@ winter_park_staff:
   last_name: Dever
   title: Events & Catering Manager
 daytona_beach_staff:
-  show_staff: true
+  show_staff: false
   staff:
   - photo: "/uploads/2017/12/07/Heather10small.jpg"
     first_name: Heather
@@ -64,7 +68,7 @@ daytona_beach_staff:
     last_name: Fuertes
     title: Events & Catering Manager
 forestry_title: About
-hero_photo: "/uploads/2017/12/01/about.jpg"
+hero_photo: "/uploads/2017/12/19/Screen Shot 2017-12-19 at 9.15.38 AM.png"
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food in Winter Park and Daytona Beach, Florida.
