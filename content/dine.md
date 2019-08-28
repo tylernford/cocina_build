@@ -72,7 +72,7 @@ events:
   daytona_beach_photo: ''
   daytona_beach_text: ''
 hero_photos:
-- location: Winter Park
+- location: 'Winter Park '
   photo: "/uploads/2017/12/01/dine.jpg"
 happy_hour:
   text: |2-
