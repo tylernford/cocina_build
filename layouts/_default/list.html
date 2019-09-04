@@ -2,7 +2,7 @@
 
 <link href="{{ .Site.BaseURL }}/assets/css/home.css" rel="stylesheet">
 
-{{ range where .Data.Pages "Title" "Home"}}
+
     {{ partial "slider/styles" . }}
 
     {{ partial "slider/markup" . }}
@@ -94,5 +94,4 @@
         </div>
         <!-- End Private Dining -->
     </main>
-{{ end }}
 {{ end }}
