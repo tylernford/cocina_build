@@ -2,10 +2,10 @@
 
 <link href="{{ .Site.BaseURL }}/assets/css/home.css" rel="stylesheet">
 
-{{ range where .Data.Pages "Title" "Home"}}
-    {{ partial "slider/styles" . }}
 
-    {{ partial "slider/markup" . }}
+    <!--{{ partial "slider/styles" . }}
+
+    {{ partial "slider/markup" . }}-->
 
     <main class="ph3-ns">
         <div class="center mw-66 ph3 section-animate  flex@48 justify-between@48   ph0-l">
@@ -94,5 +94,4 @@
         </div>
         <!-- End Private Dining -->
     </main>
-{{ end }}
 {{ end }}
