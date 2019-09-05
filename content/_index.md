@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: "$5 Taco Special"
     event_date: September 20-29, 2019
     event_time: ''
-    event_description: 2 Beef Hardshell Tacos for $5
+    event_description: 2 Beef Hardshell Tacos $5
     event_links: []
     photo_link:
       photo_link_text: View Event Poster
