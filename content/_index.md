@@ -35,7 +35,7 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/09/05/Orlando-Weekly-Ad-2019.jpg"
-  - event_name: September 16th - National Guacamole Day!
+  - event_name: National Guacamole Day!
     event_date: Monday, September 16th
     event_time: ''
     event_description: Enjoy half price Guac!
