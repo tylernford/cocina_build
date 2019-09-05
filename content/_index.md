@@ -18,7 +18,7 @@ catering:
     Get a $25 Cocina 214 Gift Card for every $500 Catering Order that you place!
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 upcoming_events:
-  photo: "/uploads/2019/09/05/Margarita-Monday2-for-web.jpg"
+  photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
   - event_name: "$5 Taco Special"
     event_date: September 20-29, 2019
