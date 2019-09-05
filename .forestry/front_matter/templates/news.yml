@@ -58,6 +58,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/5-taco-special.md
 - content/news/celebrate-national-guacamole-day-at-cocina-214.md
 - content/news/celebrate-national-avocado-day-with-cocina-214.md
 - content/news/6th-annual-running-of-the-chihuahuas.md
