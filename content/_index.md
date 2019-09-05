@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2018/07/07/chairs-outside-overlooking-ocean.jpg"
   events:
+  - event_name: September 16th - National Guacamole Day!
+    event_date: Monday, September 16, 2019
+    event_time: All Day Long!
+    event_description: Enjoy half price Guac!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/celebrate-national-guacamole-day-at-cocina-214/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Margarita Mondays for Club 214 Members!
     event_date: Every Monday
     event_time: All Day on Mondays
@@ -30,16 +40,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/06/12/Margarita-Monday-Promo_letter.jpg"
-  - event_name: Pictures from our Annual Running of the Chihuahuas
-    event_date: 'Pics from Race Day '
-    event_time: Sunday, May 5th
-    event_description: ''
-    event_links:
-    - event_link_text: View Link Info
-      event_link_url: https://cocina214.com/news/pictures-from-the-7th-annual-running-of-the-chihuahuas/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: "/uploads/2019/05/06/7th-Annual-Running-of-the-Chihuahuas-2019.jpg"
   - event_name: Happy Hour
     event_date: Mondays – Fridays
     event_time: 4:00pm – 6:30pm
