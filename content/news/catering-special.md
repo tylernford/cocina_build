@@ -1,7 +1,7 @@
 +++
 category = "current"
-date = "Happening Now!"
-featured_photo = ""
+date = "2019-09-06T00:00:00-05:00"
+featured_photo = "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
 location = "Winter Park"
 photos = []
 title = "Cocina 214 Catering Special"
@@ -27,3 +27,5 @@ Email or call Miguel A. at catering@cocina214.com or 407-790-7991 for inquiries 
 www.Cocina214.com
 
 **VOTED BEST TEX-MEX & MEXICAN in Orlando 8 years in a row!**
+
+![](/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg)
