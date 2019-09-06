@@ -25,6 +25,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Catering September Special!
+    event_date: The month of September
+    event_time: ''
+    event_description: Receive a $25 Gift Card
+    event_links: []
+    photo_link:
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
   - event_name: "$5 Taco Special"
     event_date: September 20-29, 2019
     event_time: ''
