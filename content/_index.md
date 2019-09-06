@@ -25,11 +25,13 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Catering September Special!
+  - event_name: September Catering Special!
     event_date: The month of September
     event_time: ''
     event_description: Receive a $25 Gift Card
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/catering-special/
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
