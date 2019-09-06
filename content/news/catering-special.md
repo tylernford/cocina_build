@@ -1,7 +1,7 @@
 +++
 category = "current"
 date = "Happening Now!"
-featured_photo = "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
+featured_photo = ""
 location = "Winter Park"
 photos = []
 title = "Cocina 214 Catering Special"
