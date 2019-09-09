@@ -13,20 +13,18 @@ fields:
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: now
   config:
     required: true
-- type: select
-  name: location
+  description: '"Posted" date only. Will be displayed as e.g. "Posted 9/15/19"'
+- name: additional_info
+  type: text
   config:
-    source:
-      type: simple
-    options:
-    - Winter Park
-    - Daytona Beach
-    - All Locations
     required: false
-  label: Location
+  label: Additional Info
+  description: Will be displayed alongside the date in the post summary. Please keep
+    as short as possible to avoid breaking the layout. e.g. "Happening Now!" "Deal
+    Ends 9/16/19"
 - type: select
   name: category
   config:
@@ -58,9 +56,9 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
-- content/news/catering-special.md
-- content/news/5-taco-special.md
 - content/news/celebrate-national-guacamole-day-at-cocina-214.md
+- content/news/5-taco-special.md
+- content/news/catering-special.md
 - content/news/celebrate-national-avocado-day-with-cocina-214.md
 - content/news/6th-annual-running-of-the-chihuahuas.md
 - content/news/national-margarita-day-1.md
