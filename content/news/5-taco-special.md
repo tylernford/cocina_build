@@ -1,5 +1,5 @@
 +++
-additional_info = "9/20 through 9/29"
+additional_info = ""
 category = "upcoming"
 date = "2019-09-15T23:00:00-05:00"
 featured_photo = "/uploads/2019/09/05/Orlando-Weekly-Ad-2019.jpg"
