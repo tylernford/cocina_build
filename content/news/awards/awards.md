@@ -9,7 +9,7 @@ type: awards
 url: "/news/awards"
 
 ---
-### **Cocina 214 made a name for itself in the Orlando area. Cocina 214 is regarded as one of the best restaurants in Orlando and has won numerous awards.** 
+### Cocina 214 made a name for itself in the Orlando area. Cocina 214 is regarded as one of the best restaurants in Orlando and has won numerous awards. 
 
 ![](/uploads/2019/09/12/Cocina Awards 2011-2019.jpg)
 
