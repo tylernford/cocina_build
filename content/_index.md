@@ -55,7 +55,7 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/09/05/Guacamole-Day-2019.jpg"
-  - event_name: Margarita Mondays for Club 214 Members!
+  - event_name: Margarita Mondays for Club 214 Members
     event_date: Every Monday
     event_time: All Day on Mondays
     event_description: ''
