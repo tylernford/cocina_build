@@ -25,7 +25,7 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: September Catering Special!
+  - event_name: September Catering Special
     event_date: The month of September
     event_time: ''
     event_description: Receive a $25 Gift Card
@@ -45,7 +45,7 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/09/05/Orlando-Weekly-Ad-2019.jpg"
-  - event_name: National Guacamole Day!
+  - event_name: National Guacamole Day
     event_date: Monday, September 16th
     event_time: ''
     event_description: Enjoy half price Guac!
