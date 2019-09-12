@@ -69,7 +69,7 @@ events:
     Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
     Jenna can be reached at: Party@Cocina214.com
-  daytona_beach_photo: ''
+  daytona_beach_photo: "/uploads/2019/09/12/quesadillas-with-salsa-trio-and-BOAT-for-catering.jpg"
   daytona_beach_text: ''
 hero_photos:
 - location: 'Winter Park '
