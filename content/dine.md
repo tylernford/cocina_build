@@ -66,11 +66,14 @@ events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2018/05/16/tablewithfood.jpg"
   winter_park_text: |-
-    Please contact Jenna Dever, our Events & Catering Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
+    Please contact Natalie Gusler, our Private Dining Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
     Jenna can be reached at: Party@Cocina214.com
   daytona_beach_photo: "/uploads/2019/09/12/quesadillas-with-salsa-trio-and-BOAT-for-catering.jpg"
-  daytona_beach_text: ''
+  daytona_beach_text: |-
+    Please contact Miguel Arroyo, our Catering Manager, to help plan your catered event. Please allow up to 48hrs for a response.
+
+    Miguel can be reached at: Catering@Cocina214.com
 hero_photos:
 - location: 'Winter Park '
   photo: "/uploads/2017/12/01/dine.jpg"
