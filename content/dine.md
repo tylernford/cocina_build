@@ -64,7 +64,7 @@ private_dining:
   menu: ''
 events:
   title: Book Your Private Party or Catering
-  winter_park_photo: "/uploads/2019/09/12/quesadillas-with-salsa-trio-and-BOAT-for-catering-1.jpg"
+  winter_park_photo: "/uploads/2019/09/12/quesadillas-with-salsa-trio-and-BOAT-for-catering-2.jpg"
   winter_park_text: |-
     Please contact Natalie Gusler, our Private Dining Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
 
