@@ -1,5 +1,6 @@
 +++
-category = "upcoming"
+additional_info = ""
+category = "past-events"
 date = "2019-09-15T23:00:00-05:00"
 featured_photo = "/uploads/2019/09/05/Guacamole-Day-2019.jpg"
 location = "Winter Park"
