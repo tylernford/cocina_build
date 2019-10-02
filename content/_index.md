@@ -33,8 +33,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-national-taco-on-friday-october-4-2019/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/10/02/national-taco-day-2019_web.jpg"
   - event_name: October Catering Special
     event_date: The month of October
     event_time: ''
