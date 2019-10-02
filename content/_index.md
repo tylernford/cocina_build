@@ -25,16 +25,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Book Your Holiday Party Now!
-    event_date: Happening Now
-    event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/book-your-holiday-party-now/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
   - event_name: National Taco Day
     event_date: Friday, October 4th
     event_time: All Day Long!
@@ -45,6 +35,16 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/10/02/national-taco-day-2019_web.jpg"
+  - event_name: Book Your Holiday Party Now!
+    event_date: ''
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/book-your-holiday-party-now/
+    photo_link:
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/10/02/holiday-party-2019.jpg"
   - event_name: October Catering Special
     event_date: The month of October
     event_time: ''
