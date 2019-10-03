@@ -18,6 +18,6 @@ We sell out for Private Holiday Parties. Book now while dates are available.
 
 For Private Parties, email Natalie at party@cocina214.com
 
-For Catering, email Miguel at catering@cocina24.com
+For Catering, email Miguel at catering@cocina214.com
 
 ![](/uploads/2019/10/02/holiday-party-2019.jpg)
