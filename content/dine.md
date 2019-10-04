@@ -14,10 +14,8 @@ dine_with_us:
     Restaurant”, “Best Happy Hour”, “Best Take-Out”, “Best Appetizer”, and “Best Family
     Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
-  - menu_name: ''
-    menu: ''
   - menu_name: Dine-In
-    menu: "/uploads/2019/02/08/StandardMenu_January_2019_FINAL.pdf"
+    menu: "/uploads/2019/10/04/Cocina 214 Menu - August 2019.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2018/08/31/Drinks August 2018_Final.pdf"
   - menu_name: After Dinner Drink and Dessert
