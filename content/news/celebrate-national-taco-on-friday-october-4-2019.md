@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = "2019-10-02T15:10:36-05:00"
 featured_photo = "/uploads/2019/10/02/national-taco-day-2019_web.jpg"
 photos = []
