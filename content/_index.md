@@ -25,16 +25,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Taco Day
-    event_date: Friday, October 4th
-    event_time: All Day Long!
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/celebrate-national-taco-on-friday-october-4-2019/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/10/02/national-taco-day-2019_web.jpg"
   - event_name: Book Your Holiday Party Now!
     event_date: ''
     event_time: ''
