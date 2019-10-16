@@ -56,6 +56,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/national-nacho-day.md
 - content/news/celebrate-national-taco-on-friday-october-4-2019.md
 - content/news/book-your-holiday-party-now.md
 - content/news/celebrate-national-guacamole-day-at-cocina-214.md
