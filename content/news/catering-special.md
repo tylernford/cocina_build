@@ -1,6 +1,7 @@
 +++
-category = "current"
-date = "2019-09-06T00:00:00-05:00"
+additional_info = ""
+category = "past-events"
+date = 2019-09-06T05:00:00Z
 featured_photo = "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
 location = "Winter Park"
 photos = []
