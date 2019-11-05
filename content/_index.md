@@ -25,6 +25,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: "'Tis the Season to be Jolly"
+    event_date: Now through Dec. 31st
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/tis-the-season-to-be-jolly/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Book Your Holiday Party Now!
     event_date: ''
     event_time: ''
@@ -35,16 +45,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/10/02/holiday-party-2019.jpg"
-  - event_name: October Catering Special
-    event_date: The month of October
-    event_time: ''
-    event_description: Receive a $25 Gift Card
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/catering-special/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/09/05/Catering-$25-Gift-Card-Flyer_Aug-2019.jpg"
   - event_name: National Nacho Day
     event_date: Wed., November 6th
     event_time: all day long
