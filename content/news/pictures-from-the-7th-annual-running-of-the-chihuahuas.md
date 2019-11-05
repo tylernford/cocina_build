@@ -1,6 +1,7 @@
 +++
-category = "current"
-date = "2019-05-05T23:00:00-05:00"
+additional_info = ""
+category = "past-events"
+date = 2019-05-06T04:00:00Z
 featured_photo = "/uploads/2019/05/06/7th-Annual-Running-of-the-Chihuahuas-2019.jpg"
 location = "Winter Park"
 photos = []

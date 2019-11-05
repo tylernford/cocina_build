@@ -56,6 +56,7 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/pictures-from-the-7th-annual-running-of-the-chihuahuas.md
 - content/news/catering-special.md
 - content/news/tis-the-season-to-be-jolly.md
 - content/news/national-nacho-day.md
@@ -112,7 +113,6 @@ pages:
 - content/news/cinco-de-mayo-1.md
 - content/news/cocina-214-s-annual-running-of-the-chihuahuas.md
 - content/news/may-beachside-yoga-brunch.md
-- content/news/pictures-from-the-7th-annual-running-of-the-chihuahuas.md
 - content/news/mother-s-day-at-cocina-214.md
 - content/news/need-a-break.md
 - content/news/national-wine-day.md
