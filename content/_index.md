@@ -33,8 +33,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/tis-the-season-to-be-jolly/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/11/05/tis-the-season-to-be-jolly_Cocina-214_2019.jpg"
   - event_name: Book Your Holiday Party Now!
     event_date: ''
     event_time: ''
