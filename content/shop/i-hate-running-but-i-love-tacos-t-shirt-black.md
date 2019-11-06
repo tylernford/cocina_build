@@ -21,6 +21,10 @@ The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, 
 
 **Fabrication:** 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz.
 
+![](/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues_front t.jpg)
+
+![](/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues_back t.jpg)
+
 We do not process or ship any orders on Saturdays or Sundays. We process orders Monday-Friday, excluding holidays and require 24 hours to process each order before shipping.
 
 Cocina 214 is closed in observance of the holidays: New Year's Day, Easter Day, Memorial Day, Thanksgiving Day and Christmas Day and will not process orders on these days. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed.
