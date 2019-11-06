@@ -18,7 +18,7 @@ images:
 - "/uploads/2017/12/07/shirt _product_details_3001.png"
 - "/uploads/2017/12/07/shirtspecs_3001shirt.png"
 weight: 400
-no_tax: false
+no_tax: true
 shipping_weight: "439.52"
 draft: true
 
