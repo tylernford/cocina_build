@@ -19,7 +19,7 @@ The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, 
 
 **Features:** Sideseamed. Retail fit. Unisex sizing. Shoulder taping.
 
-**Fabrication:** 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz.
+**Ath. Heather CVC:** 90% Airlume combed and ring-spun cotton, 10% poly, 32 single 4.2 oz.
 
 ![](/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues_front t.jpg)
 
