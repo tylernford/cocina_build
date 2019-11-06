@@ -29,7 +29,9 @@ The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, 
 
 **Fabrication:** 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz.
 
-![](/uploads/2019/11/06/Black_I_hate_running_front.jpg)![](/uploads/2019/11/06/Black_I_hate_running_back.jpg)
+![](/uploads/2019/11/06/Black_I_hate_running_front-3.jpg)
+
+![](/uploads/2019/11/06/Black_I_hate_running_back.jpg)
 
 We do not process or ship any orders on Saturdays or Sundays. We process orders Monday-Friday, excluding holidays and require 24 hours to process each order before shipping.
 
