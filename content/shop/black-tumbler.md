@@ -14,6 +14,6 @@ title = "Black Tumbler"
 weight = 400
 
 +++
-We do not process or ship any orders on Saturdays or Sundays. We process orders Monday-Friday, excluding holidays and require 24 hours to process each order before shipping.  
+We do not process or ship any orders on Saturdays or Sundays. We process orders Monday-Friday, excluding holidays and require 24 hours to process each order before shipping.
 
 Cocina 214 is closed in observance of the holidays: New Year's Day, Easter Day, Memorial Day, Thanksgiving Day and Christmas Day and will not process orders on these days. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed. 
