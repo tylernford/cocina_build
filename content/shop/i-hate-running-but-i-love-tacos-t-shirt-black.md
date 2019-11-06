@@ -1,6 +1,7 @@
 +++
 category = "T-Shirts"
 details = ["90% Airlume combed and ring-spun cotton, 10% poly", "Canvas Unisex Jersey Tee (Style #3001CVC)", "Color T-Shirt = Athletic Heather"]
+draft = true
 featured_image = "/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues-front-t.jpg"
 id = "i-hate-running-but-i-love-tacos-t-shirt-grey-blues"
 images = ["/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues_back t.jpg", "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"]
