@@ -5,23 +5,28 @@ category: T-Shirts
 price: 24
 details:
 - 100% Cotton
-- Tri-Blend American Apparel
+- 'Canvas Unisex Jersey Tee (Style #3001)'
 sizes:
 - Small
 - Medium
 - Large
 - X-Large
-size_guide: https://needsupply.com/help/#sizing
-featured_image: "/uploads/2017/11/21/I_hate_running_black_shirt.jpg"
+size_guide: https://www.bellacanvas.com/product/3001/Unisex-Jersey-Short-Sleeve-Tee.html
+featured_image: "/uploads/2019/11/06/Black_I_hate_running_front.jpg"
 images:
-- "/uploads/2017/12/07/shirt _product_details_3001.png"
-- "/uploads/2017/12/07/shirtspecs_3001shirt.png"
+- "/uploads/2019/11/06/Black_I_hate_running_back.jpg"
+- "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"
 weight: 400
 no_tax: false
-shipping_weight: 439.52
-draft: true
+shipping_weight: "439.52"
 
 ---
 The back of this Limited Edition BLACK Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "I hate running but I love tacos".
+
+The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, featuring a crew neck, short sleeves and designed with superior combed and ring-spun cotton.  
+  
+**Features:** Sideseamed. Retail fit. Unisex sizing. Shoulder taping.
+
+**Fabrication:** 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz.
 
 We do not ship any orders on Saturdays or Sundays. In addition, Cocina 214 will be closed in observance of the holidays: New Year's Day, Thanksgiving Day and Christmas Day and will not process orders on these days. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed.
