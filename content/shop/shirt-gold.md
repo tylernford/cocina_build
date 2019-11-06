@@ -11,7 +11,7 @@ sizes:
 - Medium
 - Large
 - X-Large
-size_guide: https://www.bellacanvas.com/product/3001/Unisex-Jersey-Short-Sleeve-Tee.html
+size_guide: https://www.bellacanvas.com/spec/3001%20specs.pdf
 featured_image: "/uploads/2019/11/06/Black_I_hate_running_front.jpg"
 images:
 - "/uploads/2019/11/06/Black_I_hate_running_back.jpg"
