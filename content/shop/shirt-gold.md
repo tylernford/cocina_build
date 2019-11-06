@@ -12,7 +12,7 @@ sizes:
 - Large
 - X-Large
 size_guide: https://www.bellacanvas.com/spec/3001%20specs.pdf
-featured_image: "/uploads/2019/11/06/Black_I_hate_running_front-1.jpg"
+featured_image: "/uploads/2019/11/06/Black_I_hate_running_front-2.jpg"
 images:
 - "/uploads/2019/11/06/Black_I_hate_running_back.jpg"
 - "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"
