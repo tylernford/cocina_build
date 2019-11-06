@@ -4,6 +4,7 @@ id: i-hate-running-but-i-love-tacos-t-shirt-black
 category: T-Shirts
 price: 24
 details:
+- Color T = Black
 - 100% Cotton
 - 'Canvas Unisex Jersey Tee (Style #3001)'
 sizes:
