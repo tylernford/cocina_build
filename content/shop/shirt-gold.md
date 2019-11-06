@@ -17,7 +17,7 @@ images:
 - "/uploads/2019/11/06/Black_I_hate_running_back.jpg"
 - "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"
 weight: 400
-no_tax: false
+no_tax: true
 shipping_weight: "439.52"
 
 ---
@@ -28,5 +28,7 @@ The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, 
 **Features:** Sideseamed. Retail fit. Unisex sizing. Shoulder taping.
 
 **Fabrication:** 100% Airlume combed and ring-spun cotton, 32 single 4.2 oz.
+
+![](/uploads/2019/11/06/Black_I_hate_running_front.jpg)![](/uploads/2019/11/06/Black_I_hate_running_back.jpg)
 
 We do not ship any orders on Saturdays or Sundays. In addition, Cocina 214 will be closed in observance of the holidays: New Year's Day, Thanksgiving Day and Christmas Day and will not process orders on these days. Please note that depending on when these holidays fall throughout the year we may be closed additional days other than those listed.
