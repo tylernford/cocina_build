@@ -56,9 +56,9 @@ fields:
   description: To embed a YouTube video, find the URL (e.g. https://www.youtube.com/watch?v=CdrCNx06eGA)
     and copy the key after 'watch?v=' (e.g. CdrCNx06eGA)
 pages:
+- content/news/tis-the-season-to-be-jolly.md
 - content/news/pictures-from-the-7th-annual-running-of-the-chihuahuas.md
 - content/news/catering-special.md
-- content/news/tis-the-season-to-be-jolly.md
 - content/news/national-nacho-day.md
 - content/news/celebrate-national-taco-on-friday-october-4-2019.md
 - content/news/book-your-holiday-party-now.md
