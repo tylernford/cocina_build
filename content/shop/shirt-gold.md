@@ -21,7 +21,7 @@ no_tax: true
 shipping_weight: "439.52"
 
 ---
-The back of this Limited Edition BLACK Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "I hate running but I love tacos".
+The back of this Limited Edition BLACK Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "I hate running but I love tacos". The back features a small centered print featuring the Cocina 214 logo.
 
 The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, featuring a crew neck, short sleeves and designed with superior combed and ring-spun cotton.
 
