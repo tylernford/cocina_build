@@ -1,17 +1,16 @@
 +++
 category = "Gift Cards"
 details = []
-draft = true
 featured_image = "/uploads/2017/11/16/gift_card_black.png"
-id = "gift-card-50"
+id = "gift-card-100"
 images = []
 no_tax = true
-price = 50
-shipping_weight = 224
+price = 100
+shipping_weight = "224"
 size_guide = ""
 sizes = []
 taxable = false
-title = "Gift Card ($50)"
+title = "Gift Card ($100)"
 weight = 100
 
 +++
