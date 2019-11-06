@@ -1,6 +1,6 @@
 +++
 category = "T-Shirts"
-details = ["100% Cotton", "Canvas Unisex Jersey Tee (Style #3001)"]
+details = ["100% Cotton", "Canvas Unisex Jersey Tee (Style #3001)", "Color T-Shirt = Athletic Heather"]
 featured_image = "/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues-front-t.jpg"
 id = "i-hate-running-but-i-love-tacos-t-shirt-grey-blues"
 images = ["/uploads/2019/11/06/I-hate-running-but-I-love-tacos_gray-and-blues_back t.jpg", "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"]
@@ -13,7 +13,7 @@ title = "I Hate Running but I Love Tacos T-Shirt (Grey with Blues)"
 weight = 400
 
 +++
-The back of this Limited Edition GRAY Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "I hate running but I love tacos". The back features a small centered print featuring the Cocina 214 logo.
+The back of this Limited Edition Athletic Heather Cocina shirt features a 9.5" silk screened reproduction of the label's character dial. The front is a centered chest print featuring the saying "I hate running but I love tacos". The back features a small centered print featuring the Cocina 214 logo.
 
 The Canvas Bella Tee is a unisex essential and fits like a well-loved favorite, featuring a crew neck, short sleeves and designed with superior combed and ring-spun cotton.
 
