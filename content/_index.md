@@ -80,6 +80,6 @@ hero_photos:
 - "/uploads/2017/12/01/steak_fajitas.jpg"
 
 ---
-Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park and Daytona Beach, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant and elegant setting. 
+Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant and elegant setting.
 
 We have been rated the Best Brunch Restaurant, the Best Power Lunch Restaurant, the Best Overall Restaurant, and the Best Mexican Restaurant.
