@@ -52,8 +52,8 @@ fields:
   description: File names should not have spaces. e.g. "street tacos.jpg" should be
     changed to "street_tacos.jpg"
 pages:
-- content/shop/white-tumbler.md
 - content/shop/black-tumbler.md
+- content/shop/white-tumbler.md
 - content/shop/i-hate-running-but-i-love-tacos-t-shirt-grey-with-blues.md
 - content/shop/shirt-gold.md
 - content/shop/i-hate-running-but-i-love-tacos-t-shirt-black.md
