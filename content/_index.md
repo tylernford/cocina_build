@@ -25,16 +25,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Nacho Day
-    event_date: Wed., November 6th
-    event_time: all day long
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/national-nacho-day/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/10/16/national-nacho-day-2019.jpg"
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
