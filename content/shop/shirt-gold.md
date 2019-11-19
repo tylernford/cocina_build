@@ -18,7 +18,7 @@ images:
 - "/uploads/2019/11/06/Black_I_hate_running_back.jpg"
 - "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"
 weight: 400
-no_tax: true
+no_tax: false
 shipping_weight: "439.52"
 
 ---

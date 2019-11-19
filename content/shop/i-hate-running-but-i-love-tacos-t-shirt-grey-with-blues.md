@@ -4,7 +4,7 @@ details = ["100% Cotton", "Canvas Unisex Jersey Tee (Style #3001)", "Color T = D
 featured_image = "/uploads/2019/11/06/I-hate-running-but-love-tacos_orangeteal_front.jpg"
 id = "i-hate-running-but-i-love-tacos-t-shirt-orange-teal"
 images = ["/uploads/2019/11/06/I-hate-running-but-love-tacos_orangeteal_back.jpg", "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"]
-no_tax = true
+no_tax = false
 price = 24
 shipping_weight = 439.52
 size_guide = "https://www.bellacanvas.com/spec/3001%20specs.pdf"
