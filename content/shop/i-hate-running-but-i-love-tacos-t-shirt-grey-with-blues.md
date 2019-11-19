@@ -1,7 +1,6 @@
 +++
 category = "T-Shirts"
 details = ["100% Cotton", "Canvas Unisex Jersey Tee (Style #3001)", "Color T = Dark Grey"]
-draft = true
 featured_image = "/uploads/2019/11/06/I-hate-running-but-love-tacos_orangeteal_front.jpg"
 id = "i-hate-running-but-i-love-tacos-t-shirt-orange-teal"
 images = ["/uploads/2019/11/06/I-hate-running-but-love-tacos_orangeteal_back.jpg", "/uploads/2019/11/06/UNISEX_XS-4XL-Bella 3001 Size Chart.jpg"]
