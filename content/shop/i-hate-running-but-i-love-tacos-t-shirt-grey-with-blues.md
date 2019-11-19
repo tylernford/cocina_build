@@ -8,7 +8,7 @@ no_tax = false
 price = 24
 shipping_weight = 439.52
 size_guide = "https://www.bellacanvas.com/spec/3001%20specs.pdf"
-sizes = ["Small", "Medium", "Large", "X-Large"]
+sizes = ["Small", "Medium", "Large", "X-Large", "2XL"]
 title = "I Hate Running but I Love Tacos T-Shirt (Orange and Teal)"
 weight = 400
 
