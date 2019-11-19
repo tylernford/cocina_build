@@ -57,7 +57,7 @@ private_dining:
     event."
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
   menus:
-  - menu: "/uploads/2018/09/05/PrivateDining_Cocina 214 WP 2018-1.pdf"
+  - menu: "/uploads/2019/11/19/PrivateDining_WP 2019.pdf"
     link_text: View Private Dining Menu
   menu: ''
 events:
