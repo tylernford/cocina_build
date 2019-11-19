@@ -1,7 +1,7 @@
 +++
 additional_info = "Wednesday, November 6, 2019"
-category = "upcoming"
-date = "2019-10-16T11:48:47-05:00"
+category = "past-events"
+date = 2019-10-16T16:48:47Z
 featured_photo = "/uploads/2019/10/16/national-nacho-day-2019.jpg"
 photos = []
 title = "National Nacho Day!"
