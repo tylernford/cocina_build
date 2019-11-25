@@ -16,6 +16,10 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
+- photo: "/uploads/2019/11/25/Natalie-1-1.jpg"
+  first_name: Natalie
+  last_name: ''
+  title: Events Manager
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: Stergios
@@ -36,10 +40,6 @@ winter_park_staff:
   first_name: Maria
   last_name: Moreno
   title: Sous Chef
-- photo: "/uploads/2017/12/07/Jenna2.jpg"
-  first_name: 'Jenna '
-  last_name: Dever
-  title: Events & Catering Manager
 daytona_beach_staff:
   show_staff: false
   staff:
