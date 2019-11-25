@@ -5,12 +5,12 @@ layout: about
 featured_staff:
 - photo: "/uploads/2017/12/08/Lambrine1_optimized.jpg"
   first_name: Lambrine
-  last_name: Macejewski
+  last_name: ''
   title: Business Manager, Partner & Co-Founder
 - photo: "/uploads/2017/12/07/Oscar2small.jpg"
   first_name: 'Oscar '
-  last_name: Gaona
-  title: Regional General Manager
+  last_name: ''
+  title: General Manager
 - photo: "/uploads/2017/12/07/Isidro6small.jpg"
   first_name: 'Isidro '
   last_name: 'Alvarez '
@@ -18,7 +18,7 @@ featured_staff:
 winter_park_staff:
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
-  last_name: Moreno
+  last_name: ''
   title: Sous Chef
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
