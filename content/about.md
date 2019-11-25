@@ -36,7 +36,7 @@ winter_park_staff:
   first_name: Elizabeth
   last_name: Mireles
   title: Manager
-- photo: "/uploads/2019/11/25/Natalie-1-1.jpg"
+- photo: "/uploads/2019/11/25/Natalie-1-2.jpg"
   first_name: Natalie
   last_name: ''
   title: Events Manager
