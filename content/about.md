@@ -16,10 +16,6 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: "/uploads/2019/11/25/Christine-1.jpg"
-  first_name: Christine
-  last_name: ''
-  title: Private Party Coordinator
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
   last_name: Moreno
@@ -44,6 +40,10 @@ winter_park_staff:
   first_name: Natalie
   last_name: ''
   title: Events Manager
+- photo: "/uploads/2019/11/25/Christine-1.jpg"
+  first_name: Christine
+  last_name: ''
+  title: Private Party Coordinator
 daytona_beach_staff:
   show_staff: false
   staff:
