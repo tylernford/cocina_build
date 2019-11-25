@@ -16,14 +16,22 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: "/uploads/2019/11/25/Natalie-1-1.jpg"
-  first_name: Natalie
+- photo: ''
+  first_name: Christine
   last_name: ''
-  title: Events Manager
+  title: Private Party Coordinator
+- photo: "/uploads/2017/12/07/Maria6small.jpg"
+  first_name: Maria
+  last_name: Moreno
+  title: Sous Chef
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: Stergios
   title: Manager
+- photo: "/uploads/2017/12/07/Miguel2small.jpg"
+  first_name: Miguel
+  last_name: Flores
+  title: Sous Chef
 - photo: "/uploads/2017/12/07/Dasha8.jpg"
   first_name: Dasha
   last_name: Ottich
@@ -32,14 +40,10 @@ winter_park_staff:
   first_name: Elizabeth
   last_name: Mireles
   title: Manager
-- photo: "/uploads/2017/12/07/Miguel2small.jpg"
-  first_name: Miguel
-  last_name: Flores
-  title: Sous Chef
-- photo: "/uploads/2017/12/07/Maria6small.jpg"
-  first_name: Maria
-  last_name: Moreno
-  title: Sous Chef
+- photo: "/uploads/2019/11/25/Natalie-1-1.jpg"
+  first_name: Natalie
+  last_name: ''
+  title: Events Manager
 daytona_beach_staff:
   show_staff: false
   staff:
