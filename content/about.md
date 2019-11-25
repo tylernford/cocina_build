@@ -40,7 +40,7 @@ winter_park_staff:
   first_name: Natalie
   last_name: ''
   title: Events Manager
-- photo: "/uploads/2019/11/25/Christine-1.jpg"
+- photo: "/uploads/2019/11/25/Christine-1-1.jpg"
   first_name: Christine
   last_name: ''
   title: Private Party Coordinator
