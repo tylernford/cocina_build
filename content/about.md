@@ -20,14 +20,14 @@ winter_park_staff:
   first_name: Maria
   last_name: ''
   title: Sous Chef
-- photo: "/uploads/2017/12/07/eugenia1small.jpg"
-  first_name: Eugenia
-  last_name: ''
-  title: Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: ''
   title: Sous Chef
+- photo: "/uploads/2017/12/07/eugenia1small.jpg"
+  first_name: Eugenia
+  last_name: ''
+  title: Manager
 - photo: "/uploads/2017/12/07/Dasha8.jpg"
   first_name: Dasha
   last_name: ''
