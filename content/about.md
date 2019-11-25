@@ -30,11 +30,11 @@ winter_park_staff:
   title: Sous Chef
 - photo: "/uploads/2017/12/07/Dasha8.jpg"
   first_name: Dasha
-  last_name: Ottich
+  last_name: ''
   title: Manager
 - photo: "/uploads/2017/12/07/Liz5.jpg"
   first_name: Elizabeth
-  last_name: Mireles
+  last_name: ''
   title: Manager
 - photo: "/uploads/2019/11/25/Natalie-1-2.jpg"
   first_name: Natalie
