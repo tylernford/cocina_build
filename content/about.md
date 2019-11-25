@@ -72,7 +72,7 @@ daytona_beach_staff:
     last_name: Fuertes
     title: Events & Catering Manager
 forestry_title: About
-hero_photo: "/uploads/2019/11/25/kitchen-staff-and-Lambrine-2019-1.jpg"
+hero_photo: "/uploads/2019/11/25/kitchen_staff_and_Lambrine_2019.jpg"
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. The name is a combination of the Spanish word for kitchen, “cocina” and the Dallas area code, “214.” The idea for opening Cocina 214 developed when two of the owners from Texas missed the Tex-Mex and Mexican food they had grown up eating. They wanted the same authentic, fresh and quality food in Winter Park, Florida.
