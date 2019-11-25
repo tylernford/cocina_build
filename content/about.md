@@ -13,7 +13,7 @@ featured_staff:
   title: General Manager
 - photo: "/uploads/2017/12/07/Isidro6small.jpg"
   first_name: 'Isidro '
-  last_name: 'Alvarez '
+  last_name: ''
   title: Executive Chef
 winter_park_staff:
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
@@ -22,11 +22,11 @@ winter_park_staff:
   title: Sous Chef
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
-  last_name: Stergios
+  last_name: ''
   title: Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
-  last_name: Flores
+  last_name: ''
   title: Sous Chef
 - photo: "/uploads/2017/12/07/Dasha8.jpg"
   first_name: Dasha
