@@ -16,7 +16,7 @@ featured_staff:
   last_name: 'Alvarez '
   title: Executive Chef
 winter_park_staff:
-- photo: ''
+- photo: "/uploads/2019/11/25/Christine-1.jpg"
   first_name: Christine
   last_name: ''
   title: Private Party Coordinator
