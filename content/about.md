@@ -24,6 +24,10 @@ winter_park_staff:
   first_name: Miguel
   last_name: ''
   title: Sous Chef
+- photo: "/uploads/2017/12/07/Humberto1.jpg"
+  first_name: Humberto
+  last_name: ''
+  title: Chef
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: ''
