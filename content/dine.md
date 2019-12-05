@@ -28,7 +28,7 @@ dine_with_us:
     hours: '4:00 pm – 6:30 pm '
     when: Monday – Friday
     menu_name: Happy Hour
-    menu: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final.pdf"
+    menu: "/uploads/2019/12/05/HappyHour_5x7_April 2019.pdf"
   reservations:
     text: Call to make a reservation today!
     phone: 'Winter Park 407. 790. 7997 '
