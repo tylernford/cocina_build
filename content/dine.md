@@ -18,7 +18,7 @@ dine_with_us:
   - menu_name: Cocktail
     menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
   - menu_name: After Dinner Drink and Dessert
-    menu: "/uploads/2019/11/19/AfterDinner_5x7_Nov 2019.pdf"
+    menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
   - menu_name: Take–Out
     menu: "/uploads/2019/11/19/TakeOut_Menu_Nov 2019.pdf"
   - menu_name: Kids’
