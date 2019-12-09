@@ -26,6 +26,26 @@ a[href^="tel"] {
 .css-arrow-link:hover::after{content:' »';}
 .css-back-arrow-link:hover::before{content:'« ';}
 
+.online-ordering-btn {
+    color: white;
+    background: rgb(255, 70, 45);
+    background: rgb(209, 132, 25);
+    border-radius: 5px;
+    display: inline-flex;
+    height: 50px;
+    width: 200px;
+    font-weight:600;
+    font-size: 22px;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    letter-spacing: 0;
+}
+.online-ordering-btn:hover {
+    background-color: rgb(194, 119, 16);
+}
+
 /* IE 10/11 Styles */
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
     .css-ie-nt-3_9375{margin-top:-3.9375rem}
@@ -62,17 +82,20 @@ a[href^="tel"] {
     margin-left: 48.2142857145%;
 }
 .css-product-grid-item{width:48.2142857145%}
+.css-product-grid-item__large {width: 100% }
 @media screen and (min-width:30em) {
     .css-product-grid:after {
         margin-left: 47.61904762%;
     }
     .css-product-grid-item {width:47.61904762%}
+    .css-product-grid-item__large {width: 100% }
 }
 @media screen and (min-width:46em) {
     .css-product-grid:after {
         margin-left: 31.25%;
     }
     .css-product-grid-item {width:31.25%}
+    .css-product-grid-item__large {width: 65.625% }
 }
 /* ------------------------------------ End Shop Product Grid Styles ------------------------------------ */
 

@@ -72,6 +72,8 @@
                 <div class="fade-in t-del-2 lh-2 ml3 measure-wide nested-p tracked-narrow white   ml4-ns   ml5@79 mw-39@79">
                     <p>{{ .Params.catering.text | markdownify }}</p>
                     <a class="b--white ba bw1 dib f-1_125 h-2_5 hover-bg-white hover-c-dark-brown jean-luc lh-1_5 link mt-_3125 ph4 pt-_375 tracked-narrow ttu white" href="/dine">Learn More</a>
+
+                    {{ partial "online-ordering__catering" . }}
                 </div>
             </div>
         </div>
