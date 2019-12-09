@@ -16,5 +16,3 @@ fields:
     schema:
       format: markdown
   label: Description
-pages:
-- content/shop/order-online.md
