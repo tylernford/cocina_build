@@ -1,4 +1,18 @@
 ---
 label: Catering
 hide_body: true
-fields: []
+fields:
+- name: catering--heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: catering--description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
