@@ -79,5 +79,8 @@ happy_hour:
     $5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and $5 Wells
   menu: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final-1.pdf"
   photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
+online_ordering:
+  description: Ordering is quick and easy. Select a location and time. Choose your
+    items. Complete your checkout.
 
 ---
