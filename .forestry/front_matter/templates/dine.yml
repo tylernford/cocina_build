@@ -71,6 +71,20 @@ fields:
     - type: text
       name: phone
       label: Phone
+- name: online_ordering
+  type: field_group
+  config: {}
+  fields:
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  label: Online Ordering
 - type: field_group
   name: catering
   label: Catering
