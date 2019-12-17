@@ -33,8 +33,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/enjoy-christmas-eve-dinner-with-us-at-cocina-214/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Special Pre-Set Menu
+      photo_link_photo: "/uploads/2019/12/17/Christmas-Eve-Dinner-2019.jpg"
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
