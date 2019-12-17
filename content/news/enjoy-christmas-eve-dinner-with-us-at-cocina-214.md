@@ -16,8 +16,6 @@ _We will be **Open** Regular Hours on **Christmas Eve, Tuesday, December 24th** 
 
 The Pre-Set Menu includes Appetizers with a Drink Pairing, a Choice of Entree with a Drink Pairing and Dessert with a Drink Pairing.  $75 per person and includes Tax and Gratuity.
 
-![](/uploads/2019/12/17/Christmas-Eve-Dinner-2019.jpg)
-
 **Reserve now online via Resy at:**
 
 [**https://cocina214.com/dine/**](https://cocina214.com/dine/ "https://cocina214.com/dine/")
