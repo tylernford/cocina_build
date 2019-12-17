@@ -3,7 +3,7 @@ additional_info = ""
 category = "upcoming"
 date = 2019-12-17T21:48:28Z
 featured_photo = "/uploads/2019/12/17/Merry-Holidays.jpg"
-photos = []
+photos = ["/uploads/2019/12/17/Christmas-Eve-Dinner-2019.jpg"]
 title = "Enjoy Christmas Eve Dinner with us at Cocina 214!"
 video_key = ""
 
