@@ -12,7 +12,7 @@ video_key = ""
 
 _We will be **Open** Regular Hours on **Christmas Eve, Tuesday, December 24th** from 11:30 AM - 10:00 PM._
 
-**_You can Order off the Regular Menu or Enjoy our Pre-Set Menu for Dinner._** 
+**_You can Order off the Regular Menu or Enjoy our Pre-Set Menu for Dinner._**
 
 The Pre-Set Menu includes Appetizers with a Drink Pairing, a Choice of Entree with a Drink Pairing and Dessert with a Drink Pairing.  $75 per person and includes Tax and Gratuity.
 
@@ -24,7 +24,6 @@ The Pre-Set Menu includes Appetizers with a Drink Pairing, a Choice of Entree wi
 
 **or call the restaurant at 407.790.7997**
 
-**  
-**[**www.Cocina214.com**](http://www.cocina214.com/)
+[**www.Cocina214.com**](http://www.cocina214.com/)
 
 **151 E. Welbourne Ave | Winter Park, Florida 32789**
