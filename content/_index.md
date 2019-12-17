@@ -25,6 +25,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Christmas Eve Dinner at Cocina 214
+    event_date: Christmas Eve, December 24th
+    event_time: ''
+    event_description: Enjoy our Regular Menu or our Special Pre-Set Menu
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-christmas-eve-dinner-with-us-at-cocina-214/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
