@@ -29,7 +29,9 @@ upcoming_events:
     event_date: Tuesday, Dec. 31st
     event_time: ''
     event_description: ''
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-new-year-s-eve-dinner-at-cocina-214/
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg"
