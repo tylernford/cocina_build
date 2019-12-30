@@ -31,8 +31,8 @@ upcoming_events:
     event_description: ''
     event_links: []
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg"
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
