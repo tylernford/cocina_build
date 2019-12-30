@@ -25,6 +25,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: New Year's Eve Dinner
+    event_date: Tuesday, Dec. 31st
+    event_time: ''
+    event_description: ''
+    event_links: []
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
