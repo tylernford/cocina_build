@@ -25,16 +25,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Christmas Eve Dinner at Cocina 214
-    event_date: Christmas Eve, Dec. 24th
-    event_time: ''
-    event_description: Enjoy our Regular Menu or our Special Pre-Set Menu
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/enjoy-christmas-eve-dinner-with-us-at-cocina-214/
-    photo_link:
-      photo_link_text: View Special Pre-Set Menu
-      photo_link_photo: "/uploads/2019/12/17/Christmas-Eve-Dinner-2019.jpg"
   - event_name: "'Tis the Season to be Jolly"
     event_date: Now through Dec. 31st
     event_time: ''
@@ -46,16 +36,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2019/11/05/tis-the-season-to-be-jolly_Cocina-214_2019.jpg"
-  - event_name: Book Your Holiday Party Now!
-    event_date: ''
-    event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/book-your-holiday-party-now/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/10/02/holiday-party-2019.jpg"
   - event_name: Margarita Mondays for Club 214 Members
     event_date: Every Monday
     event_time: All Day on Mondays
