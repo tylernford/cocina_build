@@ -28,7 +28,7 @@ upcoming_events:
   - event_name: New Year's Eve Dinner
     event_date: Tuesday, Dec. 31st
     event_time: ''
-    event_description: ''
+    event_description: Enjoy Dinner and a Complimentary Glass of Champagne!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/enjoy-new-year-s-eve-dinner-at-cocina-214/
