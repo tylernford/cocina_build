@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "upcoming"
 date = 2019-12-30T20:20:25Z
 featured_photo = "/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg"
 photos = ["/uploads/2019/12/30/New-Years-Eve--WP-Dinner-Menu-with-fajitas_2019.jpg"]
@@ -25,5 +25,3 @@ $74 per person & includes Tax and Gratuity. _Limit of 1 glass of champagne per p
 [**www.Cocina214.com**](http://www.cocina214.com/)
 
 **151 E. Welbourne Ave | Winter Park, Florida 32789**
-
-![](/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg)
