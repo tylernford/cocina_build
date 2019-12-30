@@ -12,9 +12,9 @@ video_key = ""
 
 **_You can Order off the Regular Menu or Enjoy our Pre-Set Menu for Dinner._**
 
-The Pre-Set Menu includes Appetizers for Sharing with a Drink Pairing, a Choice of Entree, Dessert for Sharing and a Complimentary Glass of Champagne to Cheers in the New Year.  
+The Pre-Set Menu includes Appetizers for Sharing with a Drink Pairing, a Choice of Entree, Dessert for Sharing and a Complimentary Glass of Champagne to Cheers in the New Year.
 
-###### $74 per person & includes Tax and Gratuity. _Limit of 1 glass of champagne per person_
+$74 per person & includes Tax and Gratuity. _Limit of 1 glass of champagne per person_
 
 **Reserve now online via Resy at:**
 
