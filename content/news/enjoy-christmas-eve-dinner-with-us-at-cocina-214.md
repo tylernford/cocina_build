@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2019-12-17T21:48:28Z
 featured_photo = "/uploads/2019/12/17/Merry-Holidays.jpg"
 photos = ["/uploads/2019/12/17/Christmas-Eve-Dinner-2019.jpg"]
