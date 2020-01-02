@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2019-12-30T20:20:25Z
 featured_photo = "/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg"
 photos = ["/uploads/2019/12/30/New-Years-Eve--WP-Dinner-Menu-with-fajitas_2019.jpg"]
