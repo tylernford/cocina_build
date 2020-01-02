@@ -25,27 +25,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: New Year's Eve Dinner
-    event_date: Tuesday, Dec. 31st
-    event_time: ''
-    event_description: Enjoy Dinner and a Complimentary Glass of Champagne!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/enjoy-new-year-s-eve-dinner-at-cocina-214/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/12/30/New-Year's-Eve-WP-2019.jpg"
-  - event_name: "'Tis the Season to be Jolly"
-    event_date: Now through Dec. 31st
-    event_time: ''
-    event_description: Purchase a $100 Gift Card and we will give you a $20 one on
-      us!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/tis-the-season-to-be-jolly/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/11/05/tis-the-season-to-be-jolly_Cocina-214_2019.jpg"
   - event_name: Margarita Mondays for Club 214 Members
     event_date: Every Monday
     event_time: All Day on Mondays
