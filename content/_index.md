@@ -32,11 +32,9 @@ upcoming_events:
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/national-margarita-day-dinner-with-drinks/
-    - event_link_text: ''
-      event_link_url: ''
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2020/01/23/National-Margarita-Day-Dinner-Poster-2020-1.jpg"
   - event_name: Margarita Mondays for Club 214 Members
     event_date: Every Monday
     event_time: All Day on Mondays
