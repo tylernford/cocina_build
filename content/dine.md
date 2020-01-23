@@ -81,6 +81,7 @@ happy_hour:
   photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
 online_ordering:
   description: Ordering is quick and easy. Select a location and time. Choose your
-    items. Complete your checkout.
+    items. Complete your checkout. Pickup and Catering Available. 20% Gratuity added
+    on all online orders.
 
 ---
