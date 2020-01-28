@@ -25,6 +25,15 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: 'Valentine''s Day '
+    event_date: Friday, February 14th
+    event_description: In addition to our Regular Menu we will have a Special Valentine's
+      Dinner Menu
+    event_time: ''
+    event_links: []
+    photo_link:
+      photo_link_text: View Special Valentine's Dinner Menu Here
+      photo_link_photo: "/uploads/2020/01/28/Valentine's-Dinner-Menu-2020.jpg"
   - event_name: National Margarita Day Dinner with Drinks
     event_date: Saturday, February 22nd
     event_time: 6:30 PM
