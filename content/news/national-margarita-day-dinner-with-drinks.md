@@ -3,7 +3,7 @@ additional_info = ""
 category = "upcoming"
 date = 2020-01-23T20:06:50Z
 featured_photo = "/uploads/2020/01/23/National-Margarita-Day-Dinner-Poster-2020-1.jpg"
-photos = []
+photos = ["/uploads/2020/01/28/National-Margraita-Day-El-Tesoro-Tequila-Dinner-2020.jpg"]
 title = "National Margarita Day Dinner with Drinks"
 video_key = ""
 
