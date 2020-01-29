@@ -12,15 +12,10 @@ private_dining:
     for your event!
   photo: "/uploads/2017/12/01/Carne_Asada_2017_2.jpg"
 catering:
-  text: "Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding
-    or private event by selecting Cocina 214 as your catering preference. Whether
-    the event is small or large, Cocina 214 offers a wide variety of dishes that caters
-    to all types of palates. Cocina 214 catering combines the experience of freshly
-    made food with dedicated high quality service to make a perfect eating experience
-    at any event. Make your event buzz with excitement over the authentic and deliciousness
-    Tex-Mex food provided by Cocina 214 catering service.\n\nGet a $25 Cocina 214
-    Gift Card for every $250 Catering Order that you place! \n\nContact Natalie to
-    place your Catering order at 407-790-7997."
+  text: |-
+    Bring authentic Tex-Mex cuisine bursting with flavor to any corporate, wedding or private event by selecting Cocina 214 as your catering preference. Whether the event is small or large, Cocina 214 offers a wide variety of dishes that caters to all types of palates. Cocina 214 catering combines the experience of freshly made food with dedicated high quality service to make a perfect eating experience at any event. Make your event buzz with excitement over the authentic and deliciousness Tex-Mex food provided by Cocina 214 catering service.
+
+    Contact Natalie to place your Catering order at 407-790-7997 or at Natalie@cocina214.com
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
