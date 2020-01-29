@@ -40,8 +40,10 @@ catering:
     residence or other location with advanced notice. \n\n- Free delivery within a
     10-mile radius of our restaurant, with an additional fee for further mileage.
     \n- Delivery orders include a drop-off and quick onsite set-up. \n- Minimum Order
-    is required for delivery and for catered events. \n\nLet us plan the details of
-    your catered event so that you can enjoy your gathering."
+    is required for delivery and for catered events. \n- 20% gratuity is added to
+    all Catering orders.\n\nLet us plan the details of your catered event so that
+    you can enjoy your gathering. Contact Natalie, our Events & Catering Manager,
+    at: natalie@cocina214.com "
   menu: "/uploads/2019/11/19/CateringMenu_Nov 2019.pdf"
   photo: "/uploads/2017/12/04/guac_bar.jpg"
 private_dining:
