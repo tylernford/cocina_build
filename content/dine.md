@@ -61,10 +61,9 @@ private_dining:
 events:
   title: Book Your Private Party or Catering
   winter_park_photo: "/uploads/2019/11/19/quesadillas-with-salsa-trio-and-BOAT-for-catering.jpg"
-  winter_park_text: |-
-    Please contact Natalie Gusler, our Events Manager, to help plan your private party or catered event. Please allow up to 48hrs for a response.
-
-    Natalie can be reached at: Party@Cocina214.com
+  winter_park_text: 'Please contact Natalie, our Private Dining & Events Manager,
+    to help plan your private party or catered event. Please allow up to 48hrs for
+    a response. Natalie can be reached at: Natalie@Cocina214.com'
   daytona_beach_photo: "/uploads/2019/11/19/Brownies,-Churros-and-Strawberries.jpg"
   daytona_beach_text: ''
 hero_photos:
