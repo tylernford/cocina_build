@@ -52,7 +52,8 @@ private_dining:
     options for larger groups. \n\n- Menus are completely unique to host’s needs &
     printed exclusively for your event.\n- HD TVs and sound system available for use.\n-
     Standard linens are included with your reservation.\n\nLet us help plan your momentous
-    event."
+    event. Christine, our Private Dining Coordinator, can help you plan your perfect
+    party! She can be reached via email at: party@cocina214.com"
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
   menus:
   - menu: "/uploads/2019/11/19/PrivateDining_WP 2019.pdf"
