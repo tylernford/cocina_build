@@ -20,7 +20,7 @@ dine_with_us:
   - menu_name: After Dinner Drink and Dessert
     menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
   - menu_name: Take–Out
-    menu: "/uploads/2019/11/19/TakeOut_Menu_Nov 2019.pdf"
+    menu: "/uploads/2020/02/13/TakeOut_Menu_Jan 2020.pdf"
   - menu_name: Kids’
     menu: "/uploads/2018/08/31/Kids_Menu_Cocina Aug 2018.pdf"
   featured:
