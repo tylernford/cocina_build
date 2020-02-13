@@ -14,7 +14,7 @@ dine_with_us:
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
   - menu_name: Dine-In
-    menu: "/uploads/2019/12/05/Cocina 214 Menu - Dec 2019.pdf"
+    menu: "/uploads/2020/02/13/Cocina 214 Menu - Jan 2020.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
   - menu_name: After Dinner Drink and Dessert
