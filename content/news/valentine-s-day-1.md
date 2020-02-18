@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2020-01-28T19:45:41Z
 featured_photo = "/uploads/2020/01/28/Valentine's-Dinner-Menu-2020.jpg"
 photos = []
