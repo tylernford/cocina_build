@@ -20,10 +20,10 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Margarita Day Dinner with Drinks
+  - event_name: National Margarita Day Dinner with Drinks & Giveaways
     event_date: Saturday, February 22nd
     event_time: 6:30 PM
-    event_description: Dinner, Drinks and Margarita Class!
+    event_description: Dinner, Drinks, Margarita Class and Giveaways!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/national-margarita-day-dinner-with-drinks/
