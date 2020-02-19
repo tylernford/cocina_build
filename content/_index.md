@@ -30,6 +30,16 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2020/01/23/National-Margarita-Day-Dinner-Poster-2020-1.jpg"
+  - event_name: Girls Night Out Justin Wine Dinner
+    event_date: Wednesday, April 22nd
+    event_time: 6:30 PM
+    event_description: 5-Course, Wine-paired Dinner with Giveaways from the Winery!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/girls-night-out-justin-wine-dinner/
+    photo_link:
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2020/02/19/Girls-Night-Out_Wine-Dinner-2020.jpg"
   - event_name: Margarita Mondays for Club 214 Members
     event_date: Every Monday
     event_time: All Day on Mondays
