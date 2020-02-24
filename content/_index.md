@@ -25,7 +25,9 @@ upcoming_events:
     event_time: ''
     event_description: Order your favorite Tex-Mex & Mexican from your computer or
       phone!
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/you-can-now-order-cocina-214-online/
     photo_link:
       photo_link_text: View Details Here
       photo_link_photo: "/uploads/2020/02/24/ONLINE-ORDERING-POSTCARD-page1.jpg"
