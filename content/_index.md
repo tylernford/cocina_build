@@ -20,16 +20,15 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Margarita Day Dinner with Drinks & Giveaways
-    event_date: Saturday, February 22nd
-    event_time: 6:30 PM
-    event_description: Dinner, Drinks, Margarita Class and Giveaways!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/national-margarita-day-dinner-with-drinks/
+  - event_name: You can Now Order Online with Cocina 214!
+    event_date: ''
+    event_time: ''
+    event_description: Order your favorite Tex-Mex & Mexican from your computer or
+      phone!
+    event_links: []
     photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2020/01/23/National-Margarita-Day-Dinner-Poster-2020-1.jpg"
+      photo_link_text: View Details Here
+      photo_link_photo: "/uploads/2020/02/24/ONLINE-ORDERING-POSTCARD-page1.jpg"
   - event_name: Girls Night Out Justin Wine Dinner
     event_date: Wednesday, April 22nd
     event_time: 6:30 PM
