@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2020-01-23T20:06:50Z
 featured_photo = "/uploads/2020/01/23/National-Margarita-Day-Dinner-Poster-2020-1.jpg"
 photos = ["/uploads/2020/01/28/National-Margraita-Day-El-Tesoro-Tequila-Dinner-2020.jpg"]
