@@ -2,7 +2,6 @@
 additional_info = ""
 category = "current"
 date = 2020-03-10T16:16:41Z
-draft = true
 featured_photo = ""
 photos = []
 title = "Kindness for Kyle"
