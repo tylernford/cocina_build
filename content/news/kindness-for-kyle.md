@@ -2,7 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-03-10T16:16:41Z
-featured_photo = ""
+featured_photo = "/uploads/2020/03/10/Kindness-for-Kyle-2020.jpg"
 photos = []
 title = "Kindness for Kyle"
 video_key = ""
@@ -15,3 +15,5 @@ Kyle was recently a gunshot victim and has suffered an incomplete spinal cord in
 Kyle has a long road ahead of him and we are fundraising to help him.
 
 One of Kyle’s favorite Cocina 214 dishes is the SOCO (Southern Comfort) Chicken Tacos so now through Cinco de Mayo, a portion of the sales of those tacos will go to his Go Fund me account. [https://bit.ly/2TDsC55](https://bit.ly/2TDsC55 "https://bit.ly/2TDsC55")
+
+![](/uploads/2020/03/10/Kindness-for-Kyle-2020-1.jpg)
