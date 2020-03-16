@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: Updates from Cocina 214
     event_date: ''
     event_time: ''
-    event_description: ''
+    event_description: Monitoring COVID-19
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/updates-from-cocina-214/
