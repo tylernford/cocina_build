@@ -10,7 +10,7 @@ video_key = ""
 +++
 We are Fundraising for our Beloved Server & Bartender, Kyle! He has been part of our Cocina 214 family for 4 years and he needs our help.
 
-Kyle was recently a gunshot victim and has suffered an incomplete spinal cord injury that has left him with nerve damage in both legs. Kyle has to learn how to use his legs again and will be out of work for the unforeseeable future.
+Kyle recently suffered an incomplete spinal cord injury that has left him with nerve damage in both legs. Kyle has to learn how to use his legs again and will be out of work for the unforeseeable future.
 
 Kyle has a long road ahead of him and we are fundraising to help him.
 
