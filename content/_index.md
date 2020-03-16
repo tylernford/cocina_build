@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/updates-from-cocina-214/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Poster
+      photo_link_photo: "/uploads/2020/03/16/Cocina-214-letter-for-CoronaVirus-1.jpg"
   - event_name: You can Now Order Online with Cocina 214!
     event_date: ''
     event_time: ''
