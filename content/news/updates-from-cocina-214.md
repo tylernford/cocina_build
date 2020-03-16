@@ -2,7 +2,6 @@
 additional_info = ""
 category = "current"
 date = 2020-03-16T18:09:25Z
-draft = true
 featured_photo = "/uploads/2020/03/16/Cocina-214-letter-for-CoronaVirus.jpg"
 photos = []
 title = "Updates from Cocina 214"
@@ -21,7 +20,7 @@ While we have always adhered to the highest cleanliness and food safety standard
 
 We are closely monitoring the situation and will communicate any further changes if they develop.
 
-At this time, we will continue our _regular hours of operation_. We will also offer _Online Ordering_, with the ability to pick-up curbside or to get catered delivery _(for orders over $125)_. You can order online here: [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
+At this time, we will continue our _Regular Hours of Operation_. We will also offer _Online Ordering_, with the ability to pick-up curbside or to get catered delivery _(for orders over $125)_. You can order online here: [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 
 If you choose the online order pick-up option, call the restaurant at 407-790-7997 and a Cocina 214 Team Member will bring your order curbside to your car on Welbourne (by the front door) or Center Street (by the bar door).
 
@@ -35,5 +34,5 @@ Thank you,
 
 **Cocina 214**
 
-**  
+\**  
 Thank you for your Continued Support of our Small Local Business these Past 9 Years!**
