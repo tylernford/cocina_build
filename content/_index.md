@@ -24,7 +24,9 @@ upcoming_events:
     event_date: ''
     event_time: ''
     event_description: Updates regarding COVID-19
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/cocina-214-updates-as-of-march-18-2020/
     photo_link:
       photo_link_photo: "/uploads/2020/03/18/Cocina-214-letter-for-CoronaVirus_update-as-of-March-18-2020-1.jpg"
       photo_link_text: ''
