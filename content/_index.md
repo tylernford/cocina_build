@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: Cocina 214 Updates, as of March 18, 2020
     event_date: ''
     event_time: ''
-    event_description: Updates regarding COVID-19
+    event_description: Cocina 214 Updates regarding COVID-19
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cocina-214-updates-as-of-march-18-2020/
