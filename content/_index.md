@@ -20,16 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Updates from Cocina 214
+  - event_name: Cocina 214 Updates, as of March 18, 2020
     event_date: ''
     event_time: ''
-    event_description: Monitoring COVID-19
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/updates-from-cocina-214/
+    event_description: Updates regarding COVID-19
+    event_links: []
     photo_link:
-      photo_link_text: View Details Here
-      photo_link_photo: "/uploads/2020/03/16/Cocina-214-letter-for-CoronaVirus-1.jpg"
+      photo_link_photo: "/uploads/2020/03/18/Cocina-214-letter-for-CoronaVirus_update-as-of-March-18-2020-1.jpg"
+      photo_link_text: ''
   - event_name: You can Now Order Online with Cocina 214!
     event_date: ''
     event_time: ''
