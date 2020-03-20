@@ -20,8 +20,8 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: We are Open and Offer Online Ordering, Curbside Pick-up & Catering
-      Deliveries!
+  - event_name: Dine-In is CLOSED but you can still order TO-GO or Online for Curbside
+      Pick-up & Catering Deliveries!
     event_date: ''
     event_time: ''
     event_description: Lots of Ways to Still Enjoy Cocina 214
