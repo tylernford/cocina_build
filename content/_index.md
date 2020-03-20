@@ -25,7 +25,9 @@ upcoming_events:
     event_date: ''
     event_time: ''
     event_description: Lots of Ways to Still Enjoy Cocina 214
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/we-are-open-and-offer-online-ordering-curbside-pick-up-catering-deliveries/
     photo_link:
       photo_link_text: View Details Here
       photo_link_photo: "/uploads/2020/03/20/Flyer-with-Chicken-Fajitas-2020.jpg"
