@@ -4,19 +4,19 @@ category = "current"
 date = 2020-03-20T17:50:24Z
 featured_photo = "/uploads/2020/03/20/Flyer-with-Chicken-Fajitas-2020-1.jpg"
 photos = []
-title = "We are Open and Offer Online Ordering, Curbside Pick-up & Catering Deliveries!"
+title = "Our Dining Room is Closed but You can Order Take-Out, Place Online Orders with Curbside Pick-up & Catering Deliveries!"
 video_key = ""
 
 +++
-**We are Open and Offer Online Ordering, Curbside Pick-up & Catering Deliveries!**
+**Our Dining Room is Closed until further notice but you can Call the Restaurant and Order Take-Out, Place Online Orders with Curbside Pick-up and Order Catering to be Delivered!**
 
-If you want to **Dine-In**, tables are 6 FT apart, reservations can be made for 10 ppl or less and we are at 50% occupancy.
+**To place a TO-GO Order, call the restaurant at 407-790-7997.**
 
-If you want to do **Curbside Pick-up** or want Catering Delivered then you can Order Online. You can select your items, pay online and either pick it up curbside or we can deliver your order (if you select that option under Catering).
+**To place an Order Online for Curbside Pick-up or Catering Delivered then go to:** [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 
-Alcoholic beverages cannot be ordered to-go, but if you have a Catering order to be Delivered, then we can deliver our 214 Rocks and Sangria by the gallon. Each gallon serves about 14 drinks. If you want something that is not on our online menu, then contact our Catering Manger, Natalie and she can further help you. She can be reached at:
+**With the Governor's latest Executive Order we are allowed to offer Alcohol TO-GO in sealed containers. You can take home our famous 214 Rocks Margaritas or Sangria by the Quart for $35 (4 Margaritas) or by the Gallon for $99 (14 Margaritas). We also have Wine and Beer by the Bottle.**
 
-Natalie@cocina214.com
+If you want something that is not on our online menu, then contact our Catering Manger, Natalie and she can further help you. She can be reached at: Natalie@cocina214.com
 
 To access our Online Ordering System, go to: [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 
