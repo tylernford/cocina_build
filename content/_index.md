@@ -20,6 +20,15 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: We are Open and Offer Online Ordering, Curbside Pick-up & Catering
+      Deliveries!
+    event_date: ''
+    event_time: ''
+    event_description: Lots of Ways to Still Enjoy Cocina 214
+    event_links: []
+    photo_link:
+      photo_link_text: View Details Here
+      photo_link_photo: "/uploads/2020/03/20/Flyer-with-Chicken-Fajitas-2020.jpg"
   - event_name: Cocina 214 Updates, as of March 18, 2020
     event_date: ''
     event_time: ''
@@ -30,17 +39,6 @@ upcoming_events:
     photo_link:
       photo_link_photo: "/uploads/2020/03/18/Cocina-214-letter-for-CoronaVirus_update-as-of-March-18-2020-1.jpg"
       photo_link_text: View Update Here
-  - event_name: You can Now Order Online with Cocina 214!
-    event_date: ''
-    event_time: ''
-    event_description: Order your favorite Tex-Mex & Mexican from your computer or
-      phone!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/you-can-now-order-cocina-214-online/
-    photo_link:
-      photo_link_text: View Details Here
-      photo_link_photo: "/uploads/2020/02/24/ONLINE-ORDERING-POSTCARD-page1.jpg"
   - event_name: Girls Night Out Justin Wine Dinner
     event_date: Wednesday, April 22nd
     event_time: 6:30 PM
