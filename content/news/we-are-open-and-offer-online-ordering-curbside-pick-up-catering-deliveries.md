@@ -2,7 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-03-20T17:50:24Z
-featured_photo = "/uploads/2020/03/20/Flyer-with-Chicken-Fajitas-2020-1.jpg"
+featured_photo = "/uploads/2020/03/20/Fajitas-and-Margaritas-ToGO-2020-1.jpg"
 photos = []
 title = "Our Dining Room is Closed but You can Order Take-Out, Place Online Orders with Curbside Pick-up & Catering Deliveries!"
 video_key = ""
