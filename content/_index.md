@@ -31,16 +31,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Details Here
       photo_link_photo: "/uploads/2020/03/20/Fajitas-and-Margaritas-ToGO-2020.jpg"
-  - event_name: Cocina 214 Updates, as of March 18, 2020
-    event_date: ''
-    event_time: ''
-    event_description: Cocina 214 Updates regarding COVID-19
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cocina-214-updates-as-of-march-18-2020/
-    photo_link:
-      photo_link_photo: "/uploads/2020/03/18/Cocina-214-letter-for-CoronaVirus_update-as-of-March-18-2020-1.jpg"
-      photo_link_text: View Update Here
   - event_name: Girls Night Out Justin Wine Dinner
     event_date: Wednesday, April 22nd
     event_time: 6:30 PM
