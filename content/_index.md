@@ -23,10 +23,8 @@ upcoming_events:
   - event_name: New Cocina 214 Hours & Limited Menu for Curbside Pick-up
     event_date: ''
     event_time: ''
-    event_description: 'Enjoy Curbside Cocktails '
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/new-cocina-214-hours-limited-menu-for-curbside-pick-up/
+    event_description: ''
+    event_links: []
     photo_link:
       photo_link_text: Curbside Cocktail Menu Now Available!
       photo_link_photo: "/uploads/2020/03/23/Curbside-Cocktails-Menu-2020-4.jpg"
