@@ -20,7 +20,7 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: New Cocina 214 Hours & Limited Menu for Curbside Pick-up
+  - event_name: New Cocina 214 Hours & Curbside Pick-up Menus
     event_date: ''
     event_time: ''
     event_description: ''
