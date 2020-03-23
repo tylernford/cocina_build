@@ -4,7 +4,7 @@ category = "current"
 date = 2020-03-22T23:56:03Z
 featured_photo = "/uploads/2020/03/23/Curbside-Cocktails-Menu-2020-3.jpg"
 photos = ["/uploads/2020/03/23/Curbside-Menu-2020-3.jpg"]
-title = "New Cocina 214 Hours & Limited Menu for Curbside Pick-up"
+title = "New Cocina 214 Hours & Curbside Pick-up Menus"
 video_key = ""
 
 +++
