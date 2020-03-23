@@ -10,7 +10,7 @@ video_key = ""
 +++
 **With all the recent changes regarding the Corona Virus, we are temporarily changing our Hours and Menu.**
 
-**Effective March 22 2020, our new Hours are as follows:**
+**Effective March 22, 2020, our new Hours are as follows:**
 
 **Monday:** Closed
 
@@ -22,7 +22,7 @@ video_key = ""
 
 ![](/uploads/2020/03/23/Curbside-Cocktails-Menu-2020.jpg)
 
-**You can Call the Restaurant and Order Take-Out, Place Online Orders with Curbside Pick-up and Order Catering to be Delivered.** 
+**You can Call the Restaurant and Order Take-Out, Place Online Orders with Curbside Pick-up and Order Catering to be Delivered.**
 
 **With the Governor's latest Executive Order we are allowed to offer Alcohol TO-GO in sealed containers. We now have Curbside Cocktail Menu.**
 
