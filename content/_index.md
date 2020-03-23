@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: New Cocina 214 Hours & Limited Menu for Curbside Pick-up
+    event_date: ''
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/new-cocina-214-hours-limited-menu-for-curbside-pick-up/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Dine-In is CLOSED but you can still order TO-GO or Online for Curbside
       Pick-up & Catering Deliveries!
     event_date: ''
