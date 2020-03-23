@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/new-cocina-214-hours-limited-menu-for-curbside-pick-up/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: Curbside Cocktail Menu Now Available!
+      photo_link_photo: "/uploads/2020/03/23/Curbside-Cocktails-Menu-2020-4.jpg"
   - event_name: Dine-In is CLOSED but you can still order TO-GO or Online for Curbside
       Pick-up & Catering Deliveries!
     event_date: ''
