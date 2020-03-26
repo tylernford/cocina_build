@@ -12,14 +12,13 @@ video_key = ""
 
 Happy Hour Prices are All Day Long from Noon - 8:00 pm!
 
-  
 **_$5 for Single 214 Rocks Margaritas_**
 
 **_$5 for Single Sangria_**
 
-**_$20 for Quart* of 214 Rocks or for Sangria_**
+**_$20 for Quart_ of 214 Rocks or for Sangria***
 
-**_$70 for Gallon Jug** of 214 Rocks or for Sangria_**
+**$70 for Gallon Jug__ of 214 Rocks or for Sangria**
 
 **_1/2 Price Bottles of Wine_**
 
