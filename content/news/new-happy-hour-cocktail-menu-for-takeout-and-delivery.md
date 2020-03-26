@@ -28,4 +28,4 @@ Enjoy some adult beverages with your lunch or dinner! Place with your order for 
 
 \**A Gallon Jug is 128 oz and is equivalent to about 14 of our regular 214 Rocks Margaritas/Sangrias
 
-![](/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-2.jpg)
+![](/uploads/2020/03/26/Happy-Hour-Curbside-Specials_Tag.jpg)
