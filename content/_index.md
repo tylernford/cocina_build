@@ -28,7 +28,7 @@ upcoming_events:
     event_links: []
     photo_link:
       photo_link_text: View Details Here
-      photo_link_photo: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour.jpg"
+      photo_link_photo: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-3.jpg"
   - event_name: New Cocina 214 Hours & Curbside Pick-up Menus
     event_date: ''
     event_time: ''
