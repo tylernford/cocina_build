@@ -20,6 +20,15 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: New Happy Hour Cocktail Menu for Takeout and Delivery!
+    event_date: 'Tuesday - Sunday '
+    event_time: Noon - 8:00 PM
+    event_description: 'HH 214 Rocks Margaritas, HH Sangria, & 1/2 Price Bottles of
+      Wine '
+    event_links: []
+    photo_link:
+      photo_link_text: View Details Here
+      photo_link_photo: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour.jpg"
   - event_name: New Cocina 214 Hours & Curbside Pick-up Menus
     event_date: ''
     event_time: ''
@@ -30,17 +39,6 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Dine-In is CLOSED but you can still order TO-GO or Online for Curbside
-      Pick-up & Catering Deliveries!
-    event_date: ''
-    event_time: ''
-    event_description: Lots of Ways to Still Enjoy Cocina 214
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/we-are-open-and-offer-online-ordering-curbside-pick-up-catering-deliveries/
-    photo_link:
-      photo_link_text: View Details Here
-      photo_link_photo: "/uploads/2020/03/20/Fajitas-and-Margaritas-ToGO-2020.jpg"
   - event_name: Girls Night Out Justin Wine Dinner
     event_date: Wednesday, April 22nd
     event_time: 6:30 PM
