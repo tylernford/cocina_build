@@ -18,7 +18,7 @@ Happy Hour Prices are All Day Long from Noon - 8:00 pm!
 
 **_$20 for Quart_ of 214 Rocks or for Sangria***
 
-**$70 for Gallon Jug__ of 214 Rocks or for Sangria**
+__$70 for Gallon Jug of 214 Rocks or for Sangria**__
 
 **_1/2 Price Bottles of Wine_**
 
