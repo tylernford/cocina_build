@@ -12,7 +12,7 @@ video_key = ""
 
 Happy Hour Prices are All Day Long from Noon - 8:00 pm!
 
-**_$5 for Single 214 Rocks Margaritas_**
+**_$5 for Single 214 Rocks Margarita_**
 
 **_$5 for Single Sangria_**
 
