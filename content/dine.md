@@ -15,8 +15,8 @@ dine_with_us:
   menus:
   - menu_name: Curbside Pick-Up Menu, as of March 22, 2020
     menu: "/uploads/2020/03/23/Curbside-Menu-2020-1.jpg"
-  - menu_name: Curbside Cocktail Menu, as of March 22, 2020
-    menu: "/uploads/2020/03/23/Curbside-Cocktails-Menu-2020-1.jpg"
+  - menu_name: Curbside Happy Hour Cocktail Menu, as of March 25, 2020
+    menu: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-4.jpg"
   - menu_name: Dine-In
     menu: "/uploads/2020/02/13/Cocina 214 Menu - Jan 2020.pdf"
   - menu_name: Cocktail
