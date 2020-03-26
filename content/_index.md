@@ -23,8 +23,8 @@ upcoming_events:
   - event_name: New Happy Hour Cocktail Menu for Takeout and Delivery!
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
-    event_description: 'HH 214 Rocks Margaritas, HH Sangria, & 1/2 Price Bottles of
-      Wine '
+    event_description: "$5 214 Rocks Margaritas, $5 Sangria, & 1/2 Price Bottles of
+      Wine "
     event_links: []
     photo_link:
       photo_link_text: View Details Here
