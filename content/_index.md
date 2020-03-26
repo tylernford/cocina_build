@@ -25,7 +25,9 @@ upcoming_events:
     event_time: Noon - 8:00 PM
     event_description: "$5 214 Rocks Margaritas, $5 Sangria, & 1/2 Price Bottles of
       Wine "
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/new-happy-hour-cocktail-menu-for-takeout-and-delivery/
     photo_link:
       photo_link_text: View Details Here
       photo_link_photo: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-3.jpg"
