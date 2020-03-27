@@ -25,3 +25,17 @@ _House Chips & Salsa, Meat Tacos (Ground Beef, or Chicken), Corn or Flour Tortil
 **Veggie Taco Bar:**
 
 _Veggie Tacos ( Zucchini, corn, jalapeños, black beans & mushrooms with verde sauce), Corn or Flour Tortillas, & 4 Toppings: Pico de Gallo, Shredded Cheese, Coastal Slaw, & Sour Cream._
+
+**_Adulting?_** _Add a Quart of 214 Rocks Margaritas or Sangria for only $20!_
+
+**We also have HAPPY HOUR SPECIALS!** All day Long from Noon - 8:00 pm!
+
+_$5 for Single 214 Rocks Margarita_
+
+_$5 for Single Sangria_
+
+_$20 for Quart of 214 Rocks or for Sangria_
+
+_$70 for Gallon Jug of 214 Rocks or for Sangria_
+
+_1/2 Price Bottles of Wine_
