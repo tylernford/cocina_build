@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: New Family Dinner Options for Take-out and Delivery
+    event_date: 'Tuesday - Sunday '
+    event_time: Noon - 8:00 PM
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/new-family-dinner-options-for-take-out-and-delivery/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: New Happy Hour Cocktail Menu for Takeout and Delivery!
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
