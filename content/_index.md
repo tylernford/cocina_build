@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/new-family-dinner-options-for-take-out-and-delivery/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/03/27/Family-Dinner-Menu-2020-3.jpg"
   - event_name: New Happy Hour Cocktail Menu for Takeout and Delivery!
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
