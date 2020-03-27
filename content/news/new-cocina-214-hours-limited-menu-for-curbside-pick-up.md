@@ -2,8 +2,8 @@
 additional_info = ""
 category = "current"
 date = 2020-03-22T23:56:03Z
-featured_photo = "/uploads/2020/03/23/Curbside-Cocktails-Menu-2020-3.jpg"
-photos = ["/uploads/2020/03/23/Curbside-Menu-2020-3.jpg"]
+featured_photo = "/uploads/2020/03/27/Curbside-Menu-2020.jpg"
+photos = []
 title = "New Cocina 214 Hours & Curbside Pick-up Menus"
 video_key = ""
 
@@ -19,8 +19,6 @@ video_key = ""
 **Our new Curbside Pick-up Menu is as follows:**
 
 ![](/uploads/2020/03/23/Curbside-Menu-2020.jpg)
-
-![](/uploads/2020/03/23/Curbside-Cocktails-Menu-2020.jpg)
 
 **You can Call the Restaurant and Order Take-Out, Place Online Orders with Curbside Pick-up and Order Catering to be Delivered.**
 
