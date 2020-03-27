@@ -61,33 +61,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2020/02/19/Girls-Night-Out_Wine-Dinner-2020.jpg"
-  - event_name: Margarita Mondays for Club 214 Members
-    event_date: Every Monday
-    event_time: All Day on Mondays
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/margarita-mondays-for-club-214-members/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2019/06/12/Margarita-Monday-Promo_letter.jpg"
-  - event_name: Happy Hour
-    event_date: Mondays – Fridays
-    event_time: 4:00pm – 6:30pm
-    event_description: "$5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, $5
-      Wells and more!"
-    photo_link:
-      photo_link_photo: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final-2.pdf"
-      photo_link_text: Happy Hour Menu
-    event_links: []
-  - event_name: Brunch
-    event_date: Saturdays & Sundays
-    event_time: until 3:00pm
-    event_description: Brunch Menu with $3 Brunch Mimosas
-    event_links: []
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
