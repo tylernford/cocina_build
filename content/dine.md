@@ -13,6 +13,8 @@ dine_with_us:
     Upscale Casual Restaurant”, “Best Happy Hour”, “Best Take-Out”, “Best Appetizer”,
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
+  - menu_name: 'Family Dinner Options '
+    menu: "/uploads/2020/03/27/Family-Dinner-Menu-2020-2.jpg"
   - menu_name: Curbside Pick-Up Menu, as of March 22, 2020
     menu: "/uploads/2020/03/23/Curbside-Menu-2020-1.jpg"
   - menu_name: Curbside Happy Hour Cocktail Menu, as of March 25, 2020
