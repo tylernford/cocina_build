@@ -49,7 +49,7 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/new-cocina-214-hours-limited-menu-for-curbside-pick-up/
     photo_link:
-      photo_link_text: New Curbside Menu
+      photo_link_text: View New Curbside Menu
       photo_link_photo: "/uploads/2020/03/27/Curbside-Menu-2020-1.jpg"
   - event_name: Girls Night Out Justin Wine Dinner
     event_date: Wednesday, April 22nd
