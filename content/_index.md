@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/easter-menu/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Menu Here
+      photo_link_photo: "/uploads/2020/04/07/Easter-2020.jpg"
   - event_name: New Family Dinner Options for Take-out and Delivery
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
@@ -61,16 +61,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View New Curbside Menu
       photo_link_photo: "/uploads/2020/03/27/Curbside-Menu-2020-1.jpg"
-  - event_name: Girls Night Out Justin Wine Dinner
-    event_date: Wednesday, April 22nd
-    event_time: 6:30 PM
-    event_description: 5-Course, Wine-paired Dinner with Giveaways from the Winery!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/girls-night-out-justin-wine-dinner/
-    photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2020/02/19/Girls-Night-Out_Wine-Dinner-2020.jpg"
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
