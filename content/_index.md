@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Easter Menu
+    event_date: Sunday, April 12th
+    event_time: ''
+    event_description: Special Easter Menu for Sunday, April 12th
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/easter-menu/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: New Family Dinner Options for Take-out and Delivery
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
