@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-03-16T18:09:25Z
 featured_photo = "/uploads/2020/03/16/Cocina-214-letter-for-CoronaVirus.jpg"
 photos = []
