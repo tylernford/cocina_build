@@ -10,7 +10,5 @@ Social_Media:
   facebook: https://www.facebook.com/Cocina214/
   instagram: https://instagram.com/Cocina214
 Hours:
-- days: Tuesday–Sunday
-  times: Noon – 8:00 pm
-- days: Monday
-  times: Closed on Monday
+- days: Sunday - Saturday
+  times: 11:30 am – 9:00 pm
