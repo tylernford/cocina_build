@@ -13,12 +13,10 @@ dine_with_us:
     Upscale Casual Restaurant”, “Best Happy Hour”, “Best Take-Out”, “Best Appetizer”,
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
-  - menu_name: Easter Menu for Sunday, April 12th
-    menu: "/uploads/2020/04/07/Easter-2020.jpg"
   - menu_name: 'Family Dinner Options '
     menu: "/uploads/2020/03/27/Family-Dinner-Menu-2020-2.jpg"
   - menu_name: Curbside Pick-Up Menu
-    menu: "/uploads/2020/03/23/Curbside-Menu-2020-1.jpg"
+    menu: "/uploads/2020/04/23/Curbside-Menu-April-2020.jpg"
   - menu_name: Curbside Happy Hour Cocktail Menu
     menu: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-4.jpg"
   - menu_name: Dine-In
