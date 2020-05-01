@@ -20,16 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Easter Menu
-    event_date: Sunday, April 12th
-    event_time: ''
-    event_description: Special Easter Menu for Sunday, April 12th
+  - event_name: Cinco de Mayo 2020
+    event_date: Tuesday, May 5th
+    event_time: All Day Long!
+    event_description: Enjoy Take-Out, Delivery, & Giveaways on Cinco!
     event_links:
     - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/easter-menu/
+      event_link_url: https://cocina214.com/news/cinco-2020/
     photo_link:
-      photo_link_text: View Menu Here
-      photo_link_photo: "/uploads/2020/04/07/Easter-2020.jpg"
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2020/05/01/CincoDeMayoPoster2020_Final_for-web.jpg"
   - event_name: New Family Dinner Options for Take-out and Delivery
     event_date: 'Tuesday - Sunday '
     event_time: Noon - 8:00 PM
