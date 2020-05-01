@@ -4,7 +4,7 @@ category = "current"
 date = 2020-05-01T20:44:05Z
 featured_photo = "/uploads/2020/05/01/CincoDeMayoPoster2020_Final_for-web.jpg"
 photos = []
-title = "Cinco 2020"
+title = "Cinco de Mayo 2020"
 video_key = ""
 
 +++
