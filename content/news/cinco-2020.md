@@ -10,25 +10,23 @@ video_key = ""
 +++
 **Tuesday, May 5, 2020 is Cinco de Mayo & OUR 9-Year Anniversary!**
 
-**Enjoy Take-out, Delivery, & Giveaways*!**
+_Enjoy Take-out, Delivery, & Giveaways_!*
 
-**Order online at www.cocina214.com/shop or call 407.790.7997 to place your order.**
+**Order online at** [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or call 407.790.7997 to place your order.**
 
 We will have Food and Drink Specials all day long, as well as giveaways while supplies last.
 
-**Drink Specials - All Day Long*!**
+_Drink Specials - All Day Long_!*
 
 * **$5** 214 Rocks Margarita with Sauza **| $5** Sangria **|** **$3** Corona **|** **$20** Quart or **$70** Gallon Jug of 214 Rocks Margarita or Sangria
 
-**Food Specials - All Day Long*!**
+_Food Specials - All Day Long_!*
 
 * **$5 2 Ground Beef Tacos** _with Coastal Slaw, Jalapeños, Bell Peppers, & Citrus Dressin_g
-
-
 * **$50 Family Packages** _feeds 4-6 people_
   * Tex-Mex Fave, Gringo Tex-Mex Mix, Meat Taco Bar, or Veggie Taco Bar
 
-**Cinco de Mayo Home Edition*!**
+_Cinco de Mayo Home Edition_!*
 
 **$200 Cinco de Mayo Home Edition** _feeds up to 10 people_
 
