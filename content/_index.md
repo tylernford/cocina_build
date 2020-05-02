@@ -31,8 +31,8 @@ upcoming_events:
       photo_link_text: View Event Poster
       photo_link_photo: "/uploads/2020/05/01/CincoDeMayoPoster2020_Final_for-web.jpg"
   - event_name: New Family Dinner Options for Take-out and Delivery
-    event_date: 'Tuesday - Sunday '
-    event_time: Noon - 8:00 PM
+    event_date: 'Sunday - Saturday '
+    event_time: 11:30 AM - 9:00 PM
     event_description: ''
     event_links:
     - event_link_text: Learn More
