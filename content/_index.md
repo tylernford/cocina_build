@@ -41,8 +41,8 @@ upcoming_events:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/03/27/Family-Dinner-Menu-2020-3.jpg"
   - event_name: New Happy Hour Cocktail Menu for Takeout and Delivery!
-    event_date: 'Tuesday - Sunday '
-    event_time: Noon - 8:00 PM
+    event_date: 'Sunday - Saturday '
+    event_time: 11:30 AM - 9:00 PM
     event_description: "$5 214 Rocks Margaritas, $5 Sangria, & 1/2 Price Bottles of
       Wine "
     event_links:
