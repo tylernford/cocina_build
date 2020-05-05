@@ -22,7 +22,7 @@ _Drink Specials - All Day Long_!*
 
 _Food Specials - All Day Long_!*
 
-* **$5 2 Ground Beef Tacos** _with Coastal Slaw, Jalapeños, Bell Peppers, & Citrus Dressin_g
+* **$5 2 Ground Beef Tacos** with Coastal Slaw, Jalapeños, Bell Peppers, & Citrus Dressing
 * **$50 Family Packages** _feeds 4-6 people_
   * Tex-Mex Fave, Gringo Tex-Mex Mix, Meat Taco Bar, or Veggie Taco Bar
 
