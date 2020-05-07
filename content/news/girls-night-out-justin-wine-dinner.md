@@ -1,22 +1,22 @@
 +++
-additional_info = ""
+additional_info = "Re-schedule TBD"
 category = "upcoming"
-date = 2020-02-19T20:21:40Z
+date = 2020-05-07T19:08:14Z
 featured_photo = "/uploads/2020/02/19/Girls-Night-Out_Wine-Dinner-2020.jpg"
 photos = ["/uploads/2020/02/19/GNO-Justin-Dinner-2020.jpg"]
 title = "Girls Night Out Justin Wine DInner!"
 video_key = ""
 
 +++
-Join us on **Wednesday, April 22, 2020** for a **_Girls Night Out Justin Wine Dinner_**!
+**_Our Girls Night Out Justin Wine Dinner will be re-scheduled. Once we have a new date we will let you all know._**
 
-**_Come with your girlfriends & enjoy a five-course, wine-paired dinner featuring JNSQ wines & JUSTIN Vineyard Wines, as well as giveaways from the winery._**
+Come with your girlfriends & enjoy a five-course, wine-paired dinner featuring JNSQ wines & JUSTIN Vineyard Wines, as well as giveaways from the winery.
 
-_Enjoy JNSQ Sauvignon Blanc, JNSQ Rose Cru, JUSTIN Cabernet Sauvignon, JUSTIN Justification & JUSTIN Isosceles with some delicious Cocina 214 food pairings._
+Enjoy JNSQ Sauvignon Blanc, JNSQ Rose Cru, JUSTIN Cabernet Sauvignon, JUSTIN Justification & JUSTIN Isosceles with some delicious Cocina 214 food pairings.
 
-**_Event starts at 6:30 pm._**
+Event starts at 6:30 pm.
 
-_$99 per person, including tax and gratuity. **Call 407-790-7997 to reserve your spot.**_
+$99 per person, including tax and gratuity. Call 407-790-7997 to reserve your spot.
 
 _Space is Limited._
 
