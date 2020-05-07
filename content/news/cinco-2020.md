@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-05-01T20:44:05Z
 featured_photo = "/uploads/2020/05/01/CincoDeMayoPoster2020_Final_for-web.jpg"
 photos = []
