@@ -15,6 +15,8 @@ dine_with_us:
   menus:
   - menu_name: 'Dine-In and Takeout '
     menu: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final.pdf"
+  - menu_name: Family Packages for Takeout
+    menu: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
   - menu_name: After Dinner Drink and Dessert
