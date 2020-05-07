@@ -1,6 +1,6 @@
 +++
 additional_info = "Happening Now!"
-category = "current"
+category = "past-events"
 date = 2020-03-27T20:02:49Z
 featured_photo = "/uploads/2020/03/27/Family-Dinner-Menu-2020.jpg"
 photos = []

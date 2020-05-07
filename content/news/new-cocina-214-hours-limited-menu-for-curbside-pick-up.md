@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-03-22T23:56:03Z
 featured_photo = "/uploads/2020/03/27/Curbside-Menu-2020.jpg"
 photos = []

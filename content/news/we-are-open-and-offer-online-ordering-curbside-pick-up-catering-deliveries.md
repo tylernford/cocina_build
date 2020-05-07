@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-03-20T17:50:24Z
 featured_photo = "/uploads/2020/03/20/Fajitas-and-Margaritas-ToGO-2020-1.jpg"
 photos = []

@@ -1,6 +1,6 @@
 +++
 additional_info = "Happening Now!"
-category = "current"
+category = "past-events"
 date = 2020-03-26T01:37:20Z
 featured_photo = "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-1.jpg"
 photos = []
