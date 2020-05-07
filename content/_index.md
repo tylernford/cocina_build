@@ -24,7 +24,9 @@ upcoming_events:
     event_date: Sunday, May 10th
     event_time: All Day Long!
     event_description: Enjoy a Special Mother's Day Menu
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/mother-s-day-special-take-out-menu/
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/05/07/Mother's-Day-Menu-2020.jpg"
