@@ -17,14 +17,12 @@ dine_with_us:
     menu: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final.pdf"
   - menu_name: Family Packages for Takeout
     menu: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
-  - menu_name: Cocktail
-    menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
-  - menu_name: After Dinner Drink and Dessert
-    menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
-  - menu_name: Take–Out
-    menu: "/uploads/2020/02/13/TakeOut_Menu_Jan 2020.pdf"
   - menu_name: Kids’
     menu: "/uploads/2018/08/31/Kids_Menu_Cocina Aug 2018.pdf"
+  - menu_name: After Dinner Drink and Dessert
+    menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
+  - menu_name: Cocktail
+    menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
   featured:
     name: Happy Hour
     hours: '4:00 pm – 6:30 pm '
