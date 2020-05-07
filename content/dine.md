@@ -13,14 +13,8 @@ dine_with_us:
     Upscale Casual Restaurant”, “Best Happy Hour”, “Best Take-Out”, “Best Appetizer”,
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
-  - menu_name: 'Family Dinner Options '
-    menu: "/uploads/2020/03/27/Family-Dinner-Menu-2020-2.jpg"
-  - menu_name: Curbside Pick-Up Menu
-    menu: "/uploads/2020/04/23/Curbside-Menu-April-2020.jpg"
-  - menu_name: Curbside Happy Hour Cocktail Menu
-    menu: "/uploads/2020/03/26/Curbside-Cocktails-Menu-2020-Happy-Hour-4.jpg"
-  - menu_name: Dine-In
-    menu: "/uploads/2020/02/13/Cocina 214 Menu - Jan 2020.pdf"
+  - menu_name: 'Dine-In and Takeout '
+    menu: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2019/11/21/Drinks April 2019.pdf"
   - menu_name: After Dinner Drink and Dessert
