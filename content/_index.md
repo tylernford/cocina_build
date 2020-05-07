@@ -20,14 +20,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Family Packages Available for Takeout
-    event_date: ''
-    event_time: ''
-    event_description: Enjoy our Family Packages for Takeout
-    event_links: []
-    photo_link:
-      photo_link_photo: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
-      photo_link_text: View Menu
   - event_name: Mother's Day Take-Out Menu
     event_date: Sunday, May 10th
     event_time: All Day Long!
@@ -45,6 +37,14 @@ upcoming_events:
     event_links: []
     photo_link:
       photo_link_photo: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final-1.pdf"
+      photo_link_text: View Menu
+  - event_name: Family Packages Available for Takeout
+    event_date: ''
+    event_time: ''
+    event_description: Enjoy our Family Packages for Takeout
+    event_links: []
+    photo_link:
+      photo_link_photo: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
       photo_link_text: View Menu
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
