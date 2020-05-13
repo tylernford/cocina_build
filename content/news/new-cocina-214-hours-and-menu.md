@@ -2,7 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-05-13T17:34:55Z
-featured_photo = "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final-1.pdf"
+featured_photo = ""
 photos = []
 title = "New Cocina 214 Hours and Menu!"
 video_key = ""
