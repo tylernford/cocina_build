@@ -20,16 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Mother's Day Take-Out Menu
-    event_date: Sunday, May 10th
-    event_time: All Day Long!
-    event_description: Enjoy a Special Mother's Day Menu
+  - event_name: Our Dining Room & Patio are NOW OPEN!
+    event_date: ''
+    event_time: ''
+    event_description: ''
     event_links:
     - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/mother-s-day-special-take-out-menu/
+      event_link_url: https://cocina214.com/news/new-cocina-214-hours-and-menu/
     photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2020/05/07/Mother's-Day-Menu-2020.jpg"
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: New Dine-In and Takeout Menu
     event_date: ''
     event_time: ''
