@@ -2,7 +2,6 @@
 additional_info = ""
 category = "current"
 date = 2020-05-13T17:34:55Z
-draft = true
 featured_photo = ""
 photos = []
 title = "New Cocina 214 Hours and Menu!"
@@ -11,8 +10,10 @@ video_key = ""
 +++
 **Our Main Dining Room and Patio are now OPEN!** 
 
-* We are seating our Main Dining Room at 25% occupancy, with tables 6 feet apart. 
-* Our patio is also open and tables are 6 feet apart as well.
+* Our Main Dining Room is Open and we are seating at 25% occupancy, with tables 6-feet apart. 
+* Our Patio is open first-come, first-serve with tables 6-feet apart.
+* Or Bar is currently closed.
+* Due to the circumstances and our desire to serve as many of our supporters as possible, we have a 2-hour max per reservation. We appreciate your support, your patience and understanding during this time.
 
 **We continue to adhere to the highest cleanliness and food safety standards with _extra_ safety precautions and measures.**
 
@@ -20,6 +21,7 @@ video_key = ""
 2. We require all Employees to perform and pass the "Orlando Health Business Ready Daily Self Screening" before they come to work. When employees arrive for their shift, we take their temperature to ensure they are fever-free.
 3. We continue to re-educate and train employees daily on what they can do to keep themselves and others safe, including frequent hand washing, not touching one’s face, staying home if they are sick, and wearing a face mask while at work.
 4. Although we have a large and spacious restaurant, we implemented a safe social distancing area of 6 FT between all tables. Some tables are now out of service, in order to create a safe area between them. 
+5. For Phase One we have one-time use Menus. [Cocina 214 Menu - New 2020_letter size_final-1.pdf](https://app.forestry.io/sites/kc5rxzgdfuex3a/body-media//uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final-1.pdf "Cocina 214 Menu - New 2020_letter size_final-1.pdf")
 
 **Our Hours of Operations are:**
 
