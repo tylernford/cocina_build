@@ -1,10 +1,10 @@
 +++
 additional_info = "Re-schedule TBD"
-category = "upcoming"
+category = "past-events"
 date = 2020-05-07T19:08:14Z
 featured_photo = "/uploads/2020/02/19/Girls-Night-Out_Wine-Dinner-2020.jpg"
 photos = ["/uploads/2020/02/19/GNO-Justin-Dinner-2020.jpg"]
-title = "Girls Night Out Justin Wine DInner!"
+title = "Girls Night Out Justin Wine Dinner!"
 video_key = ""
 
 +++

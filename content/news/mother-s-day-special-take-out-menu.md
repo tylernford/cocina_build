@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-05-07T17:38:48Z
 featured_photo = "/uploads/2020/05/07/Mother's-Day-Menu-2020.jpg"
 photos = []
