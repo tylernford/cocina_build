@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Takeout Package for 2020 Graduates!
+    event_date: ''
+    event_time: ''
+    event_description: Special Menu for 2020 Graduation Celebrations!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/takeout-menu-for-2020-graduates/
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/05/18/2020-graduates-menu-2020.jpg"
   - event_name: Our Dining Room & Patio are NOW OPEN!
     event_date: ''
     event_time: ''
