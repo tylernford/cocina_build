@@ -2,7 +2,6 @@
 additional_info = ""
 category = "current"
 date = 2020-06-01T21:17:53Z
-draft = true
 featured_photo = ""
 photos = []
 title = "Father's Day Package"
@@ -11,7 +10,7 @@ video_key = ""
 +++
 **Happy Father’s Day!**
 
-We have created a Special Father's Day Package for the big day! The Father's Day Package fees up to 10 people and includes the following:
+_We have created a Special Father's Day Package for the big day! The Father's Day Package fees up to 10 people and includes the following:_
 
 **Queso Blanco with Chips & Salsa**
 
@@ -27,6 +26,8 @@ We have created a Special Father's Day Package for the big day! The Father's Day
 
 **Quart of Rocks Margaritas** - _214 Rocks Margaritas with Sauza Tequila_
 
-$225 feeds up to 10 people
+The Father's Day Package is $225 and feeds up to 10 people.
 
-Place your Order Online at cocina214.com/shop or Call the Restaurant to Order at 407.790.7997.
+**You can Order Online at**  [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or you can Call the Restaurant at 407-790-7997 to Place your Order.**
+
+Limited Availability.
