@@ -2,7 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-06-01T21:17:53Z
-featured_photo = ""
+featured_photo = "/uploads/2020/06/01/father-s-day-menu-2020-with-qr-code.jpg"
 photos = []
 title = "Father's Day Package"
 video_key = ""
@@ -31,3 +31,5 @@ The Father's Day Package is $225 and feeds up to 10 people.
 **You can Order Online at**  [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or you can Call the Restaurant at 407-790-7997 to Place your Order.**
 
 Limited Availability.
+
+![](/uploads/2020/06/01/father-s-day-menu-2020-with-qr-code.jpg)
