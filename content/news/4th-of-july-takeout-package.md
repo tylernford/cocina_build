@@ -1,9 +1,8 @@
 +++
 additional_info = ""
-category = "current"
+category = "upcoming"
 date = 2020-06-08T20:15:29Z
-draft = true
-featured_photo = ""
+featured_photo = "/uploads/2020/06/08/4th-of-july-menu-2020.jpg"
 photos = []
 title = "4th of July Takeout Package"
 video_key = ""
@@ -13,7 +12,7 @@ video_key = ""
 
 _We have created a Special 4th of July Package Available for Takeout! The 4th of July Package fees up to 10 people and includes the following:_
 
-**Guacamole**: _Served with Chips & Salsa_
+**Guacamole**: Fresh Homemade Guacamole _Served with our Cocina 214 Chips & Salsa_
 
 **Mexican Corn**: _Grilled Corn, Cayenne Pepper, Lime, Cotija and Queso Fresco_
 
@@ -32,3 +31,5 @@ The 4th of July Package is $225 and feeds up to 10 people.
 **_Place your Order by 3:00 PM Friday, July 3rd. Limited Availability._**
 
 You can Order Online at  [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/") or you can Call the Restaurant at 407-790-7997 to Place your Order.
+
+![](/uploads/2020/06/08/4th-of-july-menu-2020.jpg)
