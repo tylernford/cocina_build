@@ -2,6 +2,7 @@
 additional_info = ""
 category = "upcoming"
 date = 2020-06-08T20:15:29Z
+draft = true
 featured_photo = "/uploads/2020/06/08/4th-of-july-menu-2020.jpg"
 photos = []
 title = "4th of July Takeout Package"
