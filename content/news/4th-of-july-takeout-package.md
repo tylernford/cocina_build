@@ -10,7 +10,7 @@ video_key = ""
 +++
 **Happy 4th of July & Independence Day!**
 
-_We have created a Special 4th of July Package Available for Takeout! The 4th of July Package fees up to 10 people and includes the following:_
+_We have created a Special 4th of July Package Available for Takeout! The 4th of July Package feeds up to 10 people and includes the following:_
 
 **Guacamole**: Fresh Homemade Guacamole _Served with our Cocina 214 Chips & Salsa_
 
