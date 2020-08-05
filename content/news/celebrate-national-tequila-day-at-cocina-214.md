@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-07-17T20:02:52Z
 featured_photo = "/uploads/2020/07/17/national-tequila-day-wp_2020.jpg"
 photos = []
