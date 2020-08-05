@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-03-10T16:16:41Z
 featured_photo = "/uploads/2020/03/11/Kindness-for-Kyle-2020.jpg"
 photos = []
