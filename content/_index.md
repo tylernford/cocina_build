@@ -20,7 +20,7 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Order Cocina 214 Online for Curbside Pick-up!
+  - event_name: Order Cocina 214 Online and get Delivery or Curbside Pick-up!
     event_date: ''
     event_time: ''
     event_description: Order all your Cocina 214 Faves online :-)
@@ -28,7 +28,7 @@ upcoming_events:
     photo_link:
       photo_link_text: View More Here...
       photo_link_photo: "/uploads/2020/08/06/online-ordering-poster-2020.jpg"
-  - event_name: Our Dining Room & Patio are NOW OPEN!
+  - event_name: Our Dining Room & Patio are OPEN!
     event_date: ''
     event_time: ''
     event_description: ''
@@ -38,6 +38,14 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
+  - event_name: Family Packages are Available for Takeout
+    event_date: ''
+    event_time: ''
+    event_description: Enjoy our Family Packages for Takeout
+    event_links: []
+    photo_link:
+      photo_link_photo: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
+      photo_link_text: View Menu
   - event_name: New Dine-In and Takeout Menu
     event_date: ''
     event_time: ''
@@ -45,14 +53,6 @@ upcoming_events:
     event_links: []
     photo_link:
       photo_link_photo: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final-1.pdf"
-      photo_link_text: View Menu
-  - event_name: Family Packages Available for Takeout
-    event_date: ''
-    event_time: ''
-    event_description: Enjoy our Family Packages for Takeout
-    event_links: []
-    photo_link:
-      photo_link_photo: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
       photo_link_text: View Menu
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
