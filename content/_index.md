@@ -20,6 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Order Cocina 214 Online for Curbside Pick-up!
+    event_date: ''
+    event_time: ''
+    event_description: Order all your Cocina 214 Faves online :-)
+    event_links: []
+    photo_link:
+      photo_link_text: View More Here...
+      photo_link_photo: "/uploads/2020/08/06/online-ordering-poster-2020.jpg"
   - event_name: Our Dining Room & Patio are NOW OPEN!
     event_date: ''
     event_time: ''
