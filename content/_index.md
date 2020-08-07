@@ -23,13 +23,13 @@ upcoming_events:
   - event_name: Back to School Package!
     event_date: ''
     event_time: ''
-    event_description: ''
+    event_description: Make your Life Easier with our Back to School Package!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/back-to-school-package/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/08/07/back-to-school_2020.jpg"
   - event_name: Order Cocina 214 Online and get Delivery or Curbside Pick-up!
     event_date: ''
     event_time: ''
