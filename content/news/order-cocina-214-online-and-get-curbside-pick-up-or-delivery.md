@@ -8,7 +8,7 @@ title = "Order Cocina 214 Online and get Curbside Pick-Up or Delivery!"
 video_key = ""
 
 +++
-**You an order ALL OF YOUR FAVORITE Cocina 214 Items for Dine-In or Takeout!**
+**You can order ALL OF YOUR FAVORITE Cocina 214 Items for Dine-In or Takeout!**
 
 **We offer Dine-In, _Takeout_ and _Online Ordering options_, with the ability to Pick-Up Curbside or to get Catering Delivered** (min $150 order)**. You can order online here:** [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 

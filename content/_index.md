@@ -23,8 +23,10 @@ upcoming_events:
   - event_name: Order Cocina 214 Online and get Delivery or Curbside Pick-up!
     event_date: ''
     event_time: ''
-    event_description: Order all your Cocina 214 Faves online :-)
-    event_links: []
+    event_description: Order all your Cocina 214 Favorites Online!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/order-cocina-214-online-and-get-curbside-pick-up-or-delivery/
     photo_link:
       photo_link_text: View More Here...
       photo_link_photo: "/uploads/2020/08/06/online-ordering-poster-2020.jpg"
