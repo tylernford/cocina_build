@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Back to School Package!
+    event_date: ''
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/back-to-school-package/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Order Cocina 214 Online and get Delivery or Curbside Pick-up!
     event_date: ''
     event_time: ''
