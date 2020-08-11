@@ -1,14 +1,14 @@
 +++
 additional_info = ""
 category = "current"
-date = 2020-05-13T17:31:06Z
-featured_photo = ""
+date = 2020-08-11T15:31:06Z
+featured_photo = "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
 photos = []
-title = "Our New Family Packages for Takeout!"
+title = "Family Packages for Curbside Pick-up, Takeout and/or Delivery!!"
 video_key = ""
 
 +++
-**_Our Family-Style Packages feed up to 6 ppl and are $75._** The packages each come with our House Chips and Salsa and they _come out to about $12.50 per person._ 
+**_Our Family-Style Packages feed up to 6 ppl and are $75._** The packages each come with our House Chips and Salsa and they _come out to about $12.50 per person._
 
 **The Tex-Mex Fave:**
 
@@ -27,3 +27,5 @@ _House Chips & Salsa, Meat Tacos (Ground Beef, or Chicken), Corn or Flour Tortil
 _Veggie Tacos ( Zucchini, corn, jalapeños, black beans & mushrooms with verde sauce), Corn or Flour Tortillas, & 4 Toppings: Pico de Gallo, Shredded Cheese, Coastal Slaw, & Sour Cream._
 
 **_Adulting?_** _Add a Quart of 214 Rocks Margaritas or Sangria for only $20 or add a Gallon Jug for just $70._
+
+![](/uploads/2020/08/11/family-packages-menu-august-2020.jpg)
