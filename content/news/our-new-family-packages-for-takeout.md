@@ -10,6 +10,8 @@ video_key = ""
 +++
 **_Our Family-Style Packages feed up to 6 ppl and are $75._** The packages each come with our House Chips and Salsa and they _come out to about $12.50 per person._
 
+**You can Order Online at**  [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or you can Call the Restaurant at 407-790-7997 to Place your Order.**
+
 **The Tex-Mex Fave:**
 
 _House Chips & Salsa, Pint of Queso Blanco, Chicken Quesadillas (with Side of Sour Cream, & Side of Guacamole), Chicken or Veggie Fajitas (with Corn or Flour Tortillas, Side of Sour Cream, Side of Guacamole, & Side of Pico de Gallo)._
