@@ -50,13 +50,14 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Family Packages are Available for Takeout
+  - event_name: Family Packages are Available for Takeout, Curbside Pickup and/or
+      Delivery
     event_date: ''
     event_time: ''
     event_description: Enjoy our Family Packages for Takeout
     event_links: []
     photo_link:
-      photo_link_photo: "/uploads/2020/05/07/Family Packages Menu May 2020.pdf"
+      photo_link_photo: "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
       photo_link_text: View Menu
   - event_name: New Dine-In and Takeout Menu
     event_date: ''
