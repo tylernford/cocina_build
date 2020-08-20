@@ -20,6 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Happy Hour
+    event_date: Monday-Friday
+    event_time: 4:00-6:30 PM
+    event_description: Drink & Food Specials during Happy Hour
+    event_links: []
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/08/20/happy-hour-2020.jpg"
   - event_name: Back to School Package!
     event_date: ''
     event_time: ''
