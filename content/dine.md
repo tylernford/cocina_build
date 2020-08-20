@@ -13,6 +13,8 @@ dine_with_us:
     Upscale Casual Restaurant”, “Best Happy Hour”, “Best Take-Out”, “Best Appetizer”,
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
+  - menu_name: Happy Hour Menu
+    menu: "/uploads/2020/08/20/happy-hour-2020.jpg"
   - menu_name: 'Dine-In and Takeout '
     menu: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final.pdf"
   - menu_name: Family Packages for Takeout, Curbside Pickup and/or Delivery
