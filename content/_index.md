@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: National Guacamole Day
+    event_date: Wednesday, September 16th
+    event_time: All Day Long!
+    event_description: "$5 Guacamole"
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/celebrate-national-guacamole-day-at-cocina-214-1/
+    photo_link:
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2020/08/24/guacamole-day_2020.jpg"
   - event_name: Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
