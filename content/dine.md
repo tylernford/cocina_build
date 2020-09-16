@@ -21,10 +21,10 @@ dine_with_us:
     menu: "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
   - menu_name: Kids’
     menu: "/uploads/2018/08/31/Kids_Menu_Cocina Aug 2018.pdf"
-  - menu_name: After Dinner Drink and Dessert
-    menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2020/09/16/drinks-sept-2020.pdf"
+  - menu_name: After Dinner Drink and Dessert
+    menu: "/uploads/2019/12/05/AfterDinner_5x7_Dec 2019.pdf"
   featured:
     name: Happy Hour
     hours: '4:00 pm – 6:30 pm '
