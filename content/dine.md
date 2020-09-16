@@ -16,7 +16,7 @@ dine_with_us:
   - menu_name: Happy Hour Menu
     menu: "/uploads/2020/08/20/happy-hour-2020.jpg"
   - menu_name: 'Dine-In and Takeout '
-    menu: "/uploads/2020/05/07/Cocina 214 Menu - New 2020_letter size_final.pdf"
+    menu: "/uploads/2020/09/16/cocina-214-menu-sept-2020_legal-size_final.pdf"
   - menu_name: Family Packages for Takeout, Curbside Pickup and/or Delivery
     menu: "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
   - menu_name: Kids’
@@ -80,7 +80,7 @@ happy_hour:
     Mondays – Fridays
     4:00p – 6:30p
     $5 214 Rocks, 214 Frozen & El Diablos, $3 Draft Beers, and $5 Wells
-  menu: "/uploads/2018/08/31/HappyHour_5x7_Aug 2018_Final-1.pdf"
+  menu: "/uploads/2020/09/16/happyhour_5by7_sept-2020.pdf"
   photo: "/uploads/2017/12/01/happy_hour_margaritas_titos_beer_with_bowl_of_limes.jpg"
 online_ordering:
   description: Ordering is quick and easy. Select a location and time. Choose your
