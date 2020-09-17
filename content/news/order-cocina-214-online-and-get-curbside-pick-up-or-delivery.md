@@ -18,6 +18,4 @@ If you choose the online order pick-up option, call the restaurant at 407-790-79
 
 **Our Family Packages are also still available for Takeout and Delivery.**
 
-[Family Packages Menu May 2020.pdf](https://app.forestry.io/sites/kc5rxzgdfuex3a/body-media//uploads/2020/05/07/Family Packages Menu May 2020.pdf "Family Packages Menu May 2020.pdf")
-
 The health, safety and well-being of our family, and yours, is always our top priority. We continue to monitor the daily updates from the Centers for Disease Control (CDC), the World Health Organization, the Florida Department of Health and other local health authorities. As we get updates, we will pass along that information. We are in this together and will get through this together. We thank you for your continued support of our small local business.
