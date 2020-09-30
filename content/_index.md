@@ -24,7 +24,9 @@ upcoming_events:
     event_date: Sunday, October 4th
     event_time: All Day Long!
     event_description: "$10 Taco Entree Special"
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/national-taco-day/
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/09/30/national-taco-day-2020_with-border.jpg"
