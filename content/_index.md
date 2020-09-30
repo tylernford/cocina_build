@@ -20,6 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: National Taco Day
+    event_date: Sunday, October 4th
+    event_time: All Day Long!
+    event_description: "$10 Taco Entree Special"
+    event_links: []
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/09/30/national-taco-day-2020_with-border.jpg"
   - event_name: Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
@@ -28,16 +36,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/08/20/happy-hour-2020.jpg"
-  - event_name: Back to School Package!
-    event_date: ''
-    event_time: ''
-    event_description: Make your Life Easier with our Back to School Package!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/back-to-school-package/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2020/08/07/back-to-school_2020.jpg"
   - event_name: Order Cocina 214 Online and get Delivery or Curbside Pick-up!
     event_date: ''
     event_time: ''
