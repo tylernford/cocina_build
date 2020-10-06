@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2020-09-30T17:44:47Z
 featured_photo = "/uploads/2020/09/30/national-taco-day-2020_with-border.jpg"
 photos = []
