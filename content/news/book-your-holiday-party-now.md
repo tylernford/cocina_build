@@ -1,7 +1,7 @@
 +++
 additional_info = ""
-category = "current"
-date = "2019-10-02T15:44:47-05:00"
+category = "past-events"
+date = 2019-10-02T20:44:47Z
 featured_photo = "/uploads/2019/10/02/holiday-party-2019.jpg"
 photos = []
 title = "Book Your Holiday Party Now!"
