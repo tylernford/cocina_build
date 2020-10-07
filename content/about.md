@@ -11,10 +11,6 @@ featured_staff:
   first_name: 'Oscar '
   last_name: ''
   title: General Manager
-- photo: "/uploads/2017/12/07/Isidro6small.jpg"
-  first_name: 'Isidro '
-  last_name: ''
-  title: Executive Chef
 winter_park_staff:
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
@@ -43,7 +39,7 @@ winter_park_staff:
 - photo: "/uploads/2019/11/25/Christine-1-1.jpg"
   first_name: Christine
   last_name: ''
-  title: Events & Catering Manager
+  title: Private Dining & Catering Manager
 daytona_beach_staff:
   show_staff: false
   staff:
