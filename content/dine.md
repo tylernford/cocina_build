@@ -68,7 +68,7 @@ events:
   winter_park_photo: "/uploads/2019/11/19/quesadillas-with-salsa-trio-and-BOAT-for-catering.jpg"
   winter_park_text: 'Please contact Christine, our Private Dining & Events Manager,
     to help plan your private party or catered event. Please allow up to 48hrs for
-    a response. Natalie can be reached at: party@Cocina214.com'
+    a response. Christine can be reached at: Party@Cocina214.com'
   daytona_beach_photo: "/uploads/2019/11/19/Brownies,-Churros-and-Strawberries.jpg"
   daytona_beach_text: ''
 hero_photos:
