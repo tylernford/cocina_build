@@ -27,7 +27,7 @@ winter_park_staff:
 - photo: "/uploads/2017/12/07/Humberto1.jpg"
   first_name: Humberto
   last_name: ''
-  title: Chef
+  title: Sous Chef
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: ''
@@ -40,14 +40,10 @@ winter_park_staff:
   first_name: Elizabeth
   last_name: ''
   title: Manager
-- photo: "/uploads/2019/11/25/Natalie-1-2.jpg"
-  first_name: Natalie
-  last_name: ''
-  title: Events Manager
 - photo: "/uploads/2019/11/25/Christine-1-1.jpg"
   first_name: Christine
   last_name: ''
-  title: Private Party Coordinator
+  title: Events & Catering Manager
 daytona_beach_staff:
   show_staff: false
   staff:
