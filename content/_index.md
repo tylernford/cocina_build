@@ -22,12 +22,14 @@ upcoming_events:
   events:
   - event_name: Halloween Party Package!
     event_date: Now through Halloween weekend
-    event_description: ''
+    event_description: Order Some Yummy Trick or Treat Bites!
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/10/23/pumpkin-halloween_2020.jpg"
     event_time: ''
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/halloween-party-package/
   - event_name: Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
