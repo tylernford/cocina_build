@@ -2,7 +2,6 @@
 additional_info = ""
 category = "current"
 date = 2020-10-23T16:54:12Z
-draft = true
 featured_photo = "/uploads/2020/10/23/pumpkin-halloween_2020.jpg"
 photos = []
 title = "Halloween Party Package!"
