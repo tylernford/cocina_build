@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-10-30T17:04:46Z
 featured_photo = "/uploads/2020/10/30/election-watch-party-2020.jpg"
 photos = []

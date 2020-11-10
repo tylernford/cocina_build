@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-10-23T16:54:12Z
 featured_photo = "/uploads/2020/10/23/pumpkin-halloween_2020.jpg"
 photos = []
