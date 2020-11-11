@@ -24,7 +24,7 @@ _Enjoy Our Friendsgiving Package this Holiday Season with your Family, Friends a
 
 **You can Order Online at**  [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or you can Call the Restaurant at 407-790-7997 to Place your Order.**
 
-_$180 Serves up to 8 People_
+_$180 Serves up to 8 People_ 
 
 ![](/uploads/2020/11/11/friendsgiving-2020.jpg)
 
