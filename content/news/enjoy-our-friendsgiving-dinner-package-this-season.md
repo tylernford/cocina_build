@@ -8,7 +8,9 @@ title = "Enjoy Our Friendsgiving Package this Season!"
 video_key = ""
 
 +++
-**_Enjoy Our Friendsgiving this Holiday Season!_**
+**_Cocina 214 has the Ultimate Friendsgiving Package!_**
+
+_Enjoy Our Friendsgiving Package this Holiday Season with your Family, Friends and Coworkers! The Package includes the following:_
 
 * **_Festive Fall El Diablo Margaritas_**
 * **_Chips, Salsa, and Queso Blanco_**
