@@ -1,7 +1,7 @@
 +++
 additional_info = ""
 category = "current"
-date = 2020-11-10T18:55:44Z
+date = 2020-11-09T18:55:44Z
 featured_photo = "/uploads/2020/11/11/friendsgiving-2020.jpg"
 photos = []
 title = "Enjoy Our Friendsgiving Package this Season!"
