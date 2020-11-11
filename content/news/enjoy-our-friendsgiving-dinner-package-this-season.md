@@ -25,3 +25,5 @@ video_key = ""
 _$180 Serves up to 8 People_
 
 ![](/uploads/2020/11/11/friendsgiving-2020.jpg)
+
+Happy Friendsgiving :)
