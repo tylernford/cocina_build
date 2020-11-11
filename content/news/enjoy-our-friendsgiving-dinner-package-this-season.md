@@ -15,7 +15,7 @@ video_key = ""
 * **_Mexican Corn:_** _Grilled Corn, Cayenne Pepper, Lime, Cotija and Queso Fresco_
 * **_Whole Rotisserie Chickens_** _with Achiote & Special Seasonings, Rotisseried, Cut, and Served_
 * **_Carne Asada:_** _Grilled Skirt Steak with Chimichurri Salsa_
-* **_Sautèed Veggies:_** _Grilled Zucchini, Carrots, and Spinach_
+* **_Sautéed Veggies:_** _Grilled Zucchini, Carrots, and Spinach_
 * **_Mexican Rice and Black Beans_**
 * **_Churros:_** _Served with Cinnamon Sugar & Dulce de Leche sauce_
 * **_Dark Chocolate Brownie Bites:_** _Topped with Powdered Sugar_
