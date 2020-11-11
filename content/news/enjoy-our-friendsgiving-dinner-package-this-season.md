@@ -20,7 +20,7 @@ video_key = ""
 * **_Churros:_** _Served with Cinnamon Sugar & Dulce de Leche sauce_
 * **_Dark Chocolate Brownie Bites:_** _Topped with Powdered Sugar_
 
-**_Place your Order Online at Cocina214.Com/shop or Call the Restaurant to Order at 407.790.7997._**
+**You can Order Online at**  [**https://cocina214.com/shop/**](https://cocina214.com/shop/ "https://cocina214.com/shop/") **or you can Call the Restaurant at 407-790-7997 to Place your Order.**
 
 _$180 Serves up to 8 People_
 
