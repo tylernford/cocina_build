@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Cocina 214's Friendsgiving Package
+    event_date: ''
+    event_time: ''
+    event_description: Enjoy the Package this Holiday Season!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-our-friendsgiving-dinner-package-this-season/
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/11/11/friendsgiving-2020.jpg"
   - event_name: Let Cocina 214 Host or Cater your Holiday Party!
     event_date: ''
     event_time: ''
