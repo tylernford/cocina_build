@@ -10,7 +10,7 @@ video_key = ""
 +++
 **_Celebrate the Holidays with Family & Friends!_**
 
-_Book our Bar, Patio, Private Dining Room, or Let Us Cater to You!_
+_Book our Bar, Patio, Private Dining Room for a Socially Distanced Event, or Let Us Cater to You!_
 
 _Email or Call Christine to Book at: **Party@Cocina214.com**_ or **_407-782-6077_**
 
