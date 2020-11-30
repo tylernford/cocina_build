@@ -1,7 +1,7 @@
 +++
-additional_info = "Deal Ends December 31, 2019"
-category = "past-events"
-date = 2019-11-05T21:00:23Z
+additional_info = "Deal Ends December 31, 2020"
+category = "current"
+date = 2020-11-30T21:00:23Z
 featured_photo = "/uploads/2019/11/05/tis-the-season-to-be-jolly_Cocina-214_2019.jpg"
 photos = []
 title = "'Tis the Season to be Jolly!"
@@ -12,7 +12,7 @@ video_key = ""
 
 Gift Cards make a perfect gift for the Holidays!
 
-Purchase your $100 Gift Card on-line or in-store by December 31, 2019 and we will give you a $20 Gift Card on us.
+Purchase your $100 Gift Card on-line or in-store by December 31, 2020 and we will give you a $20 Gift Card on us.
 
 You can shop on-line at:
 
