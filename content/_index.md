@@ -23,7 +23,7 @@ upcoming_events:
   - event_name: Enjoy our Holiday Package this Season!
     event_date: ''
     event_time: ''
-    event_description: ''
+    event_description: Feeds up to 6 people
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cocina-214-s-holiday-package/
