@@ -24,7 +24,7 @@ upcoming_events:
     event_date: ''
     event_time: ''
     event_description: Receive 2 Complimentary 214 Rocks Margarita Pitchers when you
-      book a Holiday Event
+      book a Holiday Event*
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/santa-came-early-to-cocina-214/
