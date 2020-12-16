@@ -2,6 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-12-16T19:55:30Z
+draft = true
 featured_photo = "/uploads/2020/12/16/new-year-s-package-2021.jpg"
 photos = []
 title = "Celebrate 2021 with our New Year's Package!"
