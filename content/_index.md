@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Enjoy our Holiday Package this Season!
+    event_date: ''
+    event_time: ''
+    event_description: Feeds up to 6 people
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/cocina-214-s-holiday-package/
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/11/17/christmas-eve-package-2020.jpg"
   - event_name: Santa Came Early to Cocina 214!
     event_date: ''
     event_time: ''
@@ -41,16 +51,6 @@ upcoming_events:
     photo_link:
       photo_link_text: 'View Details '
       photo_link_photo: "/uploads/2020/11/10/holiday-party-flyer-2020.jpg"
-  - event_name: Enjoy our Holiday Package this Season!
-    event_date: ''
-    event_time: ''
-    event_description: Feeds up to 6 people
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cocina-214-s-holiday-package/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2020/11/17/christmas-eve-package-2020.jpg"
   - event_name: Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
