@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-11-09T18:55:44Z
 featured_photo = "/uploads/2020/11/11/friendsgiving-2020.jpg"
 photos = []
