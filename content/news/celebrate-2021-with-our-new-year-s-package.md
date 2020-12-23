@@ -4,11 +4,15 @@ category = "current"
 date = 2020-12-16T05:06:30Z
 featured_photo = "/uploads/2020/12/16/new-year-s-package-2021.jpg"
 photos = []
-title = "Celebrate 2021 with our New Year's Package!"
+title = "Celebrate 2021 with Cocina 214!"
 video_key = ""
 
 +++
-**CELEBRATE 2021 WITH OUR NEW YEAR’S PACKAGE!!**
+**HAPPY 2021!**
+
+**COCINA 214 WILL BE OPEN ON NEW YEAR'S DAY, JANUARY 1, 2021 FROM 4:00 PM - 10:00 PM!!**
+
+_COME IN OR CELEBRATE WITH OUR NEW YEAR'S PACKAGE!!_
 
 **1 Bottle of Wycliffe Brut**
 
@@ -26,10 +30,8 @@ video_key = ""
 
 **$125 For The Package** _feeds up to 6 ppl_
 
-  
 **PLACE YOUR ORDER ONLINE AT** [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 
 **OR CALL THE RESTAURANT TO ORDER AT 407.790.7997**
 
-  
 ![](/uploads/2020/12/16/new-year-s-package-2021.jpg)
