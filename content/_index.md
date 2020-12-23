@@ -20,10 +20,10 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: New Year's Package!
-    event_date: Feeds up to 6 people
+  - event_name: Celebrate New Year's with Cocina 214!
+    event_date: ''
     event_time: ''
-    event_description: ''
+    event_description: Come in or Order our New Year's Package!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-2021-with-our-new-year-s-package/
