@@ -28,8 +28,8 @@ upcoming_events:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-2021-with-our-new-year-s-package/
     photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2020/12/16/new-year-s-package-2021.jpg"
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Christmas Eve and Christmas Day
     event_date: December 24th & 25th
     event_time: ''
