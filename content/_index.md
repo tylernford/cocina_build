@@ -20,6 +20,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: We will be closed Christmas Day
+    event_date: Friday, December 25th
+    event_time: ''
+    event_description: ''
+    event_links: []
+    photo_link:
+      photo_link_photo: "/uploads/2020/12/23/merry-christmas-2020.jpg"
+      photo_link_text: Christmas Day
   - event_name: Enjoy our Holiday Package this Season!
     event_date: ''
     event_time: ''
@@ -69,16 +77,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View More Here...
       photo_link_photo: "/uploads/2020/08/06/online-ordering-poster-2020.jpg"
-  - event_name: Our Dining Room & Patio are OPEN!
-    event_date: ''
-    event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/new-cocina-214-hours-and-menu/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
   - event_name: Family Packages are Available for Takeout, Curbside Pickup and/or
       Delivery
     event_date: ''
