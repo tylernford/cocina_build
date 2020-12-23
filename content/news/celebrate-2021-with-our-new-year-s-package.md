@@ -30,8 +30,8 @@ _COME IN OR CELEBRATE WITH OUR NEW YEAR'S PACKAGE!!_
 
 **$125 For The Package** _feeds up to 6 ppl_
 
-**PLACE YOUR ORDER ONLINE AT** [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
+**CALL THE RESTAURANT TO MAKE A RESERVATION OR TO ORDER AT: 407.790.7997**
 
-**OR CALL THE RESTAURANT TO ORDER AT 407.790.7997**
+**YOU CAN ALSO PLACE AN ORDER ONLINE AT:**  [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
 
 ![](/uploads/2020/12/16/new-year-s-package-2021.jpg)
