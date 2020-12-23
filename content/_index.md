@@ -20,7 +20,17 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: We will be closed Christmas Day
+  - event_name: New Year's Package!
+    event_date: ''
+    event_time: ''
+    event_description: Enjoy our New Year's Package!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/celebrate-2021-with-our-new-year-s-package/
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2020/12/16/new-year-s-package-2021.jpg"
+  - event_name: Christmas Day Hours
     event_date: Friday, December 25th
     event_time: ''
     event_description: ''
