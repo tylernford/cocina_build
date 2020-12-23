@@ -30,11 +30,13 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/12/16/new-year-s-package-2021.jpg"
-  - event_name: Christmas Day Hours
-    event_date: Friday, December 25th
+  - event_name: Christmas Eve and Christmas Day
+    event_date: December 24th & 25th
     event_time: ''
     event_description: ''
-    event_links: []
+    event_links:
+    - event_link_text: 'Learn More '
+      event_link_url: https://cocina214.com/news/christmas-eve-and-christmas-day/
     photo_link:
       photo_link_photo: "/uploads/2020/12/23/merry-christmas-2020.jpg"
       photo_link_text: Christmas Day
