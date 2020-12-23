@@ -38,8 +38,8 @@ upcoming_events:
     - event_link_text: 'Learn More '
       event_link_url: https://cocina214.com/news/christmas-eve-and-christmas-day/
     photo_link:
-      photo_link_photo: "/uploads/2020/12/23/merry-christmas-2020.jpg"
-      photo_link_text: Christmas Hours
+      photo_link_photo: ''
+      photo_link_text: ''
   - event_name: Enjoy our Holiday Package this Season!
     event_date: ''
     event_time: ''
