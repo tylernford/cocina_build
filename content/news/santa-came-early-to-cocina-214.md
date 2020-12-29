@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-12-16T05:00:00Z
 featured_photo = "/uploads/2020/12/01/santa-came-early-promo-2020.jpg"
 photos = []
