@@ -20,6 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: New Year's Week Restaurant Hours
+    event_date: ''
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/new-year-s-week-restaurant-hours/
+    photo_link:
+      photo_link_text: View Hours
+      photo_link_photo: "/uploads/2020/12/29/happy-new-year-2021.jpg"
   - event_name: Celebrate New Year's with Cocina 214!
     event_date: ''
     event_time: ''
@@ -30,16 +40,6 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Christmas Eve and Christmas Day
-    event_date: December 24th & 25th
-    event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: 'Learn More '
-      event_link_url: https://cocina214.com/news/christmas-eve-and-christmas-day/
-    photo_link:
-      photo_link_photo: ''
-      photo_link_text: ''
   - event_name: Enjoy our Holiday Package this Season!
     event_date: ''
     event_time: ''
@@ -50,17 +50,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2020/11/17/christmas-eve-package-2020.jpg"
-  - event_name: Santa Came Early to Cocina 214!
-    event_date: ''
-    event_time: ''
-    event_description: Receive 2 Complimentary 214 Rocks Margarita Pitchers when you
-      book a Holiday Event*
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/santa-came-early-to-cocina-214/
-    photo_link:
-      photo_link_text: View Poster
-      photo_link_photo: "/uploads/2020/12/01/santa-came-early-promo-2020.jpg"
   - event_name: Let Cocina 214 Host or Cater your Holiday Party!
     event_date: ''
     event_time: ''
