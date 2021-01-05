@@ -30,7 +30,7 @@ upcoming_events:
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Happy Hour
+  - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
     event_description: Drink & Food Specials during Happy Hour

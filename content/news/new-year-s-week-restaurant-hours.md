@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-12-29T19:14:17Z
 featured_photo = "/uploads/2020/12/29/happy-new-year-2021.jpg"
 photos = []
