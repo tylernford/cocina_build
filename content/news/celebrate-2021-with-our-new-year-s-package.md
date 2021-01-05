@@ -4,15 +4,13 @@ category = "current"
 date = 2020-12-16T05:06:30Z
 featured_photo = "/uploads/2020/12/16/new-year-s-package-2021.jpg"
 photos = []
-title = "Celebrate 2021 with Cocina 214!"
+title = "Celebrate 2021 with our Cocina 214 New Year's Package!"
 video_key = ""
 
 +++
 **HAPPY 2021!**
 
-**COCINA 214 will be OPEN on NEW YEAR'S DAY, January 1, 2021 from 4:00 PM - 10:00 PM!!**
-
-_COME IN OR CELEBRATE WITH OUR NEW YEAR'S PACKAGE!!_
+Celebrate 2021 with our New Year's Package! The Package feeds up to 6 people and is $125.
 
 **1 Bottle of Wycliffe Brut**
 
@@ -28,10 +26,6 @@ _COME IN OR CELEBRATE WITH OUR NEW YEAR'S PACKAGE!!_
 
 **1/2 Pan Of Chicken Fajitas:** Served With Side Of Guacamole, Sour Cream, Pico De Gallo, Rice, Beans & Tortillas
 
-**$125 For The Package** _feeds up to 6 ppl_
-
-**CALL THE RESTAURANT TO MAKE A RESERVATION OR TO ORDER AT: 407.790.7997**
-
-**YOU CAN ALSO PLACE AN ORDER ONLINE AT:**  [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/")
+**You can place an Order Online at:**  [https://cocina214.com/shop/](https://cocina214.com/shop/ "https://cocina214.com/shop/") or you can **call the Restaurant to order at: 407.790.7997**
 
 ![](/uploads/2020/12/16/new-year-s-package-2021.jpg)
