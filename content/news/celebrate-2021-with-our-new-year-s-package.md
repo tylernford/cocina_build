@@ -1,7 +1,7 @@
 +++
 additional_info = ""
 category = "current"
-date = 2020-12-16T05:06:30Z
+date = 2021-01-01T05:06:30Z
 featured_photo = "/uploads/2020/12/16/new-year-s-package-2021.jpg"
 photos = []
 title = "Celebrate 2021 with our Cocina 214 New Year's Package!"
