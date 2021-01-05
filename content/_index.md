@@ -20,7 +20,7 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Enjoy 2021 with our New Year's Package!
+  - event_name: Enjoy 2021 with Cocina 214's New Year's Package!
     event_date: ''
     event_time: ''
     event_description: Enjoy 2021 with our New Year's Package!
