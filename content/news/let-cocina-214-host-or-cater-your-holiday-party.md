@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-11-10T18:48:56Z
 featured_photo = "/uploads/2020/11/10/holiday-party-flyer-2020.jpg"
 photos = []

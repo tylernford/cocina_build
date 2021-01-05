@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-12-15T19:21:39Z
 featured_photo = "/uploads/2020/11/17/christmas-eve-package-2020.jpg"
 photos = []

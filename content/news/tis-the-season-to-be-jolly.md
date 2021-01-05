@@ -1,6 +1,6 @@
 +++
 additional_info = "Deal Ends December 31, 2020"
-category = "current"
+category = "past-events"
 date = 2020-11-30T21:00:23Z
 featured_photo = "/uploads/2019/11/05/tis-the-season-to-be-jolly_Cocina-214_2019.jpg"
 photos = []
