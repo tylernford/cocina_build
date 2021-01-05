@@ -20,46 +20,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: New Year's Week Restaurant Hours
+  - event_name: Enjoy 2021 with our New Year's Package!
     event_date: ''
     event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/new-year-s-week-restaurant-hours/
-    photo_link:
-      photo_link_text: View Hours
-      photo_link_photo: "/uploads/2020/12/29/happy-new-year-2021.jpg"
-  - event_name: Celebrate New Year's with Cocina 214!
-    event_date: ''
-    event_time: ''
-    event_description: Come in or Order our New Year's Package!
+    event_description: Enjoy 2021 with our New Year's Package!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/celebrate-2021-with-our-new-year-s-package/
     photo_link:
       photo_link_text: ''
       photo_link_photo: ''
-  - event_name: Enjoy our Holiday Package this Season!
-    event_date: ''
-    event_time: ''
-    event_description: Feeds up to 6 people
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cocina-214-s-holiday-package/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2020/11/17/christmas-eve-package-2020.jpg"
-  - event_name: Let Cocina 214 Host or Cater your Holiday Party!
-    event_date: ''
-    event_time: ''
-    event_description: ''
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/let-cocina-214-host-or-cater-your-holiday-party/
-    photo_link:
-      photo_link_text: 'View Details '
-      photo_link_photo: "/uploads/2020/11/10/holiday-party-flyer-2020.jpg"
   - event_name: Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
