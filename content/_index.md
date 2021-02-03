@@ -30,6 +30,14 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2021/02/01/superbowl2021.jpg"
+  - event_name: Valentine's Day Package for 2
+    event_date: ''
+    event_time: ''
+    event_description: Enjoy our Valentine's Day Package!
+    event_links: []
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2021/02/03/valentine-s-package-2021.jpg"
   - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
