@@ -20,16 +20,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Order The Cocina 214 Super Bowl Fiesta for the Big Game!
-    event_date: ''
-    event_time: ''
-    event_description: Super Bowl is Sunday, February 7th at 6:30 pm
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/order-the-cocina-214-super-bowl-fiesta-for-the-big-game/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2021/02/01/superbowl2021.jpg"
   - event_name: Valentine's Day Package for 2
     event_date: ''
     event_time: ''

@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2021-02-01T17:23:02Z
 featured_photo = "/uploads/2021/02/01/superbowl2021.jpg"
 photos = []
