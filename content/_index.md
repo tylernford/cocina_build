@@ -30,6 +30,16 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2021/02/03/valentine-s-package-2021.jpg"
+  - event_name: National Margarita Day!
+    event_date: Monday, February 22nd
+    event_time: All Day!
+    event_description: Come Enjoy Special Margarita Flights!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-our-special-margarita-flights-for-national-margarita-day-on-monday-february-22nd/
+    photo_link:
+      photo_link_text: View Poster
+      photo_link_photo: "/uploads/2021/02/08/national-margarita-day-poster-2021.jpg"
   - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
