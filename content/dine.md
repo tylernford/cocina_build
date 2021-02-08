@@ -16,7 +16,7 @@ dine_with_us:
   - menu_name: Happy Hour Menu
     menu: "/uploads/2020/08/20/happy-hour-2020.jpg"
   - menu_name: 'Dine-In and Takeout '
-    menu: "/uploads/2020/09/16/cocina-214-menu-sept-2020_legal-size_final.pdf"
+    menu: "/uploads/2021/02/08/cocina-214-menu-sept-2020_legal-size_final.pdf"
   - menu_name: Family Packages for Takeout, Curbside Pickup and/or Delivery
     menu: "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
   - menu_name: Kids’
