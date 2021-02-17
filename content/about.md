@@ -31,7 +31,7 @@ winter_park_staff:
 - photo: "/uploads/2017/12/07/Dasha8.jpg"
   first_name: Dasha
   last_name: ''
-  title: Manager
+  title: Bar Manager
 - photo: "/uploads/2017/12/07/Liz5.jpg"
   first_name: Elizabeth
   last_name: ''
