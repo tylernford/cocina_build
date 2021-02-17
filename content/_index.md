@@ -5,11 +5,10 @@ date: '2017-10-12T00:00:00.000+00:00'
 forestry_title: Home
 private_dining:
   text: With a stylish and approachable family-friendly environment, Cocina 214 is
-    a vibrant spot perfect for any special occasion. We have fully private dining
-    rooms in both locations perfect for any special event! From rehearsal dinners
-    to birthdays to corporate meetings our private dining rooms are the perfect space.
-    We also offer special menu packages with the space and print menus exclusively
-    for your event!
+    a vibrant spot perfect for any special occasion. Our Private Dining Room, Bar
+    and Patio are perfect venues for a variety of events.From rehearsal dinners to
+    birthdays to corporate meetings, our venues are the perfect space. We also offer
+    special menu packages with the space and print menus exclusively for your event!
   photo: "/uploads/2017/12/01/Carne_Asada_2017_2.jpg"
 catering:
   text: |-
