@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2021-02-03T20:46:12Z
 featured_photo = "/uploads/2021/02/03/valentine-s-package-2021.jpg"
 photos = []
