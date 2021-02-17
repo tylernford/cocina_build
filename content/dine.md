@@ -60,7 +60,7 @@ private_dining:
     party! She can be reached via email at: party@cocina214.com"
   photo: "/uploads/2017/12/09/CocinaAgedNyStrip_PresidentePackage_topview_optimized.jpg"
   menus:
-  - menu: "/uploads/2020/09/16/privatedining_wp-september-2020.pdf"
+  - menu: "/uploads/2021/02/17/privatedining_wp-february-2021.pdf"
     link_text: View Private Dining Menu
   menu: ''
 events:
