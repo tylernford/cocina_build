@@ -19,6 +19,17 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Enjoy our New Margarita Flights!
+    event_date: ''
+    event_time: ''
+    event_description: We just launched our House & Premium Margarita Flights, so
+      come try them!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-our-new-margarita-flights/
+    photo_link:
+      photo_link_text: View the Margarita Flights
+      photo_link_photo: "/uploads/2021/02/26/margarita-flights-poster-2021.jpg"
   - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
