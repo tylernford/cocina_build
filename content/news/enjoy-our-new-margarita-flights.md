@@ -8,11 +8,11 @@ title = "Enjoy our New Margarita Flights!"
 video_key = ""
 
 +++
-Come enjoy our New Margarita Flights!
+**Come enjoy our New Margarita Flights!**
 
-**Enjoy our House Flight of 3 Margaritas for $15:** 214 Rocks, El Diablo, & 214 Frozen
+**_Enjoy our House Flight of 3 Margaritas for $15:_** 214 Rocks, El Diablo, & 214 Frozen
 
-**Enjoy our Premium Flight of 3 Margaritas for $32:** Blue Agave, El Diablo, & Orange Blossom
+**_Enjoy our Premium Flight of 3 Margaritas for $32:_** Blue Agave, El Diablo, & Orange Blossom
 
 Instead of having just 1 Margarita, have 3! Good things come in 3s!!!!
 
