@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2020-05-13T17:34:55Z
 featured_photo = ""
 photos = []
