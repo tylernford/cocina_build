@@ -19,7 +19,7 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Cocina 214 Easter Menu
+  - event_name: Cocina 214's Easter Menu
     event_date: ''
     event_time: ''
     event_description: Special Easter Package Available through Easter Sunday, April
