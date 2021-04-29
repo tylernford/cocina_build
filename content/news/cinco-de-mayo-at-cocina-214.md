@@ -18,15 +18,15 @@ Call 407.790.7997 FOR Takeout ORDERS.
 
 We will have Food and Drink Specials all day long, as well as giveaways, while supplies last.
 
-**_Dine-In Drink Specials - All Day Long_!__*
+\*_Dine-In Drink Specials - All Day Long_!
 
 * **$5** 214 Rocks Margarita with Sauza **| $5** Sangria **|** **$3** Corona **|**
 
-**_Takeout Drink Specials - All Day Long_!__*
+\*_Takeout Drink Specials - All Day Long_!
 
 * **$20** Quart or **$70** Gallon Jug of 214 Rocks Margarita or Sangria
 
-**_Dine-In Food Specials - All Day Long_!__*
+\*_Dine-In Food Specials - All Day Long_!
 
 * **$5 2 Ground Beef Tacos** with Coastal Slaw, Jalapeños, Bell Peppers, & Citrus Dressing
 
