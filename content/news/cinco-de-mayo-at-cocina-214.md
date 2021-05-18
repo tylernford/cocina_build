@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2021-04-29T15:43:48Z
 featured_photo = "/uploads/2021/04/29/cincodemayoposter-2021.jpg"
 photos = []
