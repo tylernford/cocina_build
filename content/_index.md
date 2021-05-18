@@ -20,8 +20,8 @@ upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
   - event_name: Father's Day Package
-    event_date: ''
-    event_time: ''
+    event_date: Father's Day is Sunday, June 20th
+    event_time: Order by June 18th
     event_description: 'A Special Father''s Day Package for Takeout '
     event_links:
     - event_link_text: Learn More
