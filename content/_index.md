@@ -19,16 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Come Celebrate Cinco de Mayo with us!
-    event_date: Wednesday, May 5th
-    event_time: All DAY LONG!
-    event_description: Cinco de Mayo and our 10-Year Anniversary!
+  - event_name: Father's Day Package
+    event_date: ''
+    event_time: ''
+    event_description: 'A Special Father''s Day Package for Takeout '
     event_links:
-    - event_link_text: 'Learn More '
-      event_link_url: https://cocina214.com/news/cinco-de-mayo-at-cocina-214/
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/father-s-day-package-1/
     photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2021/04/29/cincodemayoposter-2021.jpg"
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2021/05/18/father-s-day-menu-2021.jpg"
   - event_name: Enjoy our New Margarita Flights!
     event_date: ''
     event_time: ''
