@@ -7,15 +7,11 @@ featured_staff:
   first_name: Lambrine
   last_name: ''
   title: Business Manager, Partner & Co-Founder
-- photo: "/uploads/2017/12/07/Oscar2small.jpg"
-  first_name: 'Oscar '
-  last_name: ''
-  title: General Manager
 winter_park_staff:
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
   last_name: ''
-  title: Sous Chef
+  title: Kitchen Manager
 - photo: "/uploads/2017/12/07/Miguel2small.jpg"
   first_name: Miguel
   last_name: ''
@@ -23,7 +19,7 @@ winter_park_staff:
 - photo: "/uploads/2017/12/07/Humberto1.jpg"
   first_name: Humberto
   last_name: ''
-  title: Sous Chef
+  title: Manager
 - photo: "/uploads/2017/12/07/eugenia1small.jpg"
   first_name: Eugenia
   last_name: ''
