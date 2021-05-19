@@ -20,7 +20,7 @@ upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
   - event_name: Father's Day Package
-    event_date: ''
+    event_date: June 20th
     event_time: ''
     event_description: 'A Special Father''s Day Package for Takeout '
     event_links:
