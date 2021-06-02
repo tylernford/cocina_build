@@ -16,19 +16,19 @@ winter_park_staff:
   first_name: Miguel
   last_name: ''
   title: Sous Chef
-- photo: "/uploads/2017/12/07/Humberto1.jpg"
+- photo: "/uploads/2021/06/02/humberto1_new.jpg"
   first_name: Humberto
   last_name: ''
   title: Manager
-- photo: "/uploads/2017/12/07/eugenia1small.jpg"
+- photo: "/uploads/2021/06/02/eugenia1small_new.jpg"
   first_name: Eugenia
   last_name: ''
   title: Manager
-- photo: "/uploads/2017/12/07/Dasha8.jpg"
+- photo: "/uploads/2021/06/02/dasha8_new.jpg"
   first_name: Dasha
   last_name: ''
   title: Bar Manager
-- photo: "/uploads/2017/12/07/Liz5.jpg"
+- photo: "/uploads/2021/06/02/liz5_new.jpg"
   first_name: Elizabeth
   last_name: ''
   title: Manager
