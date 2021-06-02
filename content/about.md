@@ -39,27 +39,27 @@ winter_park_staff:
 daytona_beach_staff:
   show_staff: false
   staff:
-  - photo: "/uploads/2017/12/07/Heather10small.jpg"
+  - photo: ''
     first_name: Heather
     last_name: Cox
     title: General Manager
-  - photo: "/uploads/2017/12/07/MariaV11small.jpg"
+  - photo: ''
     first_name: 'Maria '
     last_name: 'Varon '
     title: Manager
-  - photo: "/uploads/2017/12/07/Liz5small.jpg"
+  - photo: ''
     first_name: 'Elizabeth '
     last_name: Mireles
     title: Manager
   - first_name: Dasha
     last_name: 'Ottich '
     title: Manager
-    photo: "/uploads/2017/12/07/Dasha8small.jpg"
-  - photo: "/uploads/2017/12/07/Humberto1small.jpg"
+    photo: ''
+  - photo: ''
     first_name: Humberto
     last_name: Castillo
     title: Sous Chef
-  - photo: "/uploads/2018/05/16/Kristina.jpg"
+  - photo: ''
     first_name: Kristina
     last_name: Fuertes
     title: Events & Catering Manager
