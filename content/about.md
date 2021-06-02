@@ -2,11 +2,7 @@
 title: About
 type: static
 layout: about
-featured_staff:
-- photo: "/uploads/2017/12/08/Lambrine1_optimized.jpg"
-  first_name: Lambrine
-  last_name: ''
-  title: Business Manager, Partner & Co-Founder
+featured_staff: []
 winter_park_staff:
 - photo: "/uploads/2017/12/07/Maria6small.jpg"
   first_name: Maria
