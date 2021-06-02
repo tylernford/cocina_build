@@ -8,11 +8,11 @@ featured_staff:
   last_name: ''
   title: Business Manager, Partner & Co-Founder
 winter_park_staff:
-- photo: "/uploads/2017/12/07/Maria6small.jpg"
+- photo: "/uploads/2021/06/02/maria6small_new.jpg"
   first_name: Maria
   last_name: ''
   title: Kitchen Manager
-- photo: "/uploads/2017/12/07/Miguel2small.jpg"
+- photo: "/uploads/2021/06/02/miguel2small_new.jpg"
   first_name: Miguel
   last_name: ''
   title: Sous Chef
