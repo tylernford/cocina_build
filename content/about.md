@@ -2,7 +2,15 @@
 title: About
 type: static
 layout: about
-featured_staff: []
+featured_staff:
+- photo: "/uploads/2021/06/02/lambrine1_optimized_new.jpg"
+  first_name: Lambrine
+  last_name: ''
+  title: Business Manager, Partner & Co-Founder
+- photo: "/uploads/2021/06/02/oscar2small_new.jpg"
+  first_name: Oscar
+  last_name: ''
+  title: General Manager
 winter_park_staff:
 - photo: "/uploads/2021/06/02/maria6small_new.jpg"
   first_name: Maria
