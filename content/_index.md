@@ -19,16 +19,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Father's Day Package
-    event_date: ''
-    event_time: ''
-    event_description: Order the Father's Day Package for Takeout!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/father-s-day-package-1/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2021/05/18/father-s-day-menu-2021.jpg"
   - event_name: Enjoy our New Margarita Flights!
     event_date: ''
     event_time: ''
@@ -65,7 +55,7 @@ upcoming_events:
     event_description: Enjoy our Family Packages for Takeout
     event_links: []
     photo_link:
-      photo_link_photo: "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
+      photo_link_photo: "/uploads/2021/06/21/family-packages-menu-2021.jpg"
       photo_link_text: View Menu
 hero_photos:
 - "/uploads/2017/12/08/MX-corn_white_background_optimized_web.jpg"
