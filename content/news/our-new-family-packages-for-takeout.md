@@ -2,7 +2,7 @@
 additional_info = ""
 category = "current"
 date = 2020-08-11T15:31:06Z
-featured_photo = "/uploads/2020/08/11/family-packages-menu-august-2020.jpg"
+featured_photo = "/uploads/2021/06/21/family-packages-menu-2021.jpg"
 photos = []
 title = "Family Packages for Curbside Pick-up, Takeout and/or Delivery!!"
 video_key = ""
@@ -28,6 +28,6 @@ _House Chips & Salsa, Meat Tacos (Ground Beef, or Chicken), Corn or Flour Tortil
 
 _Veggie Tacos ( Zucchini, corn, jalapeños, black beans & mushrooms with verde sauce), Corn or Flour Tortillas, & 4 Toppings: Pico de Gallo, Shredded Cheese, Coastal Slaw, & Sour Cream._
 
-**_Adulting?_** _Add a Quart of 214 Rocks Margaritas or Sangria for only $20 or add a Gallon Jug for just $70._
+**_Adulting?_** _Add a Quart of 214 Rocks Margaritas or Sangria for only $25 or add a Gallon Jug for just $75._
 
-![](/uploads/2020/08/11/family-packages-menu-august-2020.jpg)
+![](/uploads/2021/06/21/family-packages-menu-2021.jpg)
