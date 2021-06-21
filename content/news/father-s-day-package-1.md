@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2021-05-18T17:20:19Z
 featured_photo = "/uploads/2021/05/18/father-s-day-menu-2021.jpg"
 photos = []
