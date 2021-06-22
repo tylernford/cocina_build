@@ -19,6 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Orlando Magazine Dining Awards
+    event_date: Now - July 23rd
+    event_time: Vote Once Per Day
+    event_description: Vote Now!
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/consider-voting-for-cocina-214/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Enjoy our New Margarita Flights!
     event_date: ''
     event_time: ''
