@@ -17,7 +17,7 @@ Please consider voting for Cocina 214 in the following categories:
 * **Best Place for Cocktails** (El Diablo Margarita, 214 Rocks and Frozen Margaritas, & Margarita Flights!)
 * **Best Happy Hour** (Food & Drink Specials Mon-Fri 4:00 pm - 6:30 pm)
 
-TO BE CONSIDERED VALID, BALLOTS MUST HAVE VOTES IN AT LEAST 6 CATEGORIES, with no restaurant nominated repeatedly in more than 4 categories.
+TO BE CONSIDERED VALID, BALLOTS MUST HAVE VOTES IN AT LEAST 6 CATEGORIES, with no restaurant nominated repeatedly in more than 4 categories. Make sure and vote for all your favorites!
 
 Only one ballot per email address per day will be counted.
 
