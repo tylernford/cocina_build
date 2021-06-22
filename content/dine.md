@@ -22,15 +22,15 @@ dine_with_us:
   - menu_name: Happy Hour Menu
     menu: "/uploads/2021/06/22/happy-hour-2021.pdf"
   - menu_name: Cocktail
-    menu: "/uploads/2021/02/19/drinks-february-2021.pdf"
+    menu: "/uploads/2021/06/22/drinks-june-2021.pdf"
   - menu_name: After Dinner Drink and Dessert
-    menu: "/uploads/2021/02/19/afterdinner_feb-2021.pdf"
+    menu: "/uploads/2021/06/22/afterdinner_june-2021.pdf"
   featured:
     name: Happy Hour
     hours: '4:00 pm – 6:30 pm '
     when: Monday – Friday
     menu_name: Happy Hour
-    menu: "/uploads/2019/12/05/HappyHour_5x7_April 2019.pdf"
+    menu: "/uploads/2021/06/22/happy-hour-2021.pdf"
   reservations:
     text: Call to make a reservation today!
     phone: 'Winter Park 407. 790. 7997 '
