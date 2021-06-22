@@ -14,13 +14,13 @@ dine_with_us:
     and “Best Family Place”.   So whatever the occasion you’re sure to enjoy.'
   menus:
   - menu_name: Dine-In and Takeout
-    menu: "/uploads/2021/02/19/cocina-214-menu-feb-2021.pdf"
+    menu: "/uploads/2021/06/22/cocina-214-menu-june-2021.pdf"
   - menu_name: Family Packages for Takeout, Curbside Pickup and/or Delivery
     menu: "/uploads/2021/06/21/family-packages-menu-2021.jpg"
   - menu_name: Kids’
     menu: "/uploads/2018/08/31/Kids_Menu_Cocina Aug 2018.pdf"
   - menu_name: Happy Hour Menu
-    menu: "/uploads/2020/08/20/happy-hour-2020.jpg"
+    menu: "/uploads/2021/06/22/happy-hour-2021.pdf"
   - menu_name: Cocktail
     menu: "/uploads/2021/02/19/drinks-february-2021.pdf"
   - menu_name: After Dinner Drink and Dessert
