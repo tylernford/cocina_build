@@ -21,8 +21,8 @@ dine_with_us:
     menu: "/uploads/2018/08/31/Kids_Menu_Cocina Aug 2018.pdf"
   - menu_name: Happy Hour Menu
     menu: "/uploads/2021/06/22/happy-hour-2021.pdf"
-  - menu_name: Cocktail
-    menu: "/uploads/2021/06/22/drinks-june-2021.pdf"
+  - menu_name: Drink/Cocktail Menu
+    menu: "/uploads/2021/06/25/drinks-june-2021.pdf"
   - menu_name: After Dinner Drink and Dessert
     menu: "/uploads/2021/06/22/afterdinner_june-2021.pdf"
   featured:
