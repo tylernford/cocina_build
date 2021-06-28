@@ -8,7 +8,7 @@ title = "Consider Voting for Cocina 214!"
 video_key = ""
 
 +++
-**Orlando Magazine's Dining Awards are Open!** 
+**Orlando Magazine's Dining Awards are Open!**
 
 Please consider voting for Cocina 214 in the following categories:
 
@@ -22,5 +22,7 @@ TO BE CONSIDERED VALID, BALLOTS MUST HAVE VOTES IN AT LEAST 6 CATEGORIES, with n
 Only one ballot per email address per day will be counted.
 
 Voting ends July 23rd.
+
+[https://www.orlandomagazine.com/orlando-magazine-2021-dining-awards-ballot/](https://www.orlandomagazine.com/orlando-magazine-2021-dining-awards-ballot/ "https://www.orlandomagazine.com/orlando-magazine-2021-dining-awards-ballot/")
 
 ![](/uploads/2021/06/22/vote-for-orlando-dining-awards-2021.jpg)
