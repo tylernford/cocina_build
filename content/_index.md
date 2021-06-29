@@ -19,6 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: National Tequila Day
+    event_date: Saturday, July 24th
+    event_time: All Day Long
+    event_description: "$5 214 Rocks Margaritas!"
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/national-tequila-day/
+    photo_link:
+      photo_link_text: View Event Poster
+      photo_link_photo: "/uploads/2021/06/29/national-tequila-day_july-2021.jpg"
   - event_name: Orlando Magazine Dining Awards
     event_date: Now - July 23rd
     event_time: Vote Once Per Day
