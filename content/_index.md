@@ -19,26 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Tequila Day
-    event_date: Saturday, July 24th
-    event_time: All Day Long
-    event_description: "$5 214 Rocks Margaritas!"
+  - event_name: Cocina 214's Back to School Package!
+    event_date: ''
+    event_time: ''
+    event_description: ''
     event_links:
     - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/national-tequila-day/
+      event_link_url: https://cocina214.com/news/cocina-214-s-back-to-school-package/
     photo_link:
-      photo_link_text: View Event Poster
-      photo_link_photo: "/uploads/2021/06/29/national-tequila-day_july-2021.jpg"
-  - event_name: Orlando Magazine Dining Awards
-    event_date: Now - July 23rd
-    event_time: Vote Once Per Day
-    event_description: Vote Now!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/consider-voting-for-cocina-214/
-    photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2021/08/03/back-to-school_2021.jpg"
   - event_name: Enjoy our New Margarita Flights!
     event_date: ''
     event_time: ''
