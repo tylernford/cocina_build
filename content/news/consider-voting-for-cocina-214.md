@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "past-events"
 date = 2021-06-22T21:30:19Z
 featured_photo = "/uploads/2021/06/22/vote-for-orlando-dining-awards-2021.jpg"
 photos = []

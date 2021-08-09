@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "upcoming"
+category = "past-events"
 date = 2021-06-29T17:14:22Z
 featured_photo = "/uploads/2021/06/29/national-tequila-day_july-2021.jpg"
 photos = []
