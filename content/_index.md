@@ -22,17 +22,18 @@ upcoming_events:
   - event_name: Teacher Tuesday @ Cocina 214!
     event_date: Every Tuesday
     event_time: ''
-    event_description: ''
+    event_description: Teachers Receive a Complimentary 214 Margarita with the purchase
+      of an Entree!
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/teacher-tuesday-at-cocina-214/
     photo_link:
-      photo_link_text: ''
-      photo_link_photo: ''
+      photo_link_text: View Poster
+      photo_link_photo: "/uploads/2021/08/09/best-teacher-margarita-special-2021.jpg"
   - event_name: Cocina 214's Back to School Package!
     event_date: ''
     event_time: ''
-    event_description: ''
+    event_description: Enjoy our Back to School Package that feeds up to 6 ppl.
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/cocina-214-s-back-to-school-package/
