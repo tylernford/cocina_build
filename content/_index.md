@@ -19,6 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Teacher Tuesday @ Cocina 214!
+    event_date: Every Tuesday
+    event_time: ''
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/teacher-tuesday-at-cocina-214/
+    photo_link:
+      photo_link_text: ''
+      photo_link_photo: ''
   - event_name: Cocina 214's Back to School Package!
     event_date: ''
     event_time: ''
