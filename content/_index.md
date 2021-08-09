@@ -23,7 +23,9 @@ upcoming_events:
     event_date: Every Thursday
     event_time: ''
     event_description: Frontline and Healthcare Workers Receive 10% off of Food Purchases.
-    event_links: []
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/thankful-thursdays-at-cocina-214/
     photo_link:
       photo_link_text: View Poster
       photo_link_photo: "/uploads/2021/08/09/thankful-thursday-frontline-healthcare-special-2021.jpg"
