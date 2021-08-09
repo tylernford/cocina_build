@@ -19,6 +19,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Thankful Thursday @ Cocina 214
+    event_date: Every Thursday
+    event_time: ''
+    event_description: Frontline and Healthcare Workers Receive 10% off of Food Purchases.
+    event_links: []
+    photo_link:
+      photo_link_text: View Poster
+      photo_link_photo: "/uploads/2021/08/09/thankful-thursday-frontline-healthcare-special-2021.jpg"
   - event_name: Teacher Tuesday @ Cocina 214!
     event_date: Every Tuesday
     event_time: ''
