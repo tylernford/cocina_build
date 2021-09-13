@@ -19,6 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: National Guacamole Day at Cocina 214
+    event_date: Thursday, September 16th
+    event_time: ''
+    event_description: "$5 Guacamole on National Guacamole Day"
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/celebrate-national-guacamole-day-at-cocina-214-2/
+    photo_link:
+      photo_link_text: View Poster
+      photo_link_photo: "/uploads/2021/09/13/guacamole-day_2021.jpg"
   - event_name: Thankful Thursdays @ Cocina 214
     event_date: Every Thursday
     event_time: ''
@@ -40,27 +50,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Poster
       photo_link_photo: "/uploads/2021/08/09/best-teacher-margarita-special-2021.jpg"
-  - event_name: Cocina 214's Back to School Package!
-    event_date: ''
-    event_time: ''
-    event_description: Enjoy our Back to School Package that feeds up to 6 ppl.
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/cocina-214-s-back-to-school-package/
-    photo_link:
-      photo_link_text: View Menu
-      photo_link_photo: "/uploads/2021/08/03/back-to-school_2021.jpg"
-  - event_name: Enjoy our New Margarita Flights!
-    event_date: ''
-    event_time: ''
-    event_description: We just launched our House & Premium Margarita Flights, so
-      come try them!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/enjoy-our-new-margarita-flights/
-    photo_link:
-      photo_link_text: View the Margarita Flights
-      photo_link_photo: "/uploads/2021/02/26/margarita-flights-poster-2021.jpg"
   - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
