@@ -19,16 +19,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: National Guacamole Day at Cocina 214
-    event_date: Thursday, September 16th
-    event_time: ''
-    event_description: "$5 Guacamole on National Guacamole Day"
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/celebrate-national-guacamole-day-at-cocina-214-2/
-    photo_link:
-      photo_link_text: View Poster
-      photo_link_photo: "/uploads/2021/09/13/guacamole-day_2021.jpg"
   - event_name: Thankful Thursdays @ Cocina 214
     event_date: Every Thursday
     event_time: ''
