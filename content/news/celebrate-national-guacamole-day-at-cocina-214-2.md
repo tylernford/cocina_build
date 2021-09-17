@@ -1,6 +1,6 @@
 +++
 additional_info = "Thursday, September 16th"
-category = "current"
+category = "past-events"
 date = 2021-09-13T20:17:57Z
 featured_photo = "/uploads/2021/09/13/guacamole-day_2021.jpg"
 photos = []
