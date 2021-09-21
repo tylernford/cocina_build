@@ -50,4 +50,3 @@ content_section_4: |-
 section_4_image: "/uploads/2019/02/21/Tres-Leches-Close-Up_web.jpg"
 
 ---
-[club214_infocard_2021.pdf](/uploads/2021/09/21/club214_infocard_2021.pdf "club214_infocard_2021.pdf")
