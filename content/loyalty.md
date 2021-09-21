@@ -22,14 +22,14 @@ content_section_2: |-
 section_2_image: "/uploads/2017/11/21/frozen_margarita_outside_closeup_w_limes.jpg"
 content_section_3_title: Club 214 Rewards
 content_section_3: |-
-  *   Earn $10 Gift when you reach your first 1000 points
-  *   Receive 1 FREE Cocina Trio when you accumulate 2500 points
-  *   Earn a Cocina 214 T-Shirt when you accumulate 5000 points
-  *   Earn a $25 Gift Card when you accumulate 7500 points
+  *   Earn $10 off when you reach your first 1,000 points
+  *   Receive 1 FREE Cocina Trio when you accumulate 2,500 points
+  *   Earn a Cocina 214 T-Shirt when you accumulate 5,000 points
+  *   Earn a $25 off when you accumulate 7,500 points
   *   Earn a bottle of Patron Blanco when you accumulate 10,000 points
-  *   Earn a $50 Gift Card when you accumulate 15,000 points
-  *   Earn a bottle of Don Julio 1942 when you accumulate 20,000 points
-  *   Earn a bottle of Clase Azul Reposado when you accumulate 25,000 points
+  *   Earn a $50 off when you accumulate 15,000 points
+  *   Earn a bottle of Don Julio 1942 (or equivalent) when you accumulate 20,000 points
+  *   Earn a bottle of Clase Azul Reposado (or equivalent) when you accumulate 25,000 points
   *   Earn a 10-person Tequila Tasting experience when you accumulate 50,000 points
 section_3_image: "/uploads/2019/02/21/214Rocks-and-Frozen-with-tree_tall.jpg"
 content_section_4_title: Additional Member-Only Perks Throughout the Year
