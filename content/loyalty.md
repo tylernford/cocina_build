@@ -18,7 +18,7 @@ content_section_2: |-
   *   Skinny Sunday: BOGO Skinny Margarita, with the purchase of an entrée (limit 1 per person, per visit)
   *   Margarita Monday: 1 Free 214 Rocks or Frozen Margarita, with the purchase of an entrée (limit 1 per person, per visit & offer not valid with other offers)
   *   Birthday Love: Receive 1 free Tres Leches on your birthday (must enter bday on sign up)
-  *   Cash in on Catering: $25 Gift Card for each Catering Order over $500.
+  *   Cash in on Catering: $25 Gift Card for each Catering Order over $500
 section_2_image: "/uploads/2017/11/21/frozen_margarita_outside_closeup_w_limes.jpg"
 content_section_3_title: Club 214 Rewards
 content_section_3: |-
