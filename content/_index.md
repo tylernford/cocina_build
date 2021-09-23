@@ -22,7 +22,7 @@ upcoming_events:
   - event_name: National Drink Beer Day at Cocina 214
     event_date: Tuesday, September 28th
     event_time: All Day Long!
-    event_description: ''
+    event_description: "$5 Draft Beer on National Drink Beer Day"
     event_links:
     - event_link_text: Learn More
       event_link_url: https://cocina214.com/news/enjoy-national-drink-beer-day-at-cocina-214/
