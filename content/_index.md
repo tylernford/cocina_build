@@ -19,6 +19,16 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: National Drink Beer Day at Cocina 214
+    event_date: Tuesday, September 28th
+    event_time: All Day Long!
+    event_description: ''
+    event_links:
+    - event_link_text: Learn More
+      event_link_url: https://cocina214.com/news/enjoy-national-drink-beer-day-at-cocina-214/
+    photo_link:
+      photo_link_text: View Menu
+      photo_link_photo: "/uploads/2021/09/23/national-drink-beer-day_2021.jpg"
   - event_name: Thankful Thursdays @ Cocina 214
     event_date: Every Thursday
     event_time: ''
