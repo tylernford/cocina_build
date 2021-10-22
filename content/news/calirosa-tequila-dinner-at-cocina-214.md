@@ -15,7 +15,7 @@ _Hosted by Roberto Murillo from Calirosa Tequila_
 Enjoy an evening learning about Calirosa Tequila and making your own Top Shelf Margarita. Dinner and drinks will be paired and swag will be given to each guest. Space is limited, so reserve your spot now.
 
 **Appetizers for Sharing**  
-Chips & Salsa | Cocina Trio | Avocado Bites   
+Chips & Salsa | Cocina Trio | Avocado Bites  
 _Paired with a “mini” Orange Blossom Calirosa Margarita  
 Made with Calirosa Blanco_
 
@@ -26,8 +26,9 @@ Made with Calirosa Blanco_
 
 **Desserts for Sharing**  
 Mini Venezuelan Dark Chocolate Brownies & Churros  
-_Paired with The Beso  
-Made with Calirosa A_ñ_ejo_
+_Paired with The Beso_
+
+_Made with Calirosa Anejo_
 
 $75 per person ++
 
