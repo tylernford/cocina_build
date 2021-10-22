@@ -25,7 +25,8 @@ _Paired with a Make-Your-Own Calirosa Top Shelf Margarita
 Made with Calirosa Blanco_
 
 **Desserts for Sharing**  
-Mini Venezuelan Dark Chocolate Brownies & Churros  
+Mini Venezuelan Dark Chocolate Brownies & Churros
+
 _Paired with The Beso_
 
 _Made with Calirosa Anejo_
