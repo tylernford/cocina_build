@@ -25,14 +25,14 @@ _Paired with a Make-Your-Own Calirosa Top Shelf Margarita
 Made with Calirosa Blanco_
 
 **Desserts for Sharing**  
-Mini Venezuelan Dark Chocolate Brownies & Churros
-
-_Paired with The Beso_
-
-_Made with Calirosa Anejo_
+Mini Venezuelan Dark Chocolate Brownies & Churros  
+_Paired with The Beso  
+Made with Calirosa Añejo_
 
 $75 per person ++
 
 Enjoy Swag & an Evening with Calirosa Tequila.
 
-Space is Limited. Call **407-790-7997** or email **Party@cocina214.com** to Reserve Your Seat
+Space is Limited. Call **407-790-7997** or email **Party@cocina214.com** to Reserve Your Seat.
+
+**_Calirosa is produced with the highest quality ingredients in Jalisco in partnership with the Real Family and Adam Levine and Behati Prinsloo._**
