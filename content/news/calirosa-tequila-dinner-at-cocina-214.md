@@ -36,3 +36,5 @@ Enjoy Swag & an Evening with Calirosa Tequila.
 Space is Limited. Call **407-790-7997** or email **Party@cocina214.com** to Reserve Your Seat.
 
 **_Calirosa is produced with the highest quality ingredients in Jalisco in partnership with the Real Family and Adam Levine and Behati Prinsloo._**
+
+![](/uploads/2021/10/22/calirosa-tequila-dinner-flyer-final_nov-2021.jpg)![](/uploads/2021/10/27/calirosa-info.jpg)
