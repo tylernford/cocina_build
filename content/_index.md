@@ -19,6 +19,14 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
+  - event_name: Hornitos Tequila Seltzer Samples
+    event_date: Oct 29th and 30th
+    event_time: Fri 5-7pm and Sat 12-2 pm
+    event_description: While Supplies Last!
+    event_links: []
+    photo_link:
+      photo_link_text: View Hornitos Tequila Seltzers
+      photo_link_photo: "/uploads/2021/10/29/hornitos-tequila-seltzers-mango-and-pineapple-boxes-and-cans"
   - event_name: Calirosa Tequila Dinner
     event_date: 'Friday, November 12th '
     event_time: 7:00 pm
@@ -29,27 +37,6 @@ upcoming_events:
     photo_link:
       photo_link_text: View Menu
       photo_link_photo: "/uploads/2021/10/22/calirosa-tequila-dinner-flyer-final_nov-2021.jpg"
-  - event_name: Thankful Thursdays @ Cocina 214
-    event_date: Every Thursday
-    event_time: ''
-    event_description: Frontline and Healthcare Workers Receive 10% off of Food Purchases.
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/thankful-thursdays-at-cocina-214/
-    photo_link:
-      photo_link_text: View Poster
-      photo_link_photo: "/uploads/2021/08/09/thankful-thursday-frontline-healthcare-special-2021.jpg"
-  - event_name: Teacher Tuesdays @ Cocina 214!
-    event_date: Every Tuesday
-    event_time: ''
-    event_description: Teachers Receive a Complimentary 214 Margarita with the purchase
-      of an Entree!
-    event_links:
-    - event_link_text: Learn More
-      event_link_url: https://cocina214.com/news/teacher-tuesday-at-cocina-214/
-    photo_link:
-      photo_link_text: View Poster
-      photo_link_photo: "/uploads/2021/08/09/best-teacher-margarita-special-2021.jpg"
   - event_name: Join us for Happy Hour
     event_date: Monday-Friday
     event_time: 4:00-6:30 PM
