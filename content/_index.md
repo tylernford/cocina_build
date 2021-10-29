@@ -69,7 +69,6 @@ hero_photos:
 - "/uploads/2017/11/20/chicken_street_tacos_with_fire_roasted_salsa.jpg"
 - "/uploads/2017/12/01/el_diablo.jpg"
 - "/uploads/2017/12/01/steak_fajitas.jpg"
-draft: true
 
 ---
 Cocina 214 is a contemporary Mexican and Tex-Mex kitchen. We want the same authentic, fresh and quality food found in Texas to flourish in Winter Park, FL. Cocina 214’s menu combines bold flavors with the freshest local ingredients to create exceptional Tex-Mex – all served in a vibrant and elegant setting.
