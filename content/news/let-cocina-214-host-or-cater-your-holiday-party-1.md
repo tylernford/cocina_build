@@ -1,6 +1,6 @@
 +++
 additional_info = ""
-category = "current"
+category = "upcoming"
 date = 2021-10-29T16:33:50Z
 featured_photo = "/uploads/2021/10/29/holiday-flyer-2021.jpg"
 photos = []
@@ -8,7 +8,7 @@ title = "Let Cocina 214 Host or Cater your Holiday Party!"
 video_key = ""
 
 +++
-**_Celebrate the Holidays with Family, Friends, & Co-Workers!_** 
+**_Celebrate the Holidays with Family, Friends, & Co-Workers!_**
 
 Let Cocina 214 Host or Cater your Holiday Party :-)
 
