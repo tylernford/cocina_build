@@ -19,14 +19,6 @@ catering:
 upcoming_events:
   photo: "/uploads/2019/09/05/Rocks_Margarita_w_limes.jpg"
   events:
-  - event_name: Hornitos Tequila Seltzer Samples
-    event_date: Oct 29th and 30th
-    event_time: Fri 5-7pm and Sat 12-2 pm
-    event_description: While Supplies Last!
-    event_links: []
-    photo_link:
-      photo_link_text: View Hornitos Tequila Seltzers
-      photo_link_photo: "/uploads/2021/10/29/hornitos-tequila-seltzers-mango-and-pineapple-boxes-and-cans"
   - event_name: Calirosa Tequila Dinner
     event_date: 'Friday, November 12th '
     event_time: 7:00 pm
